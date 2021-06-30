@@ -1,0 +1,42 @@
+:
+Tablet computers such as the iPad come with standard technological affordances that other computers
+such as laptops and desktops do not have as a default, such as touch screens, gyroscopes, and
+accelerometers. Their simplicity of design, consisting of a flat screen with no required peripherals (such
+as a mouse and keyboard), and their manipulability (they can be held in one hand, utilized assuming
+multiple bodily positions, held at different angles and in various distances from one’s face, and easily
+switched between portrait and landscape orientations) have opened new creative opportunities for
+multimedia authors. In doing so, ‘TabLit’ (or ‘AppLit’) has challenged scholars, teachers and
+preservationists of eLit to address the unique features of the platform which has enabled and shaped this
+body of work. This presentation represents a preliminary foray into delineating and foregrounding some of
+the key issues of tabLit from theoretical, instructional, and preservation and access perspectives, using
+four mobile-only works as case studies: Erik Loyer’s Strange Rain (2011), Semyon Polyakonskiy’s
+Maginary (2020), Tiger Style’s Spider: The Secret of Bryce Manor (2009), and Simogo’s DEVICE 6
+(2013).
+
+Tablet computers, in terms of technological design, are much closer than other computer types to an
+approximation of the book page. Although some works of appLit simulate the ‘turnable’ pages of the print
+book, others replace this navigation with page scrolling, and still others radically rethink the idea of ‘the
+page,’ requiring the development of a new poetics of the page. In large part due to the touch screen, two
+common design paradigms can be distinguished in the design of the tabLit page/screen: the indexical or
+digital instrument, which require requires skilled use of a finger (or fingers), and the frame and infinite
+
+61
+
+ELO 2021 - abstracts
+
+page, where the tablet screen becomes a ‘moveable’ viewing window over a page that extends in multiple
+directions beyond this window.
+
+In regard to teaching tabLit, this presentation will describe a pilot tablet lending program the author
+developed with his university library in order to ensure that tablet-based works assigned in a course
+(“Narrative in a Digital Age”) were accessible to students. It will outline some of the challenges this pilot
+faced, including students’ tablet/tabLit literacy and technological obsolescence. This last challenge offers
+a germane segue way into the final topic, preservation and access, which is (or should be) a key concern
+for both scholars and teachers of tabLit. Two current but far from optimal sites that address access (and,
+though this access, a form of preservation) will be discussed: the website and social media channels of
+the iOS game reviewer, App Unwrapper, and GameClub, a subscription service that enables access to a
+“library of iconic games,” created in response to the concern that “We’re losing the history of the App
+Store” (Eli Hodapp, 2019). To conclude, the presentation will survey how resources like the Electronic
+Literature Directory and the ELMCIP Knowledge Base are currently covering tabLit and suggest possible
+improvements.
+

@@ -1,0 +1,44 @@
+:
+Though not an ideal solution, lyric reflection can be a significant method of preserving electronic literature.
+
+118
+
+ELO 2021 - abstracts
+
+Having lost Flash, one solution is mimetic: a technical project resulting in a faithful copy of the original
+work, allowing the work to be experienced in all its particularity and interactivity. Failing that, footage,
+screenshots, and thorough, plainly descriptive writing can make a long-term accessible record so that at
+least that space in the genre’s history can be seen and understood by future generations. What happens,
+however, when a work a work features elements of ephemerality? On a computational level, this can
+happen to a far greater degree than with a traditional print book. Outside of rare tragedies, we can
+retrieve an old text from the archives, but we cannot retrieve the experience of, for instance, Multi-User
+Dungeons in the late 1990s. Lyric recollection, however, provides a literary model for securing something
+very close to the experience of the work.
+
+Two particularly notable sources here are William Wordsworth for an early example and Indra Sinha for a
+specifically elit example. In his preface to the second edition of Lyrical Ballads, Wordsworth wrote, “poetry
+is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility
+… the emotion is contemplated till, by a species of reaction, the tranquility gradually disappears, and an
+emotion, kindred to that which was before the subject of contemplation, is gradually produced, and does
+itself actually exist in the mind.” The poem, therefore, is not located in the original experience nor is it
+trying to be a mimetic copy of it. In the tranquil reflection, however, the poet is able, ideally, to capture the
+process of remembering so clearly that a new instance of the original type of emotion is actively produced
+by this new virtual encounter. In a similar way, Sinha records 1990s MUDs in his 1999 memoir The
+Cybergypsies, carefully shifting between forms to recreate the imaginative depth of the experience. We
+might also imagine a lighter form of this in the wild success of Façade – which parallels something of the
+social, writing-based experience of MUDS – on YouTube.
+
+Pavel Curtis suggests in 1997 that “it is difficult to properly convey the sense of the experience in words.
+Readers desiring more detailed information are advised to try mudding themselves” (124-5). Writing such
+as Sinha’s presents a model for how we might preserve important elements of generational and
+platform-specific electronic literature for future personal, authorial, and scholarly consideration. Such
+writing about personal online experience was popular around that time. In 2020, Anna Weiner’s Uncanny
+Valley and Joanne McNeil’s Lurking indicate a return to this more broadly. Among more formal archival
+efforts, in imagining a long literature history of elit for the future, lyric narratives – particularly in
+incorporating instances of the computer text as in Sinha – will inevitably play a significant role in how
+future generations ephemeral and social elit works.
+
+119
+
+ELO 2021 - abstracts
+

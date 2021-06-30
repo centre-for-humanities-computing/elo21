@@ -1,0 +1,53 @@
+:
+Some say that our relationship with time has changed. The "new management", in companies and
+
+111
+
+ELO 2021 - abstracts
+
+administrations, is believed to lead to an ever greater and more stressful feeling of urgency. The Covid 19
+crisis has undoubtedly further accentuated this trend, with one feeling compelled to be ever more
+connected (primarily to major platforms) and to respond immediately and at all times to digital requests.
+
+According to Paul Ricoeur, "a story is significant insofar as it outlines the features of temporal experience"
+(Ricoeur, 1985). To what extent do the forms of digital literary narratives that can be observed today
+express a certain relationship to temporality? Are new ways of working, of organizing society (mobility,
+network, collaboration) and a new relationship to temporality (acceleration of time, immediacy, lifestyle
+events) likely to lead to other forms of narratives?
+
+We will study three different forms of digital narratives – each time relying on a specific example – in order
+to understand what the Digital (and platformization) may change in the relationship between narratives
+and temporality.
+
+We will first focus on a notification-based smartphone fiction (downloadable from an application platform),
+in which the fictional character regularly sends notifications to the reader. This type of story is based on a
+play with temporality via the intrusion of reality, of the reader's real time.
+
+We will also analyze a narrative on the web based on a real-time data flow. The greatest limitation
+imposed on the narrative by this type of dimension is that the causal sequence is replaced by the
+sequentiality of real events. But this technical specificity of being based on a real-time data flow brings the
+contingency of life into the narrative, and leads to a “pure temporal experience” (Chambefort, 2020).
+
+Finally, we will look at a collective narrative on a social network platform, the temporality of which
+depends on the activity of the contributors but is also "in direct contact with the passage of time"
+(Saemmer, 2018).
+
+Do these forms of narratives help us cope with another relationship to temporality? Indeed, if we follow
+Ricoeur, "time becomes human insofar as it is articulated in a narrative way"…
+
+References:
+- Bouchardon, S. (2019). “Mind the gap! 10 gaps for digital literature?”, Electronic Book Review,
+http://electronicbookreview.com/essay/mind-the-gap-10-gaps-for-digital-literature/
+- Chambefort, F. (2020). "Sortir de l’écran : Lucette, Gare de Clichy". In Gervais, B. and Marcotte, S.
+(eds.), Attention à la marche ! Penser la littérature électronique en culture numérique. Montreal: Les
+Presses de l’Écureuil - ALN/NT2. pp. 327 338. ISBN 979-10-384-0004-7.
+- Ricoeur, P. (1985). Temps et récit, 3 vol., Paris: Seuil.
+- Saemmer, A. (2018). "Bienvenue dans la Colonie", Conference "Art, littérature et réseaux sociaux",
+Cerisy-la-Salle,
+https://art-et-reseaux.fr/bienvenue-dans-la-colonie-%E2%80%A8enjeux-de-limperialisme-algorithmique-et
+-tentatives-dinsurrection/
+
+112
+
+ELO 2021 - abstracts
+

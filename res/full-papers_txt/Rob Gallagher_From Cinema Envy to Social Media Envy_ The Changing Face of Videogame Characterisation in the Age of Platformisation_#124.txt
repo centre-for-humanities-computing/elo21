@@ -1,0 +1,493 @@
+From ‘Cinema Envy’ to Social Media Envy? The Changing Face of Videogame 
+Characterisation in the Age of Platformisation  
+ 
+Rob Gallagher, University of East Anglia 
+ 
+ 
+Introduction 
+It was in Summer 2020 that the aspiring musician Seraphine began building a following on 
+Twitter, Instagram and Soundcloud. With her candyfloss-pink hair, her outsized vintage 
+spectacles and her pet cat Bao, Seraphine was well-versed in the aesthetics of the ‘Instagirl’ 
+(Maguire). Her posts ran the gamut from dreamy musings to goofy selfies, with the 
+occasional shots of handwritten journal entries confessing her creative misgivings and 
+feelings of self-doubt. A paragon of ‘popular feminis[t]… ambivalence’ (Banet-Weiser 5), 
+Seraphine would caption shots of herself in a bikini with reflections on her fluctuating self-
+esteem and the vicissitudes of personal growth. None of which is unusual for a social media 
+influencer. More unusual was the fact that Seraphine was a fictional character, a computer-
+generated facsimile of an Instagirl. Between July 2020 and December 2021, her social media 
+posts fleshed out this character’s personality while sketching an aspirational narrative about a 
+plucky musician leaving her day job to pursue her dreams. Theories about who was behind 
+the character were already circulating when Seraphine posted a cover version of the song 
+Pop/Stars by K/DA, a virtual girl group comprising characters from Riot Games’ hugely 
+popular ‘multiplayer online battle arena’ League of Legends (Riot Games 2009). In 
+September Riot confirmed that Seraphine was joining the game’s roster of playable 
+‘champions’.  
+ 
+In many ways Riot’s transmedia experiment was a success: Seraphine accrued hundreds of 
+thousands of followers, racked up millions of listens on Spotify, and inspired a raft of fanart, 
+some of which she shared on Twitter. But her introduction was also controversial. Some 
+League players saw Seraphine as an instance of Riot - an American company that has been 
+owned by Chinese technology giant TenCent since 2011 - being forced ‘to support [sic] the 
+ULGY [sic] asian gaming culture full of whimsical creatures and cuttie [sic] nerdy beings’ 
+(Kostas Pantadis); others derisively accused Seraphine of looking like an ‘e-girl’, a ‘tik toker’ 
+or something from ‘a 17yo girl's deviantart’, rejecting the character as a craven bid ‘to appeal 
+to female players’ (Aceraxe Blade; Luka Tatomirov; Shot040; emilytchuu). Many fans 
+remarked on Seraphine’s resemblance to Belle Delphine, the pink-haired model and vlogger 
+who sparked a lucrative controversy in 2019 by listing jars of ‘GamerGirl Bath Water’ for 
+sale on her online store (Dickson).  
+ 
+Such comments betray signs of “hardcore” gaming culture’s sense of itself as ‘under attack’ 
+and in need of ‘defense… against “others”’ who fail to fit the gamer archetype of the white 
+male geek (Salter and Blodgett 77). They speak to tensions between the ‘face culture’ of sites 
+like Instagram and the ‘mask culture’ that prevails on anonymous messageboards and in 
+avatar-based virtual worlds (Zeeuw and Tuters 214) – and to gaming culture’s status as a key 
+front in an ongoing culture war between the ‘deeply entwined’ forces of ‘popular misogyny 
+and popular feminism’ (Banet-Weiser 2). But these fans were not alone in taking exception to 
+Seraphine. For journalist Gita Jackson (2020) the character’s calculated bids for ‘relatability’, 
+Riot’s portrayal of her mental health issues, and the narrative of a young woman quitting her 
+dead-end job to become a star were ‘perverse’ and ‘offensive’ – especially against the 
+backdrop of a worsening pandemic. The controversy intensified when, in a Medium post 
+published in November, Stephanie Dorris (2020) recounted her ‘brief relationship with a Riot 
+
+ 
+
+1 
+
+employee’ and outlined her belief that the company had essentially plagiarised her online 
+persona to create Seraphine, a character who ‘looks like me, and talks like me, and sounds 
+like me, and draws like me’. As part of her case Dorris juxtaposed images from Seraphine’s 
+feeds with her own social media posts, highlighting similar situations, poses and 
+compositions. Riot hit back with a statement insisting that Seraphine was ‘not based on any 
+individual’ and asserting that Dorris’ ‘claim lacks merit’ (Haasch 2020).  
+
+Whether or not Riot was taking direct inspiration from Dorris’ output, or from that of Belle 
+Delphine, their approach was undeniably informed by ‘self-branding’ strategies (Duffy and 
+Hund 2015) and ‘small storytelling’ techniques (Georgakopoulou 2016) pioneered by young 
+female users of social media platfoms. Riot are hardly the first to have adapted these 
+techniques to fiction: artist Amalia Ulman’s Instagram series Excellences and Perfections 
+(2016) has already been canonised for its use of the photo-sharing platform to spin a pseudo-
+autobiographical narrative, one that Maguire argues is best understood less as a ‘hoax’ than a 
+meditation on the ‘public demand for images of young women and girls’ and the ‘tropes and 
+conventions’ that women deploy online ‘in order to be recognised as a brand worth investing 
+in’ (28-9). Seraphine also has a high-profile precursor in transmedia studio Brüd’s Lil 
+Miquela, a virtual model, popstar and influencer whose posts portray her getting to grips with 
+the revelation that she is a ‘robot’ created to serve commercial imperatives (Drenten and 
+Brooks). This paper begins by considering the contexts from which such forms of 
+characterisation and storytelling have emerged, showing how they reflect the logics of 
+networked platforms. The following section turns to the videogame industry. Arguing that 
+changes in how games are distributed, monetised, accessed and promoted are informing 
+approaches to storytelling and characterisation among game developers, it posits a shift away 
+from cinema and towards social media as a source of inspiration. Finally, the paper argues 
+that Seraphine’s story is noteworthy not only for what it tells us about emerging forms of 
+digital fiction and the changing dynamics of the media industries, but for what it suggests 
+about the impact of ‘platform capitalism’ on understandings of identity, subjectivity and 
+sociability (Srnicek 2017).   
+
+Fictionalising the Influencer 
+For Georgakoupoulou the design of social media platforms ‘encourages the sharing of 
+everyday life as stories, as a branded directive of living and telling, of sharing-life-in-the 
+moment’ (“Sharing the Moment” 107). As she readily concedes, these ‘stories’ do not 
+necessarily fit conventional narratological definitions of that term – which tend to presume 
+that a ‘story’ is a retrospective narrative, related by a single teller, describing a sequence of 
+events with a beginning, middle and end (“Small Stories Research” 20-21). The ‘small 
+stories’ shared by social media users, by contrast, often take the form of ongoing updates and 
+flashes of ‘breaking news’ that capture events in the process of unfolding, and that other 
+users may contribute to as co-tellers by replying, commenting, linking or otherwise adding 
+their perspective (“Storytelling on the Go”).  
+ 
+The potential for small stories to reach huge audiences online has fuelled the phenomenon of 
+‘microcelebrity’ - ‘a mind-set and a collection of self-presentation practices endemic in social 
+media, in which users strategically formulate a profile, reach out to followers, and reveal 
+personal information to increase attention and thus improve their online status’ (Marwick 
+138). The social media ecosystem also ‘rewards, via the logic of its metrics’, users who are 
+willing to open up the intimate spaces of their homes to strangers, turning locations 
+‘previously conceptualised as private and safe from judgement’ into zones of ‘public 
+visibility, surveillance and evaluation’ (Kennedy 1070). Instagram and TikTok, in particular, 
+
+ 
+
+2 
+
+have catered to a seemingly insatiable popular appetite for what Kennedy calls the ‘viral 
+spectacle of girls bedroom culture’ (idem.). If ‘the bedroom has long been understood as a 
+central organising space for the leisure, same-sex friendships, expression of sexual desire, 
+and creative and playful production for girls in Western culture’, these platforms have turned 
+it into a site of content creation too (ibid. 1071). While this transformation can be rewarding - 
+yielding approval, social connections, and (for some users at least) opportunities to monetise 
+one’s fame - it is not without ‘risk’ (idem.). The risks are exacerbated by the dynamics of 
+algorithmic curation, which incentivise would-be microcelebrities to court controversy in 
+search of greater visibility. While attention-grabbing stunts can draw clicks, likes and 
+subscriptions, they can also backfire, with consequences both for individual influencers and 
+for the brands and platforms seeking to capitalise on their popularity. Belle Delphine has 
+periodically been banned from Instagram and YouTube for posting content judged to 
+contravene the platforms’ adult content policies, while gaming streamer Felix ‘PewDiePie’ 
+Kjellberg was spectacularly dropped by Disney after the corporation was alerted to his habit 
+of posting ‘anti-Semitic jokes [and] Nazi imagery’ by journalists from the Wall Street 
+Journal (Winkler, Nikas and Fritz). 
+ 
+In such a climate it is easy to see why ‘virtual influencers’ might appeal to brands. Putatively 
+tweeting from the bedroom depicted in many of her selfies, Seraphine asserts ‘i made 
+mistakes, and everyone saw. and you know what? that’s okay’ (@seradotwav). But of course, 
+the very point of virtual influencers is that they do not make mistakes: for all they might post 
+about their ‘insecurities… and vulnerabilities’ these characters will ‘never be fallible’ in the 
+way their flesh and blood counterparts are, because their every move has been scripted in 
+advance by teams of professionals (Drenten and Brooks 3). And it is not just marketers who 
+have been drawn to these forms of characterisation and storytelling. Game developers, too, 
+are taking cues – a development that is not insignificant for a medium that has in the past 
+often looked to film for narrative templates. 
+ 
+From Ellie to Seraphine? 
+In the early 2000s the designer and theorist Eric Zimmerman diagnosed the videogame 
+industry as suffering from a serious case of ‘cinema envy’ (145). At the time critics were in 
+raptures over Metal Gear Solid 2: Sons of Liberty, an interactive espionage thriller full of 
+nods to action films, directed by ardent cinephile Hideo Kojima and scored by Hollywood 
+veteran Harry Gregson Williams. The same year had seen Core Design’s Tomb Raider – 
+starring a character initially imagined as a ‘female Indiana Jones’ (Kline, Dyer-Witheford and 
+Peuter 236) - adapted into a big screen summer blockbuster. While many scholars joined 
+Zimmerman in arguing that attempts to marry interactivity with cinematic storytelling were 
+misguided, and risked compromising the very qualities that made digital games unique, it 
+seemed reasonable at the time to suppose that videogame designers would continue to draw 
+on cinema for inspiration. 
+ 
+Some two decades later these predictions have largely been borne out. Certainly, the success 
+of games like The Last of Us Part II (Naughty Dog 2020) would suggest that gaming culture 
+has yet to shake its case of ‘cinema envy’. Naughty Dog’s blockbuster sequel boasts near-
+photorealistic graphics and uses state-of-the-art performance capture techniques, ensuring 
+that it often looks like a film. Its approach to plotting and characterisation is also steeped in 
+Hollywood conventions, and entails subjecting protagonist Ellie to a series of deadly trials 
+and dramatic tests of character set in motion by a shocking inciting incident. Ellie is 
+profoundly changed by what she undergoes, in ways that proved highly contentious among 
+fans of the first game. But while The Last of Us Part II was one of the best-selling releases of 
+
+ 
+
+3 
+
+2020, as a story-led singleplayer console game it is also a specimen of what many consider a 
+dying breed – a breed poorly adapted for the media landscape that platform capitalism is 
+bringing into being.   
+
+As I have argued elsewhere, while ‘in the 1990s, the holy grail for much of the industry was 
+the videogame as “interactive movie”, today publishers tend to be more interested in 
+understanding games as “platforms” upon which fan communities, advertising campaigns, 
+data mining routines, digital rights management infrastructures, and downloadable content 
+markets can be built’ (174). As a free-to-play online multiplayer game League of Legends 
+illustrates this shift. Rather than asking players to purchase the title up-front via a single 
+payment, Riot has made League available as a free download, generating money through the 
+sale of characters and costumes (known as ‘skins’). While the game boasts a formidable body 
+of lore, the point is not, as in Tomb Raider or Metal Gear Solid II, for players to work their 
+way through a linear story. As a multiplayer game, League is about forming teams and 
+competing with rivals, with players honing their skills and strategies across countless matches 
+that are always broadly similar and always slightly different. Rather than releasing sequels, 
+Riot constantly tunes, tweaks and augments the game, refining mechanics, rebalancing 
+values, and adding costumes and characters.  
+
+Of course, a multiplayer game only works if there are people to play against. And it only 
+remains viable for Riot if players are continuing to spend money (and generate data). With 
+increasing numbers of free-to-play games competing for the time and attention of potential 
+players, moreover, the battle for mindshare has become its own savage metagame – one to 
+which fans are expected to contribute by sharing screengrabs, memes, videos and artwork on 
+social media. In such a context storytelling per se becomes less important than the 
+development of compelling ‘storyworlds’ and of appealing, instantly recognisable characters 
+(Ryan). This shift in emphasis, it should be noted, predates the advent of online platforms. In 
+the 1990s Hiroki Azuma was already positing a move away from plot and towards character 
+in Japanese popular media, arguing that Japan’s ‘media mix’ environment privileged 
+characters who could evoke powerful feelings of attachment, characters who could easily be 
+displaced from their original contexts and dropped into new ones, from ‘light novels, live-
+action feature films, television series, magazine specials and other popular narrative forms’ to 
+‘figurines, plush toys, lunch boxes, backpacks, clothing, and whatever other items can 
+possibly be purchased to enrich one’s everyday life with reminders of a favourite series’ 
+(Hutchinson 2). Platformisation has only accelerated this shift.   
+
+In such a media environment the qualities that critics have traditionally tended to praise in 
+novelistic and filmic characters – psychological depth and complexity, a dramatic 
+developmental arc – can become liabilities, impeding a character’s legibility, mobility and 
+malleability. Across the two Last of Us games Ellie follows a trajectory from innocence to 
+experience, from happiness to loss to a thirst for vengeance and a realisation of the ultimate 
+emptiness of revenge. While we may dispute how effectively Naughty Dog spins this tale, 
+theirs remains an essentially classical approach to characterisation and plotting, one in which 
+‘character is a function of narrative structure’, just as Aristotle decreed (Frow 6). Ellie exists 
+to enact her arc, and is left irrevocably changed by what she witnesses and does. In some 
+sense it is pointless to ask who she would be or how she would behave in other 
+circumstances. This fact, however, has not stopped the merchandising bandwagon - it is still 
+possible, for example, to buy a bobbleheaded Funko Pop! doll of the character. Ellie’s 
+abstraction into an adorably saucer-eyed caricature of herself, however, underlines just how 
+ill-suited she is to this kind of recontextualization, in terms both of her personality and her 
+
+ 
+
+4 
+
+visual design. With her nondescript grey clothing and her brown shoulder length hair, the 
+mutedly androgynous Ellie could be anyone. By comparison, Seraphine – with her pink, blue 
+and purple palette and the blue star under her left eye - is easy to recognise in even the most 
+amateurish fan art (and, for that matter, in the character’s own notepad doodles of herself). 
+To put this in the terms used by Japanese critics, Ellie may succeed as a kyarakuta - ‘a 
+fictitious being represented to exist within a diegetic domain’ - but she fares less well as a 
+kyara - ‘a stylized or simplified visual figuration that can be easily reproduced or consumed 
+outside its original narrative context’ (Wilde). 
+ 
+League is now a burgeoning transmedia property, with its own Netflix show in development. 
+But Riot has long presented the game as a multiverse in its own right, framing each character 
+‘skin’ as another version of that character, belonging to their own alternate reality. Thus 
+Seraphine can be a trainee mage from a steampunk fantasy city and an everyday girl posting 
+selfies from her nondescript bedroom. Both versions of the character share the same key 
+personality traits and visual signifiers, ensuring consistency across media, storyworlds and 
+plotlines. Characters like Seraphine are conceived from the get-go as ‘transmedia figures’, 
+ripe for reinvention and reimagining (Thon 181). Even across the small stories that were 
+posted to her social media accounts, some representations tend towards the immediacy of the 
+kyara while others that aim to evoke the depth and complexity of the kyaratura. As gaming is 
+reshaped by platformisation, and as developers like Riot continue to pursue business models 
+that presume players will build gameplay into their everyday routines over periods of years, 
+such approaches to storytelling and characterisation will only become more common. 
+ 
+Personhood Under Platformisation 
+Near the start of the sequence of Instagram posts that served as her introduction to the word, 
+Seraphine acquires a polaroid camera. Several of her subsequent posts are presented as digital 
+photos of physical snapshots, captioned in marker pen. Others purport to be Seraphine’s shots 
+of family photographs of herself as a toddler, with her hand (complete with elaborately 
+decorated thumbnail) visible in frame holding the physical print. The images of Seraphine’s 
+journal entries likewise strive to convey a sense of materiality and hapticity: pages are coffee-
+stained, collaged, and have origami cranes crushed between them; notes and doodles are 
+messily crossed out or underlined. One of her posts presents a cork pinboard, onto which 
+Seraphine has seemingly pinned printouts of inspirational tweets from fans. While these 
+images do not necessarily tell stories, they perform a range of other functions: lending this 
+immaterial being a sense of fleshly substantiality, hinting at a biography that predates her 
+appearance online, and acknowledging fans’ engagements with the character, they also 
+playfully foreground the gap between fiction and fact, the virtual and the physical, 
+representation sand reality. 
+ 
+As Drenten and Brooks note in their account of Lil’ Miquela, it would be a mistake simply to 
+see virtual influencers as ersatz approximations of real (micro)celebrities. The celebrity’s star 
+image has always been a ‘fabricat[ion]’ in which a range of ‘cultural intermediaries’ have had 
+a hand; and while influencers might be appealing because they seem more relatable and 
+accessible than popstars or Hollywood celebrities, there is still an acknowledgement among 
+fans and followers that this authenticity is at least partly a performance – and that, in an age 
+of ‘photoshopping, filtering… and digital[] editing’, no one is quite as they appear online (3-
+4). Given this it is hard to know whether we should be surprised that some fans concluded 
+there was a real person more-or-less literally behind the Seraphine they saw on screen: in a 
+thread from August 2020 one Twitter user writes ‘the images she posts are drawings on top 
+of photos of a real person. I’m guessing the person behind the photos and managing the 
+
+ 
+
+5 
+
+account is the same…. The real person speaks through a filter, but what is spoken is more or 
+less their real thoughts and feelings. But yeah it might be just 100% roleplay’ 
+(@CopoDeCiveta). 
+ 
+As this suggests, the Seraphine affair is not just a story about videogame characterisation, or 
+the functions that fictional characters are assuming in entertainment ecosystems being 
+reshaped by platformisation. John Frow proposes that rather than understanding ‘fictional 
+characters as somewhat similar to persons’ we should instead treat ‘persons as somewhat 
+similar to fictional characters’ – a stance that ‘allows us to understand persons not as 
+ontological givens, but as constructs, which are in part made out of the same material as 
+fictional characters’ (vii). Studying fictional characters can, Frow contends, help us to 
+understand ‘how social personhood works as a kind of fiction’ (vii). Seraphine brings us face 
+to face with the extent to which plaftforms have already reshaped storytelling, self-
+presentation, sociability and even subjectivity itself, reframing personhood through the lens 
+of platformisation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+6 
+
+ 
+ 
+ 
+ 
+Works Cited 
+Aceraxe Blade. Comment on “Seraphine Champion Spotlight.” YouTube, 2020. 
+
+https://www.youtube.com/watch?v=hiNN2WKkR3Q&ab_channel=LeagueofLegends 
+
+Azuma, Hiroki. Otaku: Japan’s Database Animals. Translated by Jonatan E. Abel and Shio 
+
+Kono University of Minnesota Press, 2009. 
+
+Banet-Weiser, Sarah. Empowered: Popular Feminism and Popular Misogyny. Duke 
+
+university Press, 2018. 
+
+@CopoDeCiveta. “I think the text is more about the real person.” Twitter, 21 August 2020, 
+
+1:27PM. https://twitter.com/CopoDeCiveta/status/1296785950572449798 
+
+Dickson, EJ. “Belle Delphine: Is Bathwater Gamer Girl the Greatest Internet Troll?” Rolling 
+
+Stone’, 11 July 2019. https://www.rollingstone.com/culture/culture-features/belle-
+delphine-bathwater-gamer-girl-troll-857192/. 
+
+Drenten, Jenna, and Gillian Brooks. “Celebrity 2.0: Lil Miquela and the Rise of a Virtual Star 
+
+System”. Feminist Media Studies, vol. 20, no.8, 2020, pp.1319–23. 
+https://doi.org/10.1080/14680777.2020.1830927.  
+
+Duffy, Brooke Erin, and Emily Hund. “‘Having It All’ on Social Media: Entrepreneurial 
+
+Femininity and Self-Branding Among Fashion Bloggers”. Social Media + Society, 
+vol. 1, no. 2, Sept. 2015, pp.1-11. 
+
+Emilytchuu. Comment on “Seraphine Champion Spotlight.” YouTube, 2021. 
+
+https://www.youtube.com/watch?v=hiNN2WKkR3Q&ab_channel=LeagueofLegends 
+
+Frow, John. Character and Person. Oxford University Press, 2014. 
+Gallagher, Rob. “Plotting the Loop: Videogames and Narratability”. The Edinburgh 
+
+Companion to Contemporary Narrative Theories, edited by Zara Dinnen and Robyn 
+R. Warhol, Edinburgh University Press, 2018, pp.174–86. 
+
+Georgakopoulou, Alexandra. “Small Stories Research and Social Media Practices: Narrative 
+Stancetaking and Circulation in a Greek News Story”. Sociolinguistica, vol. 27, 2013, 
+pp.19–36. 
+
+———. “Storytelling on the Go: Breaking News as a Travelling Narrative Genre”. The  
+Travelling Concepts of Narrative, edited by Matti Hyvärinen, Mari Hatavara, and Lars-
+
+Christer Hydén, John Benjamins, 2013, pp. 201–24. 
+
+———. “From Narrating the Self to Posting Self(ies): A Small Stories Approach to Selfies”. 
+
+Open Linguistics, vol.2, no.1, 2016, 300-317. 
+
+———. “Sharing the Moment as Small Stories”. Storytelling in the Digital World, edited by 
+
+Anna De Fina and Sabina Perrino, John Benjamins, 2019, pp.105–28.. 
+
+Haasch, Palmer. “Riot Games Denied a Woman’s Claim That Her Image Was Used without 
+
+Consent for a League of Legends Character”. Insider, 13 November 2020. 
+https://www.insider.com/seraphine-allegations-riot-games-denies-similarities-
+stephanie-2020-11.  
+
+Hutchinson, Rachael. Japanese Culture through Videogames. Routledge, 2019. 
+Jackson, Gita. “League of Legends’ Fake Anime Pop Star Is Sad Tweeting About Genocide”. 
+
+Vice, 15 October 2021, https://www.vice.com/en/article/dy8g87/league-of-legends-
+fake-anime-pop-star-is-sad-tweeting-about-genocide. 
+
+Kennedy, Melanie. ‘“If the Rise of the TikTok Dance and e-Girl Aesthetic Has Taught Us 
+Anything, It’s That Teenage Girls Rule the Internet Right Now’: TikTok Celebrity, 
+Girls and the Coronavirus Crisis”. European Journal of Cultural Studies, vol.23, no.6, 
+2020. Pp.1069–76.  
+
+ 
+
+7 
+
+Luka Tatomirov. Comment on “Seraphine Champion Spotlight.” YouTube, 2021. 
+
+https://www.youtube.com/watch?v=hiNN2WKkR3Q&ab_channel=LeagueofLegends 
+
+Kline, Stephen, Nick Dyer-Witheford and Greig de Peuter. Digital Play: The Interaction of 
+
+Technology, Culture, and Marketing. McGill-Queen’s University Press, 2003.  
+
+Kostas Pantadis. Comment on “Seraphine Champion Spotlight.” YouTube, 2021. 
+
+https://www.youtube.com/watch?v=hiNN2WKkR3Q&ab_channel=LeagueofLegends 
+
+The Last of Us: Part II. Naughty Dog, 2020. 
+League of Legends. Riot Games, 2009. 
+Maguire, Emma. “Constructing the ‘Instagirl,’ Deconstructing the Self-Brand: Amalia 
+
+Ulman’s Instagram Hoax”. European Journal of Life Writing vol.8, 2019, pp.12–32. 
+https://doi.org/10.21827/ejlw.8.35546. 
+
+Marwick, Alice E. “Instafame: Luxury Selfies in the Attention Economy”. Public Culture, 
+
+vol.27, no.1 75, 2015, pp.137–60.  
+
+Metal Gear Solid 2: Sons of Liberty. Konami Computer Entertainment Japan, 2001. 
+Ryan, Marie-Laure. “Story/Worlds/Media”. Storyworlds across Media: Toward a Media-
+
+Conscious Narratology, edited by Marie-Laure Ryan and Thon, Jan-Noël. University 
+of Nebraska Press, 2014, pp.1-22. 
+
+@seradotwav. “I had to learn some hard lessons”. Twitter, 6 November 2020,  11:30PM. 
+
+https://twitter.com/seradotwav/status/1324494231088496641 
+
+Salter, Anastasia, and Bridget Blodgett. Toxic Geek Masculinity in Media. Springer 
+
+International, 2017.  
+
+Shot040. Comment on “Seraphine Champion Spotlight.” YouTube, 2020. 
+
+https://www.youtube.com/watch?v=hiNN2WKkR3Q&ab_channel=LeagueofLegends 
+
+Srnicek, Nick. Platform Capitalism. Polity, 2017. 
+Stephanie. “The Problem with Seraphine”. Medium. 12 November 2020. https://step-
+
+nie.medium.com/the-problem-with-seraphine-58dc16c07e79. 
+
+Thon, Jan-Noël. “transmedia Characters: Theory and Analysis”. Frontiers of Narrative 
+
+Studies, vol.5, no.2, 2019, pp.176-199. 
+
+Tomb Raider. Core Design, 1996. 
+Ulman, Amalia. Excellences and Perfections, 2016. 
+Wilde, Lukas R.A. “Recontextualizing Characters. Media Convergence and Pre-/Meta- 
+
+Narrative Character Circulation”. Image 29, 2019, pp.3-21. 
+
+Winkler, Fritz, Rolfe Winkler, Jack Nicas and Ben. “Disney Severs Ties With YouTube Star 
+
+PewDiePie After Anti-Semitic Posts”. Wall Street Journal, 14 Feb. 2017. 
+https://www.wsj.com/articles/disney-severs-ties-with-youtube-star-pewdiepie-after-
+anti-semitic-posts-1487034533. 
+
+Zeeuw, Daniël de, and Marc Tuters. “‘Teh Internet Is Serious Business’: On the Deep 
+
+Vernacular Web and Its Discontents”. Cultural Politics, vol.16, no.2, 2020, pp.214–
+32.  
+
+Zimmerman, Eric. “Do Independent Videogames Exist?”. Game on: The History and Culture 
+
+of Videogames, edited by King, Lucien. Laurence King, 2002. 
+
+ 
+ 
+
+ 
+
+8 
+
+

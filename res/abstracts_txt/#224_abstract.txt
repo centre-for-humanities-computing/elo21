@@ -1,0 +1,34 @@
+:
+Larps are a form of analog game in which participants co-create and collectively inhabit diegeses
+(Montola 2012). Larp may also be thought of as a medium, and codic larps are a type of larp platform that
+use diegetic code (Steele 2016) to represent parts of the story, allowing conflicts about what happens
+next to be resolved through contests in which diegetic material has been congealed into code and
+rendered deployable. Codic larps offer a unique opportunity to teach and study code, and the analog
+nature of codic larp allows advanced engagements like platform modding to happen with fewer layers of
+technology to navigate than digital code platforms, ostensibly lowering the barrier of entry to coding, while
+allowing diegetic code to serve as a "boundary object" (Star 1999) through which scholars and
+professionals from many backgrounds may develop common language to engage in cross-codic critique.
+
+Recently, activities including as codic larps have come under scrutiny by those who question the power
+relations inherent in physically embodying one’s own avatar, as well as in rituals surrounding the
+embodied deployment of diegetic code. After developing and touring their digital Shakespeare game,
+_Play the Knave_, Gina Bloom, Nicholas Toothman, and Evan Buswell have recently argued that having
+players physically embody their characters is troubled by the degree to which out-of-game asymmetrical
+power relations like racisms and sexisms attach themselves to bodies (Bloom et al. 2021), an issue that is
+part of a phenomenon that might be called out-of-game creep. Additionally, sociologist Steven Dashiell
+has criticized rituals that often surround code-based analog gaming for reinforcing structural forms of
+sexism and other inequalities (2017, 2020), fueling arguments within larp communities that diegetic code
+deployment should be removed from games altogether (cf. Fatland et al. 1999). Seeming to push back
+against these sentiments is the work of other gamemaker-scholars who have engaged larp's embodiment
+and rituals of code deployment to ostensibly develop interventions into pervasive forms of systemic
+inequality. Jonaya Kemper's work on emancipatory bleed (2018), Diana Shipley's efforts to develop
+anti-racist scaffolding for codic larp (2021), as well as the work I have done on anti-code (2018), and the
+efforts to develop larp consent mechanics by Johanna Koljonen (2016), Sarah Lynne Bowman (2017),
+and Maury Brown (2017), demonstrate efforts to not only salvage different facets of the larp medium, but
+to "fork the code," using the larp medium's unique embodimemt and of code-based play to offer game
+mechanics and scaffolding as interventions into systemic racisms and sexisms.
+
+109
+
+ELO 2021 - abstracts
+

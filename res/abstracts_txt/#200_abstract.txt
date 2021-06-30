@@ -1,0 +1,52 @@
+:
+The possibilities for interaction in electronic literature (e-lit) are heavily shaped by the platforms on which
+
+71
+
+ELO 2021 - abstracts
+
+that interaction occurs, yet audiences are rarely aware of the extent to which the digital interface may
+influence, if not define, their sociality. These limitations take the form of community moderation tools and
+explicit censorship (such as in the case of profanity filters), but also in the designs of emote systems and
+content popularity systems, and achievement and reputation systems, and even in gameplay design.
+Often players, users, and audience members must oscillate rapidly and continually between determining
+the affordances of the tools available to them and evaluating the capacity of those tools to provide the
+social aims they desire.
+
+This panel explores the current limitations of contemporary literary and art criticism when applied to
+interactive narratives in order to build a richer dialogue attentive to sociological factors affecting
+platform-based literary activity. A diffusion of social and literary perspectives, we argue, is ultimately more
+appropriate for understanding the complex role networked communication and collaboration plays in the
+very fabric of these works. Considered together, the presentations on this panel will look deeply into how
+social media platforms generate increasingly innovative experiments in narrative structure by adapting
+interpersonal communication and live social exchange to online writing and reading practices. Digital
+network culture, dating back to the earliest text adventure games and first BBS servers, marked a
+fascinating conjunction between art works and participatory activity, aligning in the process many
+established literary and artistic aims with an array of diverse social behaviors and habits. The narrative
+structure of interactive fiction tends to offer the same points of reference key to any story, beginning with
+its setup followed by examples of conflict and resolution. Upon migrating to platform-managed media
+tools, narrative design has continued to sponsor a variety of coordinating behaviors among users,
+including what we’ve identified as consistent patterns of aggregation, accumulation, and competition. In
+addition, as critics like Manuel Castells, Lev Manovich, and more recently Manish Mehta have shown,
+networked media platforms invoke powerful programmable determinisms in the process of managing,
+and, in some cases, defining our cultural and social interactions.
+
+Aligning these behavioral patterns with new literary guidelines and frameworks, the panel will look
+critically and, we hope, provocatively at narrative construction as collaborative digital network interaction.
+As these technologies continue to entwine human agents into increasingly complex actor-network
+systems, the resulting shift in writing practices and attitudes compares well to the new linguistic
+consciousness Russian theorist Mikhail Bahktin attributed a century ago to the emergence of the novel
+within modern literature. Panelists Kirill Azernyi, Stephanie Jennings, Andrew Klobucar, Rebecca Rouse,
+and Kate Tyrol will contribute presentations covering a variety of perspectives on these considerations,
+including online conspiracy theory, classroom gamification, player and user experience, interactive
+sculpture, and the role of debate in public discourse.
+
+The panel will consist of traditional oral presentations, and attendees will also be invited to concurrently
+experience the panel through a custom-built Twine narrative.
+
+72
+
+ELO 2021 - abstracts
+
+(Summaries of individual presentations attached.)
+

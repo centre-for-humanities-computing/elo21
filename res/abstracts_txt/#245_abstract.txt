@@ -1,0 +1,42 @@
+:
+The pandemic has enhanced awareness and reliance on digital platforms. Brick and mortar museums
+and libraries that are having difficulties pivoting to such platforms are presently unable to share works with
+the public for safety reasons. Consequently, special attention is being paid to platforms that produce,
+protect, and promote electronic literature, such as Electronic Literature Organization’s Repository.
+Housing 30 collections of 2500 digital-born works, the site must be maintained, the works thoroughly and
+accurately described, and digital art preserved and shared with scholars, artists, and the public. In light of
+the pandemic, it was realized that the Repository could fill more roles than storing digital artwork and the
+accompanying information. It had the untapped potential of becoming a space where digital art could be
+studied, experienced, preserved, and shared from anywhere. In short, it would become the next
+generation museum, library, and preservation site for born digital literature collected by the Electronic
+Literature Organization (ELO), the site now known as The NEXT. This panel showcases the newly
+designed Repository implemented by 39 students at Washington State University Vancouver (WSUV).
+
+In 2021, ELO in conjunction with the Electronic Literature Lab (ELL) partnered with students at WSUV to
+implement this new vision for The NEXT. The new site makes digital artwork easily accessible to the
+public from a single digital space, enhanced by SEO and ADA compliance. From here, visitors have the
+ability to download permitted works and view any associated media, including images, videos,
+visualizations, and recorded interviews with the donor. They have also developed a search function for
+easily finding records. To further increase accessibility, students conducted usability testing on pages
+within the site, which includes an About page, Donations page, documentation regarding metadata
+schema, and more. With these components, The NEXT has transformed from an informational space into
+a multimedial site that is participatory, interactive, and experiential.
+
+The architecture of the site is built to be scalable, allowing it to grow as new donations are offered to ELO.
+The NEXT sets a precedent for future museums and databases to follow. Blending information with
+human interaction stimulates The NEXT’s use as a virtual interactive museum and library, while
+increasing awareness of artists and their artwork. The site will continue to be maintained by ELL for ELO,
+
+73
+
+ELO 2021 - abstracts
+
+and sustained by donations to ELO and ELL. Scholars volunteering their time and labor will further refine
+the metadata.
+
+The NEXT will be presented at the conference by five of the 39 students involved in the implementation
+stage of the project. Kathleen Zoller will act as moderator, discussing the aim of the project and the
+components that made it come together; Katya Farinsky will share her process regarding copyediting;
+Betsy Hanrahan and Sarah West will demonstrate the site’s architecture and layout; Mallory Hobson will
+share design decisions made for The NEXT; Preston Reed will discuss the filming and interview process.
+

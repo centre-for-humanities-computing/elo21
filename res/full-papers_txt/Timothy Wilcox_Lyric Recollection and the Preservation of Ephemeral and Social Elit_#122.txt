@@ -1,0 +1,620 @@
+Timothy Wilcox 
+
+Lyric Recollection and the Preservation of Ephemeral and Social Elit 
+
+ 
+
+ 
+ 
+
+One of the most striking features of electronic literature – in contrast to most literature we 
+
+read and study – is its capacity for interactions of various kinds. In preserving electronic works 
+
+for future experience, all of those interactions should ideally be preserved and made to function 
+
+in more or less the same manner. The look and sound of certain elements will inevitably change 
+
+somewhat with different hardware, but the overall presentation and the points of entry for the 
+
+reader should remain the same. A more challenging point is the issue of outcomes. A reader may 
+
+have a selection of inputs, but in the case of ephemeral of social electronic literature works, the 
+
+outcome will never be the same. While a player can open A Mind Forever Voyaging at any point 
+
+and interact with Perry Simm, for example, one cannot simply go and interact with the characters 
+
+in a Multi-User Dungeon (MUD) as one would have while logged in during the 1990s, as those 
+
+were real people interacting in real time. Eventually, if you can get anyone interacting at all, it 
+
+may be very different people, or even in the case of encountering the same group of people who 
+
+populated the game-world before, they will approach things from different times in their lives, 
+
+with new perspectives and likely developed writing styles. 
+
+ 
+
+Due to these complications of ephemerality, many early electronic literature experiences 
+
+are largely inaccessible. In 1997, Pavel Curtis wrote of MUDs, “it is difficult to properly convey 
+
+the sense of the experience in words. Readers desiring more detailed information are advised to 
+
+try mudding themselves” (124-5). In some ways, it is still possible for readers to “try mudding 
+
+themselves,” but not in the context where it was an addictive new experience pushing the 
+
+boundaries of what we could do with technology. Now, any experience operates in a context of a 
+
+much bigger, more complex – though at times more limited – social Internet. People can turn 
+
+Wilcox 2 
+
+ 
+
+away from the world of current social media to play around in an intentionally older system. 
+
+What is missing, though, from those new experiences – which a reader of Curtis in 1997 could 
+
+have encountered, though even then with some distinction – is what mudding was actually, 
+
+actively like for those playing them at its height. Such resignation as Curtis offers is common in 
+
+writing on MUDs, which is why a more literary narrative is useful. In contrast to Curtis telling 
+
+readers to just go see for themselves, Indra Sinha carefully shifts between forms to recreate the 
+
+imaginative depth of the experience in his 1999 memoir, The Cybergypsies. This indirect look is 
+
+in some ways part of the medium itself. One’s personal involvement in the text of a MUD is 
+
+always only a small part, and that involvement (or lack thereof) informs our understanding. 
+
+ 
+
+Even in most of the early scholarship on MUDs, as the writers discuss vast social, 
+
+pedagogical, philosophical, and other implications of the medium, they contain their writing 
+
+within something like this memoir style, grounding their analyses in personal experience in 
+
+MUDs. Sherry Turkle (1997), for instance, discusses social interaction in MUDs through a 
+
+discussion of what a selection of players she knew from one MUD server had to say about their 
+
+experiences, goals, and self-perception. Lori Kendall’s Hanging Out in the Virtual Pub: 
+
+Masculinities and Relationships Online, published in 2002, is structured as an ethnography of the 
+
+online forum BlueSky. 
+
+ 
+
+In The Cybergypsies, Sinha makes space for the highs and lows of his online, frequently 
+
+MUD-based experience as all crucially forming his imagination. The text begins, “It’s 3 a.m. and 
+
+I’m online to Jesus Slutfucker. JS informs me that he’s typing one-handed, knuckling open a 
+
+beer with the other” (1). Though starting with this, the memoir ends at an advertising awards 
+
+ceremony where he received an award for his work on Bhopal, India for Amnesty International, 
+
+thinking about the absurdity as he sees “Sathyu, who lived in a slum, thanking the champagne 
+
+ 
+
+drinkers at the Grosvenor House” (392). The Cybergypsies captures in detail how the social 
+
+experience of MUDs – even the violent world of Shades he chooses – takes him from one 
+
+Wilcox 3 
+
+scenario to the other. 
+
+In 1984, Bhopal was the site of a major gas leak in a pesticide plant owned by the 
+
+American company Union Carbide. The leak killed thousands in the slums of Bhopal and caused 
+
+ongoing medical complications. A critical gap that this current study fills is that despite 
+
+significant attention directed toward Sinha’s fictional writing on the Bhopal disaster in Animal’s 
+
+People, very little has been written on this earlier memoir, despite its detailing the event and how 
+
+Sinha got involved. In this later novel, Sinha discusses Bhopal in terms of a fictional city of 
+
+Khaufpur, for which he made an accompanying website; there is no record of the contents of the 
+
+Cybergypsies website which Sinha links in a 1999 interview on The WELL. Rob Nixon, in his 
+
+book Slow Violence, comments that, “Among the writers I consider, Indra Sinha is by a long 
+
+measure the most digitally attuned” (43). He goes on to argue, “If the quarter-century lag 
+
+between the Union Carbide explosion and Animal People’s appearance marks a shift from 
+
+predigital to digital activism, the lag also allows Sinha to challenge the conventions of what 
+
+constitutes a catastrophic event” (44). While Nixon discusses Sinha’s Khaufpur website and his 
+
+early ad campaigns, he makes no reference to The Cybergypsies. This leads to a clear reversal in 
+
+an endnote: “Arguably, Sinha’s professional training in the image world of advertising left him 
+
+better equipped than most writer-activists of his generation to adapt his skills to the digital era” 
+
+(291). As Sinha’s memoir suggests, it is not that his training in advertising prepared him for the 
+
+digital era; the digital era prepared him for international advocacy. 
+
+Philip Leonard offers the one serious account of Sinha’s memoir. In Literature After 
+
+Globalization, he analyzes the text as part of addressing questions of globality and scale, 
+
+Wilcox 4 
+
+ 
+
+particularly as done in the 1990s when the sense of online community as a distinct 
+
+countercultural potentiality was still strong. Leonard writes, “Inhabiting the unruly margin of the 
+
+connected world, these groups do not allow the emergence of a universally transcendent 
+
+consciousness and cannot produce a coherent social order. Going online for these communities 
+
+becomes a renouncing of the universal and a detachment from the global” (45). Leonard 
+
+connects Sinha here with various theoretical ideas, but engages with Cybergypsies very little as a 
+
+literary text. 
+
+Leonard offers a useful starting point for thinking about The Cybergypsies, but leaves 
+
+much of its literary construction and context untouched. The end of the chapter briefly discusses 
+
+the literary qualities of the work, but only in the span of a page. Leonard notes how Sinha’s work 
+
+troubles memoir’s generic distancing from fiction (59), showing instead how such early online 
+
+experiences of community existed largely as fiction and writing (60). He comments, 
+
+“Structurally, Sinha’s text is built around intrusions, interruptions, elisions and narrative 
+
+resequencings which prevent it from sliding into the naturalism that typifies the memoir as a 
+
+genre.” Sinha notably incorporates lengthy passages from De Quincey’s Confessions as a series 
+
+of interruptions into his own narrative, but Leonard does not make this connection clear. Earlier 
+
+in the chapter, he references Sinha’s nod to Coleridge and De Quincey as expressing a similar 
+
+sort of “enchantment” and “delirium” as Sinha presents as part of our relationship to technology 
+
+(broadly defined, including language) (37). Here at the end of the chapter, though, Leonard 
+
+suggests that The Cybergypsies “should be placed in the quasi-literary legacy of the fictitious 
+
+memoir: Defoe, Goldsmith, Miller, Angelou, or Eco – this text rejects the masquerade of pure 
+
+reminiscence and instead embraces writing as both a generic demand and an opportunity to 
+
+trouble memory’s inscription in an act of sterile or uncorrupted recollection” (60). Though 
+
+Wilcox 5 
+
+ 
+
+referencing earlier works, Leonard misses the obvious connection to De Quincey. The earlier 
+
+quoted paragraph even references the figure of Bear in Cybergypsies as the “pseudonymously-
+
+named advertising-copywriter who acts as Sinha’s textual persona” (37), an act which parallels 
+
+the use of such personas in the world of Romantic-era London magazines in which De Quincey 
+
+was writing. When Leonard concludes with reference to Sinha’s inclusion of the jumbled 
+
+typography of a corrupted file, a Romantic reading of the text could connect this to De Quincey’s 
+
+idea in Suspiria de Profundis of the brain as palimpsest, in which no memory is ever fully lost 
+
+but only written over. Sinha quotes De Quincey’s discussion of that idea explicitly (372-3). 
+
+This sort of layering of memory and experience is part of what drives Sinha’s view of 
+
+online communication and imagination. He introduces Lilith, who makes a clear distinction 
+
+between online and offline experience, while Sinha insists on a sense of continuity. As Leonard 
+
+notes of Cybergypsies, “this text is as much a chronicle of the growth of online activism and 
+
+mobilization as it is a story about a craving for contact through cables and over airways … a 
+
+medium for gathering and disseminating material that was not visible to the informational 
+
+mainstream at that time” (44). Relatedly, the seeming invisibility of the Bhopal disaster, and its 
+
+surrounding material, is a recurring imaginative concern of the text. Sinha’s process of working 
+
+through that is grounded in his experience of MUDs, which for him was focused primarily in a 
+
+game more violent than the norm. 
+
+Though violent, Shades presented the same core values and challenges as other MUD 
+
+experiences. An ad emphasized it was “More than a game!” and says “Meet people. Make 
+
+friends.” Similar to how A Mind Forever Voyaging leveraged the human intelligence of its player 
+
+to establish the advanced AI of its player-character, the ad questions the reader, “Can YOU 
+
+outwit the brains of real human opponents rather than a pre-programmed computer chip?” Unlike 
+
+Wilcox 6 
+
+ 
+
+a computer-driven game with clear rules and limitations, the foundation of Shades in social text 
+
+inputs meant the action could be expanded infinitely. While it still had a core selection of 
+
+commands that allowed for both socializing and combat, the purpose of playing in a MUD over a 
+
+computer-driven game is explicitly the player interaction, and so players would not simply put in 
+
+the minimal inputs necessary to win a fight, but would instead craft a character and maintain that 
+
+character over an extended period of time. Sinha’s memoir records people interacting in-game, 
+
+out of game but still online, and sometimes in real life. An interaction which combines the first 
+
+and last of those gives a strong sense of how Sinha understood the game and its typical player. 
+
+Much of the first third of the memoir builds up to an “immortals only” party – referring 
+
+to a class of skilled, frequent players who have broken a certain points threshold – at which an 
+
+“assassination” “would spark off the First Wyrd War” (23). Once we actually get to this event, 
+
+Sinha comments, “The ‘real’ people in the room were never invited to this party. They’re here on 
+
+sufferance, mere emissaries of the real guests: it’s the personas who are meeting here” (103). 
+
+Sinha’s own sense of values always comes from this remove, which is slightly disillusioned by 
+
+the internal logic of such games, but what he records here is his sense that, while these people 
+
+were interested in being social and making friends through Shades, they really value the personas 
+
+crafted online, with no interest in moving outside of that frame. To capture different levels of 
+
+understanding of what is happening, Sinha shifts into various forms and styles at different times. 
+
+The most prominent mode of the memoir is a series of short, prose accounts of events, 
+
+sometimes from different perspectives, but he also includes various materials as needed. In some 
+
+cases, Sinha’s narration is simply the series of text inputs and outputs which would appear on a 
+
+monitor during a series of virtual actions. In shifting between modes, Sinha makes clear the 
+
+different levels of what is going on: expertise in quickly crafting inputs, imagining scenes, the 
+
+Wilcox 7 
+
+ 
+
+social understanding of larger events, and so on. Where Sinha will sometimes simply include a 
+
+line such as “>g brick” to narrate a character picking up (getting) a “broken paving brick” (71) – 
+
+in contrast to which the usual prose descriptions more clearly reflect the addition of imaginative 
+
+work – his description of the assassination utilizes a different approach. After one player sneaks 
+
+away from the party and logs into an alternate account to start a fight with another player present 
+
+at the party, the two end up both online and engage in combat. At the party, a crowd watches the 
+
+event unfold on the monitors, and Sinha records the virtual activity in narrative verse which 
+
+serves to give weight to the actions (111-3). Understanding these different meanings and the 
+
+stakes of such online activity will later support Sinha’s advocacy where he is tasked with making 
+
+people see, and care about, an invisible, long ago gas leak. 
+
+In Cybergypsies, Sinha refers to the brain needed to craft and read such advertisements as 
+
+the “Coconet” (117). This, which “runs on a human brain” and is contained in a coconut-like 
+
+skull, he suggests is “the most powerful computer net in existence.” He goes on to say, “The 
+
+limitless energy-filled space it generates has been known to explorers since the first sapient 
+
+dawn: it is the human imagination.” Sinha’s comments here contextualize the events of the party 
+
+where the “real” world becomes entangled with the “cyber-world.” To this distinction between 
+
+“real” and “cyber,” Sinha corrects, “Dozens of worlds collide daily in our lives, unnoticed. We 
+
+compartmentalize experiences. Some, we say, are ‘real’, the rest ‘in the mind’. What we 
+
+constantly forget is that experience is all in the mind.” He soon after records learning this view 
+
+of the “real” from Luna, who asks how much of our “real” lives he thinks is “lived in the 
+
+imagination” (127). In response to his guess of “Sixty percent,” Luna corrects, “One hundred 
+
+percent.” Sinha’s and Luna’s comments connect conceptually back to the Romantic interest in 
+
+not just nature itself but the interplay between the mind and nature, where the main interest is in 
+
+ 
+
+our own imaginative perception. It is in this context that Sinha brings in Coleridge and De 
+
+Quincey in order to promote the distinct value of something like MUDs. In The Cybergypsies, 
+
+Sinha experiences first virtual murders, then explores the lively dissonance of Bhopal to express 
+
+Wilcox 8 
+
+in a way effective for advocacy work. 
+
+The selection of Coleridge and De Quincey as Sinha’s points of reference is partly due to 
+
+the comparison between opium use and cyberspatial experience, but these two Romantic authors 
+
+also have more distinct contributions. The conflation of cyberspace with drug use is standard in 
+
+cyberpunk, one of Sinha’s contemporary contexts. Additionally, the idea of “cyberaddiction” is 
+
+central to the memoir and its initial reception. In a 2000 study in the field of management 
+
+information systems, Ritu Agarwal and Elena Karahanna cite Cybergypsies passingly as an 
+
+“anecdotal report” describing video game addiction (667). Similarly, in a 2013 study, “Diving 
+
+Too Deep: How Cognitive Absorption and Group Learning Behavior Affect Individual 
+
+Learning,” the authors (Massimo Magni et al.) take Sinha’s memoir as a critical example of 
+
+absorption wherein a disconnect can cause computer users to focus on “the process rather than 
+
+on the activity itself” (52). An early review in The Guardian, titled “Darling, it’s me or the 
+
+modem,” refers to the work as “a cautionary tale, a dark parable of what can go wrong when you 
+
+submit yourself entirely to a realm of stylised fantasy.” In an interview on The WELL, Sinha 
+
+notes, “When I say addicted, I mean at least five hours a day/night online,” totaling costs of 
+
+approximately “Fifty thousand pounds” over a ten-year period, as well as suggesting in 
+
+Cybergypsies that a friend would suffer “withdrawal symptoms” if offline too long (82). This 
+
+element of the memoir then also inspires the graphic novel The Surrogates by Robert Venditti, 
+
+which dramatizes the idea by depicting a society where one can pilot a robotic surrogate body for 
+
+professional or personal use, causing dependence on this technology. Venditti explained the 
+
+Wilcox 9 
+
+ 
+
+influence in an interview with the Orlando Sentinel, stating he had read The Cybergypsies as a 
+
+graduate student at the University of Central Florida. There he described Sinha’s memoir as a 
+
+research project more than a literary work: “Sinha studied people addicted to the Internet. 
+
+Obsession with alternate reality was causing divorces, people were losing their jobs.” 
+
+While the memoir culminates in Sinha’s greater understanding of this online world and 
+
+his relationship to it, most of the text involves him obsessively immersed in that world. Early on, 
+
+he comments, “fighting in Shades is an art in itself” (57). This comes with no explicit 
+
+comparison to De Quincey’s presentation of murder as a fine art, but given the recurring role of 
+
+De Quincey in the overall text, there is an inescapable relevance. Sinha starts with discussing the 
+
+historical murders of Jack the Ripper and pursuing a trail of relevant locations (68). In this 
+
+context, he writes, “A weird fantasy starts inventing itself in my mind,” leading into an earlier 
+
+quoted series of text commands and brief descriptions of effect which would play out in a violent 
+
+scenario such as in Shades (71). This sequence of commands is then returned to at the start of a 
+
+section titled “The art of death” (77). In the process, Sinha has shifted from the historical Ripper 
+
+to a program named “Ripper” which is used to automate some elements of fighting on Shades 
+
+(79). The value of the program is that everything in the game is text-based and playing out in 
+
+real-time with other writers, and so, “The problem with all these fine tactics is that they must be 
+
+typed and if you’re a bad typist, you are dead.” Such automation, however, is a form of absolute 
+
+detachment and removes any sense of passion. For most players, Sinha suggests, “Killing one’s 
+
+friends is as natural as breathing. One murders daily with a song in one’s heart” (78). These lines 
+
+intentionally sound horrific when removed from their proper context, but make sense within the 
+
+idea of (virtual) murder as fine art. In this text-based medium, effective killing means skillful 
+
+reading, skillful typing, and an artful sense of what one can do in this virtual environment as well 
+
+Wilcox 10 
+
+ 
+
+as what this other person is doing. Though such artistry manifests as virtual violence, the danger 
+
+is ultimately a tool to increase one’s rapid engagement with another person online. 
+
+At one point in the memoir, Sinha comments that “what we imagine, we make true.” For 
+
+Sinha, depending on how responsible one is with one’s imagination online, one can either create 
+
+new horrors or something like the “Anatomy of a crime against humanity” appeal for support in 
+
+Bhopal that manifested in the construction of an actual medical clinic in Bhopal, India – not 
+
+something simply described in cyberspace. The possibility of real-world action is suggested from 
+
+the start in Cybergypsies, even before Sinha makes clear what “real world” impact could mean: 
+
+“It is a computer-generated mirage, a cloud castle, a Fata Morgana, yet real people meet here and 
+
+start things which ricochet into the real world” (5). Just as Sinha eventually becomes involved in 
+
+real-world projects, some of the people he encounters online are already involved in projects and 
+
+organizations, and so this global network offers potential for productive connections. Sinha finds 
+
+global connections populated instead by “the cybergypsies”: “the explorers of cyberspace. Theirs 
+
+were the first camps in cyberspace. They mapped it and made its links. They named the 
+
+constellations of its night sky” (8). Sinha’s text is in part about recording this history which was 
+
+already beginning to be forgotten, while he also extends this history further: “generations of 
+
+graffitists have left messages of the utmost puerility … Some older scratches further back in the 
+
+cave: a date, 1781, and initials which look like S.T.C.” – the initials of Samuel Taylor Coleridge 
+
+(19). 
+
+Sinha’s interest is not simply in the personal narrative of getting involved in the online 
+
+world as an adult and applying lessons to advocacy work, but the more fundamental dynamics of 
+
+online sociality and imagination which make up the environment in which younger generations 
+
+might then grow up. The discoveries in cyberspace which may appear shocking to Sinha could 
+
+Wilcox 11 
+
+ 
+
+simply be assumed by a future generation. In this way, the models for online reading and writing 
+
+matter, and Sinha looks in part to Coleridge and De Quincey. At the same time, Sinha’s image of 
+
+Sathyu at the awards ceremony marks a crucial divide. As Shashi Tharoor describes, “You can 
+
+tell the rich from the poor by their Internet connections. The dividing line is not just the poverty 
+
+line but the fiber-optic and high-speed digital lines. The key is the keyboard. Those who do not 
+
+have one risk marginalization; their imagination does not cross borders” (88). The Romantic 
+
+lineage in early electronic writing is a line of inquiry addressed toward such problems. Through 
+
+his reflective mode, Sinha provides a clear vision of why this line of influence is valuable. Sinha 
+
+comments early on, “Being inside someone else’s computer is like wandering round their house” 
+
+(5). As Gaston Bachelard writes about houses in The Poetics of Space, “If we cannot imagine, 
+
+we cannot foresee” (xxxiv). The history which separates us from this early electronic literature 
+
+will always remain a point of difference between the visions of these writers and what we have 
+
+now, but they can still inform our reading and writing practices moving forward. Among more 
+
+formal archival efforts, in imagining a long literature history of electronic literature for the 
+
+future, lyric narratives – particularly in incorporating instances of the computer text as in Sinha – 
+
+will inevitably play a significant role in how future generations experience ephemeral and social 
+
+elit works. 
+
+ 
+
+ 
+
+Wilcox 12 
+
+ 
+
+Works Cited 
+ 
+Argawal, Ritu and Elena Karahanna. “Time Flies When You're Having Fun: Cognitive 
+
+Absorption and Beliefs about Information Technology Usage.” MIS Quarterly, Vol. 24, 
+No. 4, Dec. 2000, pp. 665-694. JSTOR, www.jstor.org/stable/3250951. Accessed 12 Mar. 
+2019. 
+
+Bachelard, Gaston. The Poetics of Space. Translated by Maria Jolas. Boston: Beacon Press, 
+
+1994. 
+
+Curtis, Pavel. “Mudding: Social Phenomena in Text-Based Virtual Realities.” Culture of the 
+
+Internet, edited by Sara Kiesler, Routledge, 1997, pp. 121-142. 
+
+“Darling, it’s me or the modem.” The Guardian, 3 May 1999, 
+
+www.theguardian.com/theguardian/1999/may/04/features11.g22. Accessed 25 Mar. 
+2019. 
+
+Kendall, Lori. Hanging Out in the Virtual Pub: Masculinities and Relationships Online. 
+
+University of California Press, 2002. 
+
+Leonard, Phillip. Literature After Globalization: Textuality, Technology and the Nation-State. 
+
+Bloomsbury, 2013. 
+
+Magni, Massimo, et al. “Diving Too Deep: How Cognitive Absorption and Group Learning 
+
+Behavior Affect Individual Learning.” Academy of Management Learning & Education, 
+Vol. 12, No. 1, Mar. 2013, pp. 51-69. JSTOR, www.jstor.org /stable/23412391. Accessed 
+12 Mar. 2019. 
+
+Nixon, Rob. Slow Violence and the Environmentalism of the Poor. Harvard University Press, 
+
+2011. 
+
+“Shades.” Games World, games.world.co.uk/shades/inshades/history/Mags.htm. Accessed 25 
+
+Mar. 2019. 
+
+Sinha, Indra. “Crime against humanity.” Ads of the World, 16 July 2007, 
+
+www.adsoftheworld.com/media/print/crime_against_humanity. Accessed 25 Mar. 2019. 
+
+--. The Cybergypsies. Simon & Schuster, 1999. 
+--. Interviewed by Reva Basch. The WELL, 
+
+www.people.well.com/conf/inkwell.vue/topics/52/Indra-Sinha-Cybergypsies-Lust-Wa-
+page01.html. Accessed 25 Mar. 2019. 
+
+Tharoor, Shashi. “Globalization and the Human Imagination.” World Policy Journal, Vol. 21, 
+No. 2, Summer 2004, pp. 85-91. JSTOR, www.jstor.org/stable/40209922. Accessed 12 
+Mar. 2019. 
+
+Turkle, Sherry. “Constructions and Reconstructions of Self in Virtual Reality: Playing in the 
+
+MUDs.” Culture of the Internet, edited by Sara Kiesler, Routledge, 1997, pp. 143-156. 
+
+Venditti, Robert. Interviewed by Roger Moore, Orlando Sentinel, 
+
+https://www.orlandosentinel.com/features/orl-livmovie-story-venditti092009sep20-
+story.html. Accessed 23 Jul. 2019. 
+
+

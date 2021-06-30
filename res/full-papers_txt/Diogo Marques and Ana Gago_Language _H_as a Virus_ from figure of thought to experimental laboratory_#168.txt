@@ -1,0 +1,505 @@
+Language |H|as a Virus:   
+
+from figure of thought to experimental laboratory 
+
+Diogo Marques1 
+
+Ana Gago2 
+
+ 
+
+1 University of Coimbra, Centre of Portuguese Literature  
+
+2 Catholic University of Portugal, Research Centre for Science and Technology of the Arts 
+
+ 
+  
+ 
+
+ I have frequently spoken of word and image as viruses or as acting as viruses, 
+ and this is not an allegorical comparison. 
+ 
+William S. Burroughs 
+ 
+
+ If the computer virus is a technological phenomenon cloaked in the metaphor of biology, 
+emerging infectious diseases are a biological phenomenon cloaked in the technological 
+paradigm. As with computer viruses, emerging infectious diseases constitute an example of a 
+counterprotocol phenomenon. 
+  
+Alexander Galloway and Eugene Thacker, The Exploit 
+
+ 
+
+Modernism is a history of infections: by political movements; by mass culture and 
+consumerism; and now by the Internet, information technology, and interactivity. The openness 
+to exteriority and its infections is an essential characteristic of the modernist inheritance, and 
+that inheritance is the will to reveal the Other within oneself, to become Other, to become 
+infected by Otherness. 
+
+Boris Groys, In the Flow 
+
+ 
+
+ 
+From Linguistic Inflection to Artistic Infection 
+
+In  Plague  and  the  Athenian  Imagination  (2007), Robin  Mitchell-Boyask considers  the 
+hypothesis of the Athens Plague being responsible for the ways in which Greek tragedies 
+were  to  be  performed  after  430  BCE.  According  to  Mitchell-Boyask,  not  only  the 
+experience of living in a city ravaged by the plague was reflected in its discourse, “the 
+adjacency of the Asklepieion to the Theater of Dionysus was an important part of their 
+performative  environment  after  420  and  the  construction  of  the  Asklepieion  itself  was 
+part  of  the  Athenian  reaction  to  the  plague.”  (2).  In  order  to  sustain  his  argument, 
+Mitchell-Boyask  refers  to  History  of  the  Peloponnesian  War,  a  narrative  in  which  the 
+Greek historian Thucydides gives a very detailed textual account with regard to the effects 
+of the plague in Athens. Far from being easy and full of rhetorical devices, in every known 
+translation of it, the Greek used by Thucydides is subject to new mutations of the original 
+strain.  Nonetheless,  in  its  essence,  from  the  description  of  symptoms  and  ways  of 
+contagion,  to  the  process  of  creating  immunity,  through  its  description,  the  Plague  of 
+Athens seems to hold more or less what characterizes every single pandemic, namely the 
+
+ways in which physical malaise quickly begins to be confused with social malaise 1. Being 
+a  text  known  for  its  blurring  of  boundaries  when  it  comes  to  genre  categorizations, 
+naturally, language might have something to do with it, for instance, the ways in which 
+words  are  interpreted  as  subject  to  mutations,  in  fact  the  very  word  “pestilence”: 
+ 
+
+Such then was the calamity that had befallen them by which the Athenians were 
+sore  pressed,  their  people  dying  within  the  walls  and  their  land  being  ravaged 
+without. And in  their distress  they recalled, as was natural,  the following verse 
+which their older men said had long ago been uttered: ‘A Dorian war shall come 
+and  pestilence  with  it.’  A  dispute  arose,  however,  among  the  people,  some 
+contending  that  the  word  used  in  the  verse  by  the  ancients  was  not  λοιμός, 
+‘pestilence,’  but  λιμός,  ‘famine,’  and  the  view  prevailed  at  the  time  that 
+‘pestilence’  was  the  original  word;  and  quite  naturally,  for  men's  recollections 
+conformed to their sufferings. (355; our emphasis) 
+
+From Sophocles’ King Oedipus to Boccaccio’s Decameron, Shakespeare’s King Lear or 
+Daniel Defoe’s A Journal of the Plague Year, the experience of different pandemics by 
+these  and  other  authors  seems  to  add  other  layers  of  meaning  to  William  Burroughs’ 
+reflections  on  language  as  a  virus,  namely  in  their  variations,  changes,  ambiguities, 
+errors, accidents, and/or mutations. In the 1970s, Burroughs was mainly thinking of the 
+ways in which writing as a technology is an alien virus that goes undetected because it 
+has a perfect symbiosis with its host. (5). If we are to recognize that language and viruses 
+coexist with the experience and repercussion of every single pandemic, to what extent the 
+concept  of  virality  may  suffer  a  new  mutation  by  influence  of  COVID-19,  most 
+particularly one that is specifically connected to digital media and the Internet? 
+ 
+In  his  2016  book,  In  the  Flow,  Boris  Groys  elaborates  on  Kazimir  Malevich’s  idea  of 
+“infection” among several art styles such as Cubism and Suprematism. Comparing the 
+straight  lines  of  Suprematism  to  the  rectilinear  organic  form  known  as  the  bacillus  of 
+tuberculosis, just as the latter is able to modify its body, Groys tells us how Malevich is 
+able to describe the ways in which “novel visual elements introduced into the world by 
+new technical and social developments modify the sensibility and nervous system of the 
+artist”. However, from the moment he applies the trope of biological evolution to artists 
+and  the  teaching  of  arts,  Malevich  subverts  the  logic  of  immunization  inherent  to  the 
+whole  metaphor.  This  way,  instead  of  incorporating  “new  aesthetic  bacilli,  to  survive 
+them  and  find  a  new  inner  balance,  a  new  definition  of  health”,  artists  “should  not 
+immunize themselves against these bacilli, but on the contrary accept them and let them 
+to destroy the old, traditional art patterns.” (76-78) Consequently: 
+ 
+
+The body of the artist may die, but the bacilli survive that death – and begin to 
+infect  the bodies of other artists. That  is  why Malevich actually  believes in the 
+transhistorical character of art. Art is material and materialist. And that means that 
+art can always survive the end of all the purely idealist, metaphysical projects – 
+whether Kingdom of God or Communism. (78) 
+ 
+
+The idea of hijacking the whole logic of the immune system of arts (and artists) is not far 
+from the ways in which computer viruses and digital virality came to be understood. In 
+
+1  The  word  used  by  Thucydides  is  anomía  (ἀνομία,  -ας,  'absence  of  law,  rule,  order  or  legality':  ἀ-, 
+'deprivation, negation'; νόμος, 'law, rule'), in a description that seems placing phýsis above nómos, the laws 
+of nature, for example, hedonistic pleasure, above other types of laws or conventions (354-5). 
+
+ 
+
+Digital Contagion (2007), Jussi Parikka highlights that the notion of viral is infectious to 
+the point of expanding “into various contexts from cybernetics and computing to biology, 
+literature, television, cinema, and media art”, including “philosophical theory and cyber 
+theory  in  the  1990s.”  (165).  But,  differently  from  Malevich’s  metaphors  of  biological 
+bacilli applied to arts, Parikka’s discussion on viruses goes well beyond the allegorical, 
+suggesting that “the digital virus is becoming-biological and that ultimately the biological 
+deterritorializes and reterritorializes across different texts and contexts.” (Knight: 2015 
+n.p.).  
+ 
+Being  reminiscent  of this article’s initial  epigraph, this layer of literalization  that goes 
+beyond its metaphorical  meaning makes us think of  affinities2. In this sense, while the 
+notion of virus is a trope of contagion that infects, contaminates, and mutates, from the 
+moment  it  became  associated,  by  affinity,  with  digital  media,  it  underwent  a  state  of 
+“becoming-biological” (to use Parikka’s expression), ending in a current state of an in-
+between. Meaning that, as a permeable trope, through that in-between status, the word 
+virus  acts  as  an  interface,  along  different  fields  of  knowledge.  consequently  enabling 
+transdisciplinarity.  And  ultimately,  the  Internet,  “a  space  suitable  to  the  spread  of 
+contagion and transversal propagation of movement (from computer viruses to ideas and 
+affects),”  (Terranova,  as  quoted  in  Parikka:  2010  XXIV),  is  the  perfect  ecosystem 
+presenting ideal conditions for the propagation of these rhizomatic reactions. 
+ 
+Through language, not just understood as “communication or about thinking but a force 
+that materially connects rhizomatically with its outside”, computer viruses are subject to 
+“various assemblages of enunciation (such as mass media acts)”. As such, harmful viruses 
+can mean “malicious software, a security problem, but also a piece of net art, an artificial-
+life  project  or  a  potentially  beneficial  utility  program”  (XXVIII-XXIX),  a  complex 
+definition that is not far from the ways in which virologists Mario Mietzsch and Mavis 
+Agbandje-McKenna  talk  of  the  “good  that  viruses  do”,  understanding  the  potential  of 
+viruses for the development  of “useful biologics with  therapeutic benefits to  humans.” 
+(2017 1). 
+ 
+Accordingly, for them, 
+ 
+
+If a survey were to ask nonvirologists for their opinions about viruses, the word 
+“good” would be unlikely to arise. Instead, words such as “disease,” “infection,” 
+“suffering,” or “life-threatening” would likely dominate, as people primarily think 
+of viruses such as HIV, Ebola virus, Zika virus, influenza virus, or whatever new 
+outbreak is in the news. However, as we are now finding out, not all viruses are 
+detrimental to human health. In fact, some viruses have beneficial properties for 
+their hosts in a symbiotic relationship, while other natural and laboratory-modified 
+viruses  can  be  used  to  target  and  kill  cancer  cells,  to  treat  a  variety  of  genetic 
+diseases as gene and cell therapy tools, or to serve as vaccines or vaccine delivery 
+agents. (2017 1) 
+ 
+
+ 
+
+2 In Biology, “a measure of the attraction of one biological molecule toward another molecule, either to 
+modify it, destroy it, or form a compound with it”. Examples of it being “enzymes and their substrates, or 
+antibodies  and 
+their  antigens.  https://www.genscript.com/molecular-biology-glossary/8371/affinity. 
+Accessed 7 May 2021. 
+ 
+
+The  idea  of  the  “good”  virus  is  not  limited  to  virology,  however.  In  The  Exploit,  an 
+experimental volume made of nodes and edges, Alexander Galloway and Eugene Thacker 
+explore the ways in which “the good-virus concept” is transversal to a series of domains. 
+Central  to  their  argument  is  the  notion  of  networks,  understood  as  “aggregate 
+interconnections of dissimilar subnetworks” (2007 34). Published in 2007, this volume 
+by Galloway and Thacker already anticipates what would later become a pandemic. In 
+fact, their analysis is so anticipatory of the effects that we are now experiencing to the 
+point of being almost indistinguishable, specifically when it comes to understand SARS 
+as a new virology of globalization and its associated transgression of boundaries (90): 
+ 
+
+The SARS virus, for instance, crosses the species boundaries when it jumps from 
+animals  to  humans.  It  also  crosses  national  boundaries  in  its  travels  between 
+China,  Canada,  the  United  States,  and  Southeast  Asia.  It  crosses  economic 
+boundaries, affecting the air travel industry, tourism, and entertainment industries, 
+as well as providing initiative and new markets for pharmaceutical corporations. 
+Finally, it crosses the nature– artifice boundary, in that it draws together viruses, 
+organisms, computers, databases, and the development  of vaccines.  Its  tactic is 
+the flood, an age - old network antagonism. (91). 
+ 
+
+Largely derived from General Systems Theory, Galloway and Thacker’s amplification of 
+the principles governing networks enables them to state that, when it comes to infectious 
+diseases,  they  “take  advantage  of  a  range  of  networks,  many  of  them  human  made: 
+biological  networks  of  humans  and  animals,  transportation  networks,  communications 
+networks,  media  networks,  and  sociocultural  networks.”  In  this  sense,  “[m]edia  and 
+sociocultural networks can work as much in favor of the virus as against it – witness the 
+pervasive  media  hype  that  surrounds  any  public  health  news  concerning  emerging 
+infectious diseases.”  (119).  
+ 
+Nonetheless, if, in 2005-2007, Galloway and Thacker’s understanding of the potentially 
+nefarious effects of media and sociocultural networks came in association with the fear 
+of bioterrorism,  in  2020-2021, in  the midst  of a pandemic, it became linked to  the so-
+called  post-truth  era,  namely,  a  populism  and  authoritarianism  marked  by  waves  of 
+misinformation.  As  a  network  that  congregates  and,  to  some  extent,  paradoxically 
+(im)materializes many other subnetworks – communications, information, socio(cultural) 
+networks – the infectious possibilities of Internet seem evident. What possibilities remain, 
+then,  for  “good  viruses”  to  take  advantage  of  the  networking  abilities  of  its  (g)host3 
+medium? 
+ 
+ 
+Art in Quarantine: a (post?) pandemic atlas 
+
+Reminiscent  of  a  “good”  viral-like  behaviour  intrinsic  to  mail  art  culture  and 
+community(ies) working as subnetworks, project “Art in Quarantine” (AiQ)4 project is an 
+online gallery currently hosting more than 900 artworks produced in the first 40 days after 
+the Covid-19 pandemic status (March – April 2020) by more than 350 authors from 57 
+different countries and aimed to facilitate a safe place for artistic creation and exhibition. 
+
+ 
+
+3 Reference to Marcel Duchamp’s famous wordlyphagic wordplay: “A Guest + A Host = A Ghost”, printed 
+and  distributed  during  the  opening  of  William  Copley's  show  at  Galerie  Nina  Dausset,  Paris,  1953.  
+http://archives.carre.pagesperso-orange.fr/Duchamp%20Marcel.html. Accessed 7 May 2021. 
+4 https://wreading-digits.com/art-in-quarantine/ 
+
+In  adopting  several  principles  of  mail  art  culture  to  the  digital  sphere,  namely 
+collaborative  practices  as  a  form  of  disrupting  conventional  (art)  channels,  the  AiQ 
+project was launched after an international Open Call for (e-)mail art and art via email by 
+Portuguese cyberliterature collective wr3ad1ng d1g1t55, making use of mail art channels 
+in digital communication – a subnetwork in itself that, to a large extent, already started to 
+depend on the Internet to keep its global snail mail circulation alive –as its main strategy 
+of promotion. 
+ 
+
+ 
+Fig. 1 Art in Quarantine, Interface. Screen Capture.  
+https://wreading-digits.com/art-in-quarantine/#all-entries-2 
+
+ 
+
+Functioning as a net art installation, it includes an interactive digital map in which users 
+can track the arrival of artworks by day and location. Symbolically subverting a logic of 
+infection, contamination, and contagion (from Latin contagionem, “a touching, contact”), 
+this virtual interface conveys and reveals, day after day, the transmission chain of artistic 
+expression, or infection, as proposed by Malevich. 
+
+On  the  whole,  the  gallery  features  artworks  covering  multiple  formats  and  genres  and 
+presents  two possible types of display:  an individual gallery, containing the individual 
+experiences of each of the participant authors, as well as a collective gallery featuring all 
+of the artworks, and presenting yet with another type of experience, that is, the possibility 
+of identifying visual patterns from a global experience of confinement due to COVID-
+19.  
+
+ 
+5 https://www.wreading-digits.com.  
+
+ 
+
+ 
+Fig. 2 Art in Quarantine, Collective Gallery. Screen Capture.  
+https://wreading-digits.com/art-in-quarantine/#all-entries-2 
+ 
+One  of  the  main  characteristics  of  AiQ  collective  gallery  is  the  fact  of  having  as  an 
+inspiration Aby Warburg’s Atlas Mnemosyne project (1929). In its surviving, unfinished 
+version, the Atlas Mnemosyne consisted of a series of 63 panels, composed of more than 
+900 drawings, prints, newspaper clippings and photographic reproductions of paintings, 
+sculptures and everyday objects. Focusing on the Renaissance period but drawing patterns 
+of a visual continuity from Ancient Greece to the Republic of Weimar, this fractal-like 
+montage  displayed  Warburg’s  attempt  of  representing  two,  often  dueling,  types  of 
+responses to psychological and emotional events. As described in the draft “Introduction” 
+(“Einleitung”) to the Atlas, the first being a Dionysian, reactive and “phobic-kinetic”, and 
+the second an Apollonian, more reflective and “artistically” contained type of response 
+(Newman; Hatch n.p.)6. 
+ 
+
+ 
+Fig  3.  Atlas  Mnemosyne,  Panel  46,  “Nymph.  'Hurry-Bring-It'  in  Tornabuoni  circle. 
+Domestication”. Credits: The Warburg Institute, Cornell University 
+https://warburg.library.cornell.edu/  
+
+ 
+
+6 https://warburg.library.cornell.edu/image-group/panel-70-introduction-1-5. Accessed 7 May 2021. 
+ 
+
+ 
+
+One of the particularities of the Atlas Mnemosyne is the way in which Warburg applied 
+the  concept  of  “bewegtes  Leben”  (life  in  motion  or  animated  life)  to  artistic  images, 
+exploring  the  idea  of  “Gebärdensprache”  (language  of  gesture)  as  an  earlier  type  of 
+“pathosformel”  (pathos  formula),  composed  by  emotionally  charged  visual  tropes  that 
+were directly transmitted from the Antiquity by Renaissance artists. By doing so, as Didi-
+Huberman  describes  in  The  Surviving  Image  (2002),  the  author  experiments  on  the 
+possibility of assembling an Atlas (or, one could say, a network) of archetypal forms of 
+knowledge, memory, and desire, (in)forming western (psycho-emotional) history:  
+ 
+
+To  this  Warburg  replies  simply  that  images  do  not  call  solely  upon  vision. 
+(...) They  do,  at  first,  call  upon  the  act  of  looking,  but  also  upon  knowledge, 
+memory,  and  desire,  and  upon  their  capacity,  which  is  always  available,  of 
+intensification. This already means that they involve the subject in its totality—
+sensorial, psychological, and social. (Didi-Huberman 88-89)  
+
+In  this  sense,  just  like  Malevich,  Warburg  analyses  artistic  images  through  the 
+contemplation  of  their  materiality  and  transhistorical  nature,  but,  unlike  the  former, 
+associating it with its ability to intensify sensorial and psychological experiences, as well 
+as to generate meaning. Following Warburg’s psychoanalytic and iconographic approach, 
+it  is  possible  to  identify  some  of  the  themes  or  archetypes  enunciated  by  the  Atlas 
+Mnemosyne in AiQ’s galleries, more precisely the tensions and dualities encapsulated in 
+these pathos-charged representations  of the pandemic experience.  For instance,  pathos 
+formulas of sacrifice and triumph, order and chaos, anger and resignation, ecstasy and 
+melancholy, and often abstraction (more or less exuberant or humoristic) as a response 
+mechanism to fear – or to what Warburg would call loss of “the how of metaphor” (Hönes 
+n.p.)7,  or 
+invisible  and 
+incomprehensible  threat.  Alongside,  their  corresponding  visual  and  sound  trope-like 
+motifs: the contrast between inside and outside life, transparency and opacity, windows 
+and screens, stillness and movement, noise and silence, greyness and vividness of colours, 
+animistic and geometrical representations of the virus.  
+
+lack  of  recognizable  explanations  when  facing  an 
+
+Another relevant aspect is the way in which artistic representations are indeed permeated 
+by digital media aesthetics and apparatus, confirming the idea that digitality and mediates 
+every single aspect of this pandemic. Falling under the spectrum of electronic literature, 
+the panel of three selected artworks to be further analysed, and regardless of their fractal 
+nature,  function  as  organisms  that  are  part  of  a  specific  subnetwork,  or  population.  In 
+their self-reflective nature, revealing language as a form of virus in itself, these artworks 
+act as distinctive virus strains that make distinct uses of different programming and poetic 
+languages for artistic purposes: a mobile screen capture performance, a generative online 
+memorial, and a software system/digital art installation. In this sense, this sample also has 
+the potential to take even further the idea of written language as a virus on itself, both as 
+a figure of thought and an experimental laboratory for artistic/literary creation. 
+ 
+In Status Offline8 Lebanese visual artist and photographer based in Paris, Clara Abi Nader, 
+makes use of screen captures and screen recordings of her mobile’s videos, photos and 
+text  notes  in  order  to  produce  a  performance  of  an  alternative  daily  life,  while  in 
+
+ 
+
+7 https://warburg.library.cornell.edu/image-group/panel-45-introduction. Accessed 7 May 2021. 
+8  Part  of  short-video  series,  “Thoughts  on  Screen”.  https://www.claraabinader.com/thoughts-on-screen. 
+Accessed 7 May 2021. 
+ 
+
+confinement. Largely deprived from physical access to the outside world, the colourful 
+videos and photographs stored in her mobile phone are used in order to  (re)connect to 
+nature, by revisiting a specific selection of  summertime visual tropes. Using a layer of 
+textual  notes  intended  to  express  sensorial,  emotional  and  psychological  experiences 
+associated  with  her  memories,  the  author  creates  a  fictional  narrative,  an  infectious 
+literary  constructo  overlapping  present  reality  indoors,  and  weaving  meaning  into  the 
+otherwise isolated videos and images portrayed.  
+ 
+
+ 
+
+ 
+Fig 4. Status Offline, Clara Abi Nader, 2020. Screen Capture. 
+https://wreading-digits.com/art-in-quarantine  
+ 
+During  performance, the device and its mediating action is  always made  visible,  but  a 
+sense of proximity, or even intimacy, prevails, whilst it is the medium that grants us access 
+to the author’s feelings and thoughts animated through writing. Ironically, this piece ends 
+with a disclaimer stating that “Clara isn’t online”, playing with the fictional nature of life 
+inside and outside the (digital) screens.  
+ 
+In  our  second  example,  Patient  Zero  (In  Memory  of  Anyone  Unknown  to  Me)9,  by 
+Portuguese  digital  artist,  Pedro  Alves  da  Veiga, an  adaptation  of  Elizabeth  Jennings´ 
+poem “In Memory Of Anyone Unknown To Me” is used as part of an interactive online 
+memorial of a different kind. Mimicking the action of a virus, the poem is hacked and 
+transformed into text-dust animated sentences, conveying an additional, visual, layer of 
+poetic  meaning;  “From  ashes  to  ashes”.  The  poem  is  then  placed  in  dialogue  with  a 
+symbolic  and  interactive  representation  of  the  transmission  chain  of  the  Coronavirus, 
+through which the author pays homage to COVID-19 victims worldwide.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9 https://pedroveiga.com/patient-zero/  
+
+ 
+
+ 
+Fig 5. Patient Zero (In Memory of Anyone Unknown to Me), Pedro Veiga, 2020. Screen 
+Capture. 
+https://wreading-digits.com/art-in-quarantine  
+
+ 
+
+The individuals are represented by bright blue particles, except for Patient Zero, a single, 
+initially  infected  individual,  represented  in  contrasting  red.  Their  real  name,  age  and 
+country of origin, generated from actual national databases, are (finally) made visible by 
+the author, humanizing otherwise undifferentiated, anonymised particles. By interacting 
+with the screen, the observer, whose cursor is presented as “The Economy”, accelerates 
+the contact between infected individuals, spreading the disease and increasing the death 
+toll. The interaction is accompanied by a soundtrack comprising a slowed down speech 
+by Brazilian President Jair Bolsonaro, in March 2020, famously comparing Coronavirus 
+to a mild flu and condemning lockdown strategies adopted in other countries.  
+ 
+Presenting a distinct form of digital contagion, the third example, viral#c, by polish artist, 
+mathematician and composer Robert B. Lisek, is a is a digital rendering of the software 
+program developed in the context of a larger project which previously resulted in a video 
+and  sound  installation10.The  program  allows  for  the  combination  of  the  author’s  DNA 
+sequence with that of different viruses (Lloviu virus, Polio virus, Marburg virus, HIV and 
+Ebola virus), which gradually transform the initial sequence, generating new, entwined, 
+sequences. The newly generated sequences are then converted, in real time, into pointing 
+colour and sound outcomes and retroactively fed back into the machine.  
+ 
+
+ 
+10 http://lisek.art.pl/CAPITAL.html  
+
+ 
+Fig 6. viral#c, Robert B. Lisek, 2020. Screen Capture. 
+https://wreading-digits.com/art-in-quarantine  
+ 
+By exposing the wordlyphagic processes present in the interaction of the author’s genetic 
+code with that of viruses and other pathological human and nonhuman agents – in this 
+case,  the  software  program  that  acts  both  as  a  mediator  and  an  active  coauthor  – 
+ultimately, in its AiQ rendering, viral#c reveals that language is indeed a virus, and that 
+viruses are language, in whatever form they may take. 
+
+ 
+
+Burroughs  understood  language  in  its  material  dimensions  and  infectious  ability  to 
+generate and transmit meaning, acting both as a medium and a significant of its own, i.e., 
+acting  like  other  cultural/technological  artifacts/mediators  which  assume  a  symbiotic 
+behaviour in regard to their (non)human host. Similarly, in applying the idea of “life in 
+motion”  to  (artistic)  images,  Aby  Warburg  was  profoundly  influenced  by  the 
+technological  production  of  his  time,  namely  the  advances  in  chromatography, 
+dynamography  and  the  seismograph.  As  Didi-Huberman  points  out  in  The  Surviving 
+Image, Warburg’s notions of the Pathosformel and the Dynamogramm presuppose “an 
+energetic  and  dynamic  conception  of  the  trace,  which  is  viewed  as  a  reflexive 
+prolongation of the organic movements—mediated, however, by a stylus [style], a word 
+that  must  be  understood  in  its  technical  sense  as  well  as  in  the  aesthetic  sense.”  (71). 
+Furthermore,  Warburg  would  compare  his  own  work  as  an  historian  to  that  of  a 
+seismograph,  when  trying  to  decode  and  translate  the  pathological  shockwaves  of 
+historical events amongst his own, interior, experience of the event, the symptom, being 
+that the seismic action also necessarily affects the device itself, making it, empathically 
+tremble. 
+ 
+Demonstrating  Parikka’s  view  on  the  Internet,  himself  a/effectively  infected  by 
+Terranova, the AiQ project is representative of an optimal ecosystem for the propagation 
+of  movement,  “often  with  a  special  emphasis  on  bottom-up  emergence”  (2010:  XVII). 
+Namely by, taking advantage, (using Galloway and Thacker’s words), on the one hand 
+of the Internet, a rhizomatic and viral-like sociocultural subnetwork, and, on the other, 
+the  subnetwork  of  artists  in  quarantine,  in  order  to  create  an  online  space  for  benign 
+artistic infection.  Constituting at the same time, material and immaterial, the Internet is 
+a  potential  experimental  laboratory,  materializing  some  of  the  Coronavirus  own 
+characteristics; an airborne transmission virus, made visible only through its tropes (or 
+masks) and symptoms. 
+
+References 
+
+Burroughs, William S. The eletronic revolution, Ubu Classic, 2005. 
+
+Didi-Huberman,  Georges.  The  Surviving  Image.  Phantoms  of  Time  and  Time  of 
+Phantoms. Trans. Harvey L. Mendelsohn. The Pennsylvania State University Press, 2017. 
+
+Galloway, Alexander R., and Eugene Thacker. The exploit: A theory of networks. Vol. 
+21. U of Minnesota Press, 2007. 
+
+Groys, Boris. In the Flow, Verso, 2016. 
+
+Hönes,  Hans  Christian.  “Panel  45  –  Introduction”.  Mnemosyne:  Meanderings  through 
+Aby  Warburg’s  Atlas,  https://warburg.library.cornell.edu/image-group/panel-45-
+introduction. Accessed 7 May 2021.  
+
+Knight, Kim. “Sublime Latency and Viral Premediation.” electronic book review, Spring 
+2015. 
+ http://electronicbookreview.com/essay/sublime-latency-and-viral-premediation/. 
+Accessed 7 May 2021. 
+ 
+Mietzsch, M., & Agbandje-McKenna, M. “The good that viruses do”, Annual review of 
+virology, 4, iii-v, 2017. 
+
+Mitchell-Boyask, Robin. Plague and the Athenian imagination: Drama, history, and the 
+cult of Asclepius. Cambridge University Press, 2007. 
+
+Newman,  Jane  O.;  Hatch,  Laura.  “Panel  70  –  Introduction.  The  Baroque  as  the 
+Renaissance?”.  Mnemosyne:  Meanderings 
+through  Aby  Warburg’s  Atlas, 
+https://warburg.library.cornell.edu/image-group/panel-70-introduction-1-5. Accessed 7 
+May 2021.  
+
+Parikka, Jussi. Digital contagions: A media archaeology of computer viruses, Peter Lang, 
+2010. 
+
+Thacker, Eugene. Biomedia. Vol. 11. U of Minnesota Press, 2004. 
+
+Thucydides.  History  of  the  Peloponnesian  War.  Trans.  Charles  Forster  Smith.  Loeb 
+Classical  Library.  Cambridge,  MA:  Harvard  University  Press,  1956.  Available  at: 
+https://ryanfb.github.io/loebolus-data/L108.pdf. Accessed 7 May 2021. 
+
+ 
+
+

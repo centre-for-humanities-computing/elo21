@@ -1,0 +1,348 @@
+Platform-based Rules of (Un)Notice 
+
+ 
+
+Digital literature and attentional modulation 
+
+ 
+
+ 
+
+ Inge van de Ven 
+Tilburg University 
+i.g.m.vdven@tilburguniversity.edu 
+
+William James famously defined attention in terms of focused concentration: an act of zooming in on one 
+out of many possible objects. In our current hypermediated moment, such acts of focused attention have 
+become more difficult, to the point where we have come to rely on multiple sources of input in order to 
+be  able  to  concentrate.  How  to  decide  what  to  attend  to  and  what  to  disregard  becomes  a  pressing 
+aesthetic, ethical, and even political issue (if it had not always been).  
+ 
+Traditionally,  literary  studies  have  celebrated  the  close  reading  of  texts  in  a  mode  of  ‘deep’,  focused 
+attention, as a core skill. However, a reader, it is impossible to pay equal attention to all details in a text. 
+Narrative  texts  are  written  in  a  way  that  helps  us  modulate  our  attention.  Certain  elements  are 
+‘foregrounded’, causing heightened attention, and others are ‘backgrounded’, nudging the reader to read 
+them in a more superficial manner. In 1987, Peter Rabinowitz compiled what he called the ‘rules of notice’ 
+by which the details in a narrative are hierarchically organized in such a way that a reader knows on what 
+elements to focus.  
+ 
+A lot has changed since then. In our present attention economy, where we receive texts and images from 
+myriad sources and channels on a daily basis,  attentional flexibility and modulation are arguably more 
+important than ever. Yet, the rules of notice seem to be missing: reading online, we are not always given 
+a clear, hierarchical structure, and no one is telling us when to pay attention and when we can comfortably 
+skim. We do not always know beforehand what might turn out to be of importance, and there is a feeling 
+of  being  engulfed,  that  there  is  something  that  we  are  missing.  This  is  reflected  in  works  of  digital 
+literature. 
+ 
+In this paper, I attend to the different rhythms and attentional modalities of engaging with electronic and 
+digital literature. What are the different modes of reading and what is their relationship to different media 
+environments and platforms? How do works digital literature both reflect and anticipate different modes 
+of  reading  and  attention?  How  does  their  utilization  of  platform  affordances  incite  us  to  modulate 
+attention? I show how these works incite us to combine a whole range of attentional stances and foci 
+from broad to narrow, vigilant to absorbed to distracted, and deep to hyper (Bennet 2018; Ensslin 2014). 
+In  some  cases,  an  absence  of  rules  of  notice,  I  argue,  I  is  part  of  the  procedural  rhetoric  and  overall 
+meanings  of  these  works,  which  perform  overly  familiar  experiences  of  being  overwhelmed  and  not 
+knowing when and where to focus. In other cases, attention or immersion are guided in innovative ways, 
+not by the narrative itself but through media- or platform specific affordances. These works challenge and 
+train  our  analytical  and  hermeneutic  abilities  and  ‘cognitive  patience’  (Wolf  2018)  and  ask  for  the 
+development of platform literacy. 
+ 
+Attention 
+ 
+It has by now become a commonplace to say that we live in an attention economy. Of course we have 
+more texts, information, and forms of entertainment at our disposal today than in earlier historical times. 
+
+Where there was once a scarcity of information, we are dealing with an excess, and a shortage of time, 
+cognitive resources, and especially attention. As a principle that originated in marketing, the attention 
+economy  describes  how  attention  becomes  currency.  Companies,  media,  and  influencers  enter  into 
+competition for capturing and retaining our attention, and we express the value of things in views, clicks, 
+likes and shares. Social media have the mechanisms of machine gambling built into their platforms, to 
+keep us coming back and checking in. Attention is quantified and commodified in a world saturated with 
+media.  
+ 
+Different media forms organize our attention in different ways. Literary studies has traditionally paid a lot 
+of  attention  to  close  reading  and  to  textual  characteristics  that  invite  focused  attention,  for  instance 
+foregrounding devices. However, since it was always impossible to closely focus on every single word, 
+reading has always been about selection and about modulating attention.  In Contemporary Fictions of 
+Attention,  Alice  Bennett  argues  that  literary  reading,  far  from  being  a  linear,  immersed,  and  stable 
+process, always has a dynamic mixture of attention and distraction built in. Bennett writes of the book as 
+a “constantly interrupted object” with mechanisms like  ‘footnotes, cross-references,  indexes, margins, 
+chapter  breaks,  subheadings,  page  numbers,  [and]  bookmarks’  that  manage  their  requirements  for 
+attention. Reading, according to Bennett, is ‘never undividedly attentive and always somewhat shifting, 
+disrupted and unfocused’ (2018, 17).  
+ 
+How does the brain select what to attend to? Theories of attention generally distinguish bottom-up and 
+top-down processes, the first referring to our natural attraction to certain salient environmental stimuli 
+(say,  we  see  something  shiny)  and  the  latter  to  the  ways  in  which  our  goals  determine  what  we  find 
+relevant  to  focus  on  (we’re  browsing  old  pictures  and  looking  for  a  child  in  a  red  dress).  Bottom-up 
+attention often occurs without conscious thought, it is part of our survival instinct; top down attention, 
+on the other hand, requires effort and concentration (Gallagher 2009). Michael Posner’s (2012) seminal 
+theory proposes three attentional stages: first alerting (bottom-up forces make us aware of new aspects 
+in our environment), orienting (we integrate them into our conscious state), and executive (we resolve 
+conflicts and make decisions about how to attend stimuli). 
+ 
+Reading and discourse processing, it follows, are necessarily selective dynamics that combine bottom-up 
+and top-down processes of attention: part of its selection processes guided by reader psychology and part 
+guided by the particular manner in which the text is written or the object is  constructed. As far as the 
+latter is concerned, for written text, the so called Rhetorical Focussing Principle (Sanford & Emmott 2012) 
+holds that the writer causes the reader to pay particular attention to certain elements, and read others in 
+a more shallow manner.  
+ 
+In his 1987 book Before Reading, Rabinowitz collected the ‘rules of notice’ by which this priming and this 
+hierarchical structuring of details occurs. He distinguishes three general subclasses of rules: of position 
+(e.g., titles, beginnings and endings of sections, epigraphs and subtitles), of intratextual disruption, and 
+extratextual  deviation.  They  affect,  first,  ‘noticeability’  (where  to  place  our  attention),  and,  second, 
+‘scaffolding’ (the notion that our interpretation of the text’s overall meaning should be able to account 
+for those elements).  
+ 
+Textual manipulations to guide attentional selection are often described in terms of foregrounding and 
+backgrounding techniques. Foregrounding is a term used for unusual or surprising linguistic forms or an 
+unusually  high  or  low  density  of  particular  forms,  causing  heightened  or  sharpened  focus  on  those 
+elements.  These  stand out  by  disrupting  the  continuity of  the  text  itself,  or  going  against  extratextual 
+norms. Foregrounding can occur on all linguistic levels: typographic (including punctuation), phonological, 
+
+lexical/semantic, syntactic, and discursive (see Leech and Short 2007 for a comprehensive inventory of 
+examples on all levels).  
+ 
+If  certain  details  draw  our  focus,  it  is  only  natural  that  others  should  be  more  ‘skimmable’  or  even 
+‘skippable’ by comparison. We tend to skip words that are highly predictable, repetitions (however, in 
+some  cases  these  can  cause  heightened  attention  as  well),  certain  forms  of  seemingly  irrelevant 
+information (yet again, this could go both ways), long descriptions (e.g., of landscapes), long dialogues, 
+detailed  character  descriptions,  graphic  content,  the  overly  obvious  or  overly  complex,  but  also 
+suspenseful  passages.  Whereas  there  is  an  established  body  of  empirical  studies  into  foregrounding, 
+strategic  backgrounding  has  received  far  less  attention.  An  example  of  backgrounding,  the  de-
+emphasizing of information, is a technique called ‘burying’, where the writer hides a piece of information 
+in a subordinate clause. In detective fiction, this is often done in such a way that a clue can be introduced 
+and barely decoded by the reader, so that it will only in retrospect be discovered as a clue. In Agatha 
+Christie’s  Sparkling  Cyanide  for  instance,  the  character  who  will  turn  out  to  be  the  murderer  is  first 
+introduced  in  an  -ing  clause  embedded  in  a  description  of  another  character,  surrounded  by  new 
+information (Sanford & Emmott 2012, 92). 
+ 
+As we see, the way in which readers modulate attention is partly prompted by textual characteristics. 
+Attention, however, is not a static faculty: our modes of attention, as Walter Benjamin knew, change along 
+with  our  environment,  and  with  the  media  we  use.  Whereas  William  James  still  famously  defined 
+concentration  in  sharp contrast  to  distraction, today,  as  Kristin  Veel  (2011)  argues,  we  are  so  used  to 
+receiving input from multiple channels that we might need distraction precisely in order to concentrate. 
+This can be seen in newer forms of texts that do not adhere to the classic ‘rules of notice’ and their pre-
+determined hierarchy of details. We can think of art forms that display a ‘database aesthetic’ (Veel 2011) 
+as well as monumental novels (Letzler 2017; van de Ven 2019).  
+ 
+In attempts to extract information from cascades of data, artist Hito Steyerl (2016) writes, vision loses its 
+importance and is replaced by filtering, decrypting, or pattern recognition. The same can be said about 
+acts of reading. When it is no longer humanly possible to determine meaningful patterns in a large body 
+of text, an undecidability occurs that has everything to do with the ways in which we are bombarded with 
+information in daily life. The reader needs to do the hard cognitive work of sorting out what needs to be 
+read and what can be skimmed. There is always the chance that something vital is missed, which makes 
+such works typical for our experiences in an information age. 
+ 
+ 
+E-lit and platform literacy  
+ 
+Scott Rettberg (2019) defines electronic literature as forms and genres of writing that explore the specific 
+capabilities of the computer and network, that are procedural and computational, and processed across 
+multiple platforms, protocols, and technologies. Platforms are, then, not accidental to their effects and 
+our  engagements  with  literature:  they  afford  as  well  as  limit  our  experience.  Platforms  are  designed 
+environments that distribute control. They might be monetized, copyrighted, and negotiate forms and 
+levels of visibility and privacy (Van Nuenen 2018). Their technological affordances (e.g. their possibilities 
+for interaction) in turn shape social affordances, determining what types of sociality and community can 
+be  built  on  them.  Attention  to  platforms  broadly  includes  programming  languages  (Marino 2020), the 
+integration of  hardware  and  software  (Bogost  &  Montford  2007),  the  ongoing integration of works  in 
+databases (Ackermans & van de Ven 2020) as well the appification of e-lit. On the one hand, the ongoing 
+platformization of culture and literature means the focus of scholars of e-lit is necessarily broadened to 
+
+take this infrastructure into account when discussing works, on the other, attention to platforms on the 
+level of the work itself necessitates ‘platform literacy’. After all, the affordances and constraints of given 
+platforms for electronic or digital literature such as Twine or Flash have effects on the modes of attention 
+solicited by the works that are created with them.  
+ 
+ 
+Electronic literature and attentional modulation 
+ 
+How  does  attentional  modulation  work  in  case  of  multimodal,  digital  works  of  literature?  Works  of 
+electronic or digital literature have a whole range of devices at their disposal in addition to the narrative 
+techniques for foregrounding and backgrounding. They can manipulate attention by way of multimodality, 
+multilinearity and maximalism, moving text, deviating typography and sound effects. In order to analyze 
+these techniques, what needs to be added to the ‘rules of notice’ for narrative is attention to platform- 
+and media specific affordances. The scope of this paper will not allow for a full inventory of such rules, so 
+I  will  describe  attentional  modulation  in  relation  to  four  texts  to  convey  a  range  of  devices  and  their 
+combination: expanding and contracting ‘stretchtext’, moving, dynamic, or streaming text, RSVP, prompts 
+for close reading, and immersive devices.  
+ 
+Pry  (Tender Claws, 2014)  is an app for iOS, and as such has to work with the platform affordances of 
+Apple. Apple, which is hybrid in the sense that the company focuses on both products and platforms, has 
+strict rules for the aesthetic of their applications and what can and cannot be done on their devices. It 
+offers gadgets but also the software that allows people to integrate them into their daily lives, and allows 
+for feedback between different apps. Pry asks its readers/viewers to haptically navigate layers and layers 
+of  text  that  can  be  scrolled  through  in  all  directions  in  a  formal-material  rendition  of  the  stream  of 
+consciousness  monologue.  The  experience  of  textual  excess  here  mimics  the  state  of  mind  of  the 
+protagonist, as the creators explain: ‘The whole point of the interface is to capture the sense of being 
+overwhelmed. We use this sense of overload and endlessness as a way of mirroring James’ internal state’ 
+(Holmes 2014). The text literally expands and contracts, new blocks appear between the lines, and it is 
+impossible to read it all in one uninterrupted flow. Pry asks us to read with attention to scale variance, a 
+reading that, divergent and explorative, zooms in and out. While scrolling and scanning, my eye could fall 
+on a passage that would hand me a key to my scaffolding for an interpretation of the overall meaning of 
+the work. For instance, when the text itself seems to thematize its reading in snippets like: ‘something 
+about inherited attention span’ and ‘I keep going because in the next line, in the next code, I will find the 
+secret’. These sentences drew my eye, as a reader with the theme of attention on her mind, yet for other 
+readers  they  will  be  different,  very  much  like  a  textual  equivalent  of  Barthes’  (1981)  ‘punctum’  in 
+photography. 
+ 
+Porpentine  Charity  Heartscape’s  With  those  we  love  alive  (2014)  was  made  for  Twine.  Twine  was 
+originally designed for branching path narratives, often called Choose your own adventure stories. The 
+platform  hypertextual  and  browser-based  rather  than  parser-based,  which  increased  usability  for 
+creators, who do not have to work with code. Twine is open source and open access. Functionalities can 
+be added using HTML, CSS or JavaScript. A ‘node map view’ offers a visual interface of the work’s structure 
+(Rettberg 2019).  As  works  are  published  straight  to the web,  it  connects  easily  to  social  networks.  An 
+amateur interactive fiction and hypertext community could be built thanks to these affordances. With 
+those we love alive is a dystopia that centers on a character enslaved by a monstrous larval queen. The 
+work  consists  of  poetic  fragments  in  a  hypertext  structure  with  choices  that  fan  out,  and  solicits  a 
+modulation between close and hyperreading. Both the text and the background change colors, dependent 
+on the choices you make. Heartscape makes use of a device called ‘stretch-text’: hyperlinks that make the 
+
+on-screen text expand with new lines or paragraphs emerging between the lines.  Sometimes when you 
+choose and click an option, the unstable text jumps to another point on the screen, so that descriptions, 
+adjectives or a character’s characteristics change. This textual fluidity inspires a non-linear reading with 
+fleeting attention. What makes this electronic text unique, however, is that it wears its rules out notice 
+on its sleeve, as it explicitly indicates when it pays off to pay attention and close read. This happens quite 
+literally, like when you arrive at a defamiliarizing, poetic description, like  
+
+‘Urchins draw lines in the dust, doing their rituals of luck against starvation and luck against police 
+brutality’ 
+
+and  your  choices  are  to  either  ‘watch’  ‘look  away’.  This  takes  you  out  of  your  rhythm  of  reading  and 
+navigation, it urges you to slow down, take it in (or actively reject such an experience, understanding this 
+entails  an  ethical  and  political  act  as well).  ‘Textual  adventure  games’  typically  emphasize  action.  Yet, 
+Porpentine  Charity  Heartscape’s  work  gives  us  choices  that  are  mundane  and  introspective.  You  can 
+choose to take a nap (the screen will turn to black) or lie awake, to meditate, to regulate your breathing 
+(when you hold your breath the text disappears and the background music stops). The author says in an 
+interview about one of her works: ‘The only way to get anywhere ... is to stop consuming and start paying 
+attention.’1 The reader must engage in close reading to grasp the meaning of the rich text, yet, as a work 
+of interactive fiction that is constantly shifting, it also asks us to hyperread with dispersed attention and 
+attune to textual fluidity. These devices together amount to a unique rhythm of reading.  
+ 
+Serial  flash  text  is  based  on  the  cognitive  techniques  of  Rapid  Serial  Visual  Presentation  (RSVP)  that 
+measures attention by noting eye blinks. In e-lit, it has famously been used by the collective Young-Hae 
+Chang Heavy Industries whose  texts have  been programmed in flash  with sped-up synchronization of 
+poetry  to  the  beat  of  jazz.  Adobe  Flash  is  a  multimedia  software  platform  with  a  timeline-based 
+development environment (Rettberg 2019). Its dependence on key frames and processing instead of the 
+labor- and data-intensive methods of traditional animation deeply transformed how graphic animations 
+were produced and distributed (Salter & Murray 2014).  It was a flexible platform that allowed poets who 
+with little experience in coding to work with animation and media elements on a relatively straightforward 
+interface. There are also constraints for creating works of digital literature: readers are unable to see how 
+a work is constructed, because the source files and playable output are separated (Rettberg 2019). 
+ 
+YHCHI’s work refers back to the black and white animations on the original Macintosh screens.  Take the 
+example of the six-minute Flash poem ‘Lotus Blossom’ (2002).2 When the music by Kenny Dorham gathers 
+speed, the text follows suit. Single words or short phrases are fired at the reader in quick succession in a 
+single typeface (usually Monaco) in large font, with jump cuts between words and phrases. The experience 
+is  marked  by  a  lack  of  interactivity:  the  text  is  constantly  changing  and  can’t  be  paused,  it  runs 
+continuously from beginning to end with a speed that at times renders it illegible. The result is, in Jessica 
+Pressman’s words, a ‘visual onslaught of text that produces an affect of difficulty through […] an aesthetic 
+of inaccessibility’ (Pressmann 2009, 318). The lack of control you experience as a reader means you can 
+only focus on certain words; there is a sense of missing something, but you cannot go back. Deep attention 
+is rendered impossible, flash text elicits a dispersed attention, a state of dreamlike distraction. Alterations 
+of speed can be a used to draw attention to what we ordinarily filter out, at the thresholds of perception. 
+Such works offer us the chance to attend to reality at a different speed, in different rhythms, than we are 
+used to; they have a defamiliarizing effect. 
+ 
+
+                                                           
+1 Howling Dogs | Rhizome 
+2 https://www.yhchang.com/LOTUS_BLOSSOM_V.html  
+
+Alternatively, immersive reading experiences can be stimulated, as has been done with Lotus, an iPhone 
+and iPad by Niels ’t Hooft and Saskia Freeke (with game studio Codeglue and audio studio SonicPicnic). 
+Lotus is a novella enhanced with color, sounds, and animation, a Wagnerian ebook of sorts, with Leitmotif 
+melodies tied to different characters. It is a meditative app that promises (and delivers) an immersive, 
+absorbing reading experience. All elements are designed to shut out possible distractions from outside.  
+Minimalist soundscapes of white noise-like sounds, sparse diegetic sound samples (wind and water, street 
+sounds,  murmurs,  air  conditioning  noises  in  a  hotel  lobby)  in  your  headphones  help  you  concentrate. 
+Together color and audio create a ‘sense scape’. The text is cut up into small chunks, progress is indicated 
+by the Lotus symbol, central to the storyline and visible for both reader and characters. It visualizes the 
+structure of the story, that is set in different times. Attentional modulation is manipulated in subtle ways: 
+the chunks of text differ in length; the less is displayed, the more attention is drawn to what you see, 
+which will gain in importance. Some segments are presented line by line, hence emphasized. Tension is 
+also enhanced this way. Sudden and dramatic changes of color will also trigger close reading. Thus, text 
+design modulates reading tempo, rhythm, and attention. 
+ 
+
+Conclusion 
+
+Such  works  raise  interesting  questions  about  how  and  if  the  digital  age  equips  the  reader  with  an 
+advantage  to  selectively  modulate  various  kinds  of  attention  during  reading.  They  might  even  offer  a 
+cognitive training in the allocation and modulation of attention, especially where they test conventional 
+reading  practices  with  boredom,  distraction,  and  overload.  Different  interpretive  stances  activate 
+different  forms  of  attention:  vigilance,  noticing,  absorption,  a  broad  or  narrow  focus,  single-minded 
+fixation,  or  expansive  flexibility,  and  so  on.  Just  as  reading  extended  prose  fiction  in  the  novel  does 
+according to Wolf (2018), this might train our faculties for ‘cognitive patience’. 
+
+These are in turn enabled by the platforms which distribute the works, and as such we need a concept of 
+platform literacy in platform-based attention economies, to grasp the workings of attentional modulation. 
+The scope of this paper does not allow me to develop such an approach, only as a brief sketch of concerns 
+and to outline its necessity. So far, platform studies in e-lit have largely focused on platforms’ affordances 
+for the side of production and creation, but not so much the reception. The platformization of culture 
+raises questions about the future of media literacy. 
+
+ 
+ 
+ 
+Works cited 
+ 
+Ackermans, Hannah, & Inge van de Ven. “Electronic Literature in the Database & The Database in 
+
+Electronic Literature. Towards a Digital-Hermeneutics Approach.” Communications. Media. 
+Design 4.4, 2020. 5-18. 
+
+Barthes, Roland. Camera Lucida: Reflections on Photography. Trans. Richard Howard. New York: Hill and 
+
+Wang, 1981. 
+
+Bennett, A. Contemporary Fictions of Attention, Reading and Distraction in the Twenty-First Century. 
+
+Bloomsbury Academic, 2018. Ebook. 
+
+Bogost, Ian, & Nick Montfort. ‘New Media as Material Constraint. An Introduction to Platform Studies.’ 
+
+2007. 
+
+Ensslin, Astrid. Literary Gaming. Cambridge: MIT Press, 2014. 
+
+Gallagher, Winifred. Rapt: Attention and the Focused Life. New York: Penguin, 2009. 
+James, W. (1890). The Principles of Psychology, vol. 1. Henry Holt. 
+Leech, Michael H., and Short, Geoffrey N. Style in Fiction. A Linguistic Introduction to English Fictional 
+
+Prose. London: Routledge, 2007. 
+
+Letzler, D. (2017). The Cruft of Fiction. Mega-novels and the Science of Paying Attention. University of 
+
+Nebraska Press.  
+
+Marino, Mark. Critical Code Studies. Cambridge: MIT Press, 2020. 
+Manovich, Lev. The Language of New Media. Cambridge, MA, and London: The MIT Press, 2001. 
+Van Nuenen, Tom. 2018. “Text research on online platforms: Heuristic steps and pitfalls.” In Doing 
+
+Research In and On the Digital. Research Methods Across Fields of Inquiry, edited by Cristina 
+Costa and Jenna Condie, 83-101. London: Routledge, 2018. 
+
+Posner, Michael. Attention in a Social World. New York: Oxford UP, 2012. 
+Pressman, Jessica. ‘Pacific Rim Digital Modernism: The Electronic Literature of Young-hae Chang Heavy 
+
+Industries’. In: M.A. Gillies, H. Sword & S. Yao (eds.), Pacific Rim Modernisms. Toronto: 
+University of Toronto Press, 2009, p. 316-337. 
+
+Rabinowitz, Peter. Before Reading. Narrative Conventions and the Politics of Interpretation. Ohio State 
+
+UP, 1987.  
+
+Rettberg, Scott Electronic Literature. Oxford: Polity Press, 2019. 
+Salter, Anastasia, & John Murray. Flash. Cambridge: MIT Press, 2014. 
+Sanford, A. J., & Emmott, C. Mind, Brain, and Narrative. Cambridge University Press, 2012. 
+Steyerl, Hito. ‘A Sea of Data: Apophenia and Pattern (Mis-)Recognition.’ E-Flux #72, April 2016. Web. 
+Van de Ven, Inge. Big Books in Times of Big Data. Leiden University Press, 2019. 
+Veel, Kristin. Information Overload and Database Aesthetics. Comparative Critical Studies, 8(2-3), 2011. 
+
+307-19.  
+
+Wolf, Maryanne. Reader, come home: The reading brain in a digital world. HarperCollins, 2018. 
+
+

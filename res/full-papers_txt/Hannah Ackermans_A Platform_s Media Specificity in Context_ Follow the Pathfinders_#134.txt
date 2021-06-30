@@ -1,0 +1,426 @@
+This is a short paper about my research into the born-digital book Pathfinders. The 
+full article with my more detailed methodology and research results is forthcoming.  
+
+ 
+
+A Platform's Media Specificity in Context: 
+Follow the Pathfinders 
+
+Introduction 
+As scholars and artists in electronic literature, we have a soft spot for 'media 
+
+specificity', termed by N. Katherine Hayles to refer to the materiality of literary 
+
+hypertext. Hayles' conception of "media specific analysis" has become a staple in the 
+
+analysis of digital creative artifacts. She posits to "explore the dynamic interaction 
+
+between the artifactual characteristics and the interpretation that materiality 
+
+embodies" (72) in her research on literary hypertexts. But hypertext and other born-
+
+digital modes for narrative are no longer just our research subject, they are also our 
+
+means of communication and publication.  
+
+There have been various born-digital journals and platforms that encourage scholars 
+
+to use multimodal means of academic publication, each with their own media 
+
+specificity. Many will, for example, be familiar with the journal Vectors: Journal of 
+
+Culture and Technology in a Dynamic Vernacular (2005-2013). This journal published 
+
+born-digital scholarship using a myriad of born-digital platforms and forms. 
+
+Additionally, platforms such as Scalar are specifically developed for humanities 
+
+scholars to publish in multimedial formats. Born-digital publication, then, offers 
+
+affordances of multimodality to authors and readers not available in print 
+
+publication. But how does born-digital publication affect the authorship, circulation, 
+
+and readership of the work within the academic environment?  
+
+ 
+
+ 
+
+My research explores the media-specificity of the, by now canonical, book 
+
+Pathfinders: Documenting the Experience of Early Electronic Literature (2013). In 
+
+Pathfinders, Stuart Moulthrop and Dene Grigar document four classic works of 
+
+electronic literature using a combination of filmed walkthroughs by authors and 
+
+readers (known as Traversals), filmed interviews with authors and readers and 
+
+carefully described and photographed physical materials of the works. The authors go 
+
+to great lengths to ensure a fidelity to the documented works, by using the original 
+
+technology that was available when the works were first published. As such, 
+
+Pathfinders is positioned as a DH practice to "rescue" early works of electronic 
+
+literature from both technological obsolescence and oblivion.  
+
+What I wanted to know is how the platform affordances influenced the production, 
+
+circulation, and readership of the book. And the best way to research Pathfinders, 
+
+was, of course, by hosting some Traversals of my own. On Zoom, I interviewed Dene 
+
+Grigar about the process of creating Pathfinders, and I had three readers of various 
+
+degrees of experience with electronic literature read the work for the first time. 
+
+Rather than an isolation of the media-text itself, my contextual approach allows me 
+
+to reflect on media specificity as implemented within a medial and academic 
+
+network. From my research, I have distilled four recurring themes: platform 
+
+adoption, institutional embedding, technological context, and documentation as a 
+
+research value. In this short paper, I will focus on the general trends in my results 
+
+rather than giving many citations of the Traversals and interviews.  
+
+Platform Adoption 
+Pathfinders uses the platform Scalar (developed at the University of Southern 
+
+California), which has various affordances to accommodate multimedial and 
+
+multilinear research and has been specifically built for humanities publications. Both 
+
+in prior research from the perspective of digital pedagogy (Tracy, Tracy and Hoiem, 
+
+Chan and Green) and my reader Traversals show that there is a learning curve to 
+
+working with Scalar. When first encountering the media pages, for example, the 
+
+metadata format confuses the readers. But as they keep reading, the repetition of 
+
+the structure and formatting helps to ground their experience. Additionally, the 
+
+Scalar visualization tools represent the pages and media of the book as a graph, 
+
+which readers found helpful in getting an overview of the contents of the book. The 
+
+wider use of this particular platform, then, allows both authors and readers to 
+
+familiarize themselves with a common structure of research and publication. Just 
+
+because various works are built in Scalar, however, does not mean they all look the 
+
+same. The users can choose which elements to adopt and appropriate to suit their 
+
+needs and ideas. To the Pathfinders authors, creating a "bookish", "scholarly" 
+
+publication through the formatting and content was important to situate the book as 
+
+an academic publication. Pathfinders remediates the print book by including 
+
+subsequently a front page which one could compare with a book cover, then a title 
+
+page, and then a dedication, before arriving at the introduction. Building on the 
+
+potential reader's familiarity with print publications, this inclusion of paratext 
+
+anchors the work as a bookish and scholarly publication. The reader then arrives that 
+
+the introduction, which already includes various hyperlinks to other media and 
+
+external webpages as well an introduction video.  
+
+Using any born-digital platform does, however, raise the question of technological 
+
+obsolesce. Rather than an individual webpage or obscure platform, Scalar was chosen 
+
+for Pathfinders partly due to its relative longevity. Even so, software updates and new 
+
+releases affect the book now and in the future. This also poses an issue to academic 
+
+librarians who want to ensure that their acquisitions remain available to readers. In 
+
+adopting a platform, my librarian reader highlights that in additional to the 
+
+readership affordances, it is important to consider if it is possible to get the 
+
+publication down to its basic file form to ensure the multimodal publication can exist 
+
+after the platform potentially disappears.  
+
+The affordances of the platform then, are essential for practical reasons for authors, 
+
+readers, and librarians. This relates to a larger question of how born-digital 
+
+publications are regarded within the academic environment. 
+
+Institutional Embedding 
+In academia, publications are a primary way to get to know other people's work, and 
+
+as such, the institutional embedding is a relevant topic for publications that diverge 
+
+from established print publication formats. The institutional embedding influences 
+
+both how authors choose and approach their medial content as well as how the book 
+
+is circulated and read. The choice of platform as well as the structure and content of 
+
+the book situate Pathfinders within the academic environment. This ranges from the 
+
+choice of creative works to document to how to situate the documentation in 
+
+connection to short essays and a literature list for further reading. Readers, then, 
+
+interpret the work based on prior experiences with both print and born-digital 
+
+publications. One reader, for example, compared Pathfinders to the video essay and 
+
+reflects on the way video essays have gained reputation within academia. This 
+
+immediately leads to a reflection on how to cite multimodal publications, as citation 
+
+has a key social and scholarly function in academia. Another reader brings up that 
+
+Pathfinders contains more information than a print publication would have, but that 
+
+she is afraid people will take it less seriously because it is a website. This tension 
+
+between media experience and perceived scholarly authority is arbitrated by other 
+
+pillars in the institutional environment. Librarians, for example, can play a role in 
+
+recommending born-digital publications to readers by including them in guides and 
+
+exhibitions.  
+
+Academic publications are created in a network of institutions, including libraries, the 
+
+authors' institutions, and funding bodies. The funding, as part of the institutional 
+
+embedding, can influence how work is executed. Here I want to draw attention to its 
+
+effect on accessibility of born-digital publications. Although there were plans to 
+
+include closed captions for Pathfinders' many audiovisual material, there was not 
+
+enough funding to do so. This lack of financial support affects the accessibility to 
+
+Deaf/HOH people, people for whom English is not their first language, as well as 
+
+people who are new to the field and might not pick up on all the terminology and 
+
+names in audio format. Including captions would ultimately improve the academic 
+
+value of a work. Rather than putting this responsibility on individuals, accessibility 
+
+should come from a shared sense of accountability in the network of institutions 
+
+involved.   
+
+Technological Context 
+Similar to institutional embedding, born-digital works also exist within a network of 
+
+technological context. Pathfinders inserts many different platforms, such as Vimeo 
+
+and SoundCloud, and readers can cross to relevant external websites using the 
+
+hyperlinks or encounter elements of the work through other channels before 
+
+entering the book. This inevitably leads to differences in interpretations by different 
+
+readers and the explicit inclusion of different platforms highlights and invites this 
+
+practice. The technological ecology, then, extend the book beyond one self-contained 
+
+text. In the opposite direction, parts of the book can also be encountered outside the 
+
+context of the book itself, for example because images show up prominently in 
+
+search engine results. 
+
+Whereas the works documented in Pathfinders were at risk of technological 
+
+obsolescence because they were created for particular, now largely outdated, 
+
+hardware and software, Pathfinders itself is created to work on many devices. So 
+
+much so, that the authors considered that responsiveness of Scalar 2 as a main 
+
+advantage over Scalar 1. Yet keeping a work alive, the main objective of the 
+
+Pathfinders project, also becomes increasingly urgent with layering and embedded 
+
+media from different platforms and accounts, as each of the embedded media may 
+
+become unavailable. The Pathfinders book is, then, best understood through 
+
+Andersen and Pold's concept of the "metainterface", which theorizes the current 
+
+paradigm in which we can no longer speak of one interface but rather a layered 
+
+interface of both visible elements in any webpage and communication between 
+
+devices. The embedded fidelity in the layered interface of Pathfinders creates a new 
+
+type of source for reading electronic literature that provides a rich context for 
+
+historical works utilizing the contemporary characteristics of the metainterface.  
+
+ 
+
+Regarding the video Traversals as preservation assumes the videos have a certain 
+
+status as a source. The creative works have been filmed with the original hardware 
+
+and software, but all readers of Pathfinders will see these works on their 
+
+contemporary devices. This fits within the larger conversation in the field of 
+
+electronic literature in which documentation of works becomes a primary source 
+
+when works become unavailable. Of course, despite their "rescue mission", the 
+
+Pathfinders authors do not claim that the creative works can be replaced by the 
+
+Traversals, but rather make parts of the works more accessible and ideally draw more 
+
+people to the original works. Through the variation in media, Pathfinders combines 
+
+the clarity and systemic approach of a database with a cacophony of voices that give 
+
+a mosaic impression of the works. 
+
+Documentation as a Research Value 
+Multimodal works can also use their structure to foreground arguments and values. 
+
+Pathfinders uses its multimedia of videos and images to create situational and 
+
+networked documentation. Rather than thinking of documentation as preparatory 
+
+work, this objective to rescue works foregrounds the value of documentation and 
+
+presentation of sources as research in itself. Highlighting the process of 
+
+documentation, the Pathfinders authors intentionally include the technological reality 
+
+of the work by not hiding cables and such from the video recordings. The videos, 
+
+then, are a demonstration of the research process as well. Additionally, many of the 
+
+videos include conversational interviews in which the interviewers and interviewees 
+
+bring up anecdotes of the early electronic literature community. Readers have 
+
+varying responses to these videos, seen as either superfluous or highly relevant to the 
+
+larger contextualization of the works. This spontaneity in the interviews and the 
+
+reader experience in the Traversals show situatedness as integral parts to the 
+
+documentation of creative works. In Pathfinders, foregrounding the documentation 
+
+process as a research value provides potential counternarratives to the history of 
+
+electronic literature by showing what might have been left out in other publications.  
+
+The Traversal practice has also become a pillar of its own beyond the Pathfinders 
+
+book. The Traversal practice combined with interviews has been developed further in 
+
+the born-digital book series Rebooting Electronic Literature: Documenting Pre-Web 
+
+Digital Media, by Dene Grigar et al on Scalar. The practice has also transformed into 
+
+live Traversals during various conferences with an audience present. With the COVID-
+
+19 pandemic, the practice has turned digital, with public Traversals on Zoom in which 
+
+anyone can join in the audience. Overall, the practice now includes characterizing 
+
+social and performative aspects that foreground the documentation process as an 
+
+important research value. 
+
+This documentation approach is picked up by the readers. They refer to Pathfinders 
+
+as "a database" and "a hub". The librarian reader also brings up how this type of 
+
+publication attempts to visualize the basic presumption in many humanities studies 
+
+of the cultural object that functions within a network of relationships. These parallels 
+
+in understanding the Pathfinders project reflect the main value of documentation, 
+
+the storing of a relevant information across various media. 
+
+Concluding remarks 
+Publishing academic work on born-digital platforms does not simply (re)produce what 
+
+could have been written on paper. Rather, the media specificity of works influences 
+
+the production, text, and readership. As I have demonstrated, media specificity of 
+
+academic publications is not simply the characteristics of the medium, but rather 
+
+deeply tied to use of platforms, the institutional embedding, the technological 
+
+ecology, and the promotion of research values.  
+
+While media specific analysis has become common place in various studies of 
+
+creative digital artifacts, analysis of born-digital academic publications could enhance 
+
+the understanding of these particular texts as well as contribute to a more intricate 
+
+application of media specificity. Academia in particular has explicit and implicit 
+
+customs of creating cultural capital in producing and circulating knowledge. As 
+
+publication is a primary and principal mode through which scholars get to know each 
+
+other's works and build their field, scrutiny of their medial mode is necessary to 
+
+understand the field.   
+
+References 
+Andersen, Christian Ulrik, and Søren Bro Pold. The Metainterface: The Art of 
+
+Platforms, Cities, and Clouds. MIT Press, 2018. 
+
+Chan, Anita, and Harriett E. Green. "Practicing Collaborative Digital Pedagogy to 
+
+Foster Digital Literacies in Humanities Classrooms." Educause Review (2014). 
+
+Grigar, Dene M., and Stuart A. Moulthrop. Pathfinders: Documenting the Experience 
+
+of Early Digital Literature. Nouspace Press, 2015. 
+
+https://scalar.usc.edu/works/pathfinders/index 
+
+Hayles, N. Katherine. "Print is Flat, Code is Deep: The Importance of Media-Specific 
+
+Analysis." Poetics Today 25.1 (2004): 67-90. 
+
+Tracy, Daniel G. "Assessing Digital Humanities Tools: Use of Scalar at a Research 
+
+University." portal: Libraries and the Academy 16.1 (2016): 163-189. 
+
+Tracy, Daniel G., and Elizabeth Massa Hoiem. "Teaching Digital Humanities Tools at a 
+
+Distance: A Librarian-Instructor Partnership Integrating Scalar into a Graduate 
+
+Distance Course." (2017). 
+
+ 
+
+ 
+
+ 
+
+

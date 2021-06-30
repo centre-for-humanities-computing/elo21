@@ -1,0 +1,47 @@
+:
+This poster presentation discusses a forthcoming critical making project (part of The Digital Review's
+special issue on "Critical Making, Critical Design") at the intersections of electronic literature and
+asynchronous online pedagogy. In this research-creative project, I explore the role of “teacher” as creative
+maker, designer, and crafter of epistemological experiences. Building on the work of
+artist-scholar-teachers such as Lynda Barry (2014, 2019), Jody Shipka (2011), Kate Hanzalik (2021), and
+Hanzalik and Virgintino (2019), I investigate what it means to be a digital designer who cultivates
+aesthetic learning experiences for my students, with all the wonder, uncertainty, and risk this process
+entails.
+
+In the poster session lightning talk, I introduce the pedagogical webcomic (described below) and the
+theory and design practices behind it. I then compare the affordances and constraints for “instructor as
+maker” between two pedagogical platforms: a designer-controlled platform created via the “infinite
+canvas” (McCloud, 2009) of a website in HTML/CSS; and D2L Brightspace, the content management
+system used at my university. Overall, I ask audience members to consider how we can bring our work as
+makers and scholars of electronic literature to explore new horizons for engaging, experiential course
+delivery methods via online platforms.
+
+“Botanicals” is an interactive webcomic that reimagines an online platform for an asynchronous
+professional writing course informed by e-literary design. By breaking away from the temporal logics of a
+course content management system, a webcomic designed from scratch instead allows instructors to use
+the logics of the “infinite canvas” to craft spaces that foster exploration according to a student’s own pace,
+sequence, and learning goals. Inspired by interactive webcomics such as Emily Carroll’s “Margot’s Room”
+(2011) and “Grave of the Lizard Queen” (2013), “Botanicals: An Interactive Pedagogical Webcomic” is
+built from HTML/CSS with embedded hyperlinked illustrations and other media. Designed around the
+visual metaphors of a greenhouse and a garden path, the comic offers two interwoven “tracks.” One track
+addresses students “wandering through” the comic in pursuit of a pedagogical experience, and another
+track addresses scholarly readers and fellow designer-teachers with “framed reflections” on the
+pedagogical-aesthetic decisions informing the webcomic’s design process.
+
+This project emerges from my ongoing work as digital scholarship designer and independent comics
+creator, in an attempt to bring this critical-creative practice into closer conversation with my teaching
+practices. Recent global shifts to online learning have offered increased opportunities to design media for
+students in online environments, via a range of teaching modalities. Responding to these exigencies, I
+
+52
+
+ELO 2021 - abstracts
+
+strive to create pedagogical webcomics that are beautiful, engaging, and aesthetically pleasing for their
+own sake, as works (like Barry’s Syllabus [2014] and Making Comics [2019]) at the intersections of
+“pedagogical delivery tool” and “aesthetic object.” These interactive comics facilitate pedagogical user
+experiences (Borgman and McArdle, 2019; Borgman and McArdle, 2021) that invite students into
+inventive exploration, that will help them design their own learning experiences, and that encourage
+instructor-designers to bring their critical making imaginations to bear upon teaching as a way of creating
+knowledge together with students through interactive design.
+

@@ -1,0 +1,36 @@
+:
+Recent advances in machine learning provide new opportunities for the exploration of creative, interactive
+works based around generative text. This paper compares two such works, AI Dungeon (Walton 2019)
+and Project December (Rohrer 2020), both of which are built on the same artificial intelligence (AI)
+platform, OpenAI’s GPT-2 and GPT-3. In AI Dungeon, the player can choose from several predetermined
+worlds, each of which provide a starting point for the story generation. However, while interacting with the
+system within this world, the player can stop, edit, modify and retry each utterance, allowing the player to
+“sculpt” the AI’s responses, and choose what goes into the AI’s memory, helping to shape the overall
+direction of the story. At a broader level, the player can edit world descriptions, insert scripts between the
+AI and the player (themselves or others), and share these worlds/scenarios with other players. Similarly,
+in Project December, the player interacts with several AI “matrices”, either directly through conversations,
+or more indirectly by creating new matrices by defining a starting paragraph and sample responses, which
+can then be “spun up”, tested, and tweaked much like the worlds in AI Dungeon. These matrices can also
+be shared with other players.
+
+When interacting with both works, there is a need for the player to repeatedly engage with the work to
+learn how to entice a satisfying experience from the system (Mitchell 2012; 2020). However, the key
+difference is the framing of the experience. In AI Dungeon the person experiencing the work is either
+taking on the role of the player, entering text and seeing how the AI responds, or that of an author or
+perhaps a co-author, tweaking the input to the AI or its responses or adjusting the underlying scenario to
+get a desired response. In contrast, Project December is presented as part of a fictional website for a
+
+7
+
+ELO 2021 - abstracts
+
+“Project December” run by “Rhinehold Data Systems”, promising the opportunity to talk to “the world’s
+most super computer”. Upon accessing the “customer terminal”, which looks and feels like an old dialup
+terminal, the player takes on the loosely defined role of “Professor Pedersen” whose “.plan file”, dated
+November 13, 1982, contains several tasks related to the various “matrices”, suggesting a mystery to be
+solved and a larger narrative to be explored. I will argue that whereas AI Dungeon attempts to provide
+players with access to and an uncritical understanding of how the underlying AI system works, Project
+December’s narrative framing instead defamiliarizes the play experience (Mitchell et al. 2020), potentially
+creating a more emotional connection between the player and the “matrices”, and thereby encouraging
+the player to critically reflect on the implications of the underlying technological platform.
+

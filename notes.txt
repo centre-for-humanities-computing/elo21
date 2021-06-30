@@ -1,0 +1,12 @@
+1. There are more abstracts than papers.
+2. Some papers lack an ID.
+
+
+There are two full papers that do not have ID & are not in abstracts: 
+"Augustin Berti_Nanofundia ELO" & "Final (500 word) Proposal_Ocean as Media Platform for Electronic Literature". 
+
+Additionally, paper "199" strays from the pattern by not having preceeding '#'
+
+Many more abstracts than full papers (103 vs. 61/60). 
+
+All of the papers with IDs can be matched.  

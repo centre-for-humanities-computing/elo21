@@ -1,0 +1,126 @@
+‘Lost water! Remains Scape?’: Transformation Waterscapes in Coimbatore from past 
+
+to present through digital poetry 
+
+Both digital humanities and digital literature are originated through an experimentation with 
+computers  in  the  West.  Digital  Humanities  began  with  Robert  Busa’s  experimentation  with 
+computers for creating Index for for Thomas Aquinas’ works. Similarly electronic literature 
+was born when Christopher Strachey and Theo Lutz using computer to experiment the creative 
+works in mid-twentieth century (Funkhouser 37). Later both fields were established through 
+supports from the institutions, funding schemes, courses and programmes and other academic 
+and research activities of the scholars in these fields. But these may look two distinct fields 
+based on their fundamental approach towards creativity as one is producing creative works and 
+another  is  applying  creative  method  to  study  works  of  humanities  disciplines.  However, 
+electronic literature is part of digital humanities and even it can be visa  versa which can be 
+explained in two ways.  For example, 1. digital humanities can adopt the creative practice for 
+building  its  method,  organization  and  production.  Electronic  literature  can  be  a  more 
+instrumental approach of DH for widening its praxis. 2. Since digital humanities investigates 
+both digital born and digitized materials by using digital technologies, such approaches can be 
+deployed to critically analyse the digital born creative works.  
+
+The best example we can think of for interlinking the e-lit and DH is the Story writing machine 
+in the novel Vendor of Sweets by R.K. Narayan (Narayan 74). It was published in the mid-20th 
+century. The writer introduces a machine which can provide a formula for the story by clicking 
+a few buttons of themes like love, revenge and hate and the interesting part is once the story is 
+ready, the author can again use the machine for the text analysis of the story which is of course 
+one of the cutting-edge features of digital humanities nowadays. What we are trying to say is 
+that as this story writing machine, both the creative practice and scholarly practice of elit and 
+DH have more affinity and capable of blurring the boundaries between humanities disciplines. 
+Such  interlinking  has  been  established  in  the  western  countries.  For  example,  the  annual 
+conference of electronic literature organization provides a space for both the performance of 
+creative  works  and  scholarly  production  of  electronic  literature.  Similarly,  some  of  digital 
+humanities  conference  and  workshops  offer  platforms  for  digital  artists  and  researchers. 
+However,  in  India  we  have  some  specific  issues  to  deal  with  such  as  our  education  system 
+rigidly follows the conventional mode of teaching and researching which resulted in lack of 
+advanced  computer  literacy  for  humanities  scholars  and  students  and  lack  of  arts  and 
+humanities  literacy  to  the  computer  science  students.  Computer  literacy  is  understood  as  a 
+fundamental tool to obtain a job and not to explore/create literature and art.  
+
+The digital poetry ‘Lost water! Remains Scape?’ is written in Tamil by the environmental poet 
+Mohamed Rafiq and in English by Shanmugapriya T, the co-author of this paper. It is created 
+using 2D and 3D environments, and photos in Blender and Adobe Animate software. The 2D 
+and 3D environments reflect the narrative about the ecosystem of waterscapes in the past and 
+the  photo  animations  represent  the  current  situation  of  the  water  bodies  in  Coimbatore,  the 
+southern region in South India. This digital poetry is created based on the findings from our 
+AHRC-funded project ‘Digital Innovations in Water Scarcity, Coimbatore, South India’. This 
+interdisciplinary project investigates the changed waterscape in Coimbatore, South India across 
+
+150  years  by  using  range  of  materials  and  activities  including  studying  historical  maps  and 
+satellite  imagery,  and  conducting  interviews  with  local  farmers,  activists  and  NGOs.  This 
+digital poetry is an endeavour to bridge gap between digital literature and digital humanities. 
+The  questions  we  ask  in  this  paper  are  how  can  the  adoption/integration  of  digital  literary 
+method be an effective agency and actor to represent the environmental objects and disseminate 
+the  findings  for  targeted  audiences?  How  can  tools  and  methods  contribute  to  the  digital 
+humanities and digital literature grounded in materials from the global south? The main aim of 
+this paper is to explore the digital literary method as an effective agency to communicate the 
+research findings to the broader public.  
+
+Reminiscence  is  the  primary  theme  of  our  digital  poetry.  It  will  be  mediated  through  text, 
+animations and images. Waterscape is an imperative source and forms a conducive ecological 
+community  in  every  villages  of  the  region  Coimbatore.  It  is  a  primary  source  for  drinking, 
+irrigation and other economic and cultural activities. However, the forgotten waterscapes due 
+to  drought,  dereliction  and  climate  change  have  become  conduit  of  drainage  waters,  and 
+garbage dumbing areas. The photos that have taken during our field visits depict the current 
+condition of waterbodies among which most of them are in dreadful state. On the other hand, 
+the oral  testimonies of the local  farmers illustrate a different  situation of waterscapes a few 
+decades ago. They narrated how they were blessed to have had a healthy waterscape in the past. 
+They also told us that there were particular flora and fauna that belong to the region had been 
+destroyed  and  some  of  the  specific  species  such  as  Noyyal  Otter  had  gone  extinct.  The 
+interactive  2D  and  3D  environment  of  digital  poetry  will  provide  a  revisitation  to  such  lost 
+waterscapes created based on the oral testimonies. It will also portray the current condition of 
+waterscapes  through  photo  animation  and  text  narration.  This  digital  poetry  will  be 
+disseminated to students, scholars, activists and the general public through our academic and 
+NGO partners and local schools and colleges. Feedback and some of the interviews conducted 
+will be made available via the project website.  
+
+1.  Historical map: The below image shows the British India historical map and the shiny 
+element represents  the  rivers and tanks in  the region. This  stage is  divided into four 
+layers based on the segregation of the Coimbatore region: Coimbatore, Erode, Tripur 
+and Karur. Each layer visualizes the river and the disappearing and shrinking tanks in 
+the district. The red colour represents disappeared tanks and blue colour is shrinking 
+tanks. The poem and the text are implanted in the arrow images. They will pop up when 
+the user/player moves the cursor near to them.  
+
+2.  3D  environment  of  the  river:  The  3D  digital  animations  of  embodied  features  of 
+waterscape such as the flowing water, fish, butterflies and trees portray the beautiful 
+landscape of the river once Coimbatore had in the past. This animation will provide a 
+revisit to the past and the poetry will arouse the emotions and reimagines the waterscape 
+through both  the rhetoric visuals  and words. Apart from  this, this will provide some 
+intriguing details about the rivers and tanks in the region which are extracted from the 
+ethnographic study, historical texts and literature. For example, how 30 historical tanks 
+and 23 anicuts of Noyyal river were created during the Chola period to store its surplus 
+water  and  to  avoid  flooding  in  the  region  and  how  this  marvellous  engineering 
+
+technique in the past kept the ground water level high. The rivers Cauvery and Bhavani 
+confluence at the place Kooduthurai in Erode; however, the locals believe that another 
+river called Amirtha nathi is also joining with these rivers underneath the rivers.  
+
+3.  3D environment of tanks and channels: This animation illustrates the function of the 
+tank  system  in  the  early  period.  The  poetry  and  texts  that  appended  with  the  tanks 
+narrates the functioning of the tank system in the past and how that has a connection 
+and  creates  a  cultural  landscape  in  the  local  custom.  For  example,  most  of  the  local 
+Hindu festivals begin and end with bringing water from these tanks of what accentuate 
+the pivotal of water in the cultural settings.  
+
+4.  Photo  animation:  This  stage  has  multiple  layers  of  photo  animation.  The  photos  are 
+taken  and  aggregated  during  the  field  visits  to  the  rivers,  channels  and  tanks.  These 
+pictures display the current condition of the water bodies along with poetry and details 
+about the photo. The below image exemplifies the Panjapatti lake which is located in 
+Karur. It is the third big tank in Tamil Nadu and the original capacity of this tank is 
+1820 acres but it is spreaded around only 1300 acres. The foundation of the tank began 
+in 1837 and the construction was completed in 1911 during the British colonial period. 
+It was a primary source to 18 villages in and around Panjapatti village. However, it has 
+been dry for 16 years due to climate change and mismanagement of the water body. 
+The tank is now silted by sand and utterly occupied by Prosopis juliflora plants.  
+
+References 
+
+Funkhouser, Chris. Prehistoric Digital Poetry an Archaeology of Forms, 1959- 
+1995. The University of Alabama Press, 2007. 
+ 
+Narrayan. R.K. The Vendor of Sweets. Viking Press books, 1967. 
+ 
+
+ 
+
+

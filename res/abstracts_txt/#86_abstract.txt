@@ -1,0 +1,46 @@
+:
+The contemporary digital environment is made possible through a matrix of behemoth infrastructures that
+traverse the orbital, atmospheric, oceanic, and terrestrial domains. These infrastructures manifest not only
+in the narrowly technical sense, but encompass the manufacturing chains, regulatory interfaces, and
+geopolitical contexts that enable (or forestall) the development, deployment, and maintenance of digital
+systems at a global scale.
+
+Underpinning all these aspects are the flows of energy and materials constituting the liveable Earthly
+ecology. The latter comprises the ultimate baseline ‘platform’ on which specific digital platforms, as more
+commonly expressed, are enabled—but which, being so defined, can obscure these far larger structures
+and processes in which they are embedded.
+
+Coming out of all this, we can note that the global scale of digital infrastructure is now foundational to the
+charting and modelling of a rapidly deteriorating planetary ecology, but this comes with the recognition
+that the former is both the product, and a critical facilitator, of economic processes that are driving the
+very pollution, wastage, and largely unhindered exploitation behind our present environmental calamities.
+
+It is in these contexts that we are encouraged to evaluate how works of digital art and electronic literature
+are responding to this uncomfortable paradox. We might recall here how early digital art sought to
+demonstrate (with admittedly varying success) different possibilities for computing beyond militarised
+technoscience, and the creative and critical challenge today is to rework and reframe digital platforms so
+they might perform and inspire substantive ecological critique and expression, rather than be relegated
+only as perpetuators of extractive, accelerationist, technocentric paradigms. Contemporary electronic
+literature, in its very particular fusions of data, writing, and the algorithmic, affords rich experimental
+
+104
+
+ELO 2021 - abstracts
+
+pathways for just this kind of work—as deftly illustrated by the recent outputs of artists such as J.R.
+Carpenter and Eugenio Tisselli.
+
+This paper will contextualise and document the author’s latest experiments with creating electronic literary
+works that bring together a diverse, unconventional assemblage of platforms as a key aspect of their
+creation and expression. Cameras, satellites, drones, canvas graphics, esoteric code, and printed outputs
+are combined to establish elaborate, contingent exchanges, with the ‘work’ itself being enacted across
+these different platforms—each contributing to an always provisional outcome—and drawing its creative
+and critical force as much by examining and reflecting on these aspects and processes, as the varied
+marks they leave behind. In particular, the author will discuss his newly emerging work, “Landform”, in
+which satellite and drone image data of terrestrial landscapes are parsed into esoteric visual algorithms,
+that, once interpreted, are compiled into code poems that draw on a vocabulary derived from scientific,
+scholarly, and poetic texts discussing present ecological concerns. The aim is to actualise a set of
+speculative, experimental relations between the platforms, materials, and concepts involved, investigating
+their potential for enacting novel modes of environmental computational practice, and, thus, suggest
+another vector for articulating the entanglements and contingencies that are driving the present situation.
+

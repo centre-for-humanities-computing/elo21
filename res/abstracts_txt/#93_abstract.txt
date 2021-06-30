@@ -1,0 +1,52 @@
+:
+William H. Dickey, who died of complications from HIV in 1994, was born in 1928 and brought up in the
+Pacific Northwest. He published fifteen books of poetry, including Of the Festivities, which was selected
+by W. H. Auden for the Yale Series of Younger Poets in 1959, More Under Saturn, which was awarded
+the California Silver Medal for Poetry in 1963, and The Rainbow Grocery, which won the Juniper Prize in
+1978. In the Dreaming: Selected Poems was published by the University of Arkansas Press in 1994, and
+The Education of Desire appeared posthumously from Wesleyan University Press in 1996.
+
+While a professor of English and creative writing at San Francisco State University in the 1980s, he
+became interested in the potential of early personal computers to expand the boundaries of poetry. The
+California Association of Teachers of English cited him as "Friend of the Machine."
+
+Beginning in 1988, Dickey used the HyperCard software on his Macintosh SE to compose what would
+become fourteen "HyperPoems." Integrating images, icons, animation, and sound effects with typography
+and text, the HyperPoems address many themes critics acknowledge as central to Dickey's print oeuvre:
+history, mythology, memory, sexuality, the barrenness of modern life, and (over and under all of it), love
+and death. But they also represent an important technical progression of his poetics, one with clear roots
+in the ideas about poetry he had forged through decades of mindfulness about the craft.
+
+Three of the poems (those in Vol. 2) may fairly be called erotica, and represent unique documents of gay
+life in San Francisco at the height of a prior pandemic. They are certainly some of the very earliest (and
+most explicit) digital creative works by an LGBTQ+ author.
+
+None were ever published in his lifetime. Plans for a posthumous edition (prepared for publication on
+floppy disk with technical and editorial assistance from Deena Larsen) ultimately went unfulfilled. In the
+summer of 2020, however, the HyperCard Online emulator at the Internet Archive (in Dickey's own home
+city of San Francisco) finally offered us a platform. This panel discussion will mark the first public
+presentation of Dickey’s innovative HyperCard poetry to the electronic literature community. Panelists will
+include:
+
+Matthew Kirschenbaum (Chair), Professor of English and Digital Studies at the University of Maryland.
+Kirschenbaum led the effort to recover the poems from older storage media and migrate them to the
+Internet Archive.
+
+91
+
+ELO 2021 - abstracts
+
+Deena Larsen, the original technical editor for Dickey’s HyperPoetry. Larsen will walk us through one or
+two poems in detail, discussing both poetics and the nature of her posthumous editorial interventions.
+
+Andrew Ferguson, lead for the HyperCard Online emulator. Ferguson will discuss technical challenges
+involved in migrating thirty-year-old HyperCard stacks to a browser-based environment.
+
+Susan Tracz, Professor Emerita and the California State University Fresno and Dickey’s literary
+executor—and long-time friend of the poet. Tracz will fill in the human story behind the poetry and the
+computers.
+
+References
+https://archive.org/details/william_dickey_hyperpoems_volume_1
+https://archive.org/details/william_dickey_hyperpoems_volume_2
+

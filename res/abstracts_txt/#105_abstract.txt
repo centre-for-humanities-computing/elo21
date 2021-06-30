@@ -1,0 +1,46 @@
+:
+What happens at the edges of bordercrossing technologies?
+
+Our poster showcases an exploratory, Benjaminian digital experiment that queers the investigation into
+who and what and how emerging technologies connect with our bodies, lives and desires. This work is
+part of a larger project investigating tools, platforms and digital strategies that help us to weave together
+the digital and the analogue, human and machine, and interactivity that moves us beyond linearity to
+multiplicity, and for ELO we are excited to highlighting our proposed experimental project archive, still in
+the early stages of development as we are considering multiple platforms and seeking feedback.
+
+24
+
+ELO 2021 - abstracts
+
+We’re building a kind of queer digital arcades - both platform and method - weaving together poetry, elit,
+theory and ephemera to perform an interactive, technoerotic story that troubles the borders between
+technologies, selves, others and the world. Our goal is to offer de-centred and multiple entry points to
+explore the increasingly ubiquitous technologies that summon our curiosities, vulnerabilities and
+penetrability, and implicate our skin, our memories of the basement bar, and our bravery.
+
+This multivocal work includes both poetic and analytical texts, electronic literature and theory as we work
+to visually and associatively map a series of technologies and concepts into constellations and queer
+formations.
+
+We understand and use the term “queer” methodologically – that is, we believe that queerness is a way of
+doing, whether that doing is in the production, consumption, or circulation of digital forms. The queerness
+here is in the very structure of the interface, the affordances of the platform, the non-linear, expansive,
+and associative logics that are revealed through exploration. The result is aspirational as much as, or
+more than, it is analytic, prompting users to imagine new speculative queer worlds as we all grapple with
+the ones we currently inhabit.
+
+The larger project aims to literalize the circuit formed by the digital and the queer, thus representing an
+emerging, heterogenous interactivity that produces radical possibilities, possibilities that we call edge
+effects. Our Benjaminian digital arcade aims both to capture and perform some of these edge effects and
+will include new electronic writing alongside experiments in spatial theorymaking. We are considering a
+variety of platforms at this time, including:
+
+1) VR Chat;
+
+2) an emerging beta platform for webvr and
+
+3) Unity
+
+We anticipate having screen captures of prototypes across multiple platforms and perhaps active links to
+beta worlds to share at the time of the conference.
+

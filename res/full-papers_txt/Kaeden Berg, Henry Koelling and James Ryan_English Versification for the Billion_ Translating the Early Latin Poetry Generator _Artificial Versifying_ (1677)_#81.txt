@@ -1,0 +1,1498 @@
+English Versification for the Billion:
+
+Translating the Early Latin Poetry Generator
+
+Artificial Versifying (1677)
+
+Kaeden Berg, Henry Koelling, and James Ryan
+
+Studio for ((Computational Media) Archaeology)
+
+Carleton College
+
+Northfield, Minnesota, United States
+
+{bergk2, koellingh, jryan}@carleton.edu
+
+Abstract
+
+Among the more remarkable antecedents to electronic literature is a little-
+known system for Latin poetry generation that was published in 1677 by its inventor
+John Peter, in a booklet titled Artificial Versifying. To generate a line of verse, the
+user produces a random number by which a sequence of words may be retrieved from
+tables containing scrambled letters. Improbably, Peter’s strange invention was quite
+successful: the booklet appeared in three editions and the system was republished in
+various periodicals over the subsequent two centuries. In this paper, we present the
+first translation into English of this remarkable work. Critically, our translation is
+of the system as a whole, as opposed to individual outputs or isolated components.
+In discussing our translation experience, we connect to the emerging scholarship
+on e-lit translation, and echo earlier findings in that area. These resonances, we
+contend, demonstrate that the peculiar considerations inherent in the translation
+of electronic literature are already present in protocomputational works that are
+sufficiently procedural, such as John Peter’s Artificial Versifying.
+
+Kaeden Berg, Henry Koelling, and James Ryan. “English Versification for the Billion:
+
+Translating the Early Latin Poetry Generator Artificial Versifying (1677).” Proceedings of the
+
+Electronic Literature Organization Conference (ELO 2021). 2021.
+
+Berg, Koelling, and Ryan (2021)
+
+2
+
+Introduction
+In the middle 1660s, perhaps amid the Great Plague of London, a physician and
+polymath named John Peter developed a peculiar system allowing for the pro-
+cedural generation of Latin poetry. A decade later, in 1677, Peter’s system was
+published in a landmark booklet, titled Artificial Versifying, whose subtitle pro-
+claimed that anyone “that only knows the A.B.C. and can count 9” could use its
+system to produce “true Latin, true verse, and good sense.”1 The system itself
+centers on a set of six “versifying tables” in which letters are distributed across
+grids of cells. To generate a line of poetry, the user first produces a string of six
+digits (e.g., 952129). Next, each digit is used to retrieve a sequence of letters from
+the table corresponding to that digit’s position in the string. The letters obtained
+in this way will form one of nine words contained in that table, and the concatena-
+tion of the six chosen words constitutes a line of Latin verse in dactylic hexameter.
+Given that each table contains nine words, Peter’s system is capable of generating
+9∗ 9∗ 9∗ 9∗ 9∗ 9—i.e., 96, or 531,441—lines of verse. Figure 2 includes the original
+tables, along with a more detailed description of the procedure.2
+
+As a bizarre forerunner of electronic literature, Artificial Versifying was wildly
+successful: the booklet appeared in three or four editions, and its procedure was
+reprinted in books and periodicals for the next 200 years.3 Sadly, Peter’s innovative
+system has received scant treatment by scholars working today. Of particular note
+is Ruff (2001), who provides the most extensive treatment. Binder (2018) interprets
+Artificial Versifying in relation to a history of the algorithm as a cultural construct;
+he has also produced a remarkable computerization of the system (Binder 2019).
+Koch (1996) was likely the first to identify Artificial Versifying as a precursor to
+electronic literature. More recently, both Swidzinski (2015) and Rodgers (2017a,
+2017b) have situated Peter’s system against Swift’s famous Engine from Gulliver’s
+Travels and also the later Eureka, a physical machine constructed in the 1840s
+that generated Latin verse (see Blandford 1965, Hall 2007, Hall 2017).4 Brief
+mentions also appear in Van Der Lee et al. (2019) and Henrickson (2021). This
+limited coverage of Artificial Versifying is incommensurate to its importance as
+
+Berg, Koelling, and Ryan (2021)
+
+3
+
+Figure 1. The title page of the first edition of Artificial Versifying, published by John Sims in
+London in 1677. Curiously, this edition does not identify the author, John Peter, to whose “same
+Hand” the second edition is attributed.
+
+Berg, Koelling, and Ryan (2021)
+
+4
+
+a groundbreaking work produced centuries ahead of its time—indeed, its specific
+combinatorial method prefigures much of the early computer poetry, such as Theo
+Lutz’s “Stochastische Texte” (Lutz 1959, Bernhart 2020) and Allison Knowles and
+James Tenney’s A House of Dust (Knowles et al. 1969, Buchloh 2012).
+
+To better our own understanding, and to spur more critical engagement with
+Peter’s work, we have carried out the first translation into English of the Artificial
+Versifying system.6 While it is relatively trivial to translate any one of its 531,441
+possible outputs, we sought instead to translate the system itself into English. Ul-
+timately, this only entailed translating each of the 54 words in the six tables, but
+the process has nonetheless raised a number of interesting challenges. The ma-
+jor difficulty is in preserving both meaning and meter—Peter’s system produces
+hexameter verse, specifically—though we identified additional dimensions of the
+original system that we sought to maintain in turn. In wrangling the interrelations
+between these features at the level of a combinatorial space, our design consider-
+ations were akin to those that structured Peter’s invention. While a core aim of
+this process has been to make Artificial Versifying accessible to non-Latin speakers
+today, our translation has helped us to better appreciate the triumph of its design.
+Broadly, we situate our project amid emerging scholarship on the challenges
+and opportunities of translating electronic literature. This subarea of translation
+studies (Bassnett 2013), called e-lit translation, is perhaps best characterized by
+the Renderings project carried out by Nick Montfort, Piotr Marecki, and other
+collaborators in the last decade (Montfort and Fedorova 2012, Małecka and Marecki
+2014, Campana et al. 2014, Montfort 2016)—and interest in the area is growing
+(e.g., Regnauld and Abrioux 2015, Cayley 2015, Pisarski 2015, Pold et al. 2018,
+Montfort 2018, Raley and Mitchell 2019, Bouchardon and Meza 2020, Bouchardon
+2020, Pisarski 2020). We briefly review this work in the next section.
+
+In this paper, we present our English translation of the Artificial Versifying
+system, which may be used to procedurally generate English verse in the style of
+Peter’s original Latin outputs. As we explain at length below, we have in fact
+produced a series of translation candidates—culminating in what we treat as our
+
+Berg, Koelling, and Ryan (2021)
+
+5
+
+Figure 2. The “versifying tables” from the first edition of John Peter’s Artificial Versifying
+(1677). To generate a line of verse from them, first produce a string of six digits, each between
+one and nine—e.g., 554165. Next, take the first digit and the first table, and retrieve from
+that table the letter in the cell corresponding to the difference between nine and that digit. For
+instance, using a first digit of 3, one would select the sixth letter in the first table, which is h.
+(If the digit is 9, retrieve the ninth letter.) Now, repeatedly advance in the table by nine cells,
+retrieving the letters at those positions, until a black square is encountered. (The table proceeds
+left to right, top to bottom.) Concatenate the retrieved letters to form the first word in the
+verse. Now repeat this process for each digit–table pair, and combine the resulting six words to
+form a hexameter verse. As one example, using the input 554165, one procedurally generates
+the verse turbida ella malis producunt pignora tantum, meaning ‘for the evil, messy wars create
+only promises.’ Note that the tables are simply word banks whose items are obfuscated by being
+interleaved such that the characters composing each word are spread nine cells apart from one
+another. Once a word is finished, the corresponding cell is filled in black to indicate that the word
+is finished; in the case of especially short words, additional unneeded cells (after a terminating
+black square) are filled with a random letter (likely to further obfuscate the generation method).5
+Given that each table contains nine words, Peter’s system can produce 9 ∗ 9 ∗ 9 ∗ 9 ∗ 9 ∗ 9—i.e.,
+96, or 531,441—lines of verse.
+
+Berg, Koelling, and Ryan (2021)
+
+6
+
+final translation—each of which makes particular commitments to certain features
+of the original that are to be maintained. Generally, such commitments are in-
+compatible with one another, which means there is no optimal policy. Of course,
+this is the essential problem of translation, but we will argue that such troubles
+are amplified in the case of translating a system, as opposed to a static text. In
+doing so, we echo earlier findings by Montfort and others, thereby demonstrating
+that the peculiar considerations inherent in the translation of electronic literature
+are already present in protocomputational works that are sufficiently procedural,
+such as Artificial Versifying. We hope that our work will stimulate interest in Pe-
+ter’s unheralded project, and also in (the translation of) other protocomputational
+works that have anticipated electronic literature in interesting ways.
+
+Translating Electronic Literature
+For space reasons, in this section we will only touch upon the growing area of e-lit
+translation—see Montfort (2018) for a nice overview—with a particular emphasis
+on the core notions that we echo below with regard to our translation of Artificial
+Versifying. While we have discovered a number of contemporaneous translations
+of early computer poetry, these are cases of translated outputs, not translated sys-
+tems.7 Early examples of the latter include the translations of Michael Joyce’s af-
+ternoon, a story (Joyce 1987, Grigar 2020) into Italian (Vannini 1993) and German
+(Köhler and Krause 1998), though this hypertext work does not employ procedural
+generation. In 2005, Helen MacCormac translated Lutz (1959) into English, and
+thereby effectively translated his poetry generator in that she produced English
+versions of the word banks that drive the system. MacCormac did not computerize
+her translation, however, and she does not appear to have discussed her translation
+process.8 One catalyst for scholarly interest in the translation of electronic litera-
+ture was the Translating E-Literature conference held in Paris in 2012 (Regnauld
+and Abrioux 2015), and many contributions have appeared since (e.g., Cayley
+2015, Pisarski 2015, Pold et al. 2018, Montfort 2018, Raley and Mitchell 2019,
+Bouchardon and Meza 2020, Bouchardon 2020, Pisarski 2020), with the aforemen-
+
+Berg, Koelling, and Ryan (2021)
+
+7
+
+tioned Renderings project providing a through line (Montfort and Fedorova 2012,
+Małecka and Marecki 2014, Campana et al. 2014, Montfort 2016).
+
+A fundamental notion in this literature is that e-lit translation adds to the
+translator’s burden the trouble of maintaining features of the source work at the
+level of a possibility space (see Karth 2019), rather than a static text. As Glazier
+(2015) puts it, the introduction of such procedurality has the effect of “adding
+lubricant” to the “already slippery slope of the location of meaning” (3). And
+there’s more than just meaning to maintain. Montfort (2018) identifies among
+other dimensions the metrical, material, and contextual, all of which are present
+in conventional translation but exacerbated by what he calls the “computational
+aspect” (n.p.) that inheres in e-lit. In the case of a work like Artificial Versifying, a
+given verse is sampled from the possibility space—its 531,441 generable outputs—
+by carrying out the combinatorial procedure that recombines its 54 words. As
+translators, our task is to translate these 54 words so as to maintain the salient
+features of the original space of 531,441 verses. This pits us most painfully against
+what Cayley (2015) calls “local algorithmic dissonance”: “The work may address
+(by way of its own algorithmic processes) and make (implicit) assumptions about
+the grammar of its particular original language [and] these may not ‘work,’ gram-
+matically, in the host language” (n.p.). As we explain at length below, Peter’s word
+banks are constructed in a way that relies on aspects of Latin that are not present
+in English—these function in the system as critical (though implicit) apparatus,
+but we had to reinvent English corollaries to make our translation work.
+
+We contend that our project’s indirect wrangling of system dynamics through
+the manipulation of system components is one expression of Montfort’s ‘compu-
+tational aspect’ of e-lit translation. Of course, Artificial Versifying is not compu-
+tational—it predates even Babbage’s Analytical Engine (Menabrea and Lovelace
+1842) by a century and a half. In identifying the computational aspect, Montfort
+quotes Cayley (2018), who notes, “The making of certain linguistic artifacts”—the
+ones germane to e-lit translation—“cannot be achieved without digital media and
+digital affordances” (n.p.). We contend that it is not a digital materiality, or even a
+
+Berg, Koelling, and Ryan (2021)
+
+8
+
+computational mechanism, that underpins the ‘computational’ aspect that compli-
+cates e-lit translation—rather, these challenges are already present in any textual
+artifact that is sufficiently procedural.9 Showing this, through our case study of
+translating Artificial Versifying, is this paper’s contribution to e-lit translation.
+
+Translating Artificial Versifying
+In the course of our translation effort, we produced a succession of translation
+candidates, each of which resulted from a particular policy that aimed to preserve
+specific aspects, or dimensions, of the original. Broadly, we identified two primary
+dimensions, meaning and meter, and a handful of secondary dimensions, such
+as grammaticality (whether the translated outputs are grammatical in the host
+language), interface (whether the user experience is preserved), system-internal
+features (number of word banks, order of the word banks, number of items in each
+bank, item–bank associations, whether there are multiword items), input–output
+relationship (whether, e.g., 554165 in the translated system produces a transla-
+tion of the output for 554165 in the original system), and superficial features (the
+degree to which our tables resemble the original tables). In our conception, pri-
+mary dimensions are ones to which a translation policy can deeply commit, while
+secondary dimensions work to structure smaller decisions throughout the process.
+While it’s possible to preserve both meaning and meter in certain individual out-
+puts, doing so for the entire system—i.e., the space of 531,441 outputs—is not
+possible, as we explain below using specific examples. As such, the meaning and
+meter dimensions are inherently at odds in this translation problem, which allows
+for three fundamental policies in total: aggressive meaning preservation, aggressive
+meter preservation, and meaning–meter compromise.
+
+In this section, we discuss our translation experience in terms of a progres-
+sion through these policies (in order), and specifically three translation candidates
+that instantiated them. Our third and final candidate—which we identify as our
+translation of Artificial Versifying—strikes a compromise between meaning and
+In tracing this
+meter preservation, with attention to a few secondary features.
+
+Berg, Koelling, and Ryan (2021)
+
+9
+
+progression, we identify particular issues that emerged, along with our attempts
+to ameliorate them. Table 1 and Table 2 show our three translation candidates—
+i.e., translations of all 54 words—which respectively instantiate aggressive meaning
+preservation, aggressive meter preservation, and meaning–meter compromise trans-
+lation policies. See Figure 3 for the actual presentation of our final translation in
+the form of English versifying tables. To be clear, our translation is specifically
+of the system presented in the first edition of Artificial Versifying, published in
+1677. The second and third editions include revised hexameter tables as well as
+pentameter tables, and these remain to be translated.
+
+Background: Meter in Artificial Versifying
+As we have noted above, the Artificial Versifying system relies on six tables, each
+containing nine Latin words. By using a random number to select one item from
+each table, a line of verse is formed. A fundamental characteristic of the system
+is that the Latin verse that it generates is in dactylic hexameter (Cuddon 2012,
+332), which is a famous metrical scheme that is associated with both Greek and
+Latin epic poetry, such as Homer’s Odyssey and Virgil’s Aeneid. In the scheme,
+each line of verse consists of six feet, each of which is either a dactyl, spondee, or
+anceps. A dactyl is a foot containing three syllables, the first being a long syllable
+and the second and third being short syllables. For example, the word tristia is
+a dactyl—we emphasize the syllable trist, but not i or a. Examples of English
+dactyls include this is the and murmuring. A spondee, then, is a foot with two
+syllables that are both emphasized. For example, in the Latin verb portabunt, the
+two syllables a and bunt form a spondee, because both are long. An anceps is the
+final foot in the line of hexameter and contains two syllables: the first is long, and
+the second can either be long or short. Finally, a metrical pattern instantiated in
+a particular verse is called its scansion.
+
+Before moving on, we’ll note a metrical quirk of Peter’s original versifying ta-
+bles. While all the words from a given table generally have the same scansion, this
+is not the case in Table 2. This table contains two words, aliis ‘for others’ and
+
+Berg, Koelling, and Ryan (2021)
+
+10
+
+inquam ‘I say,’ that do not conform to the scansion of the other seven words in
+the table. Unlike the other words, these two create an elision when combined with
+any word from the first table—this is when a word phonetically blends into the
+word preceding it—because both begin with a vowel, while all the words in Table
+1 end with a vowel. As a result, the first syllable in each of these words is not pro-
+nounced, altering the rhythm of the dactylic hexameter from <dactyl> <dactyl>
+<spondee> <spondee> <dactyl> <anceps> to <dactyl> <spondee> <spondee>
+<spondee> <dactyl> <anceps>. As an illustration, here are two diagrams show-
+ing the distinction between the respective scansions of pessima verba vides promit-
+tunt fœdera certa ‘I see horrible words that promise certain pacts’ and pessima verba
+aliis promittunt fœdera certa ‘for others, horrible words promise certain pacts’:
+
+pessima verba vides promittunt fœdera certa
+
+pessima verba aliis promittunt fœdera certa
+
+an unstressed syllable,
+
+indicates a stressed syllable,
+
+In this notation,
+an
+anceps, and | the ending of a foot. As the diagrams show, the addition of aliis
+triggers an elision with the previous word, verba, which changes the second foot
+into a spondee, rather than a dactyl; this is marked by the curved line connecting
+verba and aliis in the bottom diagram. While we did not attempt to capture elision
+in our translation, it is an interesting characteristic of the system that we thought
+worth mentioning.
+
+Policy 1: Aggressive Meaning Preservation
+Our first translation candidate focused solely on preserving the literal meaning
+of the Latin, but without resorting to aggressive measures such as reordering the
+versifying tables; it is shown in Table 1 and Table 2. To produce this candidate,
+we started with the Latin word banks extracted from Peter’s versifying tables
+by Ruff (2001, 248–250), and then used University of Chicago’s Logeion resource
+
+Berg, Koelling, and Ryan (2021)
+
+11
+
+Original
+
+Latin
+
+Word
+pessima
+turpia
+horrida
+tristia
+turbida
+aspera
+sordida
+impia
+perfida
+dona
+verba
+vota
+iura
+bella
+fata
+facta
+dicta
+damna
+aliīs
+reor
+vides
+mālīs
+viro
+
+inquam
+
+tibi
+mihi
+scio
+
+T
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+Policy 1:
+Meaning
+Translation
+
+worst
+ugly
+
+abrasive
+sorrowful
+confusing
+
+bitter
+filthy
+disloyal
+dishonest
+
+gift
+words
+vows
+laws
+wars
+fates
+deeds
+remarks
+damages
+
+other
+I think
+you see
+to the evil
+for a man
+
+i say
+for you
+for me
+I know
+
+T
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+Policy 2:
+Meter
+Translation
+
+pitiable
+horrible
+boisterous
+sorrowful
+desolate
+rancorous
+splenetic
+traitorous
+fraudulent
+presents
+phrases
+pledges
+orders
+battles
+chances
+actions
+mentions
+
+losses
+to them
+I think
+
+you watch
+
+to sin
+to man
+I say
+to you
+to me
+I know
+
+T
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+Policy 3:
+
+Compromise
+Translation
+
+hideous
+horrible
+boisterous
+sorrowful
+difficult
+rancorous
+tarnished
+traitorous
+fraudulent
+
+gifts
+words
+vows
+laws
+wars
+fates
+deeds
+talks
+costs
+
+for them
+I think
+you know
+
+through spite
+
+for man
+I say
+for you
+for me
+I know
+
+T
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Table 1. Variant translations for the original Latin words in the first three versifying tables
+of Artificial Versifying (1677). The three translation candidates shown here each instantiate a
+particular transition policy: aggressive meaning preservation, aggressive meter preservation, or
+meaning–meter compromise. The latter policy represents our final translation of the system.
+Note that this policy necessitated changing the order of the tables, which is indicated by the
+columns labeled T. See Table 2 for a continuation of this table.
+
+Berg, Koelling, and Ryan (2021)
+
+12
+
+Original
+
+Latin
+
+Word
+
+producunt
+concedunt
+causabunt
+promittunt
+portabunt
+monstrabunt
+procurant
+prædicunt
+confirmant
+
+iurgia
+dogmata
+tempora
+crimina
+fœdera
+pignora
+somnia
+sidera
+pocula
+semper
+prava
+sola
+plane
+tantum
+certa
+quædam
+multa
+sæpe
+
+T
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+Policy 1:
+Meaning
+Translation
+will produce
+will yield
+
+cause
+promise
+will bear
+will show
+manage
+declare
+encourage
+quarrels
+decrees
+seasons
+verdicts
+pacts
+wagers
+dreams
+stars
+cups
+always
+wicked
+lone
+clearly
+only
+certain
+specific
+many
+often
+
+T
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+Policy 2:
+Meter
+Translation
+will create
+will let go
+do produce
+do affirm
+will endure
+will display
+do dictate
+do declare
+do augment
+annulments
+principles
+periods
+sentences
+promises
+covenents
+fantasies
+galaxies
+chalices
+always
+wicked
+lonely
+clearly
+only
+
+destined
+unique
+many
+often
+
+T
+4
+4
+4
+4
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+5
+5
+5
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+Policy 3:
+
+Compromise
+Translation
+will create
+will give up
+do produce
+do maintain
+will endure
+will display
+do dictate
+do proclaim
+do augment
+
+battles
+edicts
+seasons
+verdicts
+pledges
+wagers
+ideas
+
+night stars
+
+goblets
+imminent
+villainous
+desolate
+palpable
+just those
+definite
+different
+numerous
+regular
+
+T
+4
+4
+4
+4
+4
+4
+4
+4
+4
+6
+6
+6
+6
+6
+6
+6
+6
+6
+5
+5
+5
+5
+5
+5
+5
+5
+5
+
+Table 2. Variant translations for the original Latin words in the latter three versifying tables
+of Artificial Versifying (1677). This is a continuation of Table 1.
+
+Berg, Koelling, and Ryan (2021)
+
+13
+
+Goldenberg and Shanahan (2011) to generate additional potential translations for
+each word. Upon comparing our generated list to Ruff’s translation choices, we
+compiled a final list containing options that adequately captured meaning and also
+seemed amenable to combination with the other selected word translations.
+
+Two words in particular were difficult to translate: dicta ‘things having been
+said,’ and facta ‘things having been finished.’ Both facta and dicta can function as
+nominative/accusative plural nouns, or past perfect participles; in Peter’s original
+outputs, they serve variously as the subject, direct object, or past perfect participle
+of the sentence. For example, the sentence turbida facta mihi promittunt tempora
+tantum translates to ‘disordered deeds for me promise times only’ when we treat
+facta as the subject, but it could alternatively be translated to ‘disordered times
+for me promise deeds only’ by treating facta as a direct object or ‘disordered
+things having been finished for me promise times only’ by treating facta as a past
+perfect participle. Each of these translations are entirely plausible, which blows
+up the space of generable meanings when we consider all the contexts in which
+facta and dicta may appear. The English language doesn’t have an elegant way
+of representing this flexibility. Ruff (2001), who was simply providing glosses for
+each word in the system, chose to present these as nouns: ‘words’ for dicta, and
+‘deeds’ for facta. This translation loses some semantic nuance as ‘words’ doesn’t
+fully convey the idea of past conversations; we instead translated it as ‘remarks,’
+which we view as closer to the original meaning.
+
+Generally, the flexible word order in Latin permits multiple valid translations
+for a given output. For example, the input 666666 gives us aspera fata inquam
+monstrabunt pignora certa. A direct transliteration might produce ‘bitter fates I
+say will show wagers certain.’ However, alternative translations include ‘I say that
+certain fates will show bitter wagers,’ ‘I say that bitter wagers will show certain
+fates,’ or even ‘I say that certain bitter wagers will show fates.’ Each noun can
+serve either as the subject or direct object of the line, and the adjectives can modify
+either noun. The word certa could also function as an adverb in this case, instead
+of an adjective. (It is more common for the first noun to be the subject in Latin
+
+Berg, Koelling, and Ryan (2021)
+
+14
+
+verse, so for our translations we pick the first word to be subject.)
+
+Unfortunately, there is no way to preserve both this flexibility and system-
+internal features if we are to translate these tables into English. Other languages
+that have flexible word order, such as Polish or Portuguese, might allow for more
+faithful translations than English.
+In an experimental attempt to capture this
+flexibility, we prototyped a simple program that would carry out the Artificial
+Versifying procedure and then postprocess each generated line of English verse by
+randomizing the position of certain components, to capture the syntactic flexibility
+of the original. While this worked decently, the resulting procedure strayed too far
+from the original generation method, and it wasn’t clear how we’d incorporate it
+into a non-computerized interface. Therefore, our subsequent translation policies
+were carried out with word order enforced solely through the ordering of the tables.
+If we wished to alter word order, we would have to re-arrange the tables, since
+preserving the original generation method is just as important to our project as
+translating the words themselves (this is the interface dimension).
+
+This initial translation candidate did not produce hexameter verse—a funda-
+mental goal of our project—and furthermore it failed to capture meaning ade-
+quately. As we’ll discuss in the section below about our final translation pol-
+icy, table-internal inconsistencies with regard to part of speech make even a loose
+transliteration futile. For instance, Table 6 includes both adjectives and adverbs,
+which in Latin can both serve as postmodifiers. In English, however, this leads to
+outputs such as ‘the disloyal laws I think promise seasons lone.’ One option is swap-
+ping Tables 5 and 6, but this would then produce outputs such as ‘the dishonest
+gift you see encourage clearly verdicts.’ Here, both the meaning and the grammat-
+icality dimensions are not handled well. Translating any given output on its own
+is trivial, but in a combinatorial system like Artificial Versifying, each decision in
+a given translation affects thousands and thousands of other translations. While
+Latin’s freer word order generally challenges translation into English, the issue is
+exacerbated here due to the combinatorics inherent in Peter’s system—Montfort’s
+‘computational aspect’ rears its head.
+
+Berg, Koelling, and Ryan (2021)
+
+15
+
+Policy 2: Aggressive Meter Preservation
+For our second translation candidate, we took on an alternative policy that aimed
+to aggressively preserve the poetic meter used by John Peter. First, we note that
+while Latin hexameter is often translated into English as iambic pentameter, this
+is not always the case (e.g., see Gray 2004), and we sought to preserve the specific
+hexameter scansion of the original. To do this, we tried to translate each of the
+Latin words into English such that the number of syllables matched. For example,
+we translated the Table 1 adjective pessima to ‘pathetic.’ Problems arose when
+translating verbs from Table 4. In the system’s original outputs, each verb from
+the fourth table completes the third foot and then fully constitutes the fourth foot
+of the verse, all by using its three stressed syllables. But in English, there are few
+words that are naturally pronounced with three stressed syllables, let alone verbs.
+While Latin uses vowel length to create poetic rhythm, English verse tends
+to use stressed and unstressed syllables to assign meter and rhythm. This is in
+part because the English language has an unreliable vowel-length system, where
+vowel length can change with the meaning of the word, and differences in regional
+dialects further complicate assigning accurate length. To derive more robust met-
+rical interpretations for our word candidates, based on vowel stress, we consulted
+phoneticizations (in American English) in International Phonetic Alphabet (IPA)
+format (International Phonetic Association 1999). Here, our goal was to identify
+word candidates whose vowel stresses corresponded to the vowel lengths of the
+associated Latin words (long to stressed, short to unstressed). While this isn’t an
+ideal conversion, vowel strength is more reliable than vowel length in English, and
+we found that this method generated in our translated verses a similar rhythm to
+the original Latin outputs.
+
+Our main work in instantiating this policy involved poring over our the list of
+syllable-matched words to identify which words violated our strength-based meter.
+For each word needing replacement, we tested possible synonyms and analyzed
+their vowel-strength patterns. For most words, this was a quick process, but there
+were a few trouble spots. In Table 3, Peter uses the Latin words reor ‘I think,’
+
+Berg, Koelling, and Ryan (2021)
+
+16
+
+inquam ‘I say,’ and scio ‘I know’ as iambs (<stressed> <unstressed>), to fill
+out the last unstressed syllable of the second dactyl. These three are verbs, which
+complicates the translation, because in Latin, the verb form is partially based on
+the subject, and therefore the subject is often redundant and excluded. To convert
+these into proper English, we have to reintroduce the subject—‘I’ in these cases,
+as the verbs are first-person singular. In English, ‘I’ is a stressed vowel. As such,
+introducing the subject ‘I‘ means those three elements cannot be iambs, because
+any one-syllable verb following ‘I’ will always itself be stressed. Such intervention
+therefore breaks our meter. We struggled to find an elegant solution to this until
+our final translation, where we swapped Table 3 with another to both better match
+the Latin meter and improve along the grammaticality dimension. Similarly, the
+datives require a multi-word translation into English—to preserve the meaning,
+we needed to supply a preposition before the noun. For example, viro would be
+translated as ‘for man.’
+
+While our second translation candidate faithfully preserved meter, the outputs
+that it produces violate the grammaticality dimension to the point of severely
+disrupting meaning—for instance, ‘pitiable presents to them will create periods
+destined.’ Though we were reticent to do so, since it would violate the system-
+internal features and input–output relationship dimensions, we determined that it
+would be necessary to reorder our versifying tables.
+
+Policy 3: Meaning–Meter Compromise
+To adequately preserve both meaning and meter, we would have to make some
+drastic trade-offs. While our previous translation candidate was missing the mark,
+this was partially a fault of the original Latin verse. Artificial Versifying’s outputs
+aren’t guaranteed to be proper sentences—rather, many of the outputs comprise
+two syntactically disjoint three-word sentences with an implied connection. For
+example, ‘I know pitiable words will certainly display seasons’ is a syntactically
+well-formed English sentence, but its Latin counterpart pessima verba scio mon-
+strabunt certa tempora is grammatically incorrect. In classical Latin, the use of reor
+
+Berg, Koelling, and Ryan (2021)
+
+17
+
+‘I think,’ inquam ‘I say,’ or scio ‘I know’ in tandem with another verb in the sen-
+tence implies an indirect statement—as in ‘I know [that] pitiable words will display
+certain seasons’—but that is not what Latin grammar dictates. In Latin, indirect
+statements require an infinitive verb and an accusative subject. Though the nouns
+chosen by Peters have a form that could be accusative, there are no infinitive verbs
+in the tables. Instead, we have two sentence fragments. To use an English exam-
+ple, the syntax of the previous example causes it to read something like ‘I know
+pitiable words. Seasons certainly will display.’ Though the Latin grammar results
+in two sentence fragments, Peter intends for such examples to read as single lines,
+via parataxis. To capture this in English, we treated these three verbs as introduc-
+ing an indirect statement—e.g., “I know [that] pitiable words will display certain
+seasons”—even though this does not maintain the awkward fragmentation of the
+original Latin. Though this peculiar syntax sort of works in Latin, its preservation
+in English would have resulted in nonsense.
+
+While relying on indirect statements maintained grammaticality of our out-
+puts, further problems arose. As we noted above, English has a stricter word
+order than Latin, with adjectives generally directly preceding nouns and adverbs
+tending to appear adjacently to the verbs they modify. In Artificial Versifying,
+the sixth table exclusively contains adverbs and adjectives, and as a result each
+output ends with one of these parts of speech. If the order of the tables was to be
+preserved to maintain the system-internal features and input–output relationship
+dimensions, the resulting outputs would be ungrammatical—for example, ‘bois-
+terous phrases I think do affirm pledges lonely’ and ‘boisterous phrases I think
+do affirm pledges many.’
+In our final translation candidate, which instantiates
+a meaning–meter compromise policy, we swapped Table 5 with Table 6. While
+we hoped that repositioning the adverbs to immediately follow verbs would help,
+the translation candidate still produced bad outputs such as ‘splenetic mentions I
+know do dictate totally edicts.’ This demonstrated that it would be necessary not
+only to swap Table 5 and Table 6, but to dramatically alter the contents of (the
+original) Table 6 as well.
+
+Berg, Koelling, and Ryan (2021)
+
+18
+
+Toward this, we attempted to turn the adverbs into corresponding adjectives
+while maintaining some semblance of the original meanings. This was an incredibly
+difficult task, especially given the additional metrical constraints. We focused on
+the relationship between the verb from Table 4 and the noun from Table 5 to
+produce these pseudo-synonyms. As one example, we had to convert the adverb
+sæpe ‘often/again’ into an adjective, for which we produced ‘regular,’ to give the
+Table 4 nouns modified by the word a sense of being periodic or expected. This
+worked fairly well—e.g., ‘for me boisterous phrases will produce regular battles.’
+Finally, the verbs and datives in Table 3 didn’t fit into the meter properly, and to
+produce an indirect statement, they had to be at the front of the sentence. To fix
+both issues, we swapped Table 3 with Table 1, causing an output like ‘traitorous
+words you know will create only the edicts’ to become ‘you know traitorous words
+will create only the edicts.’ Doing so drastically improved the readability of the
+outputs, but it altered the scansion, as our translations of the items in the original
+Table 3 were now spondees, while Peter’s items were dactyls. This necessitated
+that the words in Table 3 be translated so as to each comprise a single stressed
+syllable (to constitute the first syllable of the third foot). We also produced a few
+translated items that do not match the scansion of their counterparts in the same
+table, namely tarnished in Table 2, just those in Table 5, and ideas in Table 6.
+This does not deviate from dactylic hexamater, however, and we note that Peter’s
+original outputs scanned in different ways, as we explained above.
+
+Discussion
+We made several concessions in our final translation candidate. To maintain the
+interface dimension, we gave up the flexibility of the ambiguous noun–adjective
+pairings, and decided that the first noun is always the subject.
+In support of
+meaning and grammatically, we rearranged the versifying tables to accommodate
+English’s stricter word order. We also converted all the original adverbs into adjec-
+tives that only captured some of the semantic nuances of the former. As a balance
+between meaning and meter, we were a bit looser with scansion than Peter was
+
+Berg, Koelling, and Ryan (2021)
+
+19
+
+in his original tables. These changes produced outputs that maintain meaning to
+a fair degree, while still preserving the dactylic hexameter of the original Latin
+verses. Unfortunately, the shuffling of the tables totally violates the input–output
+relationship dimension. In our first two translation candidates, any input to the
+original Artificial Versifying would produce a corresponding English translation
+when submitted to our versifying tables. This relationship is unfortunately lost
+in our final translation, given our reordering of the tables. For instance, the out-
+put for input 123456 in Peter’s original system now corresponds to the output for
+312465 in our English translation of the system. Relatedly, the system-internal
+features dimension is harmed, because one such feature is the order of the versify-
+ing tables. We did, however, abstain from swapping words between tables, which
+was one option that we had considered. Critically, our final translation candi-
+date does quite well in terms of grammaticality, which was not true of our initial
+candidates. We believe that this is worth the cost of these other two secondary
+dimensions. Additionally, none of our design choices compromised our ability to
+maintain Peter’s peculiar interface. As we discuss next, the final presentation of
+our translation comes in the form of a new set of six versifying tables, which are
+compatible with Peter’s original procedure for verse generation.
+
+In the end, we are quite pleased with our English translation of Artificial Versi-
+fying. With our process having now concluded, we believe that we have produced a
+“least bad” translation, which is what we can reasonably pursue in the challenging
+space of e-lit translation.
+
+Final Presentation
+A faithful translation of the Artificial Versifying system should preserve its inter-
+face dimension, and toward this the final presentation of our English translation
+takes the form of a set of six versifying tables with which hexameter verse may be
+generated using the same procedure that Peter invented over four centuries ago.
+This presentation is given in Figure 3. One distinction in our tables is the inclusion
+of blank white squares to represent spaces within items retrieved from a table—this
+
+Berg, Koelling, and Ryan (2021)
+
+20
+
+Figure 3. The final presentation of our English translation of John Peter’s Artificial Versifying
+(1677), in the form of versifying tables from which English hexameter verse may be generated.
+To produce a line of English verse, carry out the procedure that is explained in Figure 2, with
+an additional instruction: if a white square is traversed, insert a space into the current item.
+
+Berg, Koelling, and Ryan (2021)
+
+21
+
+was necessary because some of our items span multiple words. As another visual
+difference, in our tables the black squares that terminate items tend to appear
+earlier in the table. This is due to our word banks being less uniform in terms of
+the lengths of their items. Until producing our tables, we hadn’t considered that
+Peter may have been concerned in his translation with superficial aesthetics of the
+tables themselves, which may have led him to devise word banks containing items
+of roughly the same length. While we remain pleased with our final translation, the
+variability of item length within our tables works against the superficial features
+dimension, causing ours to diverge from Peter’s in terms of appearance.
+
+Conclusion
+John Peter’s Artificial Versifying was a wild success in part because of the in-
+ventor’s cleverness in developing the system. By exploiting specific aspects of the
+Latin language, such as its relatively free word order and loose restrictions on
+modifiers, an elegant combinatorial procedure was enabled—one that was entirely
+feasible to invent, and to disseminate, in the material conditions of Peter’s day. In
+translating the system to English, we experienced firsthand the pain of Cayley’s
+(2015) “local algorithmic dissonance,” discussed above. Peter deftly leverages the
+features of Latin that lubricate his combinatorial procedure, but these features
+are not present in English. Our first attempt at translation, essentially a meaning-
+oriented transliteration that maintained word order, produced wonky outputs such
+as ‘the bitter gift I say will show quarrels many.’ By adding metrical constraints
+to our design considerations, the process became even more difficult in our sec-
+ond phase of translation. Ultimately, we found that rearranging Peter’s versifying
+tables would be necessary to produce grammatical outputs, but this too was com-
+plicated by Peter’s mixing of adverbs and adjectives in Table 6. Ultimately, we not
+only swapped tables, but altered the part of speech of certain items to produce a
+“least bad” system translation that we are pleased to present in this article.
+
+Again, we would like to emphasize that translating any isolated output from the
+original Artificial Versifying is a trivial problem relative to the one we undertook.
+
+Berg, Koelling, and Ryan (2021)
+
+22
+
+In our case, each decision about how to translate one of the system’s 54 items
+affected tens of thousands of translations, those being all the 95 possible outputs
+including that item. The peculiar challenge of wrangling system dynamics by
+making decisions about individual components is what Montfort (2018) has referred
+to as the ‘computational aspect’ that complicates e-lit translation. In this article,
+we have shown that these difficulties are already present in protocomputational
+works that are sufficiently procedural, such as John Peter’s Artificial Versifying.
+We hope that readers will enjoy using our English translation of the system, shown
+in Figure 3, and that our project will stimulate interest in the translation of other
+curious systems that intriguingly prefigured electronic literature.10
+
+Acknowledgments
+We heartily thank Chico Zimmerman for his feedback on our translation effort in
+progress, and for his insights on certain features of Artificial Versifying’s original
+Latin hexameter verse. This project was made possible by a Carleton College
+Humanities Center Student Research Partnership award.
+
+Notes
+1 The full title of the booklet, published in London by John Sims, is Artificial Versifying or,
+The School-boy’s Recreation: A New Way to make Latin Verses. Whereby Any one of ordinary
+Capacity, that only knows the A.B.C. and can Count 9 (though he understands not one word of
+Latin, or what a Verse means) may be plainly taught, (and in as little a time as this is Reading
+over,) how to make Hundreds of Hexameter Verses, which shall be True Latin, True verse, and
+good Sense. While Peter is not identified in the first edition, a second edition “By the same
+Hand of John Peter” includes an author’s preface in which he notes, “It is twice five years and
+upwards, since the Model of this Fancie was first influenced into my Brain” (A2). Given that this
+preface is dated September 1677, we speculate a time frame for the system’s invention roughly
+in the range of the London’s last major outbreak of bubonic plague, which spanned 1655–1666
+(see Moote and Moote 2004). Did a peculiar muse visit Peter in his quarantine boredom? The
+
+Berg, Koelling, and Ryan (2021)
+
+23
+
+date of this current publication may suggest a bias for our speculation. Details including Peter’s
+occupation and other publications are given in Ruff (2001), which supplies the most extensive
+critical treatment of Peter’s work to date.
+2 See Ruff (2001) for a deeper explanation of the system.
+3 Ruff (2001) implies that there were two distinct third editions (243), and Binder (2018) notes
+a fourth edition in 1679 (368), likely following Ruff. Binder discovered reproductions of Peter’s
+tables in The Curiosity: or, the Gentleman and Lady’s Library (1739) (193–201) and other
+eighteenth century texts. As for the latter, we have personally identified John Hill’s popular
+Arithmetick, published in several editions that century (e.g., see 159–164 of the 1712 edition).
+The latest reprint of Peter’s tables that we have encountered appeared in an 1875 issue of The
+Huddersfield College Magazine (vol. III, 223–226), under the heading “Latin Versification for
+the Million” (whence this article’s title). Of particular note is an obscure 1860 booklet by “H.
+S. G.” that reprints Peter’s tables under the title Carminarium Latinum; Whereby any one of
+ordinary capacity, though he understands not one word of Latin, may be taught immediately to
+make 590,490 hexameters and pentameters, true Latin, true verse, and good sense. These two
+sources show that Peter’s system was in use a full two centuries. Will any work of e-lit have such
+staying power?
+4 The procedure that drives John Clark’s Eureka machine is believed to have been inspired by
+Artificial Versifying. Rodgers (2017a) has evocatively identified the latter as the “software” of
+the former (2).
+5Curiously, however, Table 3 instead uses extra black squares in lieu of random letters, while Table
+4 ends with an empty white square.
+6 Ruff (2001) includes English glosses for each of the 54 words in Peter’s six tables. Binder’s
+(2019) computerization of the procedure is an interactive visualization that affords an English
+mode, but this is a simple word-for-word translation that swaps the Latin words for Ruff’s glosses,
+producing results like sad vows for a man will cause quarrels evil. To be clear, neither Ruff or
+Binder claim to have produced a bona fide translation.
+7 We will list here a few of the earliest instances of which we are currently aware. An English
+translation of Theo Lutz’s “Und Kein Engel Ist Schön” (see Bernhart 2020) appeared in various
+newspapers in July 1963 (e.g., Palmer 1963), via the Associated Press wire service. Russian trans-
+lations of Victor Yngve’s computer-generated sentences (Yngve 1962) are included in Apresyan
+(1966). A remarkable article by Hans-Jørgen Nielsen (1967) includes his Danish translations of
+Lutz’s computer poetry, Yngve’s random sentences, and also Christopher Strachey’s computer-
+generated love letters (Strachey 1954, Wardrip-Fruin 2011). Selections from A House of Dust
+(Knowles et al. 1969) were translated into Polish by Vilim Crlenjak for Putar (1968). English
+translations of Boris Katz’s Russian computer poetry appeared in Zientara (1978). We have also
+
+Berg, Koelling, and Ryan (2021)
+
+24
+
+encountered a number of later examples.
+8 Montfort (2014) computerized MacCormac’s translation for his Memory Slam suite of reimple-
+mentations of historical text generators.
+9 It is with some deliberation that we have selected the word ‘procedural.’ One might be inclined
+to associate ‘interactive’ or ‘ergodic’ works (Aarseth 1997) with Montfort’s computational aspect,
+but this would be misguided, because it is not (just) interactivity that troubles translation. For
+instance, while Artificial Versifying is ergodic, John Clark’s Eureka is not, but it is procedural
+enough to complicate translation. Likewise, cursory consideration of many non-ergodic text
+generators (e.g., Strachey 1954, Lutz 1959, Yngve 1962, Knowles et al. 1969) will reveal this
+notion.
+
+10 Pertinent Latin options here include the revised hexameter and new pentameter verse of the
+second edition of Artificial Versifying, as well as John Clark’s aforementioned Eureka machine,
+which takes up a similar combinatorial procedure.
+
+References
+Aarseth, E. J. (1997). Cybertext: Perspectives on ergodic literature. Johns Hopkins
+
+University Press.
+
+Apresyan, Y. D. (1966).
+
+Idei
+
+i metody sovremennoj strukturnoj
+
+lingvistiki.
+
+Prosveščenie.
+
+Bassnett, S. (2013). Translation studies. Routledge.
+
+Bernhart, T. (2020). Beiwerk als werk: Stochastische texte von theo lutz. editio,
+
+33(1):180–206.
+
+Binder, J. M. (2018). Symbols Purely Mechanical: Language, Modernity, and the
+
+Rise of the Algorithm, 1605–1862. PhD thesis, City University of New York.
+
+Binder, J. M. (2019).
+
+https://web.archive.org/web/
+20210123222809/http://jeffreymbinder.net/304/artificial-versifying. Archived:
+2021-01-23.
+
+Artificial versifying.
+
+Blandford, D. (1965). The eureka. Classical Journal, pages 247–251.
+
+Berg, Koelling, and Ryan (2021)
+
+25
+
+Bouchardon, S. and Meza, N. (2020a). Translating a web-based work of digital
+literature into several languages: Issues and feedback. In Proceedings of the 3rd
+International Conference on Web Studies, pages 9–15.
+
+Bouchardon, S. and Meza, N. (2020b). Translating a work of digital literature into
+
+several languages: a case study. In Proceedings of ELO 2020.
+
+Buchloh, B. H. (2012). The book of the future: Alison Knowles’s The House of
+Dust. In Mainframe Experimentalism, pages 200–208. University of California
+Press.
+
+Campana, A. et al. (2014). Renderings. Cura: A Literary Magazine of Art Action,
+
+page n.p.
+
+Cayley, J. (2015). Beginning with ‘the image’ in How It Is when translating certain
+
+processes of digital language art. electronic book review.
+
+Cuddon, J. A. (2012). A dictionary of literary terms and literary theory. John
+
+Wiley & Sons.
+
+Glazier, L. P. (2015). Translating e-literature: Translateral language. In Proceed-
+ings from the first international conference on translating e-literature, “Trans-
+lating E-Literature/Traduire la littérature numérique”.
+
+Goldenberg, J. and Shanahan, M. (2011). Logeion. https://logeion.uchicago.edu/.
+
+Gray, E. I. (2004). Clough and his discontents: Amours de Voyage and the English
+
+hexameter. Literary Imagination, 6(2):195–210.
+
+Grigar, D.
+
+(2020).
+
+An afternoon with afternoon: An exhibition cele-
+a story.
+
+brating the 30th anniversary of Michael Joyce’s afternoon,
+http://web.archive.org/web/20200923144513/https://dtc-wsuv.org/
+afternoon-with-afternoon/curatorial-statement.html. Archived: 2020-09-23.
+
+Berg, Koelling, and Ryan (2021)
+
+26
+
+H. S. G. (1860). Carminarium Latinum; Whereby any one of ordinary capacity,
+though he understands not one word of Latin, may be taught immediately to make
+590,490 hexameters and pentameters, true Latin, true verse, and good sense.
+
+Hall, J. D. (2007). Popular prosody: Spectacle and the politics of victorian versi-
+
+fication. Nineteenth-Century Literature, 62(2):222–249.
+
+Hall, J. D. (2017). Nineteenth-Century Verse and Technology: Machines of Meter.
+
+Springer.
+
+Henrickson, L. (2021). Reading Computer-Generated Texts. Cambridge University
+
+Press.
+
+International Phonetic Association (1999). Handbook of the International Pho-
+netic Association: A guide to the use of the International Phonetic Alphabet.
+Cambridge University Press.
+
+Joyce, M. (1987). afternoon, a story. Eastgate Systems.
+
+Karth, I. (2019). Preliminary poetics of procedural generation in games. Transac-
+
+tions of the Digital Games Research Association, 4(3).
+
+Knowles, A., Tenney, J., and Siemens System 4004 (1969). A House of Dust.
+
+König.
+
+Koch, L. A. (1996). Silicon poetics: The computer as author and artifice. Master’s
+
+thesis, University of Montana.
+
+Köhler, D. and Krause, R. D. (1998). Nachmittags, eine Geschichte [Afternoon, a
+
+Story].
+
+Lutz, T. (1959). Stochastische texte. Augenblick, 4(1):3–9.
+
+Małecka, A. and Marecki, P. (2014). Hyper-constrained: Translating Nick Mont-
+
+fort’s textual generators. Word and Text, 4:83–97.
+
+Berg, Koelling, and Ryan (2021)
+
+27
+
+Marecki, P. and Montfort, N. (2017). Renderings: Translating literary works in
+
+the digital age. Digital Scholarship in the Humanities, 32(suppl_1):i84–i91.
+
+Menabrea, L. F. and Lovelace, A. (1842). Sketch of the analytical engine invented
+
+by Charles Babbage.
+
+Montfort, N.
+
+(2014).
+
+Memory Slam.
+
+https://web.archive.org/web/
+
+20210413152308/https://nickm.com/memslam/. Archived: 2021-04-13.
+
+Montfort, N. (2016). Two radical translation projects: Renderings and heftings.
+
+Convolution, 4:62–68.
+
+Montfort, N. (2018). Minding the electronic literature translation gap. electronic
+
+book review.
+
+Montfort, N. and Fedorova, N. (2013). Carrying across language and code. Tech-
+
+nical Report TROPE-12-04. 2012.
+
+Moote, A. L. and Moote, D. C. (2004). The Great Plague: the story of London’s
+
+most deadly year. Johns Hopkins University Press.
+
+Nielsen, H.-J. (1967). Poeten med den sorte kasse: Datamaskinepoesi.
+
+ta’,
+
+(4):20–23.
+
+Pisarski, M. (2015). From storyspace to browsers. translating ‘afternoon, a
+story’into polish. Colloques de l’Université Paris 8, Translating E-Literature=
+Traduire la littérature numérique.
+
+Pisarski, M. (2020). When new media turn old: Towards object-oriented transla-
+
+tion of historical digital literature. World Literature Studies, 12(1):82–96.
+
+Pold, S., Mencia, M., and Portela, M. (2018). Electronic literature translation:
+
+translation as process, experience and mediation. Electronic Book Review.
+
+Putar, R. (1968). Cybernetic serendipity (izlozba u institutu suvremene umjet-
+
+nosti, London). bit, (1):89–99.
+
+Berg, Koelling, and Ryan (2021)
+
+28
+
+Raley, R. and Mitchell, C. (2019). Amodern 8: Translation–machination, guest
+
+editors’ introduction. Amodern, 8.
+
+Regnauld, A. and Abrioux, Y., editors (2015). Proceedings from the first interna-
+tional conference on translating e-literature, “Translating E-Literature/Traduire
+la littérature numérique”. Bibliothèque numérique de Paris.
+
+Rodgers, J. (2017a). Plumbing the depths of print: Lemuel Gulliver’s ‘Knowledge
+Engine,’ John Peter’s ‘Artificial Versifying’ and textual machines in 17th and
+18th c. England. In Proceedings of ELO 2017.
+
+Rodgers, J. (2017b). The genealogy of an image, or, what does literature (not)
+have to do with the history of computing?: Tracing the sources and reception
+of Gulliver’s “Knowledge Engine”. Humanities, 6(4):85.
+
+Ruff, C. (2001). “True Latin, true verse, and good sense”: John Peter’s Artificial
+Versifying. In Anglo-Latin and its Heritage: Essays in Honour of AG Rigg on
+his 64th Birthday, pages 243–255.
+
+Strachey, C. (1954). The ‘thinking’ machine. Encounter, (13):25–31.
+
+Swidzinski, J. (2015). Poetic Numbers: Measurement and the Formation of Literary
+
+Criticism in Enlightenment England. PhD thesis, Columbia University.
+
+Van Der Lee, C., Gatt, A., Van Miltenburg, E., Wubben, S., and Krahmer, E.
+(2019). Best practices for the human evaluation of automatically generated
+text. In Proceedings of the 12th International Conference on Natural Language
+Generation, pages 355–368.
+
+Vannini, W. (1993). Translation of michael joyce’s afternoon, a story. In Miglioli,
+
+L., editor, Ra-dio. Electtrolibri.
+
+Wardrip-Fruin, N. (2011). Digital media archaeology: Interpreting computational
+processes. In Media Archaeology, pages 302–322. University of California Press.
+
+Berg, Koelling, and Ryan (2021)
+
+29
+
+Yngve, V. H. (1962). Random generation of english sentences. In Proceedings of the
+1961 International Conference on Mechanical Translation and Applied Language
+Analysis, volume 1, pages 65–80. Her Majesty’s Stationery Office.
+
+Zientara, M. (1978). Two programmers make it to the u.s. at last. Computerworld,
+
+12(50):4.
+
+

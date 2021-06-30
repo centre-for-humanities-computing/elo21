@@ -1,0 +1,55 @@
+:
+In this interactive workshop, participants will be introduced to various platforms that can facilitate online
+communication and storytelling. These platforms include our own open source tool Virtual Director,
+developed in TouchDesigner, for compositing multiple participants in a shared virtual space in order to
+communicate tele-immersively [1], as well as open-source creativity helpers such as an automated slide
+generator [2].
+
+The workshop will start with warm-up exercises taken from improvised comedy practice, and conclude
+with short live improvised presentations made by the participants. Over the course of the workshop,
+participants will learn a range of skills and best practices, derived from applied improvisation and
+cinematographic language, that will help them foster a sense of presence, connection, and creativity in
+digitally immersed environments.
+
+In Part I: “Tele-Immersion with off the shelf digital tools”, participants will learn how to use OBS, Zoom,
+and NDI tools to program virtual sets for live theatrical performance.
+
+In Part II: “Virtual Director - Designing tools for improvisation”, participants will learn how to use our own
+open source tool for facilitating live interactive tele-immersive performance, rehearsal, and improvisation.
+
+In Part III: “The virtual theatre DJ/VJ: Directing ensembles in virtual spaces”, participants will engage in a
+series of games and activities that demonstrate best practices for helping performers feel connected and
+present with each other, facilitating physical and emotional connection through the visual language of
+cinema and the pedagogy of improvisation.
+
+About the facilitators:
+
+Boyd Branch is the founder and director of the London-based Improvisational Media and Performance
+Lab, which explores how improvisational pedagogies can be utilized to create accessible, adaptive, and
+socially supportive technologies. He has been a troupe member of Improbotics since 2018. A former
+Fulbright fellow, he holds an M.F.A. in interdisciplinary digital media from Arizona State University, and an
+M.A. in theatre studies from the University of Utrecht in the Netherlands. He is currently a
+Vice-Chancellor’s Fellow at the University of Kent.
+
+Piotr Mirowski, a theatre actor and researcher in AI, co-founded AI-enabled improv companies
+HumanMachine and Improbotics. Experimenting with AI for artistic human and machine-based
+
+22
+
+ELO 2021 - abstracts
+
+co-creation, he created shows featuring robots and chatbots that have toured internationally. Piotr
+obtained a PhD in computer science in 2011 at New York University as well as a Diploma in Acting at
+London School of Dramatic Art (2015-2017). Piotr works as Staff Research Scientist at DeepMind on AI
+research.
+
+Kory Mathewson is a Research Scientist with DeepMind and a Machine Learning Lab Scientist with the
+Creative Destruction Lab. He holds a Ph.D. in Computing Science from the University of Alberta. His
+research interests include interactive machine learning, human-in-the-loop deep reinforcement learning,
+human-robot interfaces, prosthetic robotics, and conversational dialogue systems. Kory is an
+accomplished improvisational theatre performance artist with Rapid Fire Theatre.
+
+[1] Branch et al, “Tele-Immersive Improv”, SIG CHI 2021.
+
+[2] Winters and Mathewson, AutomaTED Talk Generator, https://talkgenerator.com/
+

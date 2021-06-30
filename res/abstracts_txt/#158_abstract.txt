@@ -1,0 +1,44 @@
+:
+Anton Ferret, author of the E-Lit work The Fugue* book, will present a reflection on the technological and
+creative part of it, all that can be done well working with platforms and taking advantage of their own
+intrusion into the data and all that it means to lose it by the cultural and technological change that has
+meant the greater awareness for privacy. Oreto Doménech, a researcher in digital literature, will focus on
+the reception: on how this literary work reconfigures the platforms through which it’s expressed and on
+how fiction itself uses the platforms to build a metadiscursive reflection on the literature inserted in the
+historical and social fact.
+
+The Fugue* book (ELC II; 2008) turns the reader into the author and protagonist of the same story he is
+reading and his real-life friends turn into fictional characters. Both obsessively harass him in a violent,
+sensual plot: with crimes, envy (including literary one), false attributions of authorship and bitter disputes
+in forums and social networks. Technically, the work is based on the idea of remixing and "mashup" and
+integrates elements as diverse as the Facebook APIs, applications in PHP and Javascript languages,
+automatic emails, PDF self-generation or speech synthesis. You can see a video of the work
+(https://youtu.be/m4UW5uo_H4M) which cannot be read right now due to the obsolescence of the Adoble
+Flash software.
+
+100
+
+ELO 2021 - abstracts
+
+Technologies and platforms in this work are related to creation, not to edition or distribution, which
+supposes main problems and diverse derivatives of the technologies, like the need of continuous
+technological update, costs, dependence on the work to the availability of the technology and of the
+platforms, like for example, to other people's conditions, subjection to technological evolution of the
+platforms and the introduction of third parties, the big platforms, in the very heart of the works. This
+literary fiction is constructed with interaction, multimedia, language technologies, data obtained from the
+Internet and data provided by the reader, ingredients all of which involve well-known and used
+technologies and platforms.
+
+However, the reading pact that introduces us to fiction, reconfigures these platforms along different
+reading paths. The use of the wide range of platforms builds the plausibility of the stories and ironically
+places them at the center of the digital landscape in a critical review of the platforms themselves. The
+theme is distilled, refined, and focuses on the dehumanization of relationships between people, the
+text-context relationship, public and private space, the real self and masks (authorship, deception and
+plagiarism), gender literary texts and their analogy with the types of platforms… Texts and spaces related
+to a communicative situation completely out of literary creation make it possible for all these fragments to
+function as parts of a single literary narrative.
+
+Reading The Fugue* book is an intelligent, amusing and critical experience, with the subtle background of
+the complexity of the human being able to create (the) networks with words. When digital accelerates the
+hybridization of the arts, only the centrality of the word defines literature.
+

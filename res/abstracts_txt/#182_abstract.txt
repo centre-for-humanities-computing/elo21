@@ -1,0 +1,15 @@
+:
+I propose comparing methods of generating forensic images of 3.5 inch floppy disks in order to evaluate
+methodologies for use in media archeology labs. Many key works of electronic literature (including the
+bulk of Eastgate Systems, Inc. early publications) were released on 3.5 inch floppy media. I will use both
+Kyroflux and Superdrive floppy disk controller units to generate forensic images and also generate
+images using BitCurator suite of forensic software and using legacy computing hardware and software.
+
+Gathering data on the quality of images created by these disparate methods and also on the workflows
+involved and the ease and practicality of employing them will produce useful information for other media
+archeology labs examining how the field of floppy disk forensics has advanced.
+
+The results of these tests should show useful comparison data between the quality of the images created
+from identical media, the range of image types that can be created using each technique, and the
+usefulness for online access and emulation each forensic methodology and platform provides.
+

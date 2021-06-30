@@ -1,0 +1,465 @@
+LAB-YRINTHE: 
+
+AN ONLINE LABORATORY TO OBSERVE CHILDREN’S E-LIT  
+
+AND SUPPORT DIGITAL LITERACY 
+
+ 
+
+Eleonora ACERRA, UQAT (Université 
+du Québec en Abitibi-Témiscamingue)  
+
+Nathalie LACELLE, UQAM (Université 
+du Québec à Montréal)  
+
+ 
+
+ 
+
+ 
+ 
+Introduction 
+The children’s and young adults’ digital content market is growing at a fast pace and already 
+represents  a  considerable  share  of  the  editorial  field,  both  in  terms  of  downloads  and 
+distribution.  As  of  April  2021,  395  000  mobile  apps  labelled  as  suitable  for  children  were 
+available in the Apple App Store and 283 000 in the Google Play [Curry, 2021], corresponding 
+respectively to 8,6% and 11,2% of the listing volume overall. In Quebec, where nine out of ten 
+households are connected to the Internet [CEFRIO, 2017], several public industries, multimedia 
+companies,  as  well  as  big  and small  print  publishers  have  realized  important  investments  to 
+develop new content and new distribution paths, both adapting their previous catalogues and 
+experimenting  innovative  technological  solutions.  For  instance,  Télé-Québec  has  launched  a 
+collection of augmented adaptations of print picturebooks intended for primary school pupils. 
+Fonfon, a print children’s publisher, has developed a catalogue of mobile apps. La Pastèque, in 
+collaboration with La puce à l’oreille, a Quebecois startup specialized  in audio content, has 
+recently launched several podcasts, meant to extend the print picturebooks reading experiences. 
+This  editorial  effort  was  accompanied  by  an  impressive  augmentation  of  digital  books 
+borrowings,  especially  during  the  pandemic.  According  to  the  figures  published  by  the 
+pretnumerique.ca platform and the statements of the director of the Quebecois digital library 
+Bibliopresto,  Jean-François  Cusson,  in  Québec,  an  impressive  increase  of  children’s  books 
+borrowings  was  observed  in  20201  (+176%  in  the  comic  books  section,  +125%  in  the 
+picturebooks and novels one, and +185% in non-fictional category) [Levesque, 2020]. 
+
+1 For previous reports, see https://bibliopresto.ca/publications.php  
+
+ 
+
+ 
+
+1 
+
+At  the  same  time,  educational  policies  have  proven  receptive  to  digital  literacy  issues  and 
+sensitive  to  the  importance  of  introducing  digital  and  multimodal  content  in  the  ordinary 
+curricula.  In  particular,  the  Digital  Action  Plan  (Plan  d’Action  Numérique),  released  by  the 
+Ministry  of  Education  and  Higher  Education  in  2018,  has  stressed  the  importance  of 
+systematically including digital content and digital competencies in the 21st century educational 
+programs. By insisting on the objectives targeted in the Educational Success Policy (Politique 
+de la réussite éducative), that were already aimed at “better integrating the 21st century skills 
+and  the  possibilities  of  digital  technology”,  the  Quebecois  Digital  Action  Plan  defines  33 
+measures,  intended  to  achieve  “nine  objectives,  referring  to  three  major  orientations,  all 
+centered on the needs of educational communities”. The first concerns the modernization of the 
+educational  offer,  the  promotion  of  digital  culture  and  the  development  of  digital  skills  and 
+competencies among both young people and adults. The second aims at improving the use of 
+technology  for  teaching  and  learning,  by  encouraging  innovative  practices,  establishing 
+efficient  systems  for  sharing  digital  resources  and  activities,  and  deploying  new  and  varied 
+distance  educational  offers,  based  more  on  learners’  needs  and  realities.  Finally,  the  third 
+orientation focuses on the educative curricula themselves, on the implementation of digital tools 
+to accompany students’ progressions throughout their education and on the development of fair 
+and safe conditions to access digital technologies [MEES, 2018]. Within this framework, the 
+Digital competency framework (Cadre de référence de la compétence numérique), released as 
+the first measure of the Digital Action Plan, has identified twelve dimensions – corresponding 
+to as many competencies and skills – that young Quebecers need to master in order “to become 
+increasingly  autonomous  in  their  use  of  digital  technologies  in  educational  or  professional 
+contexts as well as in everyday life” [MEES, 2019, p.7]. Digital reading skills and competencies 
+appear  transversal,  both  at  primary  and  secondary  levels,  and  cover  most  of  the  twelve 
+dimensions:  they  are  fundamental  for  developing  and  mobilizing  technological  skills 
+(Dimension  2),  collaborating,  communicating  and  producing  content  via  digital  technology 
+(Dimensions 5, 6 and 7), developing critical thinking with regard the use of digital technology 
+(Dimension  11),  adopting  an  innovative  and  creative  approach  the  use  of  digital  technology 
+(Dimension 12)  [MEES, 2019].  
+However, despite the sector dynamism and the interest of institutions, teachers and researchers 
+towards digital content and digital literacy, children’s e-literature still presents major issues, in 
+terms  of  production,  distribution  and  diffusion.  Developers,  publishers  and  educators  admit 
+their difficulties and their partial knowledge of the editorial offer, of the creative processes, of 
+the reading modes and habits in the digital environments, especially those of young readers. 
+Thus, in order to support the digital transformation of the Quebec youth e-publishing sector and 
+facilitate  both  the  “discoverability”  [Bisaillon,  2018]  of  its  products  and  their  use  in  school 
+context, a team of 10 researchers2 from different disciplinary fields (education, literature and 
+art) and 12 partners from the publishing or media fields set out to document the issues, needs 
+and realities of the contemporary digital market between 2017 and 2020, as part of the project 
+“Support  for  digital  publishing  initiatives  for  young  people  in  Quebec  based  on  favorable 
+production, distribution and reception practices” [Lacelle et al., 2017-2020]. More particularly, 
+the research had three objectives: 1) identifying and documenting the needs, challenges and 
+best practices in the production, distribution and reception of children’s digital literary works; 
+2) co-constructing adapted reference  tools to analyze and solve the specific  issues faced by 
+publishers and educators in conceiving, diffusing and distributing such works; 3) developing 
+an action plan for the development of innovative e-publishing projects. 
+
+ 
+
+2  Nathalie  Lacelle,  resp.  (UQAM),  Eleonora  Acerra  (UQAT),  Marie-Christine  Beaudry  (UQAM),  Vincent 
+Bouchard-Valentine (UQAM), Jean-François Boutin (UQAR-Lévis), Sylvain Brehm (UQAM), Monique Lebrun 
+(UQAM), Virginie Martel (UQAR-Lévis), Moniques Richard (UQAM), Élaine Turgeon (UQAM). 
+
+ 
+
+2 
+
+Data was gathered via semi-structured interviews with different actors involved in producing, 
+distributing or accompanying the reception of children’s digital literary works. 
+A preliminary inquiry with 43 primary and secondary levels teachers was conducted in 2017, 
+in order to describe their knowledge of e-literary creations and their effective use. Two cycles 
+of interviews were then conducted with 17 print or digital publishers, developers and producers, 
+that already had significant  experience in digital  children’s publishing  and wished to further 
+exploit the potential of technology for their creations, by identifying and overcoming the issues, 
+needs and problems encountered during the creation, production or distribution phases. Their 
+statements,  coupled  with  an  inquiry  on  their  needs,  expectations  and  ambitions,  as  well  as 
+scientific literature reviews of digital reading and writing practices, led to identify several major 
+issues, undermining or slowing their initiatives. In parallel, a close look at their production, at 
+the contents available and at the platforms effectively developed in the last five years offered a 
+clear portrait of the current orientations of the digital children’s literature publishing field in 
+Quebec.  
+In this article we present the Lab-yrinhte.ca website and virtual laboratory, which results from 
+the previous research and meets its goals, on one side, by depicting the major issues encountered 
+by publishers and educators and suggesting recommendations and best practices, and, on the 
+other  side,  by  offering  a  detailed  and  up-to-date  catalogue  of  the  current  digital  children’s 
+literature offer. After having introduced the context of the website and virtual laboratory, we 
+will present its content and intentions in more detail.   
+ 
+
+1.  Context of the virtual laboratory  
+
+Educators’  and  publishers’  statements  gathered  through  the  interviews  have  revealed  three 
+major issues that seem to hinder the production and the distribution of digital literary content 
+for young readers, as well as their diffusion in school contexts [Caption 1].  
+The first one refers to the lack of knowledge about the  current editorial offer, by educators, 
+librarians  and,  more  generally,  by  common  readers.  Genres,  technological  solutions  and 
+formats, multimodal combinations, poetic and rhetorical effects of literary creations seem to be 
+insufficiently  known.  However,  just  like  educators  and  teachers  [Stockless  and  Villeneuve, 
+2017],  publishers  and  authors  feel  insecure  about  their  e-literary  knowledge  and  claim  they 
+would need a more in-depth training on the specificities of digital literature, as well as on the 
+processes of its production and creation. They equally insist on the importance of improving 
+their  collaborations  with  digital  media  actors  and  other  print  publishers,  in  order  to  imbibe 
+ideas,  creative  solutions,  literary  and  artistic  tendencies  of  their  contemporary  cultural 
+ecosystem. At the same time, as a necessary part of their acculturation, respondents – educators 
+and publishers – mention the importance of creating and accessing dedicated spaces to discover 
+children’s e-literature initiatives, especially those of independent studios, often drowned by the 
+commercial and marketing strategies of bigger competitors. 
+The second issue is related to young readers’ specificities and pertains more particularly to the 
+psycho-cognitive and affective process involved in digital reading, which largely goes beyond 
+publishers’  and  creators’  expertise.  On  several  occasions  during  the  interviews,  respondents 
+have  claimed  their  wish  to  know  better  young  readers’  development  needs  and  to  capitalize 
+more  effectively  on  the  features  of  the  technological  devices  and  environments  supporting 
+learning and teaching activities. Similarly, even when they consider the school context as an 
+ideal market for their creations, several respondents admit their difficulty at picturing the class 
+realities  and  the  activities  teachers  and  students  may  realize  with  children’s  e-literature. 
+Moreover, they find information about classroom equipment hard to access, and thus difficult 
+to adjust their content for the devices and the operative systems that are actually available and 
+frequently used at school. With such uncertainties about school practices and young readers’ 
+competencies,  skills  and  needs,  children’s  e-literary  texts  are  often  standardized  in  terms  of 
+
+ 
+
+3 
+
+technological  solutions  and  para-pedagogical  enhancements:  on  one  side,  publishers  and 
+authors tend to prefer formats and interfaces that do not dramatically reformulate the print book 
+codes  and  formats;  on  the  other  side,  they  overstress  the  educative  orientation  of  their 
+productions, by adding more or less standardized tools to support the decoding stage, the literal 
+comprehension or the learning of vocabulary.  
+The  third  difficulty  emerges  with  slight  differences  between  teachers,  librarians  and  literary 
+mediators and refers to the lack of guiding materials to present and analyze digital creations 
+with young audiences. More particularly, teachers struggle to include e-literary creations in the 
+school canon and mostly restrict their digital reading sessions to the use of digitized adaptations 
+of  print  texts  (even  if  their  technological  equipment  would  support  more  interactive  and 
+dynamic texts). Again, the unfamiliarity with digital texts, with their poetics and their potential 
+didactic usages, seems to represent an obstacle to the implementation of new practices.   
+ 
+ 
+ 
+
+Caption 1. The graphic presents the major issues in production, distribution and reception of children’s e-
+literary contents identified through the analysis of publishers’ and educators’ statements. 
+
+ 
+
+ 
+
+2.  Lab-yrinthe: an online laboratory for educators and publishers 
+
+In order to reduce the limitations observed during this research, to stimulate reading practices 
+and to help educators developing young readers’ competencies in digital literacy, a website and 
+a virtual laboratory dedicated to children’s digital creation has been conceived, in partnership 
+with the Littérature Quebecoise Mobile partnership, directed by Bertrand Gervais: Lab-yrinthe. 
+The website, launched in May 2021, is intended as a virtual laboratory on the contemporary 
+children’s  digital  literary  phenomena  and  aims  at  providing  information  based  on  scientific 
+observations, as well as conceptual and didactic tools for educators, publishers and researchers. 
+The website  is thus organized into six sections:  the first section  introduces the team  and the 
+mission of the website; the second, addressed to teachers, editors and students, offers detailed 
+descriptions  of  e-literary  children’s  works;  the  third,  directed  to  publishers,  presents 
+recommendations and advice based both on the research and on literature reviews; the fourth, 
+more oriented towards educators and teachers, contains descriptions of theoretical concepts and 
+
+ 
+
+4 
+
+notions of digital literature, as well as indications to include digital literature specificities in the 
+literature class; the fifth illustrates some of the projects followed during the research; the last, 
+containing four sub-sections, compile relevant news (events, book releases, conferences, etc.) 
+on digital literature in Quebec.  
+ 
+
+2.1. A portrait of children’s e-lit  
+
+The  “Digital  works”  section  of  the  Lab-yrinthe  website  presents  a  catalog  of  heterogeneous 
+digital literary works produced or distributed in Quebec, including enriched books, mobile apps, 
+narrative video games, geolocated narrations, augmented reality creations, interactive theater 
+performances, virtual installations and podcasts [Caption 2].  Each creation is analyzed from a 
+set of descriptive parameters conceived by the research team [Acerra, Lacelle et al., 2021] with 
+the purpose of illustrating the semiotic, multimodal and technological materials of the text, as 
+well as the poetic or rhetorical effects of their combinations. Moving from a consideration of 
+digital literature as an amalgam of literary and technological components, and methodologically 
+choosing  to  identify  elements  that  repeatedly  appear,  regardless  of  the  formal  and  stylistic 
+specificities of each textual typology, we took account of three interdependent levels. The first 
+one describes the formal structures of children’s literary texts; the second focuses on content 
+representation modes, and the third one puts the accent on the types of interactions required for 
+the empirical subject. The analysis of the formal structures allowed to classify digital literary 
+works according to their genres and the different roles given to their model reader. On one side, 
+we  were  able  to  distinguish  creations  displaying  linearity  and  sequentiality  from  others 
+presenting non-linear structures, tabular or multiple paths, depending totally, or in part, on the 
+readers’ choices. On the other side, the implied postures of the readers led to classify works 
+according to the kind of interventions required for young readers, and eventually to distinguish 
+creations favouring playful encounter, linear reading, or sound or tactile discovery. Regarding 
+the  dimension  of  content  representation  modes,  we  adapted  the  Aarseth  [1997]  model  and 
+identified works in which the textual materials remain fixed for the entire time of the reading 
+session,  or  evolve  according  to  the  readers’  requests  or  to  (semi)automated  devices’  and 
+programs’  orders.  We  therefore  distinguished  creations  allowing  to  reactivate,  replay  and 
+relaunch  elements already read, seen, listened  to or played under  the same conditions as the 
+first reading, from those suggesting a number of variations from the first execution. By focusing 
+more  precisely  on  textual  materials  accessibility,  we  classified  digital  children’s  e-literary 
+works according to the conditions allowing the content to display: textual materials could either 
+appear  in  a  clear  and  immediate  way,  or  be  blurred,  delayed  and  hindered.  Finally,  by 
+considering  the  interactivity  “a  mediated  and  programmed  possibility  of  choice  and  action” 
+[Archibald and  Gervais, 2006, p. 31], we identified works in which the readers’ actions and 
+gestures  provoke  a  modification  in  the  narrative  scheme,  in  the  computer  code  or  in  the 
+representation  of  the  text  itself.  Within  this  category,  we  distinguished  digital  works 
+programming compulsory and explicitly required manipulations, from others requiring optional 
+and implicit interventions.  
+Following this descriptive parameters’ grid, we analyzed each digital work and presented their 
+structures and main themes, as well as their user experiences, according to the different devices 
+and  their  technologies.  Each  record  was  completed  by  some  educational  and  didactic 
+suggestions,  both  based  on  the  works  themes  and  on  their  techno-literary  features.  This 
+subsection, directed to teachers, is meant to offer some reading and analysis keys and, at the 
+same  time,  to  suggest  clear  examples  of  the  possible  exploitations  of  digital  texts  in  school 
+context. 
+ 
+
+ 
+
+5 
+
+Caption 2. An overview of the « Digital works » catalog. 
+
+ 
+
+ 
+Keywords  regarding  the  main  concepts  and  notions  of  digital  literature  mobilized  in  the 
+descriptions are linked to the “Education” section, where more detailed theoretical and critical 
+information is provided.  
+ 
+
+2.2. A repertory of educative tools  
+
+The  “Education”  section  of  the  website  is  more  specifically  dedicated  to  introducing,  in  an 
+accessible language, a selection of concepts and theories necessary to teach digital literature, 
+present  e-literary  genres  and  describe  the  techno-literary  features  to  young  audiences.  Each 
+entry  summarizes  theoretical  and  critical  works,  about,  for  instance,  the  multimodality 
+framework, the notion of “genre” in e-literary theory, the concepts of lability and obsolescence, 
+or  the  opposition  between  linearity  and  non-linearity  [Caption  3].  These  aspects  are  finally 
+observed in an educative and didactic perspective, underlining the elements that young readers 
+should  be  aware  of,  in  order  to  read,  understand,  interpret  and  appreciate  digital  literary 
+creations, their codes and their specificities. Educators are supposed to refer to this section of 
+the website to enter the e-literary critiques and to identify the elements necessary to train young 
+audiences. Publishers may consult this section to examine other publishing or self-publishing 
+choices, and to be eventually reinvested in the development of innovative, relevant and varied 
+children’s content. 
+ 
+
+ 
+
+6 
+
+Caption 3. An overview of the contents analyzed in the “Education” section. 
+
+ 
+
+ 
+
+2.3. Recommendations for publishers   
+
+Resulting  from  seven  research  reports  dedicated  to  analyzing  the  major  issues  that  emerged 
+during the data collection (the need, for publishers and creators, to improve their knowledge of: 
+digital  cultures;  techn(olog)ical  savoir-faire,  funding  possibilities,  discoverability  paths, 
+scientific results, school practices, readers behaviors and habits), the “Publishing” section offers 
+recommendations to answer publishers’ concerns. It consists of nine modules, organized in a 
+similar tripartite structure. After a recall of five participants’ key quotes [Caption 4], the first 
+part  of  each  notice  describes  several  aspects  of  the  topics  that  members  of  our  sample 
+considered  problematic  [Caption  5].  The  “Digital  professions”  module,  for  instance,  first 
+presents an overview of the issue at hand and explains how the complexification of the creative 
+process in the digital environment and, more particularly, the necessary involvement of several 
+analogue  and  digital  experts  (authors,  graphic  artists,  developers,  sound  creators,  narrative 
+architects,  etc.)  may  represent  a  challenge  for  several  print  publishers.  The  following  four 
+subsections respectively analyze the temporal constraints associated with the digital production 
+scheduling; the roles of the creative, technical and educative poles ideally involved in the design 
+and development processes; their possible interactions; and the missions of the so called “digital 
+passeurs” [Lieutier, 2021], who may facilitate the communication between the different creative 
+units. Finally, the last part of the module presents five recommendations, which may support 
+publishers and creators to overcome their barriers and difficulties.  
+ 
+
+Caption 4. An example of key quotes presented in the “Publishing” section. 
+
+ 
+
+ 
+
+7 
+
+Caption 5. An example of the “Observations” concerning the issues emerged during the research.  
+
+ 
+
+ 
+
+2.4. Partnership projects 
+
+The  fourth  section  of  the  website  is  aimed  at  presenting  the  main  projects,  carried  out  in 
+partnership with several actors from the Quebecois cultural industry, ranging from the national 
+television,  public  libraries  and  archives  to  independent  picturebook  publishers,  local  poetry 
+events  and  bookfairs  promoters.  Each  record  recalls  the  goals  of  the  partner’s  e-publishing 
+initiatives and the expectations regarding the collaboration with the research team.  
+Moreover, answering to the second main objective of the research (“co-constructing reference 
+tools  adapted  to  analyze  and  solve  the  specific  issues  faced  by  publishers  and  educators  in 
+conceiving, diffusing and distributing digital works”), this section of the website describes the 
+approaches,  actions  and  solutions  effectively  adopted  by  the  responsible  researcher(s)  to 
+support the development, the production, the distribution or the mediation with teachers, literary 
+mediators or young readers.  In this case, publishers’ and producers’ requests fell within five 
+axes of requirements. In this case, publishers’ and producers’ requests fell within five axes of 
+support requirements. The first was strictly related to the need of acquiring a proper and secure 
+digital culture: partners wanted to know the specificities of children’s digital literature better, 
+as well as the economic, technological and temporal constraints implied in digital publishing 
+processes. The second axis, partially linked to the previous one, pertains to the need to access 
+popularized  scientific  works  in  didactics,  as  well  as  in  digital  and  multimodal  literacy: 
+publishers and creators felt necessary to understand teachers’ and programs’ orientations better 
+and,  at  the  same  time,  to  distinguish  approximations  and  clichés  about  children  and  screens 
+from objective data. The third pole of requests was product-oriented. Several partners asked for 
+support  in  conceptualizing  user  experiences,  defining  aims  for  interactive  or  audio  elements 
+inscribed in their creations, identifying remediations strategies or even writing some narratives. 
+In  this  context,  a  fourth  axis,  more  specifically  focused  on  developing  content  and 
+enhancements  for  school  uses,  emerged:  the  research  team  was  therefore  solicited  to  create 
+pedagogical resources and content, suggest digital functionalities and study the relevance of 
+specific features or elements. Finally, a fifth pole of needs and requests concerned the mediation 
+
+ 
+
+8 
+
+dimension:  researchers  were  asked  to  offer  presentations  about  digital  books  to  different 
+audiences,  to  conceive  and  organize  innovative  physical  spaces  for  promoting  e-literary 
+creations,  and  to  test  the  efficiency  of  some  mediation  strategies  chosen  by  the  different 
+partners.  
+ 
+Conclusion. Where we are and where we want to go.  
+Lab-yrinthe is the result of an ambitious project and of the will, shared by all the researchers of 
+the  Multimodal  media  literacy  (LMM)  research  team,  to  create  a  favorable  ecosystem  to 
+observe and support new texts and new practices. The website will be constantly enriched with 
+new content, both to update the catalog of digital publications and to follow the evolution of 
+the dynamics of production, distribution and reception of children’s e-literature. The results of 
+a survey about the pandemic effects on the development processes, on the audience uses, as 
+well as on sales and downloads, will be published soon as a module in the “Publishing” section. 
+Information on the legal aspects associated with the use of digital content in school context will 
+also be added in June 2021, as they seem to be a source of concern for publishers and an area 
+of highly uneven – and not always legitimate – practices among teachers. 
+Without abandoning its ambitious nature, Lab-yrinthe aspires to become a laboratory of reading 
+and writing practices. Eventually, the website will be the showcase for a multidisciplinary team 
+of emergent digital artists and developers, and will describe their work, creative processes and 
+artistic  choices.  By  cultivating  its  educational  vocation,  it  will  also  continue  to  gather  and 
+analyze new school practices, co-creating with teachers, pupils and students new patterns for 
+reading and writing. 
+ 
+ 
+Bibliography  
+
+Aarseth, E.J. (1997). Cybertext. Perspectives on ergodic literature. Baltimore, Johns Hopkins 
+University Press.  
+
+Archibald and Gervais, B. (2006). Le récit en jeu. Protée, 34(2-3), 27-39. 
+
+Acerra, E., Lacelle, N., Molina, M. & Vallières, A. (2021). Paramètres descriptifs et figures de 
+style des œuvres littéraires numériques pour la jeunesse.  La lettre de l’AIRDF, n° 68. Lille : 
+AIRDF. p. 18-22. 
+
+Bisaillon, J.-R. (2018). Qu’est-ce que la découvrabilité ? Site web (LATICCE - Wiki UQAM). 
+URL : https://wiki.uqam.ca/pages/viewpage.action?pageId=41074965  
+
+Curry,  D.  (2021).  App  data  report.  App  Store  stats,  downloads,  revenues  and  app  rankings. 
+Staines-upon-Thames (London): Business of Apps.  
+
+(2017).  Portrait 
+
+CEFRIO 
+https://transformation-numerique.ulaval.ca/wp-content/uploads/2020/09/netendances-2017-
+portrait-numerique-des-foyers-quebecois.pdf  
+
+québécois.  NETendances 
+
+numérique 
+
+des 
+
+foyers 
+
+Lacelle, N. et al. (2017-2020). Soutien au développement de démarches d’édition numérique 
+jeunesse  au  Québec  à  partir  de  pratiques  favorables  de  production,  diffusion  et  réception. 
+Research project financed by the Fonds de Recherche Société et Culture (Québec). 
+
+Levesque,  F. (2020).  Le prêt de livres numériques  explose. Le devoir, 30 mars 2020. URL : 
+https://www.ledevoir.com/culture/576022/coronavirus-le-pret-numerique-explose 
+
+Lieutier,  P.  (à  paraitre).  De  l’album  à  l’écran :  enjeux  de  production  en  livres-applicatifs 
+jeunesse au Québec. PhD dissertation.  
+
+Ministère de l’Éducation et de l’Enseignement Supérieur (2018). Plan d’action numérique en 
+éducation  et  en  enseignement 
+supérieur.  Québec :  Gouvernement  du  Québec. 
+
+ 
+
+9 
+
+http://www.education.gouv.qc.ca/fileadmin/site_web/documents/ministere/PAN_Plan_action
+_VF.pdf   
+
+Ministère  de  l’Éducation  et  de  l’Enseignement  Supérieur  (2019).  Cadre  de  référence  de  la 
+compétence 
+Québec. 
+http://www.education.gouv.qc.ca/fileadmin/site_web/documents/ministere/Cadre-reference-
+competence-num.pdf        
+
+Gouvernement 
+
+du 
+
+numérique. 
+
+Québec : 
+
+Stockless,  A.    &  Villeneuve,  S.  (2017).  Les  compétences  numériques  chez  les  enseignants. 
+Doit-on  devenir  un  expert  ?  In  M.  Romero,  B.  Lille  &  A.  Patiño  (dir.).  Usages  créatifs  du 
+numérique pour l'apprentissage au XXIe siècle. Québec : PUQ. 
+
+ 
+
+10 
+
+

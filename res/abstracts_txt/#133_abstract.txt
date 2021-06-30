@@ -1,0 +1,42 @@
+:
+“In a participatory medium, immersion implies learning to swim, to do the things that the new environment
+makes possible.” -Janet Murray, Hamlet on the Holodeck
+
+For new “digital swimmers,” or those just dipping their toes into the pool for a semester or two,
+complicated (and expensive) technology and skill sets can sometimes hinder creative expression. My
+goal, as a teacher of digital creative writing, is to get students to “listen to their broccoli” (follow their
+intuition), as Anne Lamott suggests, and express their unique voices through multiple modes. By utilizing
+software that is accessible on their own computers and easy to navigate, students are less intimidated
+and free to create and focus on writing. Although all software has its limitations, I’m seeing some
+wonderfully creative and thoughtful projects from my students.
+
+My digital creative writing courses are “open education resource.” In the past, I have relied heavily on the
+Adobe Creative Suite in my courses (accessible on campus) and taught mainly Dreamweaver for
+
+93
+
+ELO 2021 - abstracts
+
+hypertext projects. With the spring pivot online, Adobe was not quite as easy to access (although the free
+subscriptions they offered were appreciated by several of my students) and students in the fall wanted to
+use their own computers and not those in the lab. I had always tried to incorporate free software
+options—Twine, Google Maps, and Knightlab storytelling tools—but found myself expanding these
+options even more this past year. Between my writing and e-lit courses, we explored Google Earth,
+Scene, and ThingLink for 360 work, and relied mostly on Twine and ThingLink for hypertext projects. This
+semester I am adding Timeline. The simplicity of the software has allowed these new digital swimmers to
+delve deeper into the platforms’ potential and their subject matter. I have been impressed with the
+complex projects being made in ThingLink, which at first glance seems like a very simple platform. You
+can add links to video, 360 environments, add sound, videos, and link multiple “pages” (projects) together.
+My intro. level students had very little trouble learning the interface and executing their ideas.
+
+As Anne Frances Wysocki says in Writing New Media, “When someone makes an object that is both
+separate from her but that shows how she can use the tools and materials of her time, then she can see a
+possible self—a self positioned and working within the wide material conditions of her world, even
+shaping that world—in that object” (21). In this paper, I will discuss several of these “Plat(free)forms” and
+their capabilities (and limitations). I will explore how these accessible platforms enable expression, in
+particular of marginalized voices, as Twine has been used widely in the LGBTQ+ community, as well as
+provide potential for exploring virtual spaces with minimal technology. I will show several student projects
+that exemplify their uses, as well as how they are being used to create political, diverse, and deeply
+personal narratives, allowing digital learners to shape their worlds and add their voices to the world of
+e-lit.
+

@@ -1,0 +1,49 @@
+:
+From its earliest beginnings, electronic literature has eschewed canonization and institutionalization by
+manifesting itself as a “set of [dynamic] practices” (Pawlicka 2017; Ensslin 2007) that have responded to
+and generated new and perpetually morphing forms and methods of writing and reading. This processual,
+personalized and platform-contingent textuality can only adequately be studied in a concerted approach
+that takes into account the numerous platforms on which electronic literature has been accessible pre-
+and post-Web. Similarly, it raises important questions about original design and intent, and the breakage
+thereof across platforms.
+
+To demonstrate how platform contingency can lead to complementary, diachronically pertinent analyses,
+this panel focuses on a seminal, pre-web hypertext published in issue 1:3 (1994) of the Eastgate
+Quarterly Review of Hypertext. Kathryn Cramer’s In Small and Large Pieces first appeared in a folio
+containing two 3.5-inch floppy disks for Macintosh and PC, and later on a single CD-ROM requiring 2 MB
+RAM and a hard disk drive. It was originally written in Storyspace 1.08 and used 875K (Grigar et al.
+2019). To access the work in its original format, historical machines such as a Macintosh Classic or
+Performa are required. However, there are other platforms on which the text can be rendered and
+emulated, including for example Eastgate’s Tinderbox and Windows XP emulators like Oracle VM
+VirtualBox. Focusing on these three hardware and software constellations and their individual aesthetic
+and embodied affordances, this panel will explore the ways in which reading “the same” work in different
+
+17
+
+ELO 2021 - abstracts
+
+technological environments yields platform-specific analytical nuances, and how, collectively, these
+readings open up new forms of collaborative, connective textuality. Our work will deepen our
+understanding of how platform-conscious readings can shed light on discrepancies between reader
+experience and original design and intent, and how contemporary technologies might make it possible to
+bring back an obsolescent work. In doing so, we explore how platform studies can operate synchronically
+and diachronically, especially if combined with post-pandemic forms of remote collaboration and
+presentation that enable scholars to read from their own site-specific premises.
+
+Our presentation will begin with some introductory notes from Kathryn Cramer about the genesis of her
+work (8 min). This will be followed by three short analytical demos from the other panellists, with Grigar
+reading from a Macintosh Performa 5215CD (8 min), Pisarski from Tinderbox (8 min), and Ensslin from
+VirtualBox Windows XP (8 min). Cramer will close with a commentary on the analyses (8 min), followed
+by plenary discussion (20 min).
+
+References:
+
+Ensslin, Astrid (2007) Canonizing Hypertext: Explorations and Constructions. London: Bloomsbury.
+
+Grigar, Dene, Nicholas Schiller, Holly Slocum, Mariah Gwin, Andrew Nevue, Kathleen Zoller, and Moneca
+Roath (2019) Rebooting Electronic Literature: Documenting Pre-Web Born Digital Media, Volume 2.
+https://scalar.usc.edu/works/rebooting-electronic-literature-volume-2/index.
+
+Pawlicka, Urszula (2017) “An essay on electronic literature as platform,” Przegląd Kulturoznawczy, 33,
+430-444.
+

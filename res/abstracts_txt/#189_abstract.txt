@@ -1,0 +1,44 @@
+:
+While Covid-19 may have fractured our public, private, and professional narratives of normalcy, out of this
+slow-moving and surreal catastrophe, new images of the future imaginary began to emerge, as well as
+new creative practices for collaborative (re)imagining. The Digital Literacy Centre is a collective of
+researcher/academic/artists at the University of British Columbia who are interested in exploring
+innovative approaches to literacy, digital media research, and experimental methodologies for
+technologically enriched meaning-making practices and collaboration. Like everyone in the world, each of
+us in the DLC experienced the pandemic individually as a diffracted and intensely intimate encounter and
+yet also collectively, as a shared story, one that we were narrating together in real time, however virtually.
+We decided to take up this evolving pandemic moment as a technological and creative research
+challenge to engage with the innovative digital platforms at our disposal towards collaborative futures
+imagining during a time of crisis. Skunk Tales is the result— a multimodal, collaborative futures fiction that
+we wrote/composed/sonified/and performed in chapters that map an imagined future of human
+interactions with literate technologies.
+
+In this paper, we describe a collaborative, technologically-mediated storying methodology that enacts “the
+diffraction patterns that arise when specific aural experiences are rubbed against specific narrations of
+human-technological coupling” (Cecchetto, 2013, p. 3). During our storying sessions, we simultaneously
+sonified the emergent narrative data using Singling, a Text-to-MIDI (Musial Instrument Digital Interface)
+linguistic data sonification software. We developed Singling for the sonification and visceralization of
+textual data in qualitative research and analysis. Capable of sounding discrete characters, symbols, and
+punctuation, as well as word forms in lexicogrammatical categories of English language texts, Singling
+transforms text into user-determined soundscapes. As we wrote Skunk Tales, we invited the emergent
+soundings to permeate the futures imagining and become entangled with the movements of the narrative.
+As Cecchetto (2013) argued, “It is precisely the forceful quality of sound that makes it an agent of
+modulation that can help to amplify certain elements of narratives of human-technological coupling,
+making them audible” (p. 4). This paper maps our creative futures research generation that is informed by
+technological posthumanism and how “different technologies of text production suggest different models
+of signification… initiat[ing] new experience of embodiment; and embodied experience interacts with
+codes of representation to generate new kinds of textual worlds” (Hayles, 1993, p. 69). Sound permeates
+the methodology and the resulting diffracted narratives, both theoretically, materially, and thematically.
+
+103
+
+ELO 2021 - abstracts
+
+We first began the narrative face to face, in the early days of the pandemic, and then diffracted outwards
+into social isolation and virtual jam sessions; we extended the narrative beyond the limits of our collective
+and into a storying performance at the 2020 Artful Inquiry Research Group virtual conference, during
+which we wrote and sonified a chapter live in virtual space. As such, Skunk Tales is a pandemic tale,
+sounding the evolution of a future now receding into the past, while simultaneously signifying new
+possibilities for dynamic arts-based conversations between subjectivities, technologies, sounds, and
+meanings.
+

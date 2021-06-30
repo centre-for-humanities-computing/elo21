@@ -1,0 +1,23 @@
+:
+A perennial question in the field of artificial intelligence is "Can a computer write poetry?" With the recent
+arrival of large pre-trained language models such as BERT and GPT-n, it's possible that the answer to
+this question in the popular imagination might soon be "Yes, of course." In this paper, I argue that poetry
+is, in fact, the only kind of writing that language models can produce. Drawing on Austen's How to Do
+Things with Words, I argue that language model outputs fail the necessary preconditions of felicitous
+speech acts, rendering them "hollow and void"—a phrase that Austen also used to describe the
+illocutionary effect of poetry. Because of this, I argue that language model outputs are always (in
+accordance with William Carlos Williams' definition of poetry in Spring and All) "new form dealt with as a
+reality in itself," regardless of the genre of text that the language model is trained to produce, and the
+qualities of verisimilitude demonstrated by the model's outputs. The paper concludes with a discussion
+Frank Lantz' "Immersion Fallacy," arguing that even in a world with "perfect" language models that
+produce outputs indistinguishable from poetry composed by conventional means, the poet would still be
+tasked with inventing new poetic forms. The paper includes a discussion of critical responses to recent
+
+9
+
+ELO 2021 - abstracts
+
+high-profile experiments in language model-generated poetry (including Gwern's GPT-2 experiments,
+David Jhave Johnston's Rerites and Lillian-Yvonne Bertram's Travesty Generator), and also explains the
+inner workings of language models and their history in computational creative writing.
+

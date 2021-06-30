@@ -1,0 +1,27 @@
+:
+While both can produce choice-based interactive fiction works playable via a web browser, the hypertext
+authoring tool Twine and the narrative scripting language Ink are, at first glance, two very different
+platforms. Twine takes text input in the form of passages and transforms it into HTML. Ink, as a scripting
+language, uses applications like Inky to create JSON files representing a compiled Ink project capable of
+more easily being used with game engines like Godot and Unity. The communities for each, however,
+approach these processes in the same ways: they create guides, make tutorials, and build resources to
+help other users understand how each tool moves content from input to output. They provide, in a word,
+service. It is this labor supporting the connections between users across these platforms, and it is the
+members of these communities maintaining its resources and reinforcing the platformization of each.
+
+This roundtable examines two different primary documents related to these platforms, the community
+labor histories behind them, and their current iterations. The first, the Twine Cookbook, was born out of a
+collection of resources and has become, over three years, the go-to source of Twine knowledge. During
+its lifetime, it has slowly absorbed content spread across other services such as the Twine wiki, forum,
+and details found in development posts. The second document, the Unofficial Ink Cookbook, is a more
+recent creation that was born out of the combined experiences of two instructors. It has slowly grown into
+an expansive document now quoted and used as a reference document by students learning Ink and as
+part of the Ink Discord to help new users understand concepts within the scripting language Ink.
+
+As editors and contributors to these documents, the members of this roundtable will speak to the ways in
+which community labor, service, is the conduit through which knowledge is shared, rules are enforced,
+and the sense of a “platform” emerges through the pedagogical resources created by the communities
+around Twine and Ink. Given the variety of platforms and tools available for creating interactive fiction, the
+members of this roundtable will review common problems, discuss possible solutions, and examine how a
+“platform” cannot exist without its community supplying the labor to sustain it.
+

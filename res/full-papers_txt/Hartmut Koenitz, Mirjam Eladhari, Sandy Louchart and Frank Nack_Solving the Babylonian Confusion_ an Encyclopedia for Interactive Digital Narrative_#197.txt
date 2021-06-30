@@ -1,0 +1,811 @@
+Interactive 
+
+The  Encyclopedia  Project  for 
+Digital Narratives1 
+ Hartmut	Koenitz1,	Mirjam	Palosaari	Eladhari2,	Sandy	Louchart3,	Frank	Nack1	
+1	University	of	Amsterdam,	The	Netherlands	
+h.a.koenitz@uva.nl;	nack@uva.nl	
+2	Stockholm	University,	Sweden		
+mirjam@dsv.su.se	
+3	Glasgow	School	of	Art,	UK	
+s.louchart@gsa.ac.uk			
+	
+Abstract	The	design	and	study	of	interactive	digital	narratives	(IDN)	is	a	multidisciplinary	field.	
+Scholars	and	practitioners	concerned	with	the	topic	originate	from	fields	such	as	literary	studies,	
+computer	sciences,	games	studies,	media	studies,	fine	art,	filmmaking.	Consequently,	they	not	
+only	bring	a	wealth	of	productive	perspectives	to	the	table,	but	also	differences	in	terminology.	
+This	fact	alone	can	be	a	cause	for	confusion,	yet	it	is	further	amplified	by	diverging	meanings	of	
+the	same	term	in	different	disciplinary	contexts.	In	the	field,	there	is	a	long-standing	issue,	we	
+propose	concrete	steps	towards	the	development	of	a	shared	vocabulary	in	the	form	of	an	online	
+encyclopedia,	taking	inspiration	from	the	Living	Handbook	of	Narratology	and	the	Stanford	
+Encyclopedia	of	Philosophy.	This	work	is	developed	in	the	INDCOR	EU	COST	action,	a	network	
+currently	encompassing	160	members	from	37	countries.		
+	
+Keywords:	Interactive	Digital	Narrative	 ·	Interactive	Storytelling		 ·	Shared	Vocabulary	 ·	 ·	
+Multidisciplinarity	·	Online	Encyclopedia		·	
+	
+1  Addressing the Lack of a Shared Vocabulary for IDN 
+The	lack	of	a	shared	vocabulary	is	a	longstanding	issue	in	the	field	of	interactive	digital	narratives	
+(IDN)	(Koenitz,	Ferri,	and	Sezen	2009;	Koenitz	et	al.	2013;	Koenitz	2014;	Koenitz	2016;	Thue	and	
+	
+1	A	longer	version	of	this	paper	has	been	published	as	an	INDCOR	white	paper	on	the	pre-print	server	
+arxiv	https://arxiv.org/abs/2010.10135:	
+
+2	
+	
+Carstensdottir	2018).	The	root	of	this	problem	is	the	fact	that	scholars	and	practitioners	
+concerned	with	the	topic	of	interactive	narrative	originate	in	a	number	of	different	fields,	
+including	literature	studies,	film	studies,	computer	sciences	(both	from	an	Artificial	Intelligence	
+(AI)	and	Human	Computer	Interaction	(HCI)	perspective),	media	studies,	creative	practices	and	
+many	more.	All	of	these	fields	have	associated	specific	vocabulary.	The	issue	is	further	aggravated	
+by	the	fact	that	many	common	terms	used	in	Interactive	Digital	Narrative	research	and	practice	
+–	such	as	“narrative”,	“plot”	or	“story”	–	have	both	a	common	meaning	in	everyday	conversation,	
+and	also	specific	ones	in	scholarly	and	professional	contexts.	The	‘story’	of	a	journalist	is	not	
+exactly	the	same	as	the	‘story’	of	a	film	director	and	what	is	exactly	meant	in	each	case	is	only	fully	
+accessible	to	practitioners	in	the	respective	fields.	In	a	recent	article	Koenitz	and	Eladhari	
+compared	this	status	to	the	biblical	metaphor	of	the	“Babylonian	confusion”	(2019).	
+In	this	paper,	we	propose	to	address	the	issue	through	the	creation	of	a	“living	encyclopedia	of	
+IDN	vocabulary”	based	on	an	overarching	analytical	framework	(SPP	model)	and	associated	
+taxonomy.	We	detail	the	process	for	the	creation	and	continued	development	of	such	a	resource	
+within	INDCOR	(Interactive	Narrative	Design	for	COmplexity	Representations)	EU	COST	
+network3	and	also	invite	the	community	to	participate	in	the	development	of	this	central	aspect	
+for	the	fledgling	field	of	IDN	research	and	practice.		
+2 
+Foundational Considerations for a Shared Vocabulary  
+In	order	to	enable	such	a	shared	understanding,	an	overarching	analytical	perspective	is	
+necessary.	This	is	an	insight	gained	by	our	own	experience	in	the	INDCOR	EU	COST	network.	The	
+setup	of	workgroups	was	a	bottom-up	approach	developed	by	the	expert	community	at	the	first	
+meeting	in	Brussels.	As	work	progressed,	a	long	list	of	terms	to	be	defined	in	a	shared	vocabulary	
+was	quickly	produced,	but	subsequent	discussions	made	clear	that	a	consensus	on	how	to	connect	
+different	definitions	was	elusive.	Consequently,	we	identified	the	need	of	an	overarching	
+abstraction	to	guide	our	work	on	a	shared	vocabulary	of	IDN.	Without	it,	there	was	a	manifest	risk	
+that	a	shared	vocabulary	would	replicate	the	existing	Babylonian	confusion	and	thus	miss	its	
+central	aim.	In	ongoing	work	and	subsequent	meetings	in	Vienna	and	online,	the	SPP	(System	
+Process	Product)	model	(Koenitz	2015)	was	the	one	singled	out	across	workgroups	that	could	
+function	as	a	starting	point	for	connecting	the	four	pillars	that	are	expressed	as	workgroups	in	
+INDCOR.		
+	
+3	EU	COST	Action	18230	INDCOR,	https://indcor.eu	
+
+	
+
+	
+
+2.1 An Overarching Analytical Perspective: the SPP Model 
+
+3	
+The	SPP	model	is	a	media-specific	perspective	that	identifies	three	broad	categories	for	the	
+analysis	of	IDN	artefacts,	reflecting	its	different	stages:	system	–	the	digital	artifact,	process	–	the	
+interactive	experience	of	a	system,	and	product	–	the	result	of	the	experience,	either	in	the	form	
+of	a	recording	or	as	a	retelling	(Eladhari	2018)	to	others	(figure	1).		
+	
+
+Figure	1.	SPP	model	(Koenitz	2015)	
+
+	
+
+	
+
+The	SPP	model	takes	the	systemic,	dynamic	character	of	IDN	works	as	its	central	characteristic,	
+building	on	a	foundation	laid	by	cybernetics	(Wiener	1948),	and	cybernetic	art	theory	(Ascott	
+1964;	Ascott	1968),	as	well	as	earlier	perspectives	on	interactive	forms	of	narration	(Laurel	1986;	
+Jennings	1996;	Murray	1997;	Montfort	2005;	Murray	2011).	In	order	to	understand	the	specific	
+aspects	of	IDN	and	avoid	limitations	inherent	in	adapted	perspectives4,	the	SPP	model	does	not	
+rely	on	underlying	models	derived	from	the	classical	formal	study	of	literature	and	the	cinema	in	
+narratology.	Instead,	it	acknowledges	the	‘cognitive	turn’	in	narratology	–	a	perspective	that	
+understands	narrative	not	as	a	property	of	certain	types	of	artefacts,	but	as	a	cognitive	function,	
+a	“frame	for	constructing,	communicating,	and	reconstructing	mentally	projected	worlds”	
+(Herman	2002).	This	perspective	opens	up	a	space	for	novel	kinds	of	narrative	manifestations	–	
+as	in	principle	any	artefact	can	be	considered	a	narrative	as	long	as	it	triggers	the	cognitive	frame	
+of	narrative.	In	other	words:	an	IDN	work	does	not	need	to	be	similar	to	the	literary	novel	or	the	
+movie	to	be	considered	a	narrative.	This	view	creates	opportunities	for	both	theoretical	
+development	and	novel	practices.		
+	
+4	Cf.	N.	Katherine	Hayles’	call	for	a	“media-specific	analysis”	of	digital	forms	of	narration	(Hayles	2002)	
+and	Hausken’s	warning	of	“media	blindness”	(2004).	
+
+4	
+	
+On	this	basis,	the	SPP	model	is	concerned	with	defining	aspects	of	IDN	systems,	their	processes	
+and	resulting	 products	and	organizes	related	concepts	and	design	aspects	accordingly.	For	
+instance,	 system	contains	the	 protostory,	the	sum	of	all	potential	narratives	that	can	be	
+instantiated	with	a	given	artefact	(figure	2).	Further	aspects	related	to	an	IDN	work	(narrative	
+design,	 user	 interface,	 assets,	 environment	 definitions/rule	 systems)	are	subcategories	of	
+protostory.	This	would	mean	for	example	that	an	AI	engine	is	described	as	a	rule	system	within	
+the	protostory	and	its	particular	implementation	as	a	part	of	the	narrative	design.	Conversely,	
+concepts,	practices	and	examples	related	to	the	manner	in	which	an	IDN	is	presented	to	and	
+experienced	by	an	audience	(i.e.	visual	presentation,	interaction,	feedback)	would	be	represented	
+within	the	category	of	 process.	Finally,	 product	describes	the	output	of	a	 process,	either	as	a	
+recording	(objective	product)	or	as	re-telling	(Eladhari	2018)	(subjective	product).	
+	
+
+	
+Figure	2.	Protostory	and	its	elements	(Koenitz	2015)	
+
+	For	the	shared	vocabulary	project,	the	SPP	model	is	used	as	a	foundational	analytical	
+framework	to	connect	central	concepts	of	IDN	in	terms	of	design	and	development,	theory	
+building,	societal	context	and	evaluation.	This	choice	is	pragmatic,	based	on	several	advantages:	
+	
+SPP	emphasizes	the	specificity	of	this	dynamic	form	thus	providing	a	clear	distinction	from	
+earlier,	fixed	forms	of	narrative	such	as	the	printed	novel	or	film	and	associated	vocabulary	
+and	thus	avoids	the	pitfalls	of	re-defining	existing	terminology;	
+-  The	SPP	model	takes	the	systemic	nature	of	IDN	artifacts	as	foundational,	building	on	a	
+solid	lineage	of	cybernetics,	cybernetic	art	and	system	theory;	
+-  The	SPP	model	continues	efforts	by	scholars	such	as	Pamela	Jennings,	Brenda	Laurel,	Janet	
+Murray	and	Nick	Montfort	in	understanding	the	specific	aspects	of	Interactive	Digital	
+Narratives;		
+
+- 
+
+	
+
+5	
+-  The	SPP	model	features	an	inclusive	view	that	acknowledges	the	wide	variety	of	different	
+forms	of	IDN,	including	hypertexts,	journalistic	interactives,	narrative-focused	video	
+games,	interactive	documentaries,	installation	pieces,	and	AR/VR	work	as	well	as	emerging	
+forms;		
+-  The	SPP	model	provides	a	high-level	model	of	IDN	works	and	their	relationship	with	their	
+audiences	that	is	open	both	to	extensions	and	further	lower-level	specification	and	thus	the	
+SPP	model	can	serve	as	a	central	element	in	an	IDN	taxonomy.	
+ Any	choice	of	overarching	analytical	perspective	is	open	to	criticism	and	will	be	controversial	
+to	some	researchers	and/or	professionals,	yet	there	is	the	simple	fact	that	a	starting	point	must	
+be	chosen	and	given	the	above-mentioned	advantages,	the	SPP	model	provides	a	solid	foundation.		
+A	shared	vocabulary	does	not	mean	that	all	differences	in	meaning	or	historical	context	would	
+simply	disappear,	or	that	scholarly	dispute	all	of	a	sudden	ends,	but	that	a	coordinate	system	
+would	be	established	against	which	extensions	and	alternative	views	can	be	discussed	and	
+understood.	Conversely,	from	this	clear	vantage	point,	explicit	connections	can	be	drawn	which	
+will	enable	scholars	to	better	understand	each	other	and	productively	work	together.	Most	
+importantly,	since	we	aim	to	make	the	concept	of	a	shared	vocabulary	available	for	the	whole	
+community	of	researchers	and	designers,	it	can	serve	as	a	hub	for	knowledge	exchange	and	an	
+important	step	in	building	a	field	accessible	also	to	newcomers	and	related	disciplines.		
+3  A Taxonomy for IDN – Extending the SPP Model 
+The	SPP	model	is	concerned	with	analyzing	the	IDN	artifact,	which	means	it	does	neither	
+explicitly	cover	the	conditions	leading	to	a	work	(Ideation)	nor	its	creation	process	(Authoring).	
+Conversely,	it	also	does	not	concern	itself	with	societal	effects	of	the	work	in	question	or	on	other	
+works	(Critical	discourse).	As	a	broad	framework,	it	also	does	not	provide	the	granularity	
+necessary	for	an	encyclopedia.	Consequently,	the	authors	of	this	paper	have	developed	a	
+taxonomy	for	interactive	digital	narrative	on	the	basis	of	the	SPP	model	with	the	top-level	
+categories	of	authoring,	artefact	and	critical	discourse	(table	1).		
+The	taxonomy	relates	authors’	contributions	to	an	overall	structure.	For	example,	transformation	
+is	categorized	as	an	aesthetic	quality	and	thus	an	aim	during	the	authoring	process	(Authoring	>	
+Ideation	>	Content	>	Aesthetic	qualities	>Transformation)	and	an	element	of	the	experience	of	
+successful	design	(Artefact	>	Process	>	Experience	>	Aesthetic	>	Transformation)	
+We	understand	this	taxonomy	as	a	first	effort	(version	1.0)	open	to	changes	and	amendments	
+as	the	result	of	discussions	and	developments	in	INDCOR	as	well	as	in	the	research	and	practice	
+communities	at	large.		
+
+6	
+	
+The	taxonomy	itself	represents	the	core	of	the	shared	vocabulary	and	as	such	provides	a	
+foundation	which	supports	the	community-driven	effort	in	developing	a	more	extensive	
+collection	of	terminology.	This	explicitly	means	that	further	terms	should	be	proposed	and	will	
+be	integrated	to	grow	the	vocabulary.	The	focus	here	will	be	on	concepts	not	already	well-defined	
+in	existing	collections,	e.g.	The	Living	Handbook	of	Narratology	(Hühn,	2015)	
+	
+
+1.  Authoring		
+
+	
+
+	
+
+3.1 IDN Taxonomy V 1.0 
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+1.1. Ideation	
+	
+	
+	
+1.1.1. Affordances	
+1.1.1.1. Procedural		
+1.1.1.2. Participatory	
+	
+1.1.1.3. Spatial	
+1.1.1.4. Encyclopedic	
+	
+1.1.2. Audience		
+1.1.2.1. Social	
+	
+1.1.2.2. Private	
+	
+1.1.2.3. Expectations	
+1.1.3. Content	
+	
+	
+1.1.3.1. Complexity		
+	
+1.1.3.1.1. Topic	
+	
+1.1.3.1.2. Addressee	
+1.1.3.1.2.1. Social	
+	
+1.1.3.1.2.2. Private	
+	
+1.1.3.2. Prior	Narratives	
+	
+	
+	
+1.1.3.3. Material	
+	
+	
+1.1.3.3.1. Fiction	
+	
+1.1.3.3.2. Non-fiction	
+1.1.3.4. Form	
+	
+	
+	
+1.1.3.4.1. Interactive	Documentary	
+	
+1.1.3.4.2. Video	game	
+	
+	
+1.1.3.4.3. Hypertext	fiction	
+	
+1.1.3.4.4. Location-based	
+	
+1.1.3.4.5. AR/VR	
+	
+
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+7	
+
+	
+
+1.1.3.4.6. Mixed		
+	
+	
+1.1.3.5. Aesthetic	qualities		
+	
+1.1.3.5.1. Immersion	
+	
+	
+	
+1.1.3.5.2. Agency	
+	
+	
+1.1.3.5.3. Transformation	
+	
+	
+1.1.3.6. Meaning	Making	
+	
+	
+	
+1.1.3.6.1. Mental	processes	
+	
+1.1.3.6.1.1. Hermeneutic	circle	
+	
+1.1.3.6.1.2. Narrative	cognition	
+	
+1.1.3.6.1.3. Cognitive	reduction	
+	
+1.1.3.6.1.4. Embodied	cognition	
+	
+	
+1.1.3.6.2. Rhetoric	
+	
+	
+1.1.3.6.3. Interface	
+	
+1.1.3.6.3.1. Interaction	Metaphor	
+	
+1.1.3.6.4. Prediction	of	Audience	reaction	
+1.1.3.6.4.1. Feedback	
+	
+	
+1.2. System	Implementation	
+	
+	
+	
+	
+1.2.1. Protostory	
+	
+	
+1.2.1.1. Asset	creation	
+	
+	
+	
+	
+1.2.1.1.1. Characters	
+	
+1.2.1.1.2. Props		
+	
+	
+1.2.1.2. Environment	building	
+	
+	
+1.2.1.2.1. Geographic	
+	
+1.2.1.2.1.1. Landscapes	
+	
+1.2.1.2.1.2. Buildings	
+	
+1.2.1.2.2. Rule	Systems		
+	
+1.2.1.2.2.1. Physics	Systems		
+1.2.1.2.2.2. Societal	Rules	
+	
+1.2.1.3. UI/Interface	building	
+	
+1.2.1.4. Interactive	Narrative	Designing	
+1.2.1.4.1. Combinatorics	
+	
+1.2.1.4.2. Structure	
+	
+	
+1.2.1.4.2.1. Events	
+	
+1.2.1.4.2.2. Narrative	Vectors	
+1.2.1.4.3. Experience	Schema	
+	
+1.2.1.4.3.1. Narrative	Cognition	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+
+	
+
+	
+
+8	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+2.  Artefact		
+
+	
+
+1.2.1.4.3.2. Narrative	Experience	
+	
+1.2.1.4.3.3. User	representation		
+	
+1.2.1.4.3.3.1. 			Memory	structure	
+1.2.1.4.3.3.2. 			Preferences	
+	
+1.2.1.4.4. Existing	authoring	tools	
+1.2.1.4.4.1. Aurora	NWN	
+	
+1.2.1.4.4.2. GURPS	
+	
+1.2.1.4.4.3. ASAPS	
+	
+1.2.1.4.4.4. Scenejo		
+1.2.1.4.4.5. IDTension	
+	
+	
+1.2.1.5. Intents	
+	
+	
+1.2.1.5.1. Rhetoric	
+	
+1.2.1.5.2. Aesthetic	
+	
+	
+	
+	
+	
+	
+1.3. Creator	
+	
+	
+1.3.1. Industry	roles	
+	
+1.3.1.1. Interactive	Narrative	Designer	
+	
+	
+1.3.1.2. Game	Writer	
+1.3.1.3. Creative	Director	
+	
+	
+	
+	
+2.1. System	
+	
+	
+2.1.1. Protostory	
+	
+	
+2.1.1.1. Assets	
+	
+2.1.1.1.1. Characters	
+	
+2.1.1.1.2. Props	
+2.1.1.2. Interactive	Narrative	Design	
+2.1.1.2.1. Narrative	Mechanics	
+2.1.1.2.2. Narrative	Vectors	
+2.1.1.2.3. Narrative	Structure	
+	
+2.1.1.3. Environment	
+2.1.1.3.1. Geographic	
+	
+2.1.1.3.1.1. Landscapes	
+2.1.1.3.1.2. Buildings	
+	
+2.1.1.3.2. Rule	Systems	
+2.1.1.3.2.1. Physics	Systems		
+2.1.1.3.2.2. Societal	Rules	
+	
+
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+3.  Critical	Discourse	
+
+	
+2.1.1.3.3. UI/Interface	
+	
+	
+	
+	
+2.2. Process	
+	
+	
+	
+	
+2.2.1. Participation	
+	
+2.2.1.1. Interaction		
+	
+	
+2.2.1.1.1. Active/Performance	
+	
+2.2.1.1.2. Passive/Sensoric	
+	
+	
+2.2.1.2. Sense	Making	
+2.2.1.2.1. Double	Hermeneutic	circle	
+2.2.1.2.1.1. Reflection	
+	
+	
+2.2.1.2.1.2. Action	
+	
+2.2.1.2.1.2.1. 				Planning		
+2.2.1.2.1.2.2. 				Execution	
+2.2.1.3. Experience		
+	
+	
+2.2.1.3.1. Aesthetic		
+	
+	
+2.2.1.3.1.1.1. Immersion		
+2.2.1.3.1.1.2. Agency	
+	
+2.2.1.3.1.1.3. Transformation	
+	
+2.2.1.3.2. Rhetoric	
+	
+	
+2.3. Product	
+	
+	
+2.3.1. Objective	(Recoding)	
+2.3.1.1. Interaction	analysis		
+	
+2.3.1.2. Attention	analysis	
+	
+	
+	
+	
+2.3.1.3. Pace	control	
+2.3.2. Subjective	(Retelling)	
+	
+	
+	
+	
+2.3.2.1. Experience	Model	
+2.3.2.1.1. Narrative	cognition	
+	
+2.3.2.1.2. Cognitive	reduction	
+	
+	
+2.3.2.1.3. Embodied	cognition	
+2.3.2.2. Structure	Inference		
+	
+2.3.2.3. Updating	episodic	memory		
+2.3.2.4. Updating	perception	memory		
+3.1. Inclusivity	
+3.1.1. Intersectionality	
+3.2. Society	
+
+	
+
+9	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+	
+
+10	
+
+3.2.1. Audience	
+3.3. Effect	
+3.3.1. Comparison	Intent/Experience	
+3.4. Reflective	Analysis		
+3.4.1. Methods	
+	
+	
+	
+
+	
+
+	
+4  A (Living) Encyclopedia for IDN 
+With	the	foundational	staxonomy	in	place,	the	question	is	how	to	make	the	project	accessible	
+and	enable	community	involvement	and	further	development.	Examples	for	accessible	shared	
+vocabularies	exist	in	the	form	of	online	encyclopedias	and	this	is	the	model	we	have	decided	to	
+follow.	Arguably	the	most	successful	example	for	general	knowledge	is	Wikipedia	(2020b),	the	
+free	online	encyclopedia.	In	the	scholarly	realm,	two	particularly	successful	examples	are	the	
+Living	Handbook	of	Narratology	(Hühn	2015)	and	the	Stanford	Encyclopedia	of	Philosophy	
+(2020a).	Both	Wikipedia	and	the	scholarly	resources	are	viable	models.	We	aim	to	follow	the	
+latter	model	for	a	variety	of	reasons	and	will	be	developing	an	online	encyclopedia	for	IDN	
+research	and	practice.		
+An	argument	for	creating	an	encyclopedia	rather	than	a	shared	Wikipedia	is	that,	based	on	the	
+examples	above,	these	endeavors	have	proven	more	successful	in	terms	of	creating	a	complete	
+and	high-quality	curated	result.	The	reasons	for	this	outcome	are	likely	multifold,	but	we	
+speculate	that	an	encyclopedia	entry	is	more	rewarding	for	authors	to	participate	in,	since	their	
+efforts	are	clearly	recognizable	and	properly	credited.	As	for	its	audience,	an	encyclopedia	
+appears	to	be	more	curated	in	both	its	individual	content,	and	as	a	whole,	since	an	encyclopedia	
+by	its	nature	promises	to	provide	a	more	comprehensive	view	of	a	given	topic,	rather	than	to	rely	
+on	seemingly	random	selections	and	emphasis	determined	by	wiki-authors’	preferences.	This	
+being	said,	the	two	methods	are	not	mutually	exclusive.	A	Wikipedia	site	could	likely	serve	well	
+as	a	pre-stage	in	the	production	of	the	Encyclopedia	of	IDN	the	way	we	envision	it.		
+Taking	inspiration	from	the	two	examples	of	the	Living	Handbook	of	Narratology	(Hühn	2015)	
+and	the	Stanford	Encyclopedia	of	Philosophy	(2020a),	we	see	a	strong	editorial	board	as	central	to	
+the	success	of	this	undertaking,	providing	guidance	and	assuring	academic	excellence.	
+Conversely,	we	consider	community	engagement	as	crucial	in	making	this	undertaking	a	success,	
+
+4.1 Editorial Procedures  
+
+11	
+	
+which	means	to	aim	at	a	good	balance	of	both	aspects.	Therefore,	the	IDN	encyclopedia	will	be	
+composed	of	articles	written	by	authors	from	the	community	which	have	undergone	a	thorough	
+peer-review	process.	Articles	will	be	published	based	on	their	academic	rigor	and	the	relevance	
+of	their	contribution	to	the	field.		
+The	group	of	INDCOR	chairs	(nine	scholars	originating	in	different	disciplines	and	at	different	
+career	stages5)	will	act	as	the	initial	editorial	board	and	section	editors,	soliciting	authors	from	
+inside	the	project	and	the	community	at	large	for	encyclopedia	entries.	At	the	time	of	writing,	in	
+May	2021,	the	INDCOR	action	consists	of	more	than	160	scholarly	experts	and	professionals	
+concerned	with	IDN	complexity	representations.	INDCOR	members	would	act	as	the	initial	group	
+of	reviewers,	but	will	be	inviting	additional	experts	from	the	field	to	assure	a	diversity	of	
+perspectives	and	a	high	level	of	quality	content	also	for	topics	outside	their	core	expertise.	The	
+aim	is	to	make	the	encyclopedia	a	high-quality	resource	where	each	entry	is	recognized	as	a	
+publication	in	its	own	right	and	thus	writing	for	the	encyclopedia	is	a	rewarding	undertaking	for	
+contributors.		
+	
+5 
+Conclusion and Future Work 
+In	this	paper,	we	have	identified	the	lack	of	a	shared	vocabulary	as	a	central	issue	for	the	field	
+of	Interactive	Digital	Narrative	in	general.	We	further	identified	the	need	for	an	overarching	
+analytical	perspective,	selected	the	SPP	model	in	this	capacity	and	have	proposed	to	address	this	
+issue	through	a	communal	expert-authored	and	peer-reviewed	encyclopedia.	Inspired	by		the	
+successful	examples	of	the	Living	Handbook	of	Narratology	and	the	Stanford	Encyclopedia	of	
+Philosophy,	we	propose	a	structure	for	such	an	effort	and	introduce	a	taxonomy	as	a	starting	point	
+to	gather	definitions	of	concepts	central	to	IDN	and	useful	across	perspectives	for	scholars	and	
+practitioners	in	the	field,	taking	into	account	four	
+lenses:	design	and	development,	
+conceptualization	and	theory,	evaluation,	and	societal	context.	We	invite	the	research	community	
+to	partake	in	the	endeavor	of	creating	a	multifaceted,	living	encyclopedia	providing	a	shared	
+vocabulary	for	IDN.		
+		
+5	Hartmut	Koenitz,	Mirjam	Eladhari,	Frank	Nack,	Agnes	Bakk,	Jose	Manuel	Noguera,	Andrew	Perkis,	
+Sandy	Louchart,	Elisa	Mekler,	Lissa	Holloway-Attaway	
+
+	
+
+12	
+
+Interactive	Digital	Storytelling,	ICIDS	2008	Erfurt,	Germany,	November	26-29,	2008,	
+
+	
+References 
+Ascott,	Roy.	1964.	“The	Construction	of	Change.”	Cambridge	Opinion.	Cambridge.	
+Ascott,	Roy.	1968.	“The	Cybernetic	Stance:	My	Process	and	Purpose.”	Leonardo	1	(2):	105.	
+doi:10.2307/1571947.	
+Aylett,	Ruth,	Sandy	Louchart,	and	Allan	Weallans.	2011.	“Research	in	Interactive	Drama	
+Environments,	Role-Play	and	Story-Telling.”	In	Interactive	Storytelling,	1st	ed.,	7069:1–12.	
+Lecture	Notes	in	Computer	Science.	Berlin,	Heidelberg:	Springer,	Berlin,	Heidelberg.	
+doi:10.1007/978-3-642-25289-1_1.	
+Cavazza,	Marc,	Stéphane	Donikian,	Marc	Christie,	Ulrike	Spierling,	Nicolas	Szilas,	Peter	Vorderer,	
+Tilo	Hartmann,	et	al.	2008.	“The	IRIS	Network	of	Excellence:	Integrating	Research	in	
+Interactive	Storytelling.”	In	Interactive	Storytelling:	First	Joint	International	Conference	on	
+Proceedings,	5334:14–19.	Lecture	Notes	in	Computer	Science.	Berlin,	Heidelberg:	Springer	
+Science	&	Business	Media.	doi:10.1007/978-3-540-89454-4_3.	
+Eladhari,	Mirjam	Palosaari.	2018.	“Re-Tellings:	the	Fourth	Layer	of	Narrative	as	an	Instrument	
+for	Critique.”	In	Interactive	Storytelling:	11th	International	Conference	for	Interactive	Digital	
+Storytelling,	ICIDS	2018,	edited	by	Rebecca	Rouse,	Hartmut	Koenitz,	and	Mads	Haahr,	
+11318:65–78.	11th	International	Conference	on	Interactive	Digital	Storytelling,	ICIDS	2018,	
+Dublin,	Ireland,	December	5–8,	2018,	Proceedings.	Cham:	Springer	Berlin	Heidelberg.	
+doi:10.1007/978-3-030-04028-4_5.	
+Hausken,	Liv.	2004.	Coda.	In	Narrative	Across	Media	(pp.	391–403).	U	of	Nebraska	Press.	
+Hayles,	N.	Katherine.	2002.	Writing	Machines.	Cambridge:	MIT	Press.	
+Herman,	David.	2002.	Story	Logic.	Lincoln,	NE:	U	of	Nebraska	Press.	
+Hühn,	Peter,	et	al.	2015.	“The	Living	Handbook	of	Narratology.”	Edited	by	Peter	Hühn	et	al.	
+http://www.lhn.uni-hamburg.de.	
+Jennings,	Pamela.	1996.	“Narrative	Structures	for	New	Media.”	Leonardo	29	(5):	345–50.	
+Koenitz,	Hartmut.	2014.	“Five	Theses	for	Interactive	Digital	Narrative.”	In	Interactive	
+Singapore,	Singapore,	November	3-6,	2014,	Proceedings,	edited	by	Clara	Fernández-Vara,	
+Alex	Mitchell,	and	David	Thue,	8832:134–39.	Lecture	Notes	in	Computer	Science.	Cham:	
+Springer	International	Publishing.	doi:10.1007/978-3-319-12337-0_13.	
+Koenitz,	Hartmut.	2015.	“Towards	a	Specific	Theory	of	Interactive	Digital	Narrative.”	In	
+Interactive	Digital	Narrative	:	History,	Theory,	and	Practice.	New	York.	
+
+Storytelling:	7th	International	Conference	on	Interactive	Digital	Storytelling,	ICIDS	2014,	
+
+	
+13	
+Koenitz,	Hartmut.	2016.	“Interactive	Storytelling	Paradigms	and	Representations:	a	Humanities-
+Based	Perspective.”	In	Handbook	of	Digital	Games	and	Entertainment	Technologies,	1–15.	
+Singapore:	Springer	Singapore.	
+Koenitz,	Hartmut,	and	Mirjam	Palosaari	Eladhari.	2019.	“Challenges	of	IDN	Research	and	
+Teaching.”	In	Technologies	for	Interactive	Digital	Storytelling	and	Entertainment,	11869:26–
+39.	12th	International	Conference	on	Interactive	Digital	Storytelling,	ICIDS	2019,	Little	
+Cottonwood	Canyon,	UT,	USA,	November	19–22,	2019,	Proceedings.	Cham:	Springer	
+International	Publishing.	doi:10.1007/978-3-030-33894-7_4.	
+Koenitz,	Hartmut,	Gabriele	Ferri,	and	Tonguc	Ibrahim	Sezen.	2009.	“Do	We	Need	a	New	
+Narratology	for	Interactive	Digital	Storytelling?	a	Workshop	on	Theory	at	ICIDS	2009.”	In,	
+354.	
+Koenitz,	Hartmut,	Mads	Haahr,	Gabriele	Ferri,	and	Tonguc	Ibrahim	Sezen.	2013.	“First	Steps	
+Towards	a	Unified	Theory	for	Interactive	Digital	Narrative.”	Transactions	on	Edutainment	X	
+7775	(Chapter	2).	Berlin,	Heidelberg:	Springer	Berlin	Heidelberg:	20–35.	doi:10.1007/978-
+3-642-37919-2_2.	
+Laurel,	Brenda.	1986.	“Toward	the	Design	of	a	Computer-Based	Interactive	Fantasy	System.”	
+Ohio	State	University.	
+Montfort,	Nick.	2005.	Twisty	Little	Passages.	MIT	Press.	
+Murray,	Janet	H.	2011.	Inventing	the	Medium	:	Principles	of	Interaction	Design	as	a	Cultural	
+Practice.	Cambridge,	Mass:	MIT	Press.	
+Murray,	Janet	Horowitz.	1997.	Hamlet	on	the	Holodeck:	the	Future	of	Narrative	in	Cyberspace.	
+New	York:	Free	Press.	
+Thue,	David,	and	Elin	Carstensdottir.	2018.	“Getting	to	the	Point:	Toward	Resolving	Ambiguity	
+in	Intelligent	Narrative	Technologies.”	In.	
+Wiener,	Norbert.	1948.	Cybernetics	or	Control	and	Communication	in	the	Animal	and	the	
+Machine.	MIT	Press.	
+2020a.	“Stanford	Encyclopedia	of	Philosophy.”	Plato.Stanford.Edu.	Accessed	June	27.	
+https://plato.stanford.edu/.	
+2020b.	“Wikipedia.”	Wikipedia.org.	Accessed	June	27.	http://wikipedia.org.	
+
+

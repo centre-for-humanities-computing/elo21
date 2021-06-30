@@ -1,0 +1,56 @@
+:
+The (auto)biography of 김정은 (2020) is a conceptual ‘found’ artwork in VII parts. It combines found code
+with found text. Multiple ‘found’ computational pieces have been modified with vocabulary drawn from
+multiple speeches delivered by the current North Korean Leader, Kim Jong-un/김정은. In addition,
+vocabulary and phrases from journalism critical of the North Korean regime are also incorporated into
+these generative works. On the one hand, this work is an experiment in propaganda delivery: it emulates
+the relentlessness of the North Korean indoctrination machine and shows how born-digital writing can be
+stolen and misused; in so doing, it reveals digital literature’s power. As part of this process, a Kim Jong-un
+‘poetic robot’ has been created to demonstrate how such propaganda might be delivered/forced upon a
+populace. This work also seeks to capture the perspective of a curious, intelligent yet powerless North
+Korean citizen and demonstrate how they might (struggle to) engage with local culture.
+
+39
+
+ELO 2021 - abstracts
+
+This paper reflects on this artwork in relation to Critical Code Studies (Marino, 2020). Specifically, it looks
+at how code can be adopted and exploited. Through practice-led research (Smith and Dean, 2009), this
+work deliberately exploits the code of multiple digital poets in order to show how such works might be
+corrupted. These subsequent works can be regarded as an example of third generation electronic
+literature (Flores, 2019). These works can also be regarded as an example of ‘overt plagiarism’
+(Holland-Batt and Jeffery, 2020). If the works’ ‘fictional’ construction is believed, then it would be an
+example of ‘covert plagiarism’.
+
+Additionally, this paper looks at how this code and corrupted poetry could be reformed into robotic poetics
+(Winder, 2004). Through this extension to robotic poetics, this paper extends the notion of Critical Code
+Studies, by extending it to robotics, and interrogating what impact such an artefact has on transforming
+the initial work.
+
+WORKS CITED
+
+Flores, L. (2019) ‘Third Generation Electronic Literature’, Electronic Book Review. Retrieved from
+https://electronicbookreview.com/essay/third-generation-electronic-literature/ (accessed 14 January,
+2021).
+
+Holland-Batt, S. and Jeffrey, E. (2020) ‘Covert and Overt Plagiarism: On Poetry and Theft’, Copyright Law
+and the Creative Industries. Retrieved from https://www.youtube.com/watch?v=dejfmNxfSMM&t=108s
+(accessed 14 January, 2021).
+
+Marino, M. (2020) Critical Code Studies, MIT Press: Cambridge.
+
+Smith, H. and Dean, R. (2009) Practice-led Research, Research-led Practice in the Creative Arts,
+Edinburgh: Edinburgh University Press.
+
+Winder, W. (2004) ‘Robotic Poetics’, A Companion to Digital Humanities, ed. Susan Schreibman, Ray
+Siemens, John Unsworth. Oxford: Blackwell. Retrieved from
+
+http://www.digitalhumanities.org/companion/ (accessed 14 January, 2021).
+
+Wright, D.T.H. and Griffin, B. (2020) The (auto)biography of 김정은. Retrieved from http://autokju.net
+(accessed 14 January, 2021).
+
+40
+
+ELO 2021 - abstracts
+

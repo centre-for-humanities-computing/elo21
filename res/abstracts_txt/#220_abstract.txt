@@ -1,0 +1,36 @@
+:
+We propose this panel around the question of how digital platforms have played the role of the classical
+panopticon during the COVID-19 pandemic. Our research draws from our existing project The Digital
+Pandemic (thedigitalpandemic.com), which we started in the summer of 2020, to investigate the
+specificities of the COVID-19 as the first pandemic of the digital era. For this ELO Panel we focus
+exclusively on one aspect of our research: the dispersal of surveillance tactics through digital platforms
+during the current pandemic.
+
+From its very classical formulation, surveillance is a platformed event: an all-seeing eye on a raised dais.
+While the digital challenges erstwhile notions of architecturally fixed surveillance, tracking its users
+environmentally, it nevertheless subsists on digital platforms as interfaces or daises upon which user
+information can be extracted. In this view of the digital, we explore how the panopticon, as an abstract
+platform, has proliferated in different concrete shapes during the COVID-19 pandemic. Each of our three
+project members (and panelists) focuses on separate case studies of this dispersal of surveillance with
+close attention to the aesthetics and politics of digital platforms. Maile Young’s paper (“Public Health,
+Private Platform”) studies the platforms and interfaces of COVID-19 testing to explore how they represent
+and reproduce the failing health care system of the US. She shows how the crisis of America’s healthcare
+system is exacerbated by potential dangers of medical data leaks and monetization. Pujita Guha’s paper
+("Red for Caution") studies the optical aspect of the panoptics through an examination of the color
+schemes in contact tracing apps such as China’s Alipay and India’s Arogya Setu. She shows how the use
+of color for pandemic visualization owes its origin to the redlining of American cities and thus reproduces
+tactics of racial profiling, containment, surveillance and control. Finally, Suroit Kayal’s presentation
+(“Platform Infrastructures of Protest Emergence”) explores the platform based digital infrastructure behind
+
+115
+
+ELO 2021 - abstracts
+
+the emergence of protest movements during the pandemic such as the BLM and the ongoing Farmers’
+Movement in India. His presentation shows how the unavailability of other means and spaces such as the
+street ensured that digital platforms play a more significant role for both the coordination among
+protesters (for example, through the use of social media and chatting apps to google docs) and its
+containment through strategies of data gathering, analysis and tracking. In conversation, we will show
+how pandemic platforms have enabled and transformed surveillance technology to speculate on the
+futures of COVID-19 digital environments in the aftermath of disease.
+

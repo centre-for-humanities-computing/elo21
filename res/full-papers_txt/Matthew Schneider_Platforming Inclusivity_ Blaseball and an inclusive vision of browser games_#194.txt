@@ -1,0 +1,464 @@
+Platforming Inclusivity: Blaseball and an inclusive vision of browser games
+
+On March 10th, Celebrities Deaths tweeted out an obituary  for the recently-deceased Raúl Leal. 
+“The loss of Raul [sic] Leal is a devastating blow for @MiamiBlaseball [sic],” the linked obituary 
+tells us. “Raul was a beautiful boy who feared no Umpire, feared no incineration and protected 
+his team with his life.”  While it is not clear who this teammate was, why they might fear an 
+umpire, or what horrifying incident led them to being incinerated, a savvy reader would 
+quickly notice references to Blaseball.
+
+1
+
+2
+
+In the summer of 2020, amidst the pandemic we still ﬁnd ourselves in the grip of, Los Angeles-
+based studio The Game Band released Blaseball, a browser-based baseball simulator that 
+combined the quintessential American sport with the darkly comical eldritch horror seen in 
+recent years in works such as the podcast Welcome to Nightvale. The game is notable for its 
+impassioned fanbase, who have latched onto the game and engage with it on a variety of online 
+platforms. In the case of Raúl Leal’s obituary, game developer and critic Cat Manning notes that 
+“[e]nough people tweeted about Raúl’s death that an algorithmically-driven obituary 
+generating site reported on it as though a real person had died.”  While Celebrities Deaths is not 
+the ﬁrst exploitative Twitter bot to be foiled by an enthusiastic audience (a much more 
+prominent example would be the design-stealing bots that were trolled in later 2019 by canny 
+artists ), the fact that the chatter around Raúl Leal’s death was intense enough to meet an 
+algorithmic deﬁnition of a celebrity death speaks to the passionate and public engagement that 
+fans have with Blaseball.
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+ @DEATHSNEWS
+ Raúl Leal.
+ @catacalypto
+ Ramos
+
+A curious aspect about Blaseball is that despite the shared passion fans  have for the game, the 
+experience that gamers have when engaging with the game is surprisingly heterogenous. While 
+some gamers will engage deeply with the stats that the site throws out while teams compete, 
+others are primarily interested in the personas that the community develops for each player. 
+Still more gamers may ﬁnd themselves interested less in the game itself and more in some of the 
+epitexts.
+
+5
+
+Blaseball also stands alone in the developers’ support for a breadth of interpretations not just of 
+the meaning of the work but also of ﬁne-grained details right down to the descriptions of the 
+players on the teams. The developers want fast to be “empowered by the creative potential [of 
+Blaseball] while also ensuring no one gets shut out by others’ personal interpretations.”  The 
+Game Band help achieve this by employing a minimalist, text-forward interface, providing fans 
+with API access to read the statistics, and establishing a community policy of not revealing 
+information found through the API without ﬂagging it as such. The community has adopted the 
+spirit of collaboration fostered by The Game Band, most notably by developing new 
+technologies for the game’s fan wiki that build multiple interpretations into the fabric of the site. 
+By leveraging these aspects of the technological underpinnings of the game, both The Game 
+Band and the fans themselves have developed an inclusive environment where fans are 
+welcome to enjoy the game on their own terms and have tools at their disposal to help facilitate 
+that enjoyment without stepping on another fan’s toes.
+
+6
+
+When trying to understand the complicated interactions between gamers with different 
+interests and different expectations of play, it’s helpful to ﬁnd some kind of framework or a 
+point of comparison. As I considered this problem, my mind kept turning to Mia Consalvo’s 
+work on cheating. In her analysis of cheating, Consalvo notes that players can be divided into 
+different groups based on how they understand the concept of cheating, ranging from players 
+who see it as something entirely beyond the pale to players who see cheating as nothing more 
+than part of the ecosystem of gaming.  7
+
+ A note on terms: normally the people who play a game would be referred to as “players,” but 
+5
+Blaseball can make this somewhat confusing because the in-game characters are themselves 
+players. With this potential for confusion in mind, I am calling the in-game characters “players,” 
+“teammates,” or “characters,” depending on context, and am calling the real-world people who 
+participate in the cultural event of Blaseball “fans” or “gamers,” also depending on context. 
+ Greszes
+6
+ Consalvo
+
+7
+
+It can be easy to see cheating as a zero-sum game, where cheaters and non-cheaters are put into 
+strict opposition with no middle ground, but Consalvo’s study reveals greater nuance than that. 
+Even within the strictest conception of cheating, there is a great deal of room for play, and for 
+the same activities that might be considered cheating in one context would be deemed 
+acceptable (if frowned upon) in another—for example, while players may frown upon someone 
+who asks for help from a friend, they might accept it if the player “had already tried to ﬁgure 
+out the situation on [their] own ﬁrst,”  and tell the player that they’re only cheating themselves. 
+Cheating is a relational activity, and so any analysis of it must speak to a broader network of 
+players.
+
+8
+
+I must note some caution at this point: I don’t think that members of the Blaseball community 
+are cheating when they engage with the game in different ways, but rather that this model of 
+community behaviour transfers well and can reveal important patterns of behaviour. Consalvo 
+demonstrates that the concept of cheating is built on both technological and social interactions 
+that go against the grain of what a player is expected to do in a way that confers an advantage, 
+and that “[p]layers actively [make] ethical judgments about gameplay that extended beyond the 
+coded rules of the game.”9
+
+With Consalvo’s work in mind, I want to look at the technical and social components that create 
+the space for multiple styles of play to coexist harmoniously, without the animosity or sense of 
+zero-sum play that characterise gaming communities plagued by cheating. Blaseball’s platform 
+is ultimately fundamental to the inclusive model of gaming that The Game Band developed and 
+gamers extended. The centrality of browsers to inclusiveness is visible in many elements of the 
+game, from the ability of stats-oriented gamers to explore Forbidden Knowledge without 
+spoiling the fun of others to the colourful personas fans have developed for the players, and the 
+ability for contradictory personas to coexist peacefully in the community. 
+
+Much of Blaseball’s inclusiveness is tied to the way the game is presented through the fan’s web 
+browser. Unlike many games, Blaseball features only a handful of graphical assets, and much of 
+what appears at ﬁrst glance to be graphical elements, such as the teams’ logos, are actually 
+emoji, and therefore textual in nature. Most importantly, the players themselves are entirely 
+textual: fans can only see the player’s name, and a handful of statistics. There are no markers of 
+gender, age, or ethnicity in the game, aside from what fans might infer from a player’s name, 
+and even in that case clear indicators of these attributes are notably lacking. While a name like 
+Isaac Johnson may imply gender and a vague sense of ethnicity, one look at Johnson’s 
+
+8
+
+9
+
+ Ibid.
+ Ibid.
+
+teammates should sow doubt: how conﬁdent can we feel in our assumptions about Johnson 
+when the Chicago Fireﬁghters lineup also includes Justice Spoon, Socks Maybe, Swamuel Mora, 
+and Baby Triumphant?
+
+The use of text and the evocative names encourages fans to imagine a diverse universe of 
+players, with few limits on what a player might be. Fans have responded enthusiastically, and 
+have crafted a variety of personas to match the names that include players of a variety of ages, 
+genders, sexual orientations, and even species. The public data on each player leaves room for 
+these interpretations without contradiction; 
+when dealing with web content, however, it 
+is important to remember that a site’s code is 
+only ever hiding just beneath the surface.
+
+Because Blaseball is a browser-based game, 
+any fan can simply view the game’s source to 
+see what is happening behind the scenes. 
+There is a wealth of information available to 
+fans interested in exploring this data, and The 
+Game Band have facilitated these 
+explorations by making an API available to 
+the fans. The information itself breaks down 
+into information that is publicly available, 
+such as player names, team names, the 
+current score, and other such statistics, as 
+well as information that is not publicly 
+available. This latter category includes a 
+variety of statistics, some with known effects 
+on the game and some without, including 
+attributes such as moxie, totalFingers, 
+shakespearianism, buoyancy, anticapitalism, 
+and evolution.10
+
+Fans can use their web browser’s source viewer to investigate 
+the technological underpinnings of the game and to discover 
+
+The information fans can discover through 
+using the API causes a problem for an 
+inclusive game: while analysing this 
+
+The Blaseball API reveals a wealth of information about the 
+teams and players. Above, the statistics for Core Mechanics 
+player PolkaDot Patterson reveals cryptic statistics such as 
+“anticapitalism” and “laserlikeness.”
+
+ It is worth noting that attributes that would contradict fan interpretations of players are 
+10
+absent entirely: gender, sexual orientation, age, ethnicity, and other such attributes simply do 
+not exist canonically.
+
+information is a great deal of fun for those of us who enjoy peeking behind the curtain to see 
+how everything runs, for other fans knowing this information can dispel some of the magic 
+from the game. The zero-sum nature of this knowledge means that, in order to preserve the 
+ability for both styles of play—spoiled and unspoiled—to coexist inclusively, there must be 
+some kind of system to allow players who enjoy being spoiled to view this data without 
+introducing it to players who prefer to enjoy the game unspoiled.
+
+The platform itself provides some measure of protection. Accessing the API requires concerted, 
+non-trivial effort, and even if a fan were to access it accidentally—say, by clicking an API link 
+posted to a forum—they would ﬁnd an 
+impenetrable wall of text that, for the most 
+part, would reveal no secrets without 
+additional processing. Teams, players, and 
+other components of the game are 
+represented by Universally Unique 
+Identiﬁers (UUIDs), each of which is a 128-bit 
+randomly-generated number composed of a 
+series of hexadecimal digits that, due to the 
+sheer quantity of numbers involved, is all-
+but-guaranteed to be unique.
+ Due to the 
+length and variability of these numbers, a fan 
+is highly unlikely to be able to memorise them, and would certainly not be able to recognise one 
+at a glance, and as such, a player seeing a list of UUIDs will not be spoiled until they have cross-
+referenced the IDs and produced a list that matches information across several API queries. The 
+use of UUIDs, then, rather than a more transparent identiﬁer scheme, helps preserve a 
+separations between different types of fan engagement.
+
+Visiting https://www.blaseball.com/database/allTeams 
+technically gives fans a glimpse of much of the inner workings 
+of the teams, but most of the information is a collection of 
+impenetrable UUIDs.
+
+11
+
+Of course, the technical measures The Game Band employ with the API are only useful up to 
+the point that a fan has assembled all the data and connected stats to players. From that point 
+on, sharing the compiled information can expose other fans to secrets and inner-workings that 
+they may wish to remain ignorant of. To guard against this, The Game Band and fans have 
+developed the concept of Forbidden Knowledge, which the Blaseball Wiki deﬁnes as “is a 
+subset of information about Blaseball that we would consider canonical, but is considered 
+signiﬁcantly spoiler heavy in any context.”  More explicitly, Forbidden Knowledge is  “the 
+
+12
+
+11
+
+ Leach
+ “Help:Forbidden Knowledge”
+12
+
+underlying structure and algorithmic makeup of the game and simulation that is hidden from 
+public view, as opposed to information and mechanics visible on blaseball.com.”13
+
+14
+
+As a social system of signposting, the concept of Forbidden Knowledge ﬁts well with 
+Consalvo’s understanding of attitudes towards cheating as existing on a continuum. On the one 
+end, where Consalvo identiﬁes the “purist” who “believ[es] that anything other than a solo 
+effort in completing a game is cheating,”  we can see an analogue to players who loathe the 
+idea of encountering anything beyond information that’s completely public; on the other end of 
+the continuum Consalvo identiﬁes players who see cheating as wrong only if it degrades 
+another’s experience, and may even participate in cheating “for the pleasures it can bring,”  an 
+attitude that we can see in the Society for Internet Blaseball Research (SIBR), a group that 
+delights in digging into the hidden information in the game and producing deep analyses of the 
+game’s statistics. Flagging Forbidden Knowledge allows both the purists and SIBR to coexist 
+happily, as each group can make an informed choice and enjoy their preferred style of play 
+without degrading the other’s experience.
+
+15
+
+Blaseball fans themselves have also been instrumental in using the affordances of the web 
+platform itself to create spaces where multiple visions of the game can coexist without one or 
+the other dominating the rest. This is especially apparent when examining how players have 
+resolved the potential for friction between versions of the players themselves, which can differ 
+greatly depending on the writer or artist behind a particular version.
+
+Because, as discussed above, there is very little 
+canonical information on players that deﬁnes 
+their physical features, fans are free to assign 
+their own preferences to each individual player, 
+and no fan will ever ﬁnd that their own vision for 
+the player is contradicted in the available data. 
+Furthermore, because what little physical data 
+there is on players—ﬁngers, being the most 
+obvious—is considered Forbidden Knowledge, it 
+is highly unlikely to factor into fans’ visions of 
+the characters. Ultimately, any sense that there is 
+a true form of a player is suspended indeﬁnitely, 
+
+ Ibid.
+13
+ Consalvo
+14
+ Ibid.
+15
+
+Two different visions of the popular Jaylen Hotdogﬁngers 
+player appear in the First Edition collection of Tlopps 
+Blaseball cards.
+
+and instead each version coexists with every other version, free from worry that an ofﬁcial 
+proclamation will ever render it obsolete or even secondary.
+
+Perhaps the best example of the indeﬁnitely suspended form of a Blaseball player is Pitching 
+Machine, who originally joined the lineup of the Unlimited Tacos in Season 8 after the Tacos 
+fans conspired to have the team’s entire pitching roster rendered unable to play.
+ While the 
+16
+only description the game provides of Pitching Machine is the name, fans quickly ﬁlled out the 
+details and began to craft a persona for the new pitcher.
+
+While the obvious interpretation of “Pitching Machine” is the mechanical ball-throwing device 
+used by players to practice their batting, Blaseball fans delight in ﬁnding oblique interpretations 
+of the game. “Given blaseball’s naming conventions,” Philippa Warr writes, “Pitching Machine 
+could be someone’s legit name OR it could be a robot with a blood collection.”  The two 
+options Warr proposes are reﬂected in some of the many interpretations fans came up with for 
+the player: a regular pitching machine wearing a cap , a Frankenstein-like assemblage , a 
+humanoid robot
+
+, and a largely human-appearing character.
+20
+
+17
+
+19
+
+18
+
+21
+
+Although the diverse conceptions of Pitching Machine are largely irreconcilable, the Blaseball 
+community has developed a solution to allow each of these visions of the character to coexist. 
+The developers of the Blaseball Wiki created a feature known as the “Interdimensional Rumour 
+Mill,” (IRM) which “is a system of wiki extensions that allows for contributors to offer their 
+unique interpretations of Blaseball players without invalidating any preexisting or future 
+interpretations.”  Because the wiki is a webpage, the content being served to users can be 
+changed each time the page is loaded, and so the IRM “will show the reader a randomly 
+selected interpretation each time the page is reloaded.”  This system places all of the 
+
+23
+
+22
+
+ “Pitching Machine”
+16
+ @philippawar
+17
+ @HetreaSky
+18
+ @2skele2bells
+19
+ @sparksel
+20
+ @occultclassic
+21
+ “Help:Interdimensional Rumor Mill Guide”
+22
+ Ibid.
+23
+
+interpretations on even footing and allows fans to encounter each interpretation with the same 
+level of respect and gravitas as the next.
+
+Another element that helps disrupt the sense that there might be an implied hierarchy or a 
+preferred interpretation is the Interdimensional Frequency number, or IF. Similarly to the 
+UUIDs discussed above, and unlike a serial number, which would imply some sense of order or 
+chronology, the IF number is randomly generated  (with the possibility of being overridden for 
+narrative purposes), and is described by the wiki’s administrators as being “a sort of radio 
+station tuning to a speciﬁc dimension where your Rumor lives.”  This analogy underscores the 
+degree to which these interpretations are a matter of taste: if a fan doesn’t like what they’re 
+hearing, they can simply tune in to another station.
+
+24
+
+25
+
+The IRM and the IF numbers demonstrate well the ways in which the affordances of the web 
+can support diverse visions of a game: websites like the Blaseball Wiki can draw from a deep 
+well of interpretations, giving fans an opportunity to contribute their own voice to the 
+conversation and know that, at least some of the time, it will be the voice that other fans hear. 
+By paying attention to the subtle hierarchies that can be established by serial numbers, 
+thoughtful developers can develop numbering systems like UUIDs or IF numbers that offer 
+gamers a non-hierarchical classiﬁcation system that nonetheless works seamlessly with the 
+requirements of modern web technologies.
+
+As the above examples show, between clever design that makes the most of the technological 
+affordances of websites and the careful development of community expectations, it is possible 
+for fans of a game to enjoy it in a number of radically-different-and-even-mutually-exclusive 
+ways without ever jeopardising another fan’s ability to enjoy the game. While Blaseball is aided 
+by a fanbase that, at least for now, does not have a segment of fans that goes out of its way to 
+grief the other segments, it nonetheless shows the potential for other web-based games to foster 
+such an agreeable and diverse community. Just as cheating must be understood at the 
+intersection of technological exploits and social practices, so too must inclusive design: where 
+the former must be understood so developers can prevent one group from ruining the fun of 
+others, the latter must be understood so that developers can support all groups in their unique 
+approaches to enjoying the game.
+
+ Ibid.
+24
+ Ibid.
+25
+
+Works Cited
+
+@2skele2bells. “my pitching machine pitch (ahaha): the pitching machine starting as a regular 
+pitching machine but with the assistance of its team and gf and friends it is built into an 
+android to better ﬁt its identity :] #blaseball (tldr; trans robot)” Twitter, 4 Nov. 2020. 3:58 
+p.m., https://twitter.com/2skele2bells/status/1324123855410089986. Accessed 7 May 
+2021.
+
+@catacalypto. “The umpires' whims are random, at the simulation's discretion. Enough people 
+
+tweeted about Raúl's death that an algorithmically-driven obituary generating site 
+reported on it as though a real person had died. 2/? #manningblases” Twitter, 10 Mar. 
+2021. 9:90 a.m., https://twitter.com/catacalypto/status/1369689715008360448. Accessed 7 
+May 2021.
+
+Consalvo, Mia. “Gaining Advantage: How Videogame Players Deﬁne and Negotiate Cheating.” 
+
+Cheating: Gaining Advantage in Videogames. E-book, MIT P, 2007.
+
+@DEATHSNEWS. “Raul Leal Death – Obituary : The loss of Raul Leal is a devastating blow for 
+
+@MiamiBlaseball. Raul was a beautiful boy who feared no Umpire, feared no incine…” 
+Twitter, 10 Mar. 2021. 7:27 a.m., https://twitter.com/DEATHSNEWS/status/
+1369656106990075911. Accessed 7 May 2021.
+
+“Help:Forbidden Knowledge.” Blaseball Wiki, https://www.blaseball.wiki/w/
+
+Help:Forbidden_Knowledge. Accessed 7 May 2021.
+
+“Help:Interdimensional Rumor Mill Guide.” Blaseball Wiki, https://www.blaseball.wiki/w/
+
+Help:Interdimensional_Rumor_Mill_Guide. Accessed 7 May 2021.
+
+@HeteraSky. “We've reached the ninth inning of my #miniblaseball series! Don't worry though 
+
+#blaseball fans, I'm not stopping until I've drawn all 400+ players! 
+ZIWA MUELLER 🗣  
+LARS TAYLOR 🌞  
+QAIS DOGWALKER 🚤  
+PITCHING MACHINE 🌮  
+Who's next??” Twitter, 22 Sep. 2020. 10:18 a.m., https://twitter.com/HetreaSky/status/
+1308440443143634944. Accessed 7 May 2021.
+
+Greszes, Sam. “An absurdist baseball game is tearing up the internet, thanks to fans.” Polygon, 
+
+https://www.polygon.com/features/2020/8/6/21357131/blaseball-fans-absurd-
+baseball-sim-the-game-band. Accessed 7 May 2021.
+
+Leach, P. et al. “A Universally Unique Identiﬁer (UUID) URN Namespace.” RFC 4122. N.p., July 
+
+2005. Accessed 7 May 2021. 
+
+@occultclassic. “PITCHING MACHINE #blaseball” Twitter, 4 Nov. 2020. 7:25 p.m., https://
+
+twitter.com/occultclassic/status/1324175902465351680. Accessed 7 May 2021.
+
+@philippawarr. “Given blaseball's naming conventions, Pitching Machine could be someone's 
+legit name OR it could be a robit with a blood collection” Twitter, 21 Sep. 2020, 10:25 a.m., 
+https://twitter.com/philippawarr/status/1308079809394880513. Accessed 7 May 2021.
+
+“Pitching Machine.” Blaseball Wiki, https://www.blaseball.wiki/w/Pitching_Machine. 
+
+Accessed 7 May 2021.
+
+Ramos, Jeff. “Artists are provoking Nintendo and Disney to sue bots that steal artwork.” 
+
+Polygon, https://www.polygon.com/2019/12/5/20997056/i-want-that-on-a-shirt-bots-
+copyright-infringement-twitter. Accessed 7 May 2021.
+
+“Raúl Leal.” CelebritiesDeaths.com. 10 Mar. 2021, https://celebritiesdeaths.com/raul-leal-death-
+
+obituary-the-loss-of-raul-leal-is-a-devastating-blow-for-miamiblaseball-raul-was-a-
+beautiful-boy-who-feared-no-umpire-feared-no-incine/. Accessed 20 Apr. 2021.
+
+@sparksel. “Oliver Notarobot <#'s Pitching Machine #blaseball” Twitter, 22 Sept. 2020. 12:12 
+p.m., https://twitter.com/sparksel/status/1308469167427923970. Accessed 7 May 2021.
+
+

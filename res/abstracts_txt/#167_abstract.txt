@@ -1,0 +1,57 @@
+:
+Theatre is a sometimes forgotten casualty of the current pandemic. Social distancing precludes the
+assembly necessary for participatory theatre. Theatre and theatrical improvisation rely on
+participants--performers and audiences alike--gathering in the same space, exploiting their physical
+proximity to tell stories. Because of the limited modalities of communication, virtual gatherings using
+video-conferencing platforms are, at best, an ersatz solution for audiences longing for connection in an
+ever more disconnected world. While some performance groups have embraced tele-conferencing and
+streaming for workshops, practice and performance, many theatre makers and performers are preferring
+to temporarily pause while waiting for the conditions of performance to resume [1]. We took the opposite
+view, believing that live theatre cannot wait for the pandemic to wane.
+
+We therefore built a computer tool for online performance. Our system, called the Virtual Director, enables
+actors to recreate a feeling of presence with stage partners while performing and storytelling remotely [2].
+
+20
+
+ELO 2021 - abstracts
+
+Our research combines cinematic and video communication technologies with the theatrical practice of
+improvisational and scripted theatre, and aims at recreating presence, virtually.
+
+Virtual Director relies on commodity software (TouchDesigner, web browsers), widely adopted video
+conferencing tools (Zoom, Microsoft Teams) and streaming platforms (YouTube, Twitch)--digital platforms
+for streaming and video conferencing that we subverted for participatory online performances.
+
+We deployed Virtual Director during community-based performances at the Online Paris Fringe festival.
+We noticed that the audience was curious about new interaction formats and performance modalities. We
+believe that our streamed performances redefined the nature of live performance, as we identified four
+levels of participation: performer, privileged audience member, general audience member, and onlooker
+who watches the recording of the show. First, our tool enabled visual collocation and presence among
+performers. Second, Virtual Director enabled visual collocation and audio interaction between selected
+audience members and the performers, or recreated visual presence if we placed them in a virtual
+“amphitheatre”. Third, audiences could interact indirectly via chat. Finally, onlookers followed the show via
+streaming. As a complement to previous analyses of the performers’ experience of presence in a
+tele-immersive virtual space [2], this paper examines the perception of the performance by audiences and
+their participation in collective storytelling; we situate our work in literature on improvisation and
+interactive performance.
+
+As we performed remotely with multilingual actors from different countries, we exploited live translation
+and speech recognition technology to enable actors to improvise in multiple languages while being
+understood by cast members and audiences. Building up on an existing multilingual improv stage show
+[3], we combined tele-immersion with translation to create a multilingual performance that transcends
+typical physical limitations of the stage. Our paper concludes with our ongoing work: once we assemble
+again in a post-pandemic world, we will keep the tele-immersion and translation tools to create
+mixed-presence connected international shows.
+
+[1] Berger, "The Forgotten Art of Assembly”, April 2020, retrieved January 2021,
+https://medium.com/@nicholasberger/the-forgotten-art-of-assembly-a94e164edf0f
+
+[2] Branch et al, “Tele-Immersive Improv”, SIG CHI 2021.
+
+[3] Mirowski et al, “Rosetta Code: Improv in Any Language”, Computational Creativity 2020.
+
+21
+
+ELO 2021 - abstracts
+

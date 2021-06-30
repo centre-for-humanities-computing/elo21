@@ -1,0 +1,28 @@
+:
+More than 20 years after their publication web-based hypertexts such as Hegirascope or The Unknown
+are available, read and viewed just as intended on their publication date. “Html and a bit of Javascript” or
+“Javascript and a bit of html”, in case of Web based text generators such as Taroko Gorge, seem to
+constitute the best formula for creating long-lasting e-literature. Any platform, old or new, which supports
+exporting to html improves not only the longevity of the work, but can also bring it new life on any platform
+in the future. Flash, celebrated for its user-friendliness and accessibility, did not follow this path.
+Storyspace, infamous for its cost and its role in propagating commercial circulation of e-literature, did! All
+of its versions starting from 1.5 included a support for open formats in form of html export (although by
+default in limited form).
+
+The workshop demonstrates the future direction of the in-house development environment used for
+translation and migration of Michael Joyce’s afternoon.a story (2011) and Twilight. A Symphony (2015)
+into browser/online ports and translations. The framework has been currently updated to its third edition
+which – apart from its support for guard fields, roadmaps, link scripting – introduces form-based import
+layer and mobile friendly visualizations of Storyspace Map Views based on D3.js JavaScript library. In
+fact, the library allows for visual representations of any connections between html elements. As such, the
+platform is evolving into a toolkit for linguistic and media translation of any e-elit work that enables html
+export. During the workshop a workflow of importing the work, processing its metadata, and preparing the
+linking system for the visualization module will be demonstrated and analysed.
+
+The hypertexts used during the workshop are: Izme Pass by C. Guyer, M. Joyce, and M. Petry; WOE by
+M. Joyce, and The Life of Geronimo Sandoval by S. Ersinghaus.
+
+90
+
+ELO 2021 - abstracts
+

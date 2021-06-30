@@ -1,0 +1,49 @@
+:
+This submission to the 2021 ELO Conference and Media Arts Festival is both a virtual engagement event,
+a submission of a novel work of electronic literature for the Platforming Utopias (and Platformed
+Dystopias) exhibition, and, lastly, an introductory performance, proposed as a way of setting the
+‘Aarhus-vibe’ of the conference.
+
+Aarhus Urban Operating System (AaUOS) both is a piece that meditates the generational conflicts of e-lit
+by situating e-literary encounters with Aarhus that invites for a virtual dérive of a platformed imaginary of
+the city.
+
+This year’s ELO conference takes place online – across a number of global partner institutions, and will
+be hosted ‘in’ Aarhus, which is to say at Aarhus University’s server. Instead of visiting the city of Aarhus
+physically, participants in this year’s conference will visit the rather unspectacular platform
+conferences.au.dk, which (apart from the name and logo) has little to do with neither the physical
+actualities of Aarhus as a place nor the creative, literary, and intellectual qualities of Aarhus as a space.
+
+This virtual engagement proposal seeks to situate an e-literary encounter with Aarhus that exists at the
+intersection of (1) the ELO conference and its participants, (2) corporate visons for city development in
+Aarhus, and (3) a chatterbot-esque interface aesthetic that is connected to a generative, neural
+network-based bot.
+
+By situating a parasitic interface based on the official ELO conference website, AaUOS enacts the
+‘flipside’ of the glossy, corporate-esque images and videos of Aarhus offered by the University
+management (see attachment for a sketch of the work [in Danish; the work itself will be in English]).
+
+In this way AaUOS is both a case of 3rd gen e-lit, existing within the framework of an established
+platform, and at the same time, AaUOS is a handcrafted, specifically designed system that can be
+associated with the 2nd gen of e-lit. Entering into this position of tension between the generations of e-lit,
+
+12
+
+ELO 2021 - abstracts
+
+the work invites for contemplation of the role of e-lit in the face of the increasing platformization and
+Zoomification of society.
+
+On this ‘flipside’ of the conference website, participants are invited to interact with, and mimic, a neural
+network that was trained on corporate visions for so-called ‘creative city development’, which is really just
+a fetish-relation to words such as ‘concrete’ and ‘building’. By creating an interface that connects these
+generative corporate visions and city-imaginaries with a virtual conference on electronic literature, AaUOS
+sustains an e-literary encounter with emergent imaginaries of Aarhus, stemming collaboratively from local
+city developers, a machine learning algorithm, playful imitative writing practices, and an international
+community of scholars.
+
+In the case of AaUOS, the work makes for an unstable and emergent poiesis of a gathering that could
+have been, situated in the imaginary of an Aarhus that might still become. Further, AaUOS acts as an
+interface to a platformed vision for Aarhus; not quite a traditional situationist dérive of the city, but
+something that might become an opportunity to perform an electronic dérive of the city’s platformization.
+

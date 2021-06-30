@@ -1,0 +1,42 @@
+:
+The recently formed Dutch Digital Literature Consortium – a partnership of researchers from Tilburg
+University, Radboud University Nijmegen, the Royal Library of the Netherlands and local libraries – aims
+to develop and launch an online catalogue of digital literature, created in the Netherlands and Flanders,
+and turn this collection into a publicly accessible digital catalogue. The project draws inspiration from
+comparable databases, such as the Electronic Literature Collection 1-3, NT2, Hermaneia, and Literatura
+Electrónica Hispánica. Whereas these databases bring together digital literary projects from a variety of
+traditions – often with a particular focus –, the project at hand focuses exclusively on works from a
+specific geographical location (much like collections such as the Brazilian Electronic Literature Collection).
+
+The development of such a database gives rise to several theoretical and methodological questions that
+are central to the study of e-lit: which works and genres are eligible to be included in the database, and on
+what grounds is this selection made? Practical decisions critically hinge on the fundamental question what
+digital literature is. This question has been answered – explicitly and implicitly – by different actors and
+institutions involved with e-lit, such as funding institutions, libraries, and other ‘gatekeepers’. Such
+institutions are significant because they are responsible for the material and the symbolic production of
+digital literature. As Yra van Dijk points out, digital works are ‘not autonomous, in the sense that they are
+in fact funded and sometimes initiated by some institution, mostly in the end by the government itself’
+(2012, 2). If, as Florian Cramer claims, ‘electronic literature ha[s] established itself as a field in Pierre
+Bourdieu’s sense, i.e. as an area of production and discourse with intrinsic distinctions and authorities’
+(2012, 1), then we need to consider how these authorities push digital literature in specific directions.
+
+While acknowledging that digital literature is also a transnational phenomenon, this paper analyses the
+ways in which institutions shape digital literature in specific techno-cultural contexts. The Low Countries
+share a language and – to a great extent – a literary tradition, while they also differ significantly culturally
+and institutionally. When one pays attention to the institutional frameworks, the specificity of the Dutch
+versus Flemish digital literature tradition is brought into focus. The institutional approach that I advocate
+
+114
+
+ELO 2021 - abstracts
+
+thus does not only do justice to the multidimensional and changing nature of digital literature, it also takes
+into account the differences across linguistic areas and nation states.
+
+The question what counts as ‘literature’ is answered differently over time and in specific geographic
+contexts. The same holds true for the question what belongs to the realm of the ‘digital’. Therefore, this
+institutional approach is twofold, 1) I examine which digital genres and individual works are considered
+literary, and 2) I examine what is considered digital within these specific contexts. The theoretical
+overview of the institutional framework of digital literature in the Low Countries offers a solid starting point
+for the Consortium’s position on the practical, methodological questions raised above.
+

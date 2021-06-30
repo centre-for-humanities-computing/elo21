@@ -1,0 +1,40 @@
+:
+In 1956, the Brazilian avant-garde poet Wlademir Dias-Pino published one of his most famous books: A
+Ave. All copies of this conceptual work were produced in a craft press, and the content and form of the
+text (a process poem, as Dias-Pino called it) are inextricable from the materiality of the book, composed
+of superimposed perforated pages of different colors and transparency levels, with printed letters and
+polygonal lines. Scholars have considered A Ave an analog predecessor of new media poetry, reflecting
+on the affordances of paper, ink, punch hole, and bookbinding, and their creative use in a book of visual
+poetry centered on the imagery of birds in flight.
+
+Wlademir Dias-Pino also wrote theoretical texts and a manifest that point to the permutational and the
+procedural nature of poetic language as code. His contributions as an antecedent to Latin-American
+digital literature still require further investigation, especially because scholars interested in the history of
+new media poetry in the continent often pay more attention to the Brazilian concrete poets from São
+Paulo, such as Augusto de Campos, Haroldo de Campos, and Décio Pignatari.
+
+121
+
+ELO 2021 - abstracts
+
+Nonetheless, an important gesture of acknowledging Dias-Pino’s contribution to the field was made by the
+Uruguayan poet Clemente Padín, who created in 2003 the Flash piece Homenaje a Wlademir Dias-Pino.
+In this animation, a bird graphically constructed as a calligram is seen in flight, and the animal’s body and
+wings are made of a combination of words that allude to the metadata of A Ave among apparently
+random ASCII symbols.
+
+Padín’s work is included in the Litelat Anthology, but it can no longer be accessed in its “original” format
+due to the obsolescence of Flash. Although this might initially seem just a setback, the limited temporality
+of Flash has more to say: as a technological platform with its own lifecycle, it highlights the historicity of
+Homenaje a Wlademir Dias-Pino as a piece of electronic literature produced for specific software from a
+specific age. A Ave, on the other hand, is a piece of analog procedural literature meant to be read without
+any extraneous device, but also susceptible to the physical deterioration that all material culture is liable
+to.
+
+This poster presents some reflections on convergences and dissonances between Wlademir Dias-Pino’s
+A Ave and Clemente Padín’s Homenaje a Wlademir Dias-Pino, considering both artists’ aesthetic
+projects, the poetic codes they used, and the affordances of the materialities in which they inscribed their
+images of birds in flight. We intend to point out how the work by a prominent predecessor of electronic
+literature is revisited by an established digital artist of our times in a dialogue that is of much interest to
+the community of Latin American e-lit and to that of electronic literature as a whole.
+

@@ -1,0 +1,817 @@
+ 
+
+Liahm Ruest 
+
+Prof Neil Randall 
+
+ENGL 794: Game Studies 
+
+30 – 11 – 2020  
+
+Ruest 1 
+
+ 
+
+ 
+
+American Utopia - Comparing the Far-Right politics of BioShock: Infinite and Trump's America 
+
+What the Hell is Going on in the United States of America?  
+
+Since 2015, the United States and the rest of the world have been under the grip of a 
+
+Donald Trump presidency. Beginning his campaign stating that Mexicans are rapists; to calling 
+
+white supremacists "good people" thereby legitimizing and emboldening multiple supremacist 
+
+groups; and is now impeached president who has lost not only the presidency but also at the time 
+
+of writing 267, 000 Americans to a pandemic which could have been prevented. In the 2020 
+
+American Federal Election, Donald Trump received more than 72 million votes; he increased his 
+
+number of votes received by more than 10 million compared to his election win in 2016 
+
+(Riccardi 2020; FEC 2016). The idea that Trump and his rhetoric have “lost” in America is false. 
+
+While he lost the electoral college and the popular vote, the millions of increased votes signify 
+
+the desire for an American ideal that is a window to the past. The "Making America Great 
+
+Again" (MAGA) messaging hit a cord with a majority of white America who believed that white 
+
+influence was in decline, and therefore, a direct threat to white existence (Major et al., 2016). 
+
+This idea of "White Genocide" as a meme (Ward 2018) on conservative media channels such as 
+
+radio, television, and social media actively shaped society in the minds of white Americans 
+
+creating an in-group (Whites) and out-group (Degenerates) – a feature of American society that 
+
+has always been present in one form or another. However, this renewed energy reignited the idea 
+
+ 
+
+Ruest 2 
+
+of a "utopian" America: one built on the nostalgia of a more prominent and visible state of white 
+
+supremacy built to exclude anything that does now and will not conform.  
+
+ 
+
+While many white supremacy ideas are eclectic in their philosophy and rhetoric, creating 
+
+a model of this version of American Utopia distills these concepts that allow for comparisons 
+
+between the model and the real. BioShock: Infinite is a 2013 narrative-driven first-person shooter 
+
+developed by Irrational Games under the direction of Ken Levine; this is third installment in the 
+
+BioShock series. The game is set in the floating city of Columbia: a state built on the ideals of 
+
+American exceptionalism, romanticism, and utopianism. The player is sent to Columbia as 
+
+Booker DeWitt, an investigator who is mysteriously tasked to find Elizabeth as a means of 
+
+wiping away a debt. Throughout the levels, the player along with Elizabeth explore the 
+
+segregated society as a violent uprising between Columbia's racial and economic classes begin to 
+
+overturn the white bourgeois. As we begin to dive into Columbia's society, we can begin to 
+
+understand the game as a model of white-supremacist societies and delve into the ideas of what 
+
+makes the state of Columbia a Utopia. It is clear that the society of Columbia is a dystopia, and 
+
+to claim that it is not is false. The same statement could be said about the United States. 
+
+However, we can begin to understand and compare BioShock: Infinite and Trumpian America 
+
+more effectively by analyzing what the white supremacist views as the utopian society and begin 
+
+to dive into the cesspool of these parallel ideologies by comparing the polarized politics of 
+
+citizens, the police and support of the state, and the games of politics.  
+
+ 
+
+What is Utopia?  
+
+Before we can begin to understand the disparities between BioShock's Columbia and 
+
+Trump's America, we need to understand the concepts of utopia. Originating in Thomas More's 
+
+book "Utopia," the concept encompassed an idealized state of More's moral philosophy including 
+
+ 
+
+Ruest 3 
+
+the abolition of private property, the enforcement of slavery, and the despise of atheism (More 
+
+1513). Etymologically, Utopia's coinage by More involves a double meaning. The pronunciation 
+
+of the letter u in the word shifts the definition: pronounced "Outopia," the meaning refers to "no 
+
+place"; but if stress on the letter is shifted to "Eutopia,,” the interpretation shifts to a "good place" 
+
+(Sargent 11). This phonetic shift in vowel sound completes our understanding of the definition: a 
+
+utopia is a good place, that at the most basic level does not and might not ever exist. To contrast 
+
+Jane McGonigal's "Reality is Broken," when we begin to analyze what makes a "good" alternate 
+
+reality, does said simulation have to be good in order to fix the broken reality we already face? 
+
+They state, "When and where do we need alternate reality? Which situations and spaces call for 
+
+it – and when are we better off leaving reality alone?" (McGonigal 145). If there is an 
+
+opportunity to analyze reality using video games and critical play as a model for our observed 
+
+reality, then the chance should be taken to pay attention at all costs. If reality is on fire, one does 
+
+not simply ignore the fire and say "everything is all right." American reality is broken. The 
+
+United States has become heavily polarized; violent protests by far-right groups have killed 
+
+counter-protestors using vehicles as weapons (Myer 2017), and Trump has not conceded the 
+
+2020 federal election citing allegations of a fraudulent election (which are false) 
+
+(@realDonalTrump 2020). If we can begin to model this broken reality using gameplay 
+
+narrative, we can then apply those learnings to create a better society for the future. 
+
+ 
+
+A Population Divided, A Society Fractured  
+
+Like that of the United States, Columbia is fraught with a violent past that informs and 
+
+shapes the present-day society. From viewing kinetoscopes and listening to voxophone personal 
+
+recorders scattered throughout the city, we can originate Columbia’s begining as a tool for the 
+
+US government to spread the ideas of American values across the world. After amassing power, 
+
+ 
+
+Ruest 4 
+
+Columbia invades Peking in the Boxer rebellion to stand up for American values. After the US 
+
+government condemns the actions of Zachary Comstock, the leader of Columbia, the floating 
+
+city in pursuit of a "True America" secedes from the union. Of these moral ideas, the societal 
+
+originalism that occurs in Columbia informs the philosophies of society. George Washington, 
+
+Benjamin Franklin, and Thomas Jefferson act as god-like figures for the city's ultranationalist 
+
+identity and state religion that positions the white, affluent class as the righteous. Figures like 
+
+Abraham Lincoln are demonized in Columbian society as the emancipator who went against 
+
+American ideals. Comstock states in a voxophone recording, "No animal is born free, except the 
+
+white man. And it is our burden to care for the rest of creation." (Zachary Comstock, Comstock 
+
+Center Rooftops). From the leadership down to the citizen, segregation is built into the society's 
+
+rhetoric where it is morally justified and an American duty to discriminate against the "other." In 
+
+Raffle Square, the player is met with a raffle draw. As the curtains rise, stage displays of minstrel 
+
+caricatures appear – vaudeville art depicting black face and monkeys frame a distressed 
+
+interracial couple pleading for mercy. "C'mon are you gonna throw it?... or are you taking your 
+
+coffee black these days?" says the presenter to the player (Jerimiah Fink, Raffle Fair). The player 
+
+then must choose to throw a baseball at the couple or the presenter. If they choose to throw the 
+
+ball at the presenter, they are gifted with a bonus item later in the level; if they choose to throw 
+
+the ball at the couple, they are gifted by the presenter's henchman as thanks; if they decide not to 
+
+throw the ball at all, they are rewarded nothing. This example of choice in a polarized society is 
+
+often fraught with the reward of power; however, when a central path is taken through pacifism, 
+
+the oppressor still reaps reward – the couple at the raffle fair is without justice. As we can see in 
+
+the America of today, polarizing the populace can win elections to secure political power and 
+
+influence. However, political polarization is nothing new: the dissonance of White America in 
+
+ 
+
+Ruest 5 
+
+the civil rights movement of the 50s and 60s led to widespread indignation amongst the white 
+
+populous that, to their understanding, were being removed from all powers. As the parties began 
+
+to polarize by race, Republicans sought opportunity in the conflict by appealing to white 
+
+idealism and reshaping the Republicans as a party for White America:  
+
+Competition for votes, combined with a taboo against explicitly racist appeals 
+
+to race, encouraged Republican elites to articulate a constellation of "cultural 
+
+issues," many of which implicitly refer to race, to strengthen their base and 
+
+increase voter turnout, especially in closely divided campaign (Olson 714). 
+
+In 2016, and throughout the presidency, Trump and Republican operatives utilized White fears 
+
+using the “demise of White culture” trope – their only option to win is to oppress the racialized 
+
+and persuade the white centrist to choose inaction versus the Democratic opposition. Using 
+
+Twitter and other forms of media events like "Trump Rallies," the Trump presidency and its 
+
+allies created media narratives, one that signaled immigration as the demise of White America. 
+
+Trump as an active user of Twitter has stated in response to the refugee crisis in Europe, "We 
+
+don't want what is happening with immigration in Europe to happen with us!" 
+
+(@realDonaldTrump 2018). These memes that play on immigration and fear occur on any 
+
+platform Trump can use. Fears around the fall of white society play out at in-person rallies, on 
+
+television like Fox News primetime with the aid from personalities like Tucker Carlson, and 
+
+more. Inciting fears of violence, members of Trump's cabinet and other Republican operatives 
+
+have made similar remarks drawing the trope of white genocide. "We can't restore our 
+
+civilization with somebody else's babies," was a quoted retweet of a far-right political cartoon by 
+
+Congressman Steve King (R-Iowa) about the increased movement of Syrian and African 
+
+refugees into Europe (@SteveKingIA 2017). Steve Bannon, a renowned white supremacist and 
+
+ 
+
+Ruest 6 
+
+former Trump chief advisor, used plot references of white genocide from the 1937 novel “The 
+
+Camp of the Saints” to inform Trump on immigration policy, eventually leading a ban on travel 
+
+from Muslim and African nations (Blumenthal & Rieger 2017). Segregationist policies like 
+
+Trump's travel ban mirror that of the miscegenation seen in the raffle fair; these forms of 
+
+information are spread as entertainment with the underlying goal of polarizing the viewer 
+
+thereby normalizing of white supremacist. The public reaction to these laws is like a rallying cry. 
+
+Emotionally charged, wielding phones and red hats while shouting to rid the country of 
+
+immigrants touting signs like "respect our laws or we will deport you," (VinZant 2019) Trump 
+
+supporters have fun supporting Trump. Shrouded with red, white, and blue star-spangled 
+
+decoration, the citizens of Columbia actively participate in the charge display of racism; they line 
+
+up and enter the raffle to have the chance of the first throw at the interracial couple; they exclaim 
+
+their joy of waiting all year for the event; they actively egg the player to throw the ball at the 
+
+couple and participate in white supremacy. Like that of the voxophone and Twitter, the 
+
+recordings and sounds of the past that allow for understanding how fractured white supremacist 
+
+societies function when the media is binged in the present. Just like the raffle fair and the 
+
+presenter on a stage, social media and the white public's corralling ensures participation in the 
+
+system. Advertisements around Columbia in the level direct the player and citizens to the 
+
+meeting like that of Trump's Twitter. However, cracks in the white upper class remain open to 
+
+challenge the state's authority. In the Comstock Center Rooftops, the player enters the 
+
+Montgomery Residence after a shootout with police. Inside, the player is subjected to a couple 
+
+arguing about uprisings – the couple argues, trying to justify the rebellion uprising, only for the 
+
+player to interrupt. They identify the player as the suspect police are looking for but do not 
+
+intend to inform the whereabouts. In the room adjacent to the couple, a Black citizen of 
+
+ 
+
+Ruest 7 
+
+Columbia lays asleep in a room donned with a portrait of Abraham Lincoln in a positive light – 
+
+on the kitchen walls, posters detailing "Columbia Friends of the Negro Society," an organization 
+
+dedicated to equality based on race. White society in Columbia like the United States is divided. 
+
+There are tensions within the upper populace that reject Comstock, but many still do not trust the 
+
+revolt from the black population. Like that of America today, these tensions arise in white 
+
+discourse and centrist talking points relating to protest Trump. The centrist attempting to use 
+
+pacifism is seen only to themselves as taking the high road, when they ultimately  remain silent 
+
+to the justice needed for the marginalized.  
+
+ 
+
+The Cult of Comstock & the Cult of Trump  
+
+In the level Comstock Rooftops, the player delves into the underbelly of Columbia's 
+
+fascist groups and clubs. The Lansdown residence is a house like the Montgomery residence; this 
+
+house resides in the same level as the Montgomery residence, acting as a juxtaposition between 
+
+the polarized society. Upon entering the premises, a mysterious chest embellished with an eye 
+
+and swords with the Latin script "Audemus Patria Nostra Defendere" or "We dare to defend our 
+
+homeland." In the following portion of the level, the player arrives at the Fraternal Order of the 
+
+Raven: a far-right white violent cult focused on maintaining and enforcing the state of white 
+
+supremacy. Statues and portraits of John Wilkes Booth glorify the assassin, and paints Booth as 
+
+an angel of American exceptionalism. Stain glass windows of Abraham Lincoln are coloured red 
+
+with the president donning devil horns; the opposing stain glass bathed in gold portraying 
+
+George Washington in saintly robes. Indigo and white star-spangled seals decorated the walls 
+
+and the floors of the establishment stating "Protecting our Race." In a voxophone recording 
+
+found in the parlor room of the establishment, Comstock states: 
+
+ 
+
+Ruest 8 
+
+And when the Angel Columbia gave unto the Founders the tools to build the 
+
+new Eden, they did so without hesitation. For 85 years, they prepared the way 
+
+of the Lord. But when the Great Apostate came, he brought war with him, and 
+
+the fields of Eden were soaked with the blood of brothers. The only 
+
+emancipation he had to offer was death. (Zachary Comstock, Comstock Center 
+
+Rooftops) 
+
+The Founders, the main political party in Columbia, act as the enforcers of the state; and the 
+
+Fraternal Order acts as the militia exerting political violence to the people. Under the guidance of 
+
+the Founders, the police, military, and the Order are under their control; militias and far-right 
+
+groups that operate externally to an extent in the pursuit of enforcing the hard ideologies of 
+
+Comstock's white supremacist agenda. As these groups try and maintain order in white society, 
+
+these groups attempt to undermine and control the spread of the revolution. The Vox Populi act 
+
+as the main enemy to the state. Starting as a revolution aimed at equality, the protests heated 
+
+where their new motive is to overthrow the xenophobic ideologies of Columbian society. The 
+
+Vox are organized by Daisy Fitzroy, a former indentured servant to Zachary Comstock and his 
+
+wife. Daisy utilizes the Vox Populi movement aims at subverting white supremacist narrative 
+
+through protest that ultimately accumulates into a violent uprising the player attempts to navigate 
+
+throughout the latter half of the game. The Founders using police, militias, and other means of 
+
+force, focus their duties on suppressing any uprising. Violence against the predominantly non-
+
+white proletariat and other forms of protest are identified through narratives from police non-
+
+player characters (NPCs) and advertisements around Columbia. As the player travels from the 
+
+Town Center to the Raffle Fair, the player comes across police banter focusing on the skyhook 
+
+tool that allows the player and NPCs alike to attach: 
+
+ 
+
+Ruest 9 
+
+Policeman 2: If we're going to flush the Vox out of the sky-line system, we 
+
+gotta have the best 
+
+Policeman 1: They got any openings in the group? I'd love to bust some Vox 
+
+Skull. (Policeman NPCs, Town Centre) 
+
+Violence is not only stated by characters; propaganda and other forms of pro-cop advertisements 
+
+fill Columbia's streets and buildings. In the heart of the racially and economically ghettoized 
+
+borough of Shantytown, Columbia police operate their impound and headquarters that organizes 
+
+information on the Vox Populi. Adoring the interior walls are the same seal stating "Protecting 
+
+Our Race," police employees house the same chests seen in the Order of the Raven clubhouse, 
+
+and posters citing the police as protection of "Faith, Wealth, and Racial Purity," (Bull House 
+
+Impound, BioShock: Infinite). Like that of other utopias, dividing the population and conquering 
+
+through fear and violence is utilized to suppress the populace’s ability to be persuaded against 
+
+the flock. Historically in the United States, the police were created not as a force to serve and 
+
+protect the population but as a means of control over slave populations (Durr 875. This ensures 
+
+that if any slave were to escape or begin rebellion, police at the behest of white property owners 
+
+could quell their property. What we begin to see in Trump's America is the use of "Law & 
+
+Order" to reinforce Trump's utopian narrative to suppress the marginalized while validating the 
+
+apparent stability of American utopia. In the summer of 2020, protests sparked across the United 
+
+States after multiple instances of police brutality and violence on African Americans were 
+
+documented and spread over social media. 3 police officers were fired after photos found them 
+
+jokingly posed in chokehold positions days after Elijah McCain died from chokehold injuries 
+
+after a violent arrest (Nieberg 2020); police violently break Black Lives Matter (BLM) protests 
+
+in DC for a photo-op of holding a bible in front of a church (Colvin & Superville 2020), and the 
+
+ 
+
+Ruest 10 
+
+largest police union supported Donald Trump as the Republican candidate for the 2020 election 
+
+riling suburban fears of “urban rioters” (Feuer 2020). Tensions reached a high point with the 
+
+Kenosha protests when 17-year old Kyle Rittenhouse shot protestors killing two after finding a 
+
+Facebook group titled "Any patriots willing to take up arms and defend our city tonight from evil 
+
+thugs" (Beckett et al, 2020). A proposed 'Blue Lives Matter" supporter, Rittenhouse’s along with 
+
+other far-right militia groups pick up the gun believing it was their duty to protest the United 
+
+States. It was this ideology that called upon whites to preach “Blood and Soil” in Charleston, SC 
+
+that resulted in a car plowing into anti-fascist counter-protests. When the Trumpian idea of 
+
+utopia is at risk, law & order is a beckon to protect the white ethnostate. Far-right groups act as 
+
+counter-protests buffer for the police, allowing divide and conquer tactics to weaken the protests 
+
+of Trumpian politics. The Police in ideological coordination act rather passively towards these 
+
+far-right groups as the social downfalls of going against police consensus surpasses the need to 
+
+suppress a far-right extremist group. Rather than providing a neutral ground to society, the police 
+
+join the Boogaloos and Proud Boys as counter-protesters against BLM like that of the Founders 
+
+corralling the police, the military, and the Fraternal Order against the Vox Populi. The police in 
+
+American society act as a cult for Trump and ultimately, they are ideologically parallel to the far-
+
+right groups seeking control and order. 
+
+ 
+
+Politics as a Game  
+
+Utopia: a "good" place that does not exist and may never exist becomes more real the 
+
+longer one begins to research the ideas that engineered this glasshouse. Like a game, politicians 
+
+such as Comstock and Trump divide and conquer by creating narratives that build the idea of 
+
+utopia not as a realization of making something great, but rather as a game of simulation. As 
+
+Comstock creates narratives within the population through propaganda and use of far-right 
+
+ 
+
+Ruest 11 
+
+militias and police, Trump weaves a narrative to his followers of dangerous protestors, foreign 
+
+intruders, and the hope that if his followers play into the idea of MAGA, the United States will 
+
+truly rise to be great again. Caillois identifies the simulation as a game of performance: 
+
+[The simulation] leads to the art of spectacle, which express and reflect a 
+
+culture. The individual anxiety and panic conquers man's discernment and will. 
+
+He becomes a prisoner of equivocal and exalting ecstasies which in the end 
+
+destroy him. (Caillois 78) 
+
+In the end, Comstock is defeated; he fails at obtaining his utopia; he is murdered, and the society 
+
+of Columbia falls into civil war. Society ultimately fails. Similar plot lines follow Trump as he 
+
+has lost the 2020 election; he has been removed by the people peering from outside the 
+
+simulation; he has been removed by a smaller amount who realized that they were trapped in the 
+
+simulation. However, while Trump may be leaving the position of Player 1 (The President), the 
+
+loyal followers that remain engaged in the simulation continue to fight for the chance to make 
+
+America great again… again. By studying other utopias like Disneyland, French literary critic 
+
+Louis Marin investigates the phantasm of “perfect realities.” The fantasy of the utopia is crafted 
+
+not just by an authority, but by the participant-performer's rhetoric; the participant’s behaviors 
+
+reinforce the rules and protocols of societal structures ultimately leading to moral decay (Marin 
+
+288). Therefore, BioShock: Infinite as a game not only acts as a model for far-right governments 
+
+and societies, but it acts as a metaphor of what American Idealism can become in the face of far-
+
+right demagogues and their willing participants. The simulation of America's greatness is a 
+
+narrative of mythology to recreate the nostalgic supremacist past. The underlying metaphor of 
+
+exceptionalism unravels in creating these degenerate utopias of Comstock's Columbia and 
+
+Trump's America. It is a metaphor that is a warning to the player that creating a utopia like a 
+
+ 
+
+Ruest 12 
+
+game relies less on the simulation of reality itself but the laws of the simulation dictated by the 
+
+participants within the game. Only until we look from outside the phantasm do we finally 
+
+understand the coercive nature of the symbols of utopia. Disneyland is but a castle from the 
+
+parking lot; Columbia is but a city in the sky; and Trump but a red hat. Only until one delves into 
+
+the narrative infrastructure does the ideological discourse transcend myth into reality. Therefore, 
+
+the political ideology and the discourse of Trump's America act like that of a game by allowing 
+
+the player to participate and play or watch from the sideline and experience the spectacle. Like 
+
+that of Columbia in BioShock, the game is never over. The game can be replayed. There can be 
+
+expanded content – Trumpian politics will be transformed in the next republican nominee and 
+
+expanded to net a wider voter pool to win the next election and rebirth the nation. There is 
+
+always another lighthouse and another reality as there is always another demagogue to fill the 
+
+legacy of Trumpian orthodoxy.  
+
+ 
+
+Will the Circle be Unbroken?  
+
+The United States has a political open wound; its blood is diseased triggering a septic 
+
+shock to American democracy. Like BioShock: Infinite, the participation of the population, the 
+
+policing of the state, and the leaders’ games themselves contribute to the circulation of societal 
+
+decay. Games as models to understand utopia and the politics that maintain the simulation's 
+
+illusions are useful ways to understand these intolerant societies and how the complexities of 
+
+American utopias begin to root and grow. A critical playthrough of BioShock: Infinite 
+
+illuminates Trump's ideas of utopia by comparison of these societies, police, militia groups, and 
+
+more; Flanagan states in their essay Critical Computer Games: 
+
+ 
+
+Ruest 13 
+
+Games are frameworks that designers can use to model the complexity of the 
+
+problems that face the world and make them easier for the players to 
+
+comprehend…In some cases, a game may provide the safest outlet available 
+
+for exploring devastating problems and conflicts (Flanagan 249) 
+
+The moral decay of society ultimately destroys Columbia, but the terminally ill America must 
+
+continue its battle with the intolerant left. How does one heal the open wound left open in the 
+
+United States? One might think that the election of President-Elect Joe Biden has resolved the 
+
+intolerant fascist. However, the intolerant fascist remains embedded like a tick in America's 
+
+body, and like a tick, one does not simply allow it to suck blood; it is a parasite. Philosopher Karl 
+
+Popper identifies the paradox of tolerance where unlimited tolerance assists in the dismantling of 
+
+tolerance; if a branch of the population preaches intolerance, that said population must not be 
+
+tolerated for the sake of an open and just society (Popper 548). For America to move forward, 
+
+the Trumpian view of America cannot be reconciled. It cannot be rehabilitated into a softcore 
+
+Republicanism the likes of what Diet Coke is to Classic. In the game, Elizabeth removes 
+
+American idealism at the root by removing Comstock's ability to exist. Is the United States' a 
+
+tolerant enough society to do the same by removing Trumpian politics from the political system? 
+
+In four years, the United States might fall to the same fate as the floating city, and like the game, 
+
+the American has the ball in their hand. Choose wisely, Americans.  
+
+ 
+
+ 
+
+Works Cited: 
+
+Ruest 14 
+
+@FoxNews, Fox News. “AG Jeff Sessions on Immigration Reform: ‘What Good Does It Do to 
+
+Bring in Somebody Who's Illiterate in Their Own Country, Has No Skills, & Is Going to 
+
+Struggle in Our Country & Not Be Successful? That Is Not What a Good Nation Should 
+
+Do, and We Need to Get Away from It." Pic.twitter.com/JwOBmbAG0P.” Twitter, 
+
+Twitter, 17 Jan. 2018, twitter.com/FoxNews/status/953441805873369089?s=20.  
+
+@realDonaldTrump, Donald J. Trump. “He Only Won in the Eyes of the FAKE NEWS MEDIA. 
+
+I Concede NOTHING! We Have a Long Way to Go. This Was a RIGGED ELECTION!” 
+
+Twitter, Twitter, 15 Nov. 2020, 
+
+twitter.com/realDonaldTrump/status/1327979630477922304?ref_src=twsrc%5Etfw%7Ctw
+
+camp%5Etweetembed%7Ctwterm%5E1327979630477922304%7Ctwgr%5E.  
+
+@realDonaldTrump, Donald J. Trump. “We Don't Want What Is Happening with Immigration in 
+
+Europe to Happen with Us!” Twitter, Twitter, 18 June 2018, 
+
+twitter.com/realDonaldTrump/status/1008696952559734787?s=20.  
+
+@SteveKingIA, Steve King. “Wilders Understands That Culture and Demographics Are Our 
+
+Destiny. We Can't Restore Our Civilization with Somebody Else's Babies. 
+
+Https://T.co/4nxLipafWO.” Twitter, Twitter, 12 Mar. 2017, 
+
+twitter.com/SteveKingIA/status/840980755236999169?s=20.  
+
+Beckett, Lois, et al. “Armed White Men Patrolling Kenosha Protests Organized on Facebook.” 
+
+The Guardian, Guardian News and Media, 26 Aug. 2020, www.theguardian.com/us-
+
+news/2020/aug/26/kenosha-militia-protest-shooting-facebook.  
+
+ 
+
+Ruest 15 
+
+Blumenthal, Paul, and JM Rieger. “This Stunningly Racist French Novel Is How Steve Bannon 
+
+Explains The World.” HuffPost Canada, HuffPost Canada, 6 Mar. 2017, 
+
+www.huffingtonpost.ca/entry/steve-bannon-camp-of-the-saints-
+
+immigration_n_58b75206e4b0284854b3dc03?ri18n=true.  
+
+Bump, Philip. “Analysis | Few of the Deaths Linked to Recent Protests Are Known to Have Been 
+
+Caused by Demonstrators.” The Washington Post, WP Company, 27 Aug. 2020, 
+
+www.washingtonpost.com/politics/2020/08/26/almost-none-deaths-linked-recent-protests-
+
+are-known-have-been-committed-by-protesters/.  
+
+Caillois, Roger, and Meyer Barash. Man, Play, and Games. University of Illinois Press, 2001.  
+
+Colvin, Jill, and Darlene Superville. “Tear Gas, Threats for Protesters before Trump Visits 
+
+Church.” AP NEWS, Associated Press, 2 June 2020, 
+
+apnews.com/article/15be4e293cdebe72c10304fe0ec668e4.  
+
+Durr, Marlese. “What Is the Difference between Slave Patrols and Modern Day Policing? 
+
+Institutional Violence in a Community of Color.” Critical Sociology, vol. 41, no. 6, 2015, 
+
+pp. 873–879., doi:10.1177/0896920515594766.  
+
+Federal Election Commission. “Federal Elections 2016.” FEC.gov, Dec. 2017, 
+
+www.fec.gov/introduction-campaign-finance/election-and-voting-information/federal-
+
+elections-2016/.  
+
+ 
+
+Ruest 16 
+
+Feuer, Alan. “How New York City's Police Unions Embraced Trump.” The New York Times, 
+
+The New York Times, 14 Sept. 2020, www.nytimes.com/2020/09/14/nyregion/ny-police-
+
+unions-racial-disparity-trump.html.  
+
+Flanagan, Mary. Critical Play: Radical Game Design. MIT Press, 2013.  
+
+Levine, Ken, and Adrian Murphy. BioShock: Infinite, Irrational Games, 2K Games, 26 Mar. 
+
+2013.  
+
+Major, Brenda, et al. “The Threat of Increasing Diversity: Why Many White Americans Support 
+
+Trump in the 2016 Presidential Election.” Group Processes & Intergroup Relations, vol. 
+
+21, no. 6, Sept. 2018, pp. 931–940, doi:10.1177/1368430216677304. 
+
+Marin, Louis. “Disneyland: A Degenerate Utopia.” Contemporary Literary Criticism: Literary 
+
+and Cultural Studies, by Robert Con Davis, Longman, 1996, pp. 284–295.  
+
+McGonigal, Jane. Reality Is Broken: Why Games Make Us Better and How They Can Change 
+
+the World. Penguin Press, 2011.  
+
+More, Thomas. “Utopia.” 1513. Google Books, Google, 
+
+books.google.ca/books/about/Utopia.html?id=DVhJAAAAYAAJ.  
+
+Myre, Greg. “Why The Government Can't Bring Terrorism Charges In Charlottesville.” NPR, 
+
+NPR, 14 Aug. 2017, www.npr.org/2017/08/14/543462676/why-the-govt-cant-bring-
+
+terrorism-charges-in-charlottesville.  
+
+ 
+
+Ruest 17 
+
+Nieberg, Patty. “Aurora Officers Fired for Reenacting Chokehold File Appeals.” AP NEWS, 
+
+Associated Press, 9 July 2020, apnews.com/article/90b251551125ea1f1d7f7a8fa97b8b02.  
+
+Popper, Karl. The Open Society and Its Enemies. Princeton University Press, 2020.  
+
+Riccardi, Nicholas. “Democrats Keep Winning the Popular Vote. That Worries Them.” AP 
+
+NEWS, Associated Press, 14 Nov. 2020, apnews.com/article/democrats-popular-vote-win-
+
+d6331f7e8b51d52582bb2d60e2a007ec.  
+
+Sargent, Lyman Tower. “The Necessity of Utopian Thinking: A Cross-National Perspective.” 
+
+Thinking Utopia Steps into Other Worlds, by Rüsen Jörn, Berghahn, 2007, pp. 1–14.  
+
+VinZant, Nick. “Scene inside a Tucson City Council Meeting. Officials Voted to Put a 
+
+‘Sanctuary City’ Measure on the November Ballot Pic.twitter.com/mEh4PNj0Wo.” 
+
+Twitter, Twitter, 7 Aug. 2019, twitter.com/NickVinZant/status/1158936728557633537.  
+
+Ward, Justin. “Day of the Trope: White Nationalist Memes Thrive on Reddit's r/The_Donald.” 
+
+Southern Poverty Law Center, 19 Apr. 2018, 
+
+www.splcenter.org/hatewatch/2018/04/19/day-trope-white-nationalist-memes-thrive-
+
+reddits-rthedonald.  
+
+ 
+
+ 
+
+Ruest 18 
+
+

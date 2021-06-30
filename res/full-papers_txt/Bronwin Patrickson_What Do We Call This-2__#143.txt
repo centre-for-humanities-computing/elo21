@@ -1,0 +1,389 @@
+What Do We Call This? 
+Dr. Bronwin Patrickson 
+ 
+INTRODUCTION 
+ 
+Between 2019 – 2020, The University of South Wales collaborated with a consortium of 
+creative commercial practitioners dubbed Fictioneers in a UKRI funded, Audience of the 
+Future Research and Development (R&D) demonstrator project designed to further develop 
+digital storytelling practice within the UK Creative Industries.  Working with the popular 
+Wallace and Gromit creative franchise, the consortium drew upon their combined skills in 
+games production, animation, creative marketing and new technology development to create 
+a location-based experience entitled Wallace & Gromit: Big Fix Up (Big Fix Up).  This 
+innovative addition to the popular Wallace & Gromit franchise is designed to propel new and 
+playful digital storytelling formats.   
+ 
+Big Fix Up is delivered via a central, enhanced mobile application.  The application presents 
+a pre-determined story, delivered via a rich tapestry of serialised, short multi-platform media 
+elements which include YouTube videos and comics, as well as augmented reality game-play 
+challenges.  Unlike traditional transmedia, where networked media might be distributed on 
+separate media platforms, the entire multi-media story is presented via the central mobile 
+application.   This offers a rich and variable experience, but also highlights the classification 
+challenges that genre-defying, emerging technologies can pose.   
+ 
+To discuss these challenges, as much as the creative opportunities of limited choice narratives 
+in digital media, I will first review the digital storytelling mechanisms of Big Fix Up, and 
+consider potential future developments within this style.   Following this, I will explore 
+whether any additional genre insights can be gained by also considering the distributed, and 
+collaborative Big Fix Up research and development process.   
+ 
+ENHANCED, DIGITAL STORYTELLING ACROSS MULTIPLE MEDIA 
+ 
+Choice driven, variable plot structures traditionally enable participants to make a range of 
+variable responses to story prompts, leading to a variety of potential outcomes, or plot 
+developments.   By requiring participants to choose between emotionally charged, competing 
+scenarios, for example, variable, branching narratives can prompt dramatic participatory 
+experiences.  The participatory capacity, or agency to make meaningful choices in an 
+unfolding experience is traditionally regarded as one of the great pleasures of digital 
+storytelling (Murray).   
+ 
+By contrast, the participatory choices available in Big Fix Up revolve around a variable 
+engagement with a pre-set news feed, linked to interactive game-play options.  The news feed 
+is made more dynamic because of the variety of media that it presents, as well as the story 
+progression it enables over time. These serialised transmedia storytelling strategies for 
+mobile phone delivery offered a way for Fictioneers to explore alternatives to branching tree 
+narrative structures.   
+ 
+Part of the motivation for this alternative approach was the risk of combinatorial explosion in 
+variable digital storytelling environments.  Branching tree narrative plot choice diagrams 
+which track the potential choices involved and their potential outcomes can multiply 
+exponentially, depending upon the number of scenarios available: 
+
+ 
+
+“ If you were going to write a story with ten choices, two options at each choice, 
+you would have to write 2^10 (which is 1024) branches. That’s a lot of writing. 
+Add one more choice to the game, and you have to write double that: 2048.” 
+(Nelson)  
+
+ 
+Aardman Animations limited, who produced the time-consuming animation content, as well 
+as the YouTube videos and digital comic media featured within the mobile application, were 
+keen to avoid this approach. 
+ 
+Established workarounds to help avoid combinatorial explosion include the provision of less 
+consequential choices, and interactions in-between fixed and pre-set plot development points 
+(sometimes called the foldback, or string of pearls approach).  In more complex versions, 
+those choices and plot developments are further modified by variables that can be tracked 
+through the course of a playful engagement like player skills, or chosen personality type, 
+morality ratings, status, resources, the world state, and NPC variables.  
+ 
+Whilst not the first digital storytelling innovation propelled by budget considerations, 
+Wallace & Gromit: Big Fix Up is one of the first to adapt this approach for augmented 
+mobile delivery.  Self-described as an augmented story Wallace & Gromit: Big Fix Up, 
+employs a somewhat similar approach to those outlined in the previous paragraph, in that it 
+offers interactive game-play options linked to a pre-determined plot. The plot is developed 
+via short, media elements that are optional to view and mimic social newsfeed posts that 
+update over time and mark the developing story, or event beats.    The unfolding variety of 
+media elements include animations, YouTube videos, and digital comics, alongside calls to 
+explore simulated environments and engage in augmented reality game-play options.  Only 
+Fictioneers can vary their order and availability of these updates, which are closely 
+networked via the central newsfeed.  Narrativized, augmented reality game-play options also 
+become available over time, linked to the developing story, and according to the player’s 
+resource inventory.   
+ 
+Even despite the inability to change the newsfeed beyond updating it, the application is still 
+complex.  Participants can pick and choose engagements with sequential media chunks that 
+are posted to the central feed.   These sorts of choices have limited influence on the unfolding 
+media, but the option to engage with some and not all posts support a sense of 
+personalisation.  The experience of complexity is also emphasised by the use of emerging 
+technologies within the experience, particularly the use of mobile augmented reality play 
+options, which often required extensive user guidance.  For many participants, the 
+combination of new and unfamiliar media  engagements, partnered with a chunked, 
+distributed story that unfolds across a variety of in-app media was novelty enough.   
+ 
+As audiences become more familiar with augmented mobile media, possible future 
+developments include even more affective interactions.  The scrolling twine story “Even 
+Cowgirls Bleed” (Love), for example, illustrates the kinaesthetic appeal of a rhythmic and 
+scrolling story progression (in this case, the hypertext clicks that both reveal and transform 
+the unfolding text).  Each click reveals a bit more of the unfolding story, enhanced by the odd 
+surprise, such as a novel and intense affect (the intense, click triggered sound of gunfire, and 
+appearance of bloodied text).  This approach supports an engaging participatory experience 
+even despite the lack of meaningful agency.   
+ 
+
+In a simulated social news feed environment, there is already a lot going on, but more 
+dynamic news feed possibilities include intermittent audio affects, and feed update 
+animations like spinning posts, such as those included in Alan Bigelow’s (2017) social media 
+styled narrative How To Rob A Bank.  Game elements might also potentially enable further 
+interaction, for example rewards that accumulate as more posts are read, or an optional story 
+recap window that also helps to flag important updates. 
+ 
+In follow on projects Fictioneers are exploring the ways that multi-perspective narratives, 
+told through the overlapping and potentially contradictory narrations of multiple characters 
+could also complement the chunked news feed plot progression.  This approach prompts 
+another alternative to the pleasure of agency, which is the pleasure of evaluation.  
+ 
+For example, participants in the interactive, video drama game Her Story (Barlow) are 
+directly cast as an investigator, required to piece together (through key-word search, for 
+example) a sometimes contradictory interview archive, recorded with the same suspect over 
+seven different occasions in order to evaluate the truth of the events in question.  In this  
+example the participatory choices affect the order of replay, as well as the context of the seen 
+media accessed as a result of the participant’s search strategy (as opposed to their dramatic 
+action choice). 
+ 
+Reflection and evaluation are linked to the process of learning and transformation.  The 
+enactment of multiple perspectives is a hallmark of process dramas (O'Neill and Lambert) for 
+this very reason, since these broader perspectives can prompt further reflection and challenge 
+narrow thinking.   
+ 
+In some game genres, the pleasures of evaluation inform strategy choices – and may also 
+involve ethical dilemmas to prompt deeper reflection.  The scrolling AlJazeera documentary 
+game Pirate Fishing indicates yet another way to introduce evaluative interaction into a single 
+scrolling story.   Participants are cast as trainee investigators who can help the pirate fishing 
+investigation team by evaluating and classifying media elements according to the type of 
+information provided (evidence, notes, or background information).  Story elements are 
+intermittently presented as a range of investigation points within a virtual representation of a 
+real-world environment, like drawers to be opened, but in the main, the Pirate Fishing 
+investigation unfolds as a single-story progression.  In process the participant gains rewards 
+such as badges, whilst the in-game investigate team rises to the challenge at hand. The value 
+of this sort of approach is that it links the participatory interaction directly with the evolving 
+events.  There are also numerous ways to evolve these sorts of participatory rewards, for 
+example by rewarding participants with tools and insights that can be used in further game-
+play challenges, and trigger engaging results when enough are collected. 
+ 
+As these numerous examples indicate, there are captivating alternatives, and adjustments to 
+branching tree plot structures, many of which involve genre hybridity.  These alternatives 
+emphasise the importance of a dynamic storytelling experience, as much as a dynamic text.  
+Beyond the need to make that experience engaging, Fictioneers also faced another challenge: 
+How to describe this media rich, playful augmented mobile digital storytelling experience to 
+potential audiences? 
+ 
+ 
+ 
+ 
+
+THE CHALLENGE TO DEFINE HYBRID MEDIA  
+ 
+That this analysis of the narrative design considerations for a multimodal augmented mobile 
+storytelling experience is as relevant to the electronic literature conference, as it might be to a 
+number of conferences in other discourse specialisms reflects the hybridity, and complexity 
+of digital convergence.   
+ 
+In many ways we are living in what could be called a fuzzy genre era.  For example, 
+optimum writing styles traditionally vary across platforms.  Audio-visual media thrives on 
+conversational style scripts, whilst print is ideally suited to more detailed and potentially 
+subjective texts, and digital native texts privilege potentially dynamic networks and data-
+enhancements.  Yet, at the same time, digital storytelling productions like Big Fix Up are 
+increasingly convergent, and feature multiple media.  In the case of Big Fix Up the optimum 
+text was informed by the platform: mobile screens are small and reading is also difficult 
+whilst moving, so text is likely to be condensed and mimic a type of captioning, or 
+navigational function, supplemented by audio-visual media written in a more conversational 
+style. 
+ 
+Convergent texts are being transformed by the media that contextualise them and this sort of 
+transformation can be hard to categorize.  As the producers of Wallace & Gromit: Big Fix Up 
+explained to me, the lack of categories were hard to promote at times, since there was no 
+established, or definitive way to describe this sort of experience, and few frameworks to 
+evaluate it. 
+ 
+
+“It's very difficult to describe the project. You can't say it succinctly … I am 
+learning to say it's an interactive, immersive storytelling experience realized 
+through augmented reality on your phone. That's the fastest way of saying it. But 
+even that doesn't sort of bring in the transmedia, etc…”  
+(Edward Russell, Fictioneers producer) 
+ 
+
+In the Big Fix Up app, the game-play evolves on linked, but nevertheless separate tabs within 
+the app.  These tabs point to upcoming jobs, as well as an inventory of acquired gadgets. 
+These gadgets are visually and textually located within the story that is unfolding in the news 
+stream.  Participants are cast as employees of Wallace and Gromit’s company, 
+Spic’n’Spanners, which embroils them in all sorts of mischief playing out in the feed.  They 
+need to take an AR call from Wallace as part of their induction, for example, and bust their 
+employers out of an evil trap when the drama intensifies. 
+ 
+The mix of story and game-play within the Wallace & Gromit: Big Fix Up app confused 
+audiences at times.  Susan and Lee Cummings of Tiny Rebel Games, two of Fictioneers’ 
+founding partners and co-writers of the application found themselves constantly needing 
+explain to people that the application was not a game. 
+ 
+
+“(F)or some reason, everyone thinks it's a game. And we have to go through this 
+process with everyone that comes on a project.” 
+ 
+
+Apple, for example, wasn’t sure at first where to place the app in their online store. 
+Fictioneers were keen to ensure it wasn’t in the gaming section.  The app includes game-play, 
+participants are invited to place augmented contraptions in their real-world environment and 
+interact with them, but these playful challenges are designed to support the primary story..   
+
+ 
+
+“Yes, it’s slightly a game right there. (There are) interactive loops, you build 
+things, you collect things, you do things to get rewarded for that. So that's a 
+game.  It passes all the systems of the game, but it’s not supposed to be…this 
+was (intended to be) very light and understandable” (Lee Cummings). 
+
+ 
+Alternative classifications like digital story-telling or electronic literature are helpful, since 
+they can delineate interactive and narrativized experiences from other more traditional media 
+encounters, including video game-play.    
+ 
+Big Fix Up included both story and game-play.  Even though Fictioneers sought to prioritise 
+the story, the hybridity of the results posed as much of a challenge as an opportunity.  
+Describing the experience as a game is problematic, since in the case of Big Fix Up that 
+would set up expectations of a very different type of interaction than the story driven 
+experience that this application sought to deliver.  The augmented game-play was generally a 
+beloved aspect of the Big Fix Up experience, although a few participants who were expecting 
+more classic gameplay challenges, complained that it was a boring game.  This is a risk of 
+hybrid productions, which can delight, as well as challenge expectations.  With few 
+alternative terms on hand to describe the Big Fix Up app, the phrase augmented story, has 
+been used on the app store, but the app is also much more than a story.  Narrative frameworks 
+such as characterisation, pace and tone are relevant to projects like Wallace & Gromit: Big 
+Fix Up, but they may not capture all the elements that audiences encounter in real time, for 
+example, like appeal, curiosity, surprise, challenge, enchantment or affect, which imply a 
+type of unfolding drama. The phrase digital storytelling experience, is also an open-ended 
+concept that can be hard to pin-point.  Two participants can experience the same event in an 
+entirely different way, for example.   
+ 
+In the past I have argued that we need a new term to define the sorts of hybrid engagements 
+evolving somewhere between storytelling, games, playfulness, and sociality (Patrickson).  As 
+yet however, as the Big Fix Up experience reflects, the continually reinvented landscape of 
+mobile  augmented  digital  storytelling  experiences,  is  almost,  but  not  quite  described  by  a 
+number  of  terms  including  augmented  story,  digital  storytelling  experience,  electronic 
+literature, interactive fiction, or story-game.  In the next section I discuss the value and evolving 
+nature of hybrid, way-marker terms that reference specific media like literature, or games.   I 
+also explore whether any further genre insights can be gained through a consideration of the 
+interplay of technology and creativity that shaped the Big Fix Up experience.   
+ 
+The collaborative process of making a mobile augmented storytelling experience 
+ 
+One of the strongest takeaways I have from my own involvement in the Big Fix Up R&D 
+process as the USW Research Fellow for Impact and Evaluation was just how integral the 
+emerging technology components (augmented reality and mobile delivery, for example) 
+became to the end product.  Augmented reality technologies, for example, offer dynamic, 
+enhanced tracking and visualisation opportunities, whilst also demanding strict file-size 
+constraints, comprehensive audience testing and extensive cross-disciplinary collaboration.    
+The Big Fix Up story is one aspect of a complex, distributed application.  In many ways the 
+story, and application design enact bridges between technologies and their potential 
+audiences.   
+ 
+
+This observation supports arguments for the importance of platform studies (Bogost and 
+Montfort), yet it is equally essential to keep in mind that these are ultimately experiential, 
+emergent texts (Sicart).  Whilst there may be potential theoretical tensions between platform 
+media studies and experiential media interaction paradigms, it may also be worth noting that 
+the team developing Big Fix Up embraced both concepts.  User experience design and user 
+testing were integral to the R&D process, for example. 
+
+Fictioneers’ combined commercial identity was the result of a merger of three separate founder 
+businesses, that were each already established and situated in the same south west region of 
+the United Kingdom, linking Cardiff and Bristol: 1) Tiny Rebel Games, an independent games 
+production company 2) Potato, a technical development company and 3) Sugar Creative, a 
+digital  design  team.    The  consortium  was  relatively  small,  employing  under  fifty  multi-
+disciplinary,  creative  digital  technology  workers.    Aardman  animations,  who  licensed  the 
+Wallace  &  Gromit  IP  were  also  active,  and  influential  agents  within  the  R&D  process.  
+Together with Tiny Rebel Games, members of the Aardman team designed the delivery model 
+and co-wrote the evolving multi-modal story.  Aardman also produced the animated shorts, 
+YouTube  videos  and  digital  comics  for  the  app.    The  funder  UKRI  (UK  Research  and 
+Innovation), also placed a number of fundamental conditions upon the grant award, such as the 
+requirement that Fictioneer’s work with a known IP, and that the initial release be available to 
+the public without charge.   
+
+In other words, right from the start this was a distributed creative R&D process that required 
+the  co-ordination  of  a  wide  range  of  inter-disciplinary  skill-sets,  personalities  and  work 
+cultures.    People  working  on  the  project  included  storytellers,  animators,  game  designers, 
+graphic  designers,  user  experience  designers,  art  asset  creators,  interactive  environment 
+creators, back-end engineers, mobile application developers, producers and brand managers.  
+
+In order to document and evaluate the research and development (R&D) process I interviewed 
+the team and also joined morning stand-up meetings, progress reviews and team socials over 
+many months. During the Wallace & Gromit: Big Fix Up R&D process it was readily apparent 
+that  the  team  understood  that  their  desire  to  prioritise  the  story  introduced  unique 
+considerations.  When decisions needed to be made about what aspects could potentially be cut 
+in order to help manage budget and time restraints, for example, those decisions also had to be 
+weighed against the need to tell a coherent story.  The need for coherence was a constant 
+consideration and one that was regularly tested, and retested with potential users.  This co-
+ordinated  approach  also  situated  participants  as  additional  collaborators  within  the  R&D 
+process  by  emphasizing  regular  experimentation  through  early  prototyping  and  in-depth 
+testing.  Yet, emerging technology development opportunities were equally influential. 
+
+As Mulligan (2014) points out complex problems just as often require networked solutions, 
+such as whole team collaborations, and extended periods of technology capacity research.  For 
+Fictioneers, this co-ordination was enhanced by a key decision early in the R&D project to 
+merge aspects of their separate businesses within this project and consciously work to evolve 
+their own new, and united identity: Fictioneers.  This effort required a proactive program of 
+managerial appointments, team building, supported by team coaches, identity envisioning, and 
+extensive collaborative encouragements.  With all that in place, Fictioneers emerged to drive a 
+unified digital storytelling vision. 
+ 
+In terms of the challenge to explain distributed and fluid convergent, augmented, digital mobile 
+storytelling  experiences,  double  barrel  terms  like  interactive  fiction,  interactive  narrative, 
+
+digital  storytelling,  and  indeed  electronic  literature  are  important  way-markers,  linked  to 
+equally defining audience cultures.   In a fluid field of possibility, these way-marker signals 
+help  to  emphasise  literary,  and  storytelling  aspects  within  the  infinitely  variable,  potential 
+unfolding of a text, or application, or experience.  Even more definitive, or nuanced sub-genre 
+monikers may yet emerge, but perhaps over time the way-marker terms are themselves also 
+being redefined to the point that they also capture the hybrid spaces beyond the text itself. 
+ 
+In an exploration of the possible applications of scientific complexity paradigms to the field of 
+narratology,  literary theorist John Pier (2017) concluded that complexity is a useful lens for 
+narrative studies, since narrative is inherently complex.  Nevertheless, he rejects the suggestion 
+that there should be a new field of complex narrative studies, since as he points out, the term 
+complexity merely restates the problem, and doesn’t help to clarify the definition: 
+ 
+
+“Complexity manifests and configures itself in different ways according to the field 
+concerned,  and  for  this  reason  its  theorisation  and  analysis  must  be  adapted 
+accordingly” (Pier: 560).   
+
+ 
+Whilst this is true, at the same time in order to better understand the ways that hybrid digital 
+storytelling experiences work it also helps to directly grapple with those complexities, such as 
+the need for way-markers, the importance of sub-genres within the field, and the emergent 
+nature of any engagement with an electronic text, as much as the text itself.   
+ 
+A convergent augmented mobile storytelling experience like Wallace & Gromit: Big Fix Up, 
+involves so many emergent hybridities that in the end, Fictioneers came to the conclusion that 
+they would need to be their own defining example within the space.   
+ 
+
+“(S)uccess will look like being able to talk about it from its name and people 
+knowing exactly what it is.” Edward Russell, Fictioneers producer. 
+ 
+
+Fictioneers continue to pursue this goal. 
+
+ 
+ 
+
+Author. "Her Story." Publisher, 2015. Web. 
+New Media as Material Constraint: An Introduction to Platform Studies. Electronic 
+
+Techtonics: Thinking at the Interface. Proceedings of the First International HASTAC 
+Conference. 2007. Print. 
+
+Love, Christine. "Even Cowgirls Bleed."  2013. Web. 3.5.18. 
+Murray, Janet Hamlet on the Holodeck: The Future of Narrative in Cyberspace. MIT press, 
+
+Nelson, Paul. "Designing Branching Narrative." The Story Element. Paul Nelson 2015. Web. 
+
+1997. Print. 
+
+3.5.20. 
+
+O'Neill, Cecily, and Alan Lambert. Drama Structures: A Practical Handbook for Teachers. 
+
+Nelson Thornes, 1982. Print. 
+
+Plai: Staged Encounters in Computer-Mediated Environments. Proceedings of the Sixth 
+
+Australasian Conference on Interactive Entertainment. 2009. Print. 
+
+Pier, John. "Complexity: A Paradigm for Narrative?" Emerging Vectors of Narratology. Ed. 
+
+Per Krogh Hansen, John Pier, Philippe Roussin, Wolf Schmid. Per Krogh Hansen,  
+
+Roussin, Philippe 
+
+Schmid, Wolf eds. ed. Vol. Narratologia 57. Berlin and Boston: De Gruyter, 2017. 533 - 65. 
+
+Sicart, Miguel. "Against Procedurality." Game studies 11.3 (2011): 209. Print. 
+
+Print. 
+
+ 
+
+

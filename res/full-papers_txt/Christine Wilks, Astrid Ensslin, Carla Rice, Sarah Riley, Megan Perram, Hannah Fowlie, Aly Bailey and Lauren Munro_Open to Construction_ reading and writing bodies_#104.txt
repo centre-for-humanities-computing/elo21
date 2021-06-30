@@ -1,0 +1,560 @@
+ 
+
+ 
+
+Open to Construction: reading and writing bodies in 
+
+digital fiction and the open web platform 
+
+Christine Wilks, Astrid Ensslin, Carla Rice, Sarah Riley, Megan Perram, Hannah 
+
+Fowlie, Lauren Munro and Aly Bailey 
+
+ 
+ 
+Drawing parallels between the open web platform and the open way a fictional body 
+can be constructed from a text, this paper explores the creative and ethical 
+strategies employed in the creation of a feminist interactive digital fiction for body 
+image narrative therapy, advocacy and plurality by the Writing New Bodies project. 
+Following a period of feminist participatory action research, the results of which 
+have been published in the electronic book review (Ensslin et al. 2020), we are now 
+at production stage and Christine Wilks is currently developing the digital fiction, 
+co-designed for a new form of interactive, body-non-specific bibliotherapy. 
+ 
+Background & the participant research 
+ 
+Body image concerns affect the well-being of a generation who are coming of age 
+immersed in digital culture. This is particularly true for young women and non-binary 
+individuals of diverse backgrounds who regularly confront appearance-related 
+pressures. Furthermore, the neoliberal dictates of postfeminism have pitted women 
+in competition with one another, creating a culture of distrust and division between 
+the more and less privileged sides of the postfeminist divide (Milne 2018; Rice 2014; 
+Gill 2007). The latter include women of colour, women from lower socio-economic 
+backgrounds, women with disabilities, queer women, non-binary, woman-
+identifying individuals, and any intersectional combinations they may represent. In 
+short, women’s bodies remain “a function of the social world’s inscriptions” 
+(Jennifer Scappettone 2007: 182; see Elizabeth Grosz). This effect is augmented by 
+our hypervisual, AI-infused, social and mobile media culture that privileges 
+unrealistic ‘ideal’, tall, thin, heteronormative, white, ‘able-’bodies in young women 
+and inadvertently leads to poor self-esteem, anxiety, overexercising, eating 
+disorders and/or worse (Hogue and Mills 2018 etc). 
+ 
+
+1 
+
+ 
+
+Writing New Bodies is an intercontinental project, funded by the Social Sciences 
+and Humanities Research Council of Canada (SSHRC IG 435-2018-1036; see 
+Ensslin et al. 2020). It brings together a team of transdisciplinary researchers in 
+theories of gender and the body, critical psychology, art and social justice, digital 
+media arts, electronic literature, narrative, and digital culture. Our goal is to critically 
+co-design and evaluate an interactive web app for body image narrative therapy 
+with and for our target group of women and non-binary individuals, aged 18-25, 
+from diverse intersectional backgrounds.  
+ 
+In order to create media art and literature that fosters self-compassion and positive 
+body-image in our target audience, a considerate, balanced and participant-
+informed approach is needed that takes into account the complex, multi-
+dimensional nature of affect in narrative media interaction. Equally importantly, it 
+needs to follow the principles of inclusive design (Clarkson et al. 2003), which 
+encourages equitable access - both materially (in terms of accessible technologies 
+and platforms) and psychologically (pertaining to users’ ability to self-project and 
+relate to media content in egalitarian ways). 
+  
+Methodologically, we are using a combination of Feminist Participatory Action 
+Research and Critical Community Co-Design. FPAR is a participatory and action-
+oriented conceptual and methodological framework that centers gendered power 
+dynamics and women’s experiences both theoretically and practically, aiming to 
+empower woman-identified individuals in a variety of ways. It enables a critical 
+understanding of multiple, intersectional perspectives. It works toward inclusion and 
+social change through participatory processes while exposing researchers’ own 
+biases and assumptions. Importantly, researchers and participants learn from each 
+other through iterations of critical reflection and re-design.  
+ 
+In spring 2019 we held four workshops in three Canadian locations, with a total of 
+21 participants. They engaged in a range of communicative activities, such as 
+reflective dialog, and free, auto-narrative writing (sometimes using third person to 
+talk about themselves at a narrative distance). Participants played digital body 
+fictions made by Wilks, as well as a range of Twine1 fictions, to get a feel for the 
+software and its storytelling options. They also wrote their own Twine stories as a 
+form of interventionist self-disclosure and as a hypertextual exploration of options 
+
+1 Twine is an open-source tool for telling interactive, nonlinear stories - https://twinery.org/ 
+
+ 
+
+2 
+
+ 
+
+they may not usually consciously consider as part of imagining their bodies and the 
+decisions they make about their embodied lives (we tested this therapeutic use of 
+Twine in one of our pilot studies, and it worked well for individual auto-narration - 
+see Ensslin et al., 2016). What turned out to be a key element of the workshops was 
+the fact that Wilks was present throughout and engaged with participants as artist, 
+co-facilitator, and software instructor. Her experience of working with our 
+participants turned out to be key to her ability to develop a co-designed digital 
+fiction. 
+ 
+From participant research to creative implementation 
+ 
+The participants raised a multitude of issues and themes that could, potentially, be 
+pursued in a digital fiction. Building on the information provided by participants, the 
+research team made connections within and across research sites through the 
+coding of the participant data, which included the transcribed audio recordings of 
+discussions and the participants' writings. In an attempt to transmute the resulting 
+diverse and manifold richness into a usable form for a digital fiction, Wilks mapped 
+the concerns and themes identified onto various feminist theories to see if a 
+configuration emerged that would lend itself to interactive storytelling. As a 
+structuring guide, she found Sandra Bartky's three categories of disciplinary 
+practice particularly useful: body size and shape; movement, gesture and posture; 
+and the body as ornamented surface. Following Foucault, Bartky argues that these 
+disciplinary practices produce “docile bodies” that are recognizably feminine 
+through the process of internalizing norms (1988). Judith Butler's notion of 
+performing gender identity (1997) also resonated with the participant data. In terms 
+of narrative content and the therapeutic brief, she looked for guidance from 
+evidence-based body image therapy methodologies (Cash, 2008; Grogan, 2016; 
+O’Connor et al. 2017; Orbach, 2019; Kite and Kite, 2020). Nevertheless, the 
+participants' own stories and memories offered the most fertile ground for the 
+creative fiction-making process. The coded transcriptions of the workshop 
+discussions provide valuable corroborating and amplifying support.  
+ 
+One thing was clear, the participants wanted to resist the pressures of our hyper-
+visual culture, which contributes to so much body dissatisfaction. Collectively, we 
+decided to avoid graphic, mimetic representations of the body. Therefore, there is 
+no avatar, the digital fiction is text-based but full of bodies constructed textually by 
+
+3 
+
+ 
+
+the reader-player from the dynamic onscreen lexia. 
+ 
+Narratives that require characters and short form narratives often work best with 
+only one protagonist. We had hoped that an idea of the main characters would 
+surface during the participant workshops but they offered such a vibrant mix of 
+voices, memories and stories that Wilks, regarding character as a representation of 
+viewpoint, came away pondering how to distill all these different points of view into 
+a single protagonist. Her first impulse was to propose a world of (four) stories, each 
+with a different body image theme. However, when she began working on what was 
+to be the first story, on the theme of body size and shape, more characters 
+emerged who began to interject with their own stories or viewpoints. Rather than 
+stick to her initial plan, Wilks allowed these stories to fold into and expand the main 
+story. Later, it struck her that this change was apposite because, in many ways, it 
+mirrored the social experience of the participant workshops. 
+ 
+Characters & the interactive narrative 
+ 
+The protagonist of the digital fiction, Jordan, has body image issues relating to her 
+size and shape, which become evident from her negative self-talk. The interactive 
+narrative traces Jordan's daily life - working, eating, commuting, interacting with 
+social media, socializing with friends, spending solitary time at home - a cycle that 
+repeats with variations. Throughout, Jordan struggles with competing internal and 
+external voices, influencing how she behaves, thinks and feels. During a key scene 
+at a house party with a group of friends, a mirror shatters and Jordan (erroneously) 
+feels responsible. The incident stimulates a collective sharing of body-image-related 
+observations, memories and feelings as the friends pick up the pieces. These story 
+fragments, speculations and arguments, that pierce, bespeckle, extend and 
+complicate the main narrative (not least because of the effect they have on Jordan), 
+were inspired by the personal stories and experiences shared during the participant 
+workshops. However, being fiction, Wilks inserted some other, more polarised, 
+voices and POVs for dramatic (and therapeutic) purposes. This assemblage 
+dramatizes the affective network of kinship of the participant workshops and, 
+because the narrative is interactive and choice-based, the network incorporates the 
+reader-player in a concrete way.  
+ 
+ 
+
+4 
+
+ 
+
+Dramatize is the operative word because, although text-based, there is no (global) 
+narrator, no single highest level speech position from which the whole narrative 
+discourse originates. All of the characters speak for themselves, like actors in a 
+play. In the case of the protagonist, her interior dialogue of conflicting hyper-critical 
+and more supportive voices (e.g. her Inner Critic and Inner Ally) is also dramatized. 
+Thus Jordan becomes “a posthuman collectivity, an ‘I’ transformed into the ‘we’ of 
+autonomous agents operating together to make a self” (Hayles, 1999, p. 6) and, 
+crucially, one of these agents is the reader-player. As an interactive protagonist, 
+Jordan is the character or point of view that the reader plays by making meaningful 
+choices on her behalf that, in a diegetic feedback loop, can affect her body image, 
+raising or lowering her levels of body dissatisfaction. This, in turn, affects narrative 
+progress. At these decision moments, the digital fictional character and the 
+engaged reader-player become one. For the purposes of this paper, we will call this 
+blended or entangled posthuman entity, the reader-playing-as-Jordan. Situating the 
+reader-player in the mind of the protagonist, may lead to enhanced empathic 
+identification and agency and, therefore, a more profoundly immersive (and 
+potentially transformative) experience. This process of “diegetic enactment” (Wilks 
+2020) is where we postulate the therapeutic value lies via an extradiegetic feedback 
+loop which may induce the reader-player to reflect upon, and perhaps subtly alter, 
+their own body image.  
+ 
+For instance, discussing non-interactive print fiction, Zunshine (2006) argues: 
+ 
+
+The cognitive rewards of reading fiction might thus be aligned with the 
+cognitive rewards of pretend play through a shared capacity to stimulate and 
+develop the imagination. It may mean that our enjoyment of fiction is 
+predicated--at least in part--upon our awareness of our "trying on" mental 
+states potentially available to us but at a given moment differing from our 
+own. (loc. 327) 
+
+ 
+If this is the case, it follows that the cognitive rewards may be even more powerful 
+in an interactive fiction that engages the reader-player in diegetic enactment, a 
+more active form of pretend play. The reader-playing-as-Jordan is not only 'trying 
+on' mental states but also 'trying on' various decision-making processes and 
+exploring their consequences for (further) mental states involving body image. In the 
+absence of a narrator, there is no higher authority to depend on or defer to, the 
+reader-player must rely on their own interpretive powers and use their own 
+
+5 
+
+ 
+
+judgement. Furthermore, some of the decision-making is also about taking action in 
+the world, such as engaging in feminist social activism, so the effect of 'trying on' 
+could be beneficial or enlightening (for want of a better word) in multiple ways. As a 
+branching narrative with a cyclic structure there is no win-lose end state in our 
+digital fiction, there are simply different consequences for different inclinations. If 
+they choose to cycle through other/more days in the life of the protagonist, the 
+reader-playing-as-Jordan may 'try on' the effects of different choices. 
+ 
+Narrative therapeutic benefits 
+ 
+The literature on body image problems and body dysmorphic disorders indicate that 
+cognitive behaviour therapy (CBT) approaches are amongst the most successful 
+therapies (Grogan, 2016; O’Connor et al. 2017). These involve some form of 
+questioning and challenging habitual thoughts or thinking patterns. In a text-based 
+interactive narrative with a therapeutic remit, where the reader-player has direct 
+access to the mind of the protagonist and some power to literally change her mind, 
+a CBT-inspired storytelling approach would seem to be a good fit. Afterall, as 
+Palmer argues, "narrative fiction is, in essence, the presentation of fictional mental 
+functioning" (2004, loc. 98). So, Wilks has taken CBT into account in both the form 
+and content of the narrative interaction. For example, Jordan experiments with 
+Mirror Exposure Therapy (a form of CBT). This was directly inspired by the many 
+references to mirrors in the participant data and one particular participant, who 
+wrote positively about their mirror exposure experience. However, because CBT 
+focuses on thought, it can reinforce the mind-body split, which we want to avoid. 
+Nor do we want to reduce the widespread problem of body dissatisfaction and the 
+responsibility for 'fixing' it to the individualised level. Hopefully, the intersectional 
+cast of characters, who from time to time engage in discussion around the broader 
+societal issues and offer casual or more politicized critiques of the effects of neo-
+liberal consumerism, will contextualise and expand the individual mind-centred 
+drama.  
+ 
+The narrative's cast of characters express a range of different experiences, 
+perceptions, thoughts and feelings about their bodies and the world they live in. To 
+a lesser or greater degree, all struggle or have struggled with body dissatisfaction. 
+Some characters' preoccupations, beliefs and attitudes tend to have detrimental 
+effects on body image, whilst others have healing or protective effects. For 
+
+6 
+
+ 
+
+example, some characters are ardent feminists and "[r]esearch has shown that 
+women who hold feminist attitudes to body image are more satisfied than those 
+who do not identify with feminist values" (Grogan, 2017, p. 189). The interplay of 
+Jordan's inner voices, her interactions with other characters and, on occasions, with 
+intrusive fictional marketing messages challenge the reader-playing-as-Jordan in 
+positive and negative ways. How normative or how empowering and liberating their 
+effect depends on the choices the reader-playing-as-Jordan makes. The nature of 
+the choices offered throughout the narrative include, not only decisions about what 
+to do but also, different ways they may choose to think or feel about the matter at 
+hand. In other words, many of the interactive choices woven through the narrative 
+dramatize situations and enact processes influenced by CBT methods. Meanwhile, 
+behind the scenes, the underlying ludonarrative program tracks the tendencies of 
+the reader-playing-as-Jordan towards more normative or more liberating and 
+empowering choices, and this affects the course they take through the branching 
+narrative. 
+ 
+
+Ludonarrative design and the docile body 
+ 
+The digital fiction is text-based but its visual language is equally important. Jordan, 
+the protagonist, is represented by an abstract curvilinear freeform shape, which 
+Wilks calls an 'organic' (when writing digitally, it is crucial to name entities so that 
+they can be addressed in/by code). Animation brings the organic to life, suggesting 
+some kind of embodied subjectivity, behaviour, bodily characteristics and/or 
+emotional responses. Abstraction leaves the organic open to interpretation and its 
+signification fluid. 
+ 
+Foucault's concept of the state's disciplinary power, which, through constant 
+surveillance and normalizing judgement, produces 'docile bodies', has directly 
+influenced Wilks' ludonarrative design. Specifically, an algorithm based on a 
+dynamic 'docility value' affects the morphing appearance and behaviour of the 
+organic. The higher the docility value, the more the organic conforms to a standard 
+symmetrical shape and its motion restricted by a restraining visible geometry. The 
+lower the docility value, the more freeform is the shape, the more liberated its 
+movement and the weaker the restricting geometry. The docility value is affected by 
+programmed narrative events and, crucially, the choices the reader-player makes, 
+who, in a feedback loop, is affected by visible changes in the organic. Furthermore, 
+
+7 
+
+ 
+
+the reader-player's choices contribute to an aggregate 'Docile-Body-Bearing' value 
+which helps steer a course through the cyclic structure of the non-linear narrative. 
+ 
+This docility-based algorithm is a neat way of designing a ludonarrative/playable 
+narrative, it seems fitting, but, at the same time, we are uneasy about the rule of a 
+bipolar numerical value. This inherent contradiction is an interesting analogy for the 
+very issues our project aims to address. As our participants intimated, we want to 
+resist normalization but recognise that we cannot completely escape it. We must 
+find ways of being in the world as it is, whilst also finding ways of making changes 
+in the world. However, we envisage that the power of narrative will have a far 
+stronger effect than an underlying algorithm, which, afterall, only assists in steering 
+the narrative, it doesn't determine the narrative content. The richness, complexity, 
+ambiguity and nuance of storytelling born out of the lived experiences of our 
+research participants will override a reductive binary system, rendering the digital 
+binary an ancillary rather than dominant element in our interactive narrative for 
+bibliotherapy. 
+ 
+The principle of minimal departure 
+ 
+If, as Possible Worlds narrative theory posits, the real world serves as a model for 
+the mental construction of textual fictional storyworlds, it follows that our 
+experience and knowledge of real bodies, including our own bodies, serve as a 
+model for the mental construction of textual fictional bodies. Unless a text draws 
+attention to the physical appearance of a fictional character, the reader will tend to 
+assume, according to Ryan's “principle of minimal departure” (1991), that their body 
+conforms to a familiar or generic norm (two eyes, two arms, two legs, etc.). 
+Potentially, due to the empathic identification induced through diegetic enactment, 
+the reader-player's own body model may fluidly interleave, superimpose or merge 
+with their mental construction of the protagonist’s body as they become the reader-
+playing-as-Jordan. Since there is no narratorial voice to authoritatively describe 
+Jordan's body and it is never depicted in mimetic visual form, how the reader-player 
+constructs Jordan's body is open to interpretation, open to (re)construction. 
+Jordan's negative self-talk describes her as fat, flabby and repulsive, but is that true 
+in the textual actual world or is it a distortion of her body image2? The reader-player 
+
+2 This is not to suggest that body dissatisfaction can be reduced to a simplistic binary of external 
+reality vs. internal distortion of reality. 
+
+ 
+
+8 
+
+ 
+
+may decide that Jordan's Inner Critic is not a reliable source of the textual actual 
+truth about her body and mentally construct her differently, perhaps, if they identify 
+strongly with her body image issues, empathically shaping her in their own self-
+image. But what happens if they do not identify strongly with Jordan's particular 
+body image issues? Since there is no mimetic visual nor authoritative objective 
+description to fix the reader-player's mental image, the reader-playing-as-Jordan 
+may construct a shape-shifting body, drawn from a pooling or mingling of their 
+knowledge and experience of other bodies, which may include (if not default to) 
+normative concepts of the hegemonic standard body (white, middle-class, able-
+bodied).  
+ 
+However, during the course of the narrative, the reader-player may decide that what 
+Jordan's body looks like is less important than how she thinks and feels and 
+behaves in her body. Or that she is “more than a body” (Kite and Kite, 2021). This is 
+the narrative's aim and its openness is a deliberate strategy to make the 
+bibliotherapeutic benefits and socio-political commitments of the work as fluid and 
+widely accessible as possible. We will not know if the strategy is successful until we 
+get feedback from reader-players but, when creating an interactive narrative for 
+bibliotherapy, it is necessary to hypothesize how the reader-playing-as-Jordan may 
+become embodied in the liminality between storyworld and 'real' world because 
+such considerations affect the narrative and ludonarrative design. 
+ 
+Openness & accessibility 
+ 
+In a work that prioritises inclusive design and equitable access on both the 
+psychological and material level, another primary concern is the accessibility of the 
+technological medium and platform of delivery/distribution. According to the World 
+Wide Web Foundation, the web is "a global public good and a basic right" (2021, 
+para. 2). It is built on open standards developed and maintained by the World Wide 
+Web Consortium (W3C), whose mission is to make the benefits of the web 
+"available to all people, whatever their hardware, software, network infrastructure, 
+native language, culture, geographical location, or physical or mental ability" (2021, 
+para. 4). These aims are compatible with those of our project (although our remit is 
+narrower, the digital fiction springs from a specific cultural background and we 
+don't have the resources to offer it in multiple languages). Therefore, with 
+accessibility in mind, and because our participants told us they preferred using 
+
+9 
+
+ 
+
+smartphones and tablets, we chose to build the digital fiction on and for the open 
+web platform using a mobile-first, responsive web design approach for the greatest 
+reach. The aim is to provide a good user experience at all screen sizes and 
+combinations of hardware and network capabilities, starting with small screens and 
+adding enhancements that further enrich the user experience as the screen size 
+and/or technological capabilities increase. Equally important, the digital fiction web 
+app complies with ARIA3 standards to make it more accessible to people with a 
+diverse range of abilities and disabilities. 
+ 
+Open access is an important, guiding principle for our project but it also resonates 
+with our aims and the content and nature of the creative work on a deeper level. In 
+recent years, there has been increasing anxiety about the openness of the web 
+being "under attack" (Mozilla, 2019, para. 1; also see Treviranus, 2018; Surman, 
+2018). For example, Behrenshausen worries about a "future without an open Web... 
+in which people are... beholden to those with the power to determine what everyone 
+reads, studies, watches, and says... It’s a future in which people can’t engage in 
+basic interactions without first releasing details about their identities to multiple 
+stakeholders capable of tracking their activities and tailoring their potential views of 
+the world" (2018, para. 16). Compare this with Bartky's discussion of Foucault's 
+notion of bodies subjected to disciplinary practices: "This production of 'docile 
+bodies' requires that an uninterrupted coercion be directed to the very processes of 
+bodily activity, not just their result; this 'microphysics of power' fragments and 
+partitions the body's time, its space, and its movements." (Bartky, 1988, p.130). The 
+latter could be equally apt as a description of the subtly coercive effects of social 
+media platforms, which Behrenshausen describes as "'walled gardens': beautifully 
+manicured and maintained (but nevertheless cordoned and closed) environments" 
+(2018, para. 12), which, in turn, brings to mind the grooming regimens and 
+behaviour precepts that aim to produce 'docile' feminine bodies. It is no surprise, 
+then, that the big tech platforms that want to lock us in to proprietary systems are 
+amongst the most prolific purveyors of imagery and messaging that contribute to 
+body dissatisfaction in young people (Aparicio-Martinez et al. 2019; de Vries et al. 
+2019). Whilst it is important to challenge and resist oppressive messaging from 
+within the social media platforms, it is also important to resist their dominance and 
+control by offering content on and encouraging use of the open web.   
+ 
+
+3 Accessible Rich Internet Applications (see MDN Contributors, 2021). 
+
+ 
+
+10 
+
+ 
+
+Concluding thoughts 
+ 
+Both the refusal to visually represent a (female-gendered or sexed-coded) body in a 
+digital fiction and the refusal to use proprietary closed platforms, therefore, 
+represent a form of resistance to the normative forces of cultural hegemony within 
+neoliberalism. In this context, choosing the open web platform is a feminist strategy 
+that pragmatically and aesthetically underpins the concerns of our digital fiction, 
+where the body is relatively open to (re)construction rather than defined and limited 
+by the restrictive norms and unattainable ideals commonly found in digital media 
+representations of bodies. 
+ 
+ 
+References 
+ 
+Aparicio-Martinez, P. et al. (2019) ‘Social Media, Thin-Ideal, Body Dissatisfaction 
+and Disordered Eating Attitudes: An Exploratory Analysis’, International Journal of 
+Environmental Research and Public Health, 16(21). doi: 10.3390/ijerph16214177. 
+
+Bartky, S. L. (1988) ‘Foucault, Femininity, and the Modernization of Patriarchal 
+Power’, in Conboy, K., Medina, N., and Stanbury, S. (eds) Writing on the Body: 
+Female Embodiment and Feminist Theory, pp. 90–110. 
+
+Behrenshausen, B. (2018) ‘What is the open web?’, Year of Open, November. 
+Available at: https://www.yearofopen.org/november-open-perspective-what-is-
+open-web/what-is-the-open-web-bryan-behrenshausen-writer-and-editor-red-hat/ 
+(Accessed: 6 January 2021). 
+
+Butler, J. (1997) ‘Performative Acts and Gender Constitution’, in Conboy, K., 
+Medina, N., and Stanbury, S. (eds) Writing on the Body: Female Embodiment and 
+Feminist Theory. New York: Columbia University Press. 
+
+Cash, T. (2008) The Body Image Workbook: An Eight-Step Program for Learning to 
+Like Your Looks. 2Rev Ed Edition. U.S.: New Harbinger Publications. 
+
+Clarkson, J. (2003) Inclusive design: design for the whole population. London; New 
+York: Springer. 
+
+Ensslin, A. et al. (2020) ‘“These Waves …:” Writing New Bodies for Applied E-
+
+11 
+
+ 
+
+literature Studies | electronic book review’, electronic book review, 5 April. Available 
+at: https://electronicbookreview.com/essay/these-waves-writing-new-bodies-for-
+applied-e-literature-studies/ (Accessed: 13 May 2020). 
+
+Ensslin, A. et al. (2016) ‘Exploring digital fiction as a tool for teenage body image 
+bibliotherapy’, Digital Creativity, 27(3), pp. 177–195. doi: 
+10.1080/14626268.2016.1210646. 
+
+Gill, R. (2007) ‘Postfeminist media culture: Elements of a sensibility’, European 
+Journal of Cultural Studies, 10, p. 20. 
+
+Grogan, S. (2016) Body Image: Understanding Body Dissatisfaction in Men, Women 
+and Children. 3 edition. Routledge. 
+
+Hayles, N. K. (1999) How We Became Posthuman: Virtual Bodies in Cybernetics, 
+Literature, and Informatics. 74th edition. Chicago, Ill: University of Chicago Press. 
+
+Hogue, J. V. and Mills, J. S. (2019) ‘The effects of active social media engagement 
+with peers on body image in young women’, Body Image, 28, pp. 1–5. doi: 
+10.1016/j.bodyim.2018.11.002. 
+
+Kite, Lexie and Kite, Lindsay (2020) More Than a Body: Your Body Is an Instrument, 
+Not an Ornament. Houghton Mifflin Harcourt. 
+
+MDN Contributors (2021) ARIA - Accessibility | MDN, MDN Web Docs. Available at: 
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA (Accessed: 29 
+April 2021). 
+
+Mozilla (2019) Understand the issue, The Internet Health Report 2019. Available at: 
+https://internethealthreport.org/2019/understand-the-issue-openness/ (Accessed: 7 
+January 2021). 
+
+O’Connor, A., Callaghan, L. and Catchpole, C. (2017) Body Image Problems and 
+Body Dysmorphic Disorder: The Definitive Treatment and Recvoery Approach: The 
+Definitive Treatment and Recovery Approach. 2nd ed. Edition. Pulling the Trigger. 
+
+Orbach, S. (2019) Bodies. Profile Books. 
+
+Palmer, A. (2004) Fictional Minds. University of Nebraska Press. 
+
+Rice, C. (2014) Becoming Women: The Embodied Self in Image Culture. University 
+
+12 
+
+ 
+
+of Toronto Press. 
+
+Ryan, M.-L. (1991) Possible Worlds, Artificial Intelligence and Narrative Theory. 1st 
+Edition. Bloomington: Indiana University Press. 
+
+Scappettone, J. (2007) ‘Response to Jennifer Ashton Bachelorettes, Even: Strategic 
+Embodiment in Contemporary Experimentalism by Women’, Modern Philology, 
+105(1), pp. 178–184. doi: 10.1086/587206. 
+
+Surman, M. (2018) ‘What is the open web and why is it important?’, Year of Open, 
+November. Available at: https://www.yearofopen.org/november-open-perspective-
+what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-
+mark-surman-executive-director-of-the-mozilla-foundation/ (Accessed: 6 January 
+2021). 
+
+Treviranus, J. (2018) The Open Web: A view from the edge. (November Open 
+Perspective: What is Open Web?). Available at: 
+https://www.yearofopen.org/november-open-perspective-what-is-open-web/ 
+(Accessed: 7 January 2021). 
+
+de Vries, D. A., Vossen, H. G. M. and van der Kolk – van der Boom, P. (2019) ‘Social 
+Media and Body Dissatisfaction: Investigating the Attenuating Role of Positive 
+Parent–Adolescent Relationships’, Journal of Youth and Adolescence, 48(3), pp. 
+527–536. doi: 10.1007/s10964-018-0956-9. 
+
+Wilks, C. (2020) Stitched Up in The Conversengine: Using Expressive Processing 
+and Multimodal Languages to Create a Character-Driven Interactive Digital Narrative. 
+PhD. Bath Spa University. 
+
+World Wide Web Consortium (2021) W3C Mission, W3C. Available at: 
+https://www.w3.org/Consortium/mission (Accessed: 14 April 2021). 
+
+World Wide Web Foundation (2021) Sir Tim Berners-Lee, World Wide Web 
+Foundation. Available at: https://webfoundation.org/about/sir-tim-berners-lee/ 
+(Accessed: 29 April 2021). 
+
+Zunshine, L. Z. L. (2006) Why We Read Fiction: Theory of the Mind and the Novel. 
+Columbus: Ohio State University Press. 
+ 
+
+13 
+
+

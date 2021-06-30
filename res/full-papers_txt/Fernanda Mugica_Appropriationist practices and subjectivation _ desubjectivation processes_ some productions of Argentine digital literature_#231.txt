@@ -1,0 +1,782 @@
+Appropriationist Practices and Processes of De/Subjectivation: Charly.gr, Matías 
+
+Buonfrate and C0d3 P03try in the age of algorithmic governance 
+
+ 
+
+ 
+
+Fernanda Mugica  
+Translator: Danny Fitzgerald 
+
+Introduction 
+
+ 
+In  the  final  section  of  his  book  (spam)  (2011),  called  “Oldie  Games”,  the 
+
+ 
+
+Argentine writer charly.gr, pseudonym of Carlos Gradín, brings together a miscellany of 
+
+short texts ranging from a quote by Deleuze to the comments section of a forum devoted 
+
+to “MIRAMAR EN LOS 90’S”, as well as the words for clapping rhymes along the lines 
+
+of “Patty Cake” or “Miss Suzy”: “Miss Suzie had a steamboat. / The steamboat had a bell. 
+
+/ Miss Suzie went to heaven. / The steamboat went to . . .” In the book’s “Disclaimer”, 
+
+charly.gr makes clear that “Oldie Games”, unlike the rest of the texts, was not generated 
+
+by Google Search: “no particular phrases were looked up, and the search engine wasn’t 
+
+even used in each case” (2011, p. 73). Still, it remains illustrative of the dynamic running 
+
+through the book as a whole: a series of fragments – whether quotes or the author’s own 
+
+annotations – are stripped of their original context and set to play off each other.  
+
+The fragments in “Oldie Games” recall phrases left hanging for others to finish or 
+
+writing  abandoned  mid-sentence,  as  Hemingway  advised,  so  that  tomorrow  we’ll  be 
+
+moved to take up the pen once more. The fragments speak of the desire for a commanding 
+
+god who would do our reading for us, the desire for someone else to pick up our words 
+
+where we left off. Indeed, they present the curious image of Saint Augustin going over 
+
+his  codices  and  coming  to  the  conclusion  that  “only  when  scripture  has  become 
+
+indispensable to the final draft of his life story” will the long struggle with his faith have 
+
+been resolved. Feeling that those passages understand him better than he does himself, 
+
+Augustin “can no longer evoke even a second of his past without his own words weaving 
+
+in verses from the Bible, as if they had been written for him to discover, sooner or later” 
+
+(p. 67). 
+
+The fragments in “Oldie games”, then, present lines that project their own endings 
+
+or are taken up by others in an operation that – we think – tells us something about our 
+
+own  times,  about  our  culture  of  algorithms,  something  about  the  waves  of  language 
+
+constantly rolling in to finish our sentences for us – with barely a click, and often even 
+
+without. I’m thinking of everything that speaks for us, in our name, all those suggested 
+
+phrases that cheerfully save us the trouble of forming our own and substitute instead the 
+
+algorithm’s statistically-informed guess. 
+
+ 
+
+Digital Poetry and Algorithmic Control 
+
+The forerunner to (spam) was charly.gr’s “Peronismo (spam)”, from 2010, a visual 
+
+poem that combines music and text. The writer used the freeware Time-Based Text, which 
+
+captures the time taken to write each word and transmits it as additional information, as 
+
+well  as  saving  and  reproducing  every  input  and  deletion.  The  text  itself  redeploys  the 
+
+results  of  a  Google  search  of  the  phrase  “El  Peronismo  es  como…”  [“Peronism  is 
+
+like…”]. It scrolls past quickly, vertiginously so, as is the wont of readers geared to the 
+
+frenetic pace of the web, and matches the rhythm of the music. The piece flashes past in 
+
+six  minutes  and  is  programmed  to  loop back  once  the  cycle  is  complete.  Some  of  the 
+
+results Gradín includes give the authors’ names, but not all. It’s impossible to determine 
+
+to how much of the poem has been shaped by the search algorithm and how much by the 
+
+author’s own criteria. Data processing and the poet’s choices operate simultaneously on 
+
+voices that  are addressable as  text  in the extremely diverse pages Gradín  has  accessed 
+
+automatically. 
+
+In “No poseas un miedo” (2020), Matías Buonfrate uses texts by Donna Haraway 
+
+to generate a visual poem where the words themselves are cut short, to be rounded off by 
+
+someone or something else ("something that never startswilled / thalwaysnev /  wasasllbe 
+
+starting") New words take shape that shake up the familiar morphology of our language 
+
+and yet remain perfectly legible. Like Gradín’s, this poem captures or simulates writing 
+
+in real time, letter by letter. Buonfrate’s starting point is a Markov chain; he takes texts 
+
+as a succession of words, a stochastic process of discrete states where the probability of 
+
+the following state depends exclusively on the one immediately preceding it, rather than 
+
+the sum of  the whole preceding chain. Next, with the transition matrix established, he 
+
+introduces a “starter seed”, a word or a phrase from which the text will grow as a function 
+
+of the probability of its appearance in the text it draws on. That is to say, the “something 
+
+else” let in to complete the lines is Haraway’s text reduced to raw data and subjected to 
+
+statistical  analysis.  The  opening  line  is  left  hanging,  giving  rise  to  chance  –  but  not 
+
+entirely since it depends on the previous state in “a process without memory, where the 
+
+past is irrelevant” (Remirez 2013). Then, according to the author, comes “a great deal of 
+
+manual editing. Back and forth from mouse to program until a distinct tone emerges.” As 
+
+in “Peronismo (spam)”, it’s hard to determine how much in the elaboration of the poem 
+
+comes from the author’s decisions and how much from the combinations thrown up by 
+
+the algorithm. In the words of Leonardo Solaas, what we’re seeing in these instances is 
+
+“a kind of creative collaboration between the artist and the automaton.” 
+
+In “Poner cuerpo en palabras”, the duo cod3 P03try also work with the words of 
+
+others  –  this  time  by  the  Argentine  poet  Francisco  López  Merino  –  and  make  use  of 
+
+Markov chains to form new versions. They then run these versions through Hydra, which 
+
+manipulates  the  words’  visual  texture,  before  generating  sound  samples  using 
+
+TidalCycles, in both cases through live coding, a type of programming that combines the 
+
+use of algorithms with improvisation in real time. The writing process is made visible by 
+
+projecting the code on the screen. The Merino piece was performed on March 9, 2019 as 
+
+part of the exhibition "Brotes II", which took place at the Pasaje Lopez Merino, in the city 
+
+of La Plata, and brought together more than seventy artists. With computers  sitting on 
+
+stacks of old books - surrounded by books -, the artists played back robot-voiced samples 
+
+of the new phrases generated by the Markov algorithm. At the same time, the texts became 
+
+visual material: as well as the code, fragments of the poems appeared on screen bending 
+
+and twisting eccentrically, as if in 3-D, given that the artists were really – and in real time 
+
+– playing with the plasticity of words. 
+
+While the technical aspect of these works is certainly arresting, it could be argued 
+
+that this focus on the materiality of sound and graphics is also common in contemporary 
+
+experimental analogue poetry. Yet these works are grounded in a materiality specific to 
+
+the digital sphere; it’s not just that they work with other people texts but that they do so 
+
+by means of probabilistic algorithms. While these may be more apparent in the works of 
+
+Buonfrate and c0d3 P03try, they are no less remarkable in "Peronism (spam)" given that 
+
+among the multiple readings the poem allows is how Google manoeuvres and manages 
+
+the vast archive of texts available on the web. 
+
+The works under discussion here suggest a different approach to these algorithms 
+
+and make clear that the answer we are looking for is not always  a function of a word’s 
+
+statistical prevalence; that there is a place for the multiple – as in Gradín's poem – as well 
+
+as  for  the  ambivalent  and  the  ambiguous  –  as  in  Buonfrate’s  –  ;  that  some  forgotten 
+
+poems, like those of López Merino, can return to say other things and in other voices. 
+
+And they do so by using those same algorithms, thus affirming that playing otherwise is 
+
+possible  after  all,  that  we  can  jugar  en  contra  (Kozak  2011)  or  counter  the  whole 
+
+apparatus bent on autocompleting our thoughts or presenting itself as the only possible 
+
+answer to our searches. By making algorithms visible, by showing that they are in fact 
+
+working – even when their precise workings elude us –, these works question some of the 
+
+naturalized  behaviours  and  hegemonic  meanings  of  digital  culture.  In  Kozak’s  words, 
+
+making this kind of materiality visible – as ways of being with materiality – invites us to 
+
+question what it means to think of the digital sphere as a culture of “users” (2019a, p. 74). 
+
+How these pieces work with the algorithm’s modes of being and doing is what interests 
+
+me here, and it is what has led me to pose the question regarding subjective processes in 
+
+the age of algorithmic governance. 
+
+My hypothesis is that the productions that make up this corpus facilitate possible 
+
+displacements or lines of flight with respect to standardized modes of de/subjectivation. 
+
+In the general process of virtualization of subjects and their signifying practices (Da Porta, 
+
+Tabachnik  2019),  I  contend  that  these  appropriationist  digital  productions  give  rise  to 
+
+mediated  subjectivities,  halfway  between  the  human  and  the  machine,  mediums 
+
+spectralized by their diversified commerce with technology. In the double movement of 
+
+these practices, which give voice to others and, at the same time, waive their own power 
+
+of  expression,  we  can  read  -  in  addition  to  questioning  notions  of  ownership  and 
+
+authorship - a deviation with respect to digital culture’s hegemonic meanings. That is, an 
+
+operation  of  withdrawal  with  respect  to  the  binary  logics  of  techno-linguistic 
+
+standardization and the segmentation of profiles, which tend to reduce subjectivity to that 
+
+which can be “recorded as data” (Kozak 2019b, p. 12) and, so, can be quantified by the 
+
+probabilistic  algorithms  that  constantly  finish  our  sentences  for  us  and  foreclose  our 
+
+searches. In the poetic works considered here, this subtraction instead opens a space for 
+
+that which has yet to be determined. 
+
+Given the eccentric conception of the literary in these works, with literature placed 
+
+outside  itself,  what  can  be  said  of  the  place  of  the  subjective?  Before  hazarding  any 
+
+possible answers, we must look at some of the characteristics of the hegemonic modes of 
+
+de/subjectivation that have become naturalized.  
+
+ 
+
+Algorithmic Governance and Processes of De/Subjectivation 
+
+In 
+
+their 
+
+article 
+
+“Gouvernementalité 
+
+algorithmique 
+
+et 
+
+ 
+perspectives 
+
+d’émancipation…” (2013), Antoinette Rouvroy and Thomas Berns analyze the ways in 
+
+which  data  collection  and  processing,  and  its  subsequent  use  in  predicting  individual 
+
+behavior, hinder and block any process of subjectivation. According to the authors, this 
+
+data  functions  as  digital  “footprints”  that  we  leave,  often  involuntarily,  since  all  our 
+
+movements are being recorded - data stripped of all context and meaning, which we don’t 
+
+give too much thought to sharing since it’s perfectly nondescript and, after all, remains 
+
+anonymous.  Yet  from  the  automated  processing  of  this  data,  subtle  correlations  and 
+
+statistical  knowledge  emerge  –  free  from  prior hypotheses,  human  intervention or  any 
+
+“subjectivity” whatsoever. Now what “does not fit the average” is no longer excluded, as 
+
+was the case with heyday of statistics; rather, the aim is “to avoid the unpredictable” and 
+
+ensure that all data, no matter how insignificant, has a basis in fact.  
+
+According to Rouvroy & Berns, the apparent individualization of statistics, which 
+
+is really nothing more than a segmentation of profiles based on market segmentations, 
+
+leads to a progressive disappearance of the instances of subjectivation. Whatever capacity 
+
+individuals may have for understanding, will or expression, these qualities no longer play 
+
+into how they are apprehended by power – only their profiles. Algorithmic governance 
+
+does not produce subjectivation; it is indifferent to any human reflexivity since it takes in 
+
+infra-individual data in order to shape supra-individual models of behavior, or profiles, 
+
+without ever appealing to a subject, without ever requiring we account for ourselves or 
+
+what we might become. The moment of reflexivity, critique and recalcitrance necessary 
+
+for  the  formation  of  subjectification  seems  to  become  ever  more  taxing  or  is  just 
+
+postponed (174). In other words, rather than respecting individual  desires, this type of 
+
+governance appears to be based on the automatic detection of certain propensities in order 
+
+to  trigger  actions  as  reflex  responses  to  stimuli.  This  automatic  detection  aims  at 
+
+producing a kind of short-circuit in individual reflexivity that impedes the formulation of 
+
+singular desires. Rouvroy & Berns refer to actions that occur without prior formulation 
+
+of a desire, thus making algorithmic governance “the culmination of a dispersal of the 
+
+spatial, temporal and linguistic conditions of subjectification and individuation, based on 
+
+the objective, operational regulation of possible behaviours from the outset” (176). All 
+
+based  on  “raw  data”,  meaningless  in  itself,  but  which,  when  approached  statistically, 
+
+seeks to accelerate flows and avoid any possible deviation – or subjective reflexive pause 
+
+– between stimuli and reflex responses (177).  
+
+These ideas regarding the obturation of subjective processes echo with works that 
+
+engage probability algorithms on their own terms, that expose their workings or use them 
+
+as tools, skewing them for alternate ends. I am thinking of the Markov chains generated 
+
+in  the  works  of  Buonfrate  and  c0d3  P03try,  with  their  stochastic  processes  where  the 
+
+appearance of a word or a morpheme depends only on the previous state, or on the Google 
+
+search algorithm that is the protagonist in Gradín’s poem. I’m thinking of the sentences 
+
+cut short in "Oldie games", waiting for someone or something to round them off, of all 
+
+the automatic detections and reflex responses that come together in these works. I’m also 
+
+thinking of the fact that here we have a series of digital experiments that, far from the 
+
+romantic  notion  of  creative  genius,  do  not  express  any  subjectivity,  do  not  reflect 
+
+experience, and in no way arise as the manifestation of any authorial interiority. On the 
+
+contrary, the writer cedes control to a process that is, in part, alien to her will, embracing 
+
+chance, based on the set of rules by which the poem unfolds (Solaas: 2018). 
+
+What  can  we  say  about  the  processes  of  subjectivation  in  these  works?  Is  it  a 
+
+question of subjectivities that refuse to make everything about themselves “available” and 
+
+instead  incorporate  the  voices  of  others?  In  this  vein,  Cristina  Rivera  Garza’s  idea  of 
+
+“disappropriation” might be useful since she proposes that, in addition to appropriating 
+
+other people's words, these practices imply dispossessing oneself of any control over one's 
+
+own.  One  might  wonder,  then,  if  the  artists  that  make  up  our  corpus  really  dissociate 
+
+themselves from their words and even their name, or if what is produced merely reassigns 
+
+the figure of the "creative genius" from the writer to the programmer (Goldsmith 2011). 
+
+Faced with subjective hyperproduction, faced with the ways digital processing operates - 
+
+metabolizing,  according  to  Sibilia,  vital  forces  “with  an  unprecedented  voracity, 
+
+relentlessly thrusting new subjectivities on the market” (2005, p. 28) -, do these voices 
+
+simply decide to withdraw? Is that all? While there may be some truth to this at the level 
+
+of the authorial gesture, what is interesting about these practices is how they assume that 
+
+the work of algorithmic governance is not interested in either the subject or individuals. 
+
+While  I’m  aware  that  neither  appropriationism  nor  works  based  on  systems  of 
+
+rules are novelties in the history of art and literature, I believe that the specificity of the 
+
+digital  medium  confers  new  meanings.  These  are  productions  that  cut  and  mix,  that 
+
+combine  and recombine  material  reality,  in  the  context  of  the  current  configuration of 
+
+language  in  semio-capitalism,  that  is,  in  a  context  that  translates  everything  into 
+
+“recombinant information” (Berardi 2018). Questioning  subjectivity  in this  framework 
+
+implies asking oneself, along with Rivera Garza, if this incapacity to produce other than 
+
+on the basis of what already exists cannot also be read as the incapacity to think of oneself 
+
+except as  the emphatically other. When we say  “half-way”  subjectivities,  then,  we are 
+
+referring not only to the dialogue acted out between human and machine, but also to the 
+
+incompleteness inherent to lines left hanging so as to leave room for the words of others, 
+
+so as to let themselves be rounded off by the algorithm’s autocomplete. In this sense, I 
+
+wonder  if  it  is  possible  to  think  in  terms  of  “mixed”  subjectivities,  as  well  as  spectral 
+
+ones, where discrete fragments of the voices of others take the place of one’s own, calling 
+
+it into question. Although works like these have been seen as symptoms  of the artists’ 
+
+inability to grab hold of and give voice to the world around them, I am more concerned 
+
+with their productive nature, insofar as they rework the materials they come across and 
+
+proliferate disparate couplings and correlations 
+
+In her analysis of 1990s Argentine poetry, Tamara Kamenszain speaks of a self 
+
+that seems “about to shed its role as the custodian of experience” and that “lets others 
+
+share in its acontecer, or ongoing” (1). She sees certain poems as clips or as windows, 
+
+where  the  self  is  punctuated  by  the  comings-and-goings  of  shadowy  “others”. 
+
+Kamenszain reads the mark of a disappearance, the self in the form of "what is no longer 
+
+there", because there is no longer a lyrical self to shape an intimist poetical image on the 
+
+page. What particular forms of that absence, of what’s no longer there, can be read in the 
+
+digital poetry we’ve been discussing? Any hypothetical self might well be punctuated by 
+
+these  others,  but  it,  too,  would  be  worked  over  by  an  algorithm,  by  the  possibility  of 
+
+certain combinations of words occurring, or not, according to statistical norms. 
+
+In  the  poems  analyzed  by  Kamenszain,  perceiving  an  absence  remains  a 
+
+possibility;  in  the  poems  that  make  up  our  corpus,  however,  that  space  appears  to  be 
+
+sealed. Where the lyrical self would be, all we find is automated predictions of virtuality, 
+
+laying bare floating signs of linguistic abstraction, not rooted in any subject or subjective 
+
+experience. Statistical manipulation heads off any moment of reflexion, prompting reflex 
+
+responses, calcified in artificial memory, with a rhythm similar – and yet so different - to 
+
+the one that leads us to fill in what’s missing when we listen, for example, to the rhyming 
+
+songs of our childhood, like those recovered by Gradín in "Oldie games". 
+
+ 
+
+A Few Questions and Partial Conclusions  
+
+In  times  of  algorithmic  governance,  is  there  a  place  for  emancipated  forms  of 
+
+individuation? Having posed this question, Rouvroy & Berns answer with another: what 
+
+happens when we are linked only to ourselves, when relationality is "no longer 'physically 
+
+inhabited' by otherness"? Under algorithmic governance, every subject is - they affirm - 
+
+in  itself  a  multitude,  but  it  is  multiple  without  alterity,  fragmented  into  a  number  of 
+
+profiles  related  to  its  propensities,  desires,  opportunities  and  risks.  The  works  in  our 
+
+corpus  insist  on  highlighting  the power  that  a  probabilistic  algorithm  can  extract  from 
+
+something as miniscule as a search result or a phrase that  autocompletes itself and, so, 
+
+exert on the kind of relationship we have with the world. A type of relationship that, in 
+
+the  words  of  Rouvroy  &  Berns,  is  not  conducive  to  transindividual  individuation 
+
+processes  –  those  that  amount  to  "neither  I  nor we,  but  designate  the  processes  of  co-
+
+individualization  of  the  'I'  and  'we'  producing  social  reality,  that  is,  associated 
+
+environments  in  which  meanings  form",  in  Simondon's  terms.  On  the  contrary,  they 
+
+foreclose the possibilities of such transindividual individuations, folding the individuation 
+
+processes back onto the subjective monad (185). 
+
+The works in our corpus render probability algorithms visible; highlighting their 
+
+materiality, they work with them from the inside. But, in addition, they put the focus on 
+
+language  itself,  coming  at  the  written  word  from  unexpected,  marginal  and  eccentric 
+
+angles. In Buonfrate, for example, verbs conjugate in several tenses at once or apply to 
+
+more than one subject, depending on one's reading, leading us to stop and go back over 
+
+the words, to engage in a multiple reading as opposed to a sequential one - something a 
+
+machine would be hard-pressed to do. From the subversive use of Markov chains fed with 
+
+Haraway's  texts  comes  a  poem  that  seems  written  to  pre-empt  machine  reading; 
+
+depending  on  the  scansion,  two  tenses,  or  two  subjects,  are  affirmed  simultaneously, 
+
+states before which the binary logic of the machine would have to choose, and lead to an 
+
+error pinging up on screen. In this algorithmically-generated poem, Buonfrate seems to 
+
+argue that the possible is not always contained in the actual, that  there are becomings-
+
+with that give rise to other worlds. 
+
+c0d3  p03try  also  redeploy  phrases  eccentrically,  in  this  case  the  poetry  of 
+
+Francisco López Merino, leading us to look at them afresh. Between  Hydra’s distorted 
+
+visuals and TidalCycles’ dissonant, robotic samples, López Merino's verses speak anew 
+
+and lead us to pause on the various modes of being words take on in the digital medium. 
+
+Remnants of words and proper names and, at the same time, ways of insisting on those 
+
+same  words  and  names.  Remnants,  also,  as  words  of  the  "unruly  dead"  Rivera  Garza 
+
+refers to, which, nevertheless, come to life in live coding, in being there, in the presence 
+
+of bodies, in the putting into evidence of a doing-through-code that implies a real  and 
+
+shared time.  
+
+Using Google searches, Gradín does summon that otherness, that disparity that, 
+
+according  to  Rouvroy  &  Berns,  algorithmic  governance  seeks  to  avoid.  "Peronism 
+
+(spam)" is a text that gives rise to excess, to the multiplicity of voices that a word can 
+
+draw in, making clear that there is no one way for the sentence to end, that there is room 
+
+for the other, for heterogeneity. In this sense, it disrupts standardized meanings and frees 
+
+itself from techno-linguistic automatism by engaging with it. 
+
+Ultimately, these productions make a point of leaving a sentence hanging in order 
+
+to  go  back  over  the  word  itself  instead  of  the  reflex  response  of  instantaneous 
+
+autocomplete, which folds back on itself. They  do so by  maintaining that  "remnant  of 
+
+incompleteness" that, as Kozak asserts, becomes problematic in a programmed world. In 
+
+this way, they withdraw – at least for an instant and from places literature rarely ventures 
+
+– from the naturalized modes of machinic slavery (Guattari 1980) in order to affirm that 
+
+there is room for manoeuvre after all, that, even in this environment, spaces remain for 
+
+becomings-with through the poetic voice. Thus, they find disruptive ways of being with 
+
+machines, and question automation: they produce difference as opposed to the blocking 
+
+mechanism that, through probabilistic algorithms, generates everything that finishes our 
+
+sentences for us - for if all our sentences are set to autocomplete, the desire to give voice 
+
+may not stir again tomorrow. 
+
+How can we find spaces of subjectivation, other ways of being with  machines, 
+
+programs and algorithms? The experiments of Gradín, Buonfrate and c0d3 P03try offer 
+
+a glimpse, perhaps, of a way out, or at least nod towards the pressing need to find one. 
+
+Their technopoetic/technopolitical practices problematize the specificity of the subject by 
+
+highlighting  how  we’re  rewritten  by  the  words  of  others,  while  the  wealth  of 
+
+experimentation insists that other modes of appropriation are possible, that not everything 
+
+can be reduced to a statistical estimate, that poetry and art remain – even today - spaces 
+
+of subjectivation not anchored exclusively in the human; that algorithmic literature, too, 
+
+can bring forth world; that there are different ways of saying, of reading, of listening, and 
+
+of abiding in the middle of a sentence. 
+
+ 
+
+Sources  
+
+Buonfrate,  M. 
+
+(2020). 
+
+“No 
+
+poseas 
+
+un  miedo”.  Disponible 
+
+en: 
+
+https://www.instagram.com/tv/CD9dRlCgBx9/?utm_source=ig_web_copy_link 
+
+C0d3  P03try 
+
+(2019). 
+
+“Poner 
+
+el 
+
+cuerpo 
+
+en  palabras”.  Disponible 
+
+en: 
+
+https://rapo.bandcamp.com/album/c0d3-p03try-palacio-l-pez-merino 
+
+ 
+
+(no  hay 
+
+registro de las visuales) 
+
+Gradín, C. “Peronismo (spam)” (2010). Disponible en: http://peronismo.atspace.cc/ 
+
+ 
+
+References 
+
+ 
+
+Berardi, F. (2018). Fenomenología del fin. Sensibilidad y mutación conectiva, traducción 
+
+de Alejandra López Gabrielidis. Buenos Aires, Caja Negra.  
+
+Da Porta, E. & Tabachnik, S. (2019). “Escrituras virtuales y subjetivación. Los nuevos 
+
+escribientes de la red” en Heterotopías Vol II, N° 3, pp. 1-10. 
+
+Garramuño,  F.  (2015).  Mundos  en  común:  ensayos  sobre  la  inespecificidad  del  arte. 
+
+Buenos Aires, Fondo de Cultura Económica. 
+
+Goldsmith, K. (2011). Escritura no-creativa. Gestionando el lenguaje en la era digital, 
+
+traducido por Alan Page. Buenos Aires, Caja Negra. 
+
+Gradín, C. (2011). (spam). Buenos Aires, Ediciones Stanton.  
+
+Guattari, 
+
+F. 
+
+(1980). 
+
+“Présentation 
+
+du 
+
+seminaire”.  Disponible 
+
+en: 
+
+https://web.archive.org/web/20081116053749/https://www.revue-
+
+chimeres.fr/drupal_chimeres/files/801209.pdf 
+
+Kamenszain,  T.  (2007).  La  boca  del  testimonio.  Lo  que  dice  la  poesía.  Buenos  Aires, 
+
+Norma.  
+
+Kaufman, A. (2007). “Imaginarios, lecturas, prácticas”. La biblioteca, núm. 6, pp. 76-83. 
+
+Kozak, C. (2011). “Tecno-poesía experimental y políticas del acontecimiento”. Actas del 
+
+Seminario Internacional Ludión/Paragraphe, pp. 53-63. 
+
+---. (2019a). “Poéticas/Políticas de la materialidad en la poesía digital latinoamericana”. 
+
+Perífrasis. Revista de Literatura, Teoría y Crítica, 20, pp. 71-93. Universidad de 
+
+los Andes, Bogotá, Colombia.  
+
+---.  (2019b).  “Derivas  literarias  digitales:  (des)  encuentros  entre  experimentalismo  y 
+
+flujos culturales masivos”. Heterotopías, Revista del Área de Estudios Críticos del 
+
+Discurso,  pp.  1-24.  Escuela  de  Letras,  Facultad  de  Filosofía  y  Humanidades, 
+
+Universidad Nacional de Córdoba.  
+
+---. (2019). Seguir con el problema. Generar parentesco en el Chthuluceno, traducción 
+
+de Helen Torres. Bilbao, Editorial Consonni. 
+
+Perloff, M. (2010). Unoriginal genius. Chicago, The University of Chicago Press. 
+
+Remírez, F. (2013). “Generación de textos por cadenas de Markov” en Biblumliteraria. 
+
+http://biblumliteraria.blogspot.com/2013/05/generacion-de-textos-por-cadenas-
+
+de.html 
+
+Rivera  Garza,  C.  (2013)  Los  muertos  indóciles.  Necroescrituras  y  desapropiación. 
+
+México: Tusquets.  
+
+Rouvroy,  A.  & Bernss,  T.  (2013).  “Algorithmic  governmentality  and  prospects  of 
+
+emancipation:  Disparateness  as  a  precondition  for 
+
+individuation 
+
+through 
+
+relationships?”. Réseaux, 1(1), 163-196. https://doi.org/10.3917/res.177.0163 
+
+Sibilia, P. (2005). El hombre postorgánico. Cuerpo, subjetividad y tecnologías digitales. 
+
+Buenos Aires, Fondo de Cultura Económica.  
+
+Simondon,  G.  (2009).  La  individuación:  a  la  luz  de  las  nociones  de  forma  y  de 
+
+información, traducción de Pablo Ires. Buenos Aires, La cebra/Cactus. 
+
+Solaas, L. (2018). “Autómatas creadores: los sistemas generativos en el cruce del arte y 
+
+la 
+
+tecnología”. 
+
+Medium. 
+
+Disponible 
+
+en: 
+
+https://medium.com/@solaas/aut%C3%B3matas-creadores-los-sistemas-
+
+generativos-en-el-cruce-del-arte-y-la-tecnolog%C3%ADa-f6d36dc1edd5. 
+
+Striphas, T. (2015). “Algorithmic culture”. European Journal of Cultural Studies, Vol. 
+
+18(4-5), pp. 395-412. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+

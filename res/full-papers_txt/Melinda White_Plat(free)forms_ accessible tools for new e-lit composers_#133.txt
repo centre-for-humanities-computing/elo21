@@ -1,0 +1,619 @@
+Melinda M. White  
+ELO 2021: Platform (Post?) Pandemic 
+ 
+ 
+ 
+
+ 
+
+Plat(free)forms: accessible tools for new e-lit composers  
+
+“In a participatory medium, immersion implies learning to swim, to do the things that the new 
+
+environment makes possible.” -Janet Murray, Hamlet on the Holodeck 
+
+ 
+For new “digital swimmers,” or those just dipping their toes into the pool for a semester or two, 
+complicated (and expensive) technology and skill sets can sometimes hinder creative 
+expression. As Davin Heckman argues, professors should “work diligently to create places in the 
+curriculum that can include electronic literature as a standalone subject or part of a dynamic 
+portfolio of rhetorical, computational, and/or aesthetic practices that make sense within a 
+broader educational setting” (277). In addition to introducing students to electronic literature 
+and multimodal writing, my goal as a teacher of digital creative writing, is to get students to 
+“listen to their broccoli” (follow their intuition), as Anne Lamott suggests (110), and express 
+their unique voices through multiple modes. As Troy Hicks expresses in Crafting Digital Writing: 
+Composing Texts Across Media and Genres: 
+ 
+
+I want to see our “digital generation” live up to their potential as conscientious 
+citizens and creative producers of text in all forms. Sure, they can post status 
+updates quicker than most of us adults can pull out our phones. Yet inviting 
+them to be intentional about the craft of digital writing is perhaps the best way 
+to help them realize their potential in academic, social, political, and community 
+contexts. When we talk and teach thoughtfully about the elements of digital 
+writing—words, images, sounds, videos, links, and other media elements—we 
+are helping them be purposeful and, in turn, helping them be creative (19). 
+ 
+
+Many assume that digital writing is natural for “digital natives,” but this is often a new, and 
+sometimes intimidating, way of writing for them. By utilizing software that is accessible on their 
+own computers and easy to navigate, students are less intimidated—free to create and focus 
+on writing/composing. Although all software has its limitations, I’m seeing some wonderfully 
+creative and thoughtful projects from my students. Particularly during Covid, I find students are 
+writing more about their identities, mental health, social justice issues, and human connection.  
+ 
+My digital creative writing courses are all “open education resource” (OER). “The Hewlett 
+Foundation defines OER as ‘teaching, learning, and research resources that reside in the public 
+domain or have been released under an intellectual property license that permits their free use 
+and re-purposing by others” (as quoted by Bliss and Smith 12). OER isn’t new, it’s been around 
+for nearly 20 years, but it can be a challenge, even in a digital course, to find all the readings 
+and materials available online or to post PDFs without copyright infringement. In addition, I 
+have been working to find open-source software for students to compose with. In the past, I 
+
+White  1 
+
+have relied heavily on the Adobe Creative Suite in my courses, which for my students is 
+accessible and “free” on campus, so I let it slide for the OER course. Because it’s familiar to me, 
+provides a blank canvas for design, and allows me to avoid teaching HTML coding, I have mainly 
+taught Dreamweaver for hypertext projects. I have also always tried to incorporate free 
+software options—Twine, Google Maps, and Knightlab storytelling tools—but found myself 
+expanding these options even more this past year. With the spring 2020 pivot online, Adobe 
+was not quite as easy to access (although the free subscriptions they offered were appreciated 
+by several of my students) and students in the fall wanted to use their own computers and not 
+those in the lab, understandably. Between my writing and e-lit courses, we explored Google 
+Earth, Scene, and ThingLink for 360° work, and relied mostly on Twine and ThingLink for 
+hypertext projects.  
+ 
+MAPS (introducing multimedia (& nonlinearity)) 
+I have always used map essays in my introductory courses as they are a simple way to introduce 
+nonlinear narratives and fragmentation. The more straightforward interface allows students to 
+open up to these concepts while still having control over the order of the narrative—a perfect 
+medium for place and travel writing, with low-stakes technology. Both Google MyMaps and 
+Knightlab’s StoryMap are easy-to-use platforms for new composers and useful in introducing 
+multimodal writing. Students often gravitate toward writing about places or trips that were 
+meaningful to them, from their childhood homes to how they move through the world.  
+
+Students are often drawn to writing about their homes, some literally write about their own 
+backyards, and some explore mapping journeys or a collection of significant moments that are 
+tied to place. Since in this essay, medium is also already chosen, the subject matter is 
+influenced by the affordances of the visual of the map. They also put thought into the 
+navigation, some visual design—whether or not to include pictures and/or video and, if so, of 
+what. In Lily Pudlo’s essay, “Backyard Adventure,” she writes about her childhood 
+neighborhood through the lens of her child self, adventure stories in a small landscape. Another 
+student, Maya Horton, wrote about adventure trips a little farther off, capturing meaningful 
+outdoor trips in “Adventures in the Northeast” (see Fig. 1), that displayed personal growth and 
+reflection. In her introduction she states:  
+
+While I have grown and changed over the years, nature was a constant in my life. 
+It was always there when I needed it. It has been an escape from reality, and a 
+place where I could be my true self. It has given me a reason to keep going. It has 
+literally given me a breath of fresh air when I was feeling stagnant and confined. 
+It has been a place where I could simply just relax and have fun. It has put me in 
+my place, held me accountable, helped me overcome my fears, and allowed me 
+to realize things about myself and others.  
+
+ 
+ 
+
+White  2 
+
+Figure 1: “Adventures in the Northeast” by Maya Horton  
+
+ 
+
+ 
+These essays fit with our discussion of creative travel writing, which, according to Bradway and 
+Hesse, “has a strong narrative voice and a writer deeply and directly involved in the events of 
+the place. The narrator is usually going somewhere new; a sense of adventuring into the 
+unknown is nearly always the dominant tone, often inflected by physical and/or emotional risk” 
+(Bradway and Hesse 24). These essays all express something about their authors, whether it is 
+through childhood play or a travel adventure. This semester, Marielle Webster’s StoryMap, 
+“The Year Before the World Ended,” recounts her last year of travel before the pandemic, 
+especially meaningful upon reflection (see Fig. 2).  
+
+White  3 
+
+Figure 2: Screenshots from “The Year Before the World Ended” by Marielle Webster  
+
+ 
+
+White  4 
+
+Covid-19 has played a big role in the past year of creative projects. In my digital literature 
+course in Spring 2020, the pivot to online classes in March happened to correspond to the 
+collaboration section of my digital literature course (we read Scott Rettberg’s Electronic 
+Literature). Instead of doing collaborative projects together on campus, I had to adapt that 
+assignment and we used a collaborative Google Map (see Fig. 3) to map our location and how 
+we were feeling about our new stay-at-home circumstances. The creative writing students also 
+wrote a collaborative map about what home means to them, which would have been our in-
+class free write.  
+ 
+
+ 
+
+Figure 3: “Socialdistancingcollaboration” 
+ 
+Both Map platforms have their limitations, of course. StoryMap is a very linear “slideshow”-
+esque experience, Google Maps is also fairly linear, with points listed down the side, and both 
+are templated, with limited design options. Once students have completed a map project, they 
+are often excited to expand their design autonomy and create something from the ground up. 
+Twine has been a great option for final hypertext projects.  
+ 
+TWINE (for representation and social commentary) 
+“As Twine author Porpentine puts it, ‘Twine simply exists and doesn’t belong to anyone except 
+everyone’” (as quoted in Rettberg 104).  
+ 
+I began using Twine when I first made my introductory course OER. Although I had heard about 
+Twine in the e-lit community and heard presentations on the representation it afforded for 
+feminist, mental health narratives, and LGBTQ+ stories and games, I had not yet used it myself. 
+The limited need for straight-up HTML coding is valuable for students who are only writing e-lit 
+for a semester. In this way, it’s not unlike Dreamweaver, but with an interface that doesn’t fully 
+disguise HTML and CSS from the user; by copying and pasting the code from the amazing Twine 
+wiki, the students don’t think of it as coding.  In 2012, the “Twine Revolution,” began: 
+
+White  5 
+
+ 
+
+It is a movement started by trans women, and then was expanded to other 
+queer identities as well, arguably one of the most relevant resistance efforts in 
+gaming. Kopas [20] makes, in her own words, a bold statement about the 
+matter: ‘hypertext and digital games are totally trans genres’. Twine has 
+presented itself as a platform that is very welcome to diverse narratives, which 
+challenge the default premises of game design [16]. Even though Twine games 
+are primarily based on text, there are plenty of ways in which Twine can explore 
+visuality and sound within its narratives. The base HTML can be incremented 
+with CSS and JavaScript elements, so as long as web technology keeps being 
+pushed forward, Twine will not become outdated [26]. It is a very interesting 
+tool with numerous possibilities for the development of not only diverse stories, 
+but also new mechanics and logics to be incorporated within the textual 
+narrative. (Bragança, Mota, & Fantini 938-9). 
+
+ 
+These factors have made Twine an optimal platform for marginalized voices, with games like 
+Zoe Quinn’s “Depression Quest” working to promote empathy for mental health and 
+Porpentine’s “With Those We Love Alive” working to further LGBTQ+ representation. As Scott 
+Rettberg points out in chapter 4 of Electronic Literature:  
+ 
+
+The Twine community has also developed its own identity as a place of avant-
+garde experimentation with language, gender, and identity. Twine is particularly 
+popular with young authors who are arguably the first generation of ‘digital 
+natives.’ This is electronic literature that emerged first not in online magazines, 
+academic gatherings, festivals, or online databases, but instead on Tumblr feeds. 
+(105).  
+
+ 
+For students it’s proven an intuitive, easy-to-learn platform for branching multimodal 
+narratives. I’ve had several students write about their LGBTQ+ identities or coming-out stories, 
+often in video essays that have a more linear narrative, but Twine seems to be a natural 
+platform for the expression of underrepresented identities and a medium in which students 
+feel comfortable sharing their stories. Bridget Widrig, for instance, wrote about her first Pride 
+experience with her girlfriend (see Fig. 4). With branching narratives, she gave the reader the 
+choice of where to go (a cowgirl bar, Stonewall, etc.) and who to meet next, although each 
+readthrough ended up in the same place with the first photo of the couple, wrapped in a pride 
+flag and, as she says, “I felt so confident and content with who I am. Celebrating with the rest of 
+the world how amazing it feels to be yourself, I felt so lucky to be there.” 
+
+White  6 
+
+Figure 4: Screenshots from “Pride” by Bridget Widrig  
+
+ 
+
+White  7 
+
+ 
+ 
+I’m also directing an honors thesis this semester and my student, Parker Ayotte, is writing a 
+Twine story that includes social justice issues, such as racism and classism. There is also a 
+nonbinary character dealing with injustice, and a second person “player” that is genderless 
+(unlike some second person narratives, such as Calvino’s that gender the “you” as male). As 
+Rettberg says, “While the underlying principles of Twine are based on hypertext, many Twine 
+games have also adopted conventions from interactive fiction, such as the second-person form 
+of address to the player character, spatial navigation through the narrative, and a sparse, 
+economical style of writing” (105). This player/character is also held accountable for their 
+actions, but most significantly, their inaction or passivity when confronted with issues of racism 
+and injustice. The entire fiction ends in somewhat of a futile entropy, where the reader/player 
+doesn’t really make a difference in the system, despite multiple possible endings.  
+For example, in the “on the fence” ending: 
+ 
+
+It’ll take a while, but slowly, you’ll push for more and more change… but is that 
+the right thing to do? Sitting and silence and indirectly supporting the people you 
+can’t stand? Plus, will your morals survive throughout the passing of decades? 
+That’s up to you. I have already made my decision on your fate. By straddling the 
+delicate line between hero and villain, all you do is incriminate yourself.  
+
+ 
+Additionally, in the video for the “perfection incarnate” ending, the voice-over narration states: 
+“Acting as a face of peace and change in the middle of oppression and social control, you will 
+make a perfect member of Satan’s regime. I now know who you are and you have been 
+judged.” Parker discusses in his analysis portion, the usefulness of Twine as a forum for 
+representation and digital activism. He chose the platform over Dreamweaver, despite some 
+limitations for what he wanted to accomplish, for the specific reason that it is more 
+representational and embodies the social messages he’s conveying in his story (see Fig. 5).  
+ 
+
+White  8 
+
+ 
+
+Figure 5: Screen shots from “Promise of Paradise” by Parker, with reader name entry  
+ 
+This is significant given current conversations in the ELO around ways to increase 
+representation and diversity. Because of its accessibility and ease of distribution, Twine has 
+been an essential tool for not only disseminating, but amplifying historically suppressed voices. 
+Also turning up their collective volume through Twine, have been the neurotypical. Many 
+students have been writing about mental health struggles in these platforms and I have found 
+this ever-increasing during the Covid-19 pandemic. Maya’s Twine project, “A Mess of Emotions” 
+
+ 
+
+White  9 
+
+(see Fig. 6), for instance, documents her daily struggles in a “Covid journal,” that takes us 
+through her inner dilemmas, struggles, and experiences, including contracting the virus along 
+the way.  
+ 
+
+ 
+
+Figure 6: Screenshots from “A Mess of Emotions” by Maya Horton 
+ 
+And Stuart Moultrhop says of Twine in his article, “Hypertext Fiction Ever After”:  
+ 
+
+ 
+
+As we [hypertext authors] once did, Twine writers want to do unlikely things 
+with stories, making the most of simple, easily accessible technologies. Whether 
+they acknowledge it or not, they are agents of a vital digital literacy, asserting 
+word-based text, both in terms of prose and underlying code, as the locus or 
+seriously meaningful play. Beyond this, as their enemies will say, they have an 
+
+White  10 
+
+agenda, setting out to defend the interests of women, gay and transgender 
+people, the neuro-atypical, and others marginalized and excluded by the 
+military-infotainment complex.  They are discontented with an arrogant, 
+intolerant, casually violent society, and have set themselves against an 
+entrenched culture industry. … they think of what they do—as play, as 
+storytelling, or as an occupation of gamespace—they are carrying on a struggle. 
+Hypertext fiction may never get out of the cloister, but its younger cousins have 
+found their way to the streets (160). 
+
+ 
+It will be interesting to see what the future of Twine looks like, what revolutionary texts will be 
+rising from our “young cousins” in these tumultuous times. I find it interesting that among 
+other scholarly work I’ve seen in Twine (including e-lit analyses) my student, Sabrina Brown, 
+used this new platform to provide a historical overview of hypertext. Her scholarly project, “The 
+World of Electronic Literature” (see Fig. 7), provides information on the form, including 
+historical “characters” and genres (based on our textbook, Rettberg’s Electronic Literature).  
+ 
+
+ 
+
+Figure 7: Screenshots from “World of Electronic Literature” by Sabrina Brown 
+ 
+As mentioned earlier, the basics of Twine are straightforward, but more advanced things like 
+audio, movement, image maps, etc. are not always as intuitive for students. My students have 
+
+ 
+
+White  11 
+
+managed video, audio, and some code-tweaking, but for things like image mapping, I suggest 
+students consider ThingLink. This platform is extremely user-friendly and several of my students 
+have used it to write about their identity and mental health.  
+ 
+THINGLINK (a multimodal surprise) 
+The simplicity of both Twine and ThingLink for hypertext essays has allowed these new digital 
+swimmers to delve deeper into the platforms’ potential and their subject matter. I have been 
+impressed with the complex projects being made in ThingLink, which at first glance seems like a 
+very simple platform. I should add that for what we want to accomplish, it’s not free. But for a 
+small fee, a teacher can have an educational account with multiple seats and add more as 
+needed. It provides for inclusion of multiple modes—you can embed or add links to video, 360° 
+environments, add sound, videos, and link multiple “pages” (projects) together. My 
+introductory level students have no trouble learning the interface and executing their ideas.  
+ 
+The ease of the platform interface allows students to focus on their creative expression. As 
+these are nonfiction courses, often these projects are very personal, and many students write 
+about their struggles and experience with mental health. Liberty Laarman, in her essay, “My 
+Brain Probably Looks Like a Popcorn Ceiling,” for instance, created a simulacrum of her Spotify 
+playlist, with stories behind each song, including experiences with her therapist and dealing 
+with the loss of a friend (see Fig. 8).  
+ 
+
+ 
+
+White  12 
+
+Figure 8: Screenshots from “My Brain Probably Looks like a Popcorn Ceiling” by Liberty 
+Laarman 
+ 
+Since we read Shelley Jackson’s My Body: A Wunderkammer, I also see many hypertexts with 
+body or mind maps, dealing with body image or mental health. Some examples include a map 
+of someone’s “scatter brain,” showing her scattered nighttime thoughts and fears and this 
+project, Brianna Jones’ “Hands” (see Fig. 9) that deals with self-expression, identity, and human 
+vulnerability. 
+ 
+
+ 
+
+White  13 
+
+ 
+
+Figure 9: Screenshots from “Hands” by Brianna Jones 
+ 
+The theme of the final project in the introductory course is “connections,” which can mean 
+many things. My student, Samantha Stewart, really captured the idea of human 
+interconnectedness in her essay, “Sonder” (see Fig. 10). Sonder, according to John Koenig 
+means: “the realization that each random passerby is living a life as vivid and complex as your 
+own” (Koenig). Sam captured this with a 360°-interactive image of a bustling Time Square, 
+where we can see people passing each other as strangers, with text that promotes 
+connectedness in the common human experience, very relevant during the past pandemic year.  
+ 
+
+White  14 
+
+ 
+
+ 
+
+Figure 10: Screenshots from “Sonder” by Samantha Stewart  
+ 
+ 
+VR and other things 
+ThingLink allows links on videos and also has 360° capabilities, seen in the “Sonder” piece. As 
+students move toward more immersive storytelling, we have found accessible ways for them to 
+compose “virtual” spaces, such as through Google Earth and Knightlab’s Scene, with 360° 
+capable projects that can be read in Google Cardboard, an affordable VR viewer we have in our 
+lab. Google Earth provides a similar interface to Google MyMaps, with satellite views and the 
+addition of 360° street-view capabilities. Utilizing the 3D option provides an immersive 
+experience, where readers can feel like they are exploring a place (see Fig. 11). The Google 
+
+White  15 
+
+Earth platform is still user-friendly and students often use these projects to explore their homes 
+or travels. In one project, a student explored multiple possible futures as they prepared to 
+graduate in a pandemic to an uncertain future.  
+ 
+
+Figure 11: Example map for Digital Literature, 360° view 
+ 
+Scene provides easy upload of panoramic or full 360° images, with added text, for simple VR 
+projects. When we left campus last spring, since we could no longer use the lab, I adapted the 
+VR unit and we explored these platforms, mostly close to home, including my front porch (see 
+Fig. 12). I look forward to VR technology becoming more accessible in the future, so students 
+can explore more immersive creativity.  
+ 
+
+ 
+
+Figure 12: Example Scene from my front porch 
+
+ 
+
+White  16 
+
+Of course, there are other plat(free)forms out there, these are just a few that we have 
+explored. In addition, I have offered students the opportunity to remediate Nick Montfort’s 
+work, “Taroko Gorge.” Trevor Arseneau made “Gorge of Anathema,” which conveyed some of 
+the frustration at the beginning of our lockdown last spring (see Fig. 13).  
+ 
+
+ 
+
+Figure 13: “Gorge of Anathema” by Trevor Arseneau 
+ 
+This semester I’m teaching an intermediate course and tried out Knightlab’s Timeline, an 
+elegant tool for chronological projects. Although Timeline was not as straightforward as the 
+other Knightlab software we’ve used, once students got past the learning curve and the Excel 
+spreadsheet interface, the projects turned out quite well. The spreadsheet makes it simple to 
+add images, media, and text, change font and background color, etc. A short publishing process, 
+consisting of copying the link to the Timeline website, provides a permanent URL. This is one of 
+the great things about StoryMap and Scene as well, students do not have to worry about 
+publishing to and maintaining their own domain space, the projects are already hosted. This 
+project, Caroline Goodwin’s “My Year of Covid: a 2020 Timeline” (see Fig. 14), documents her 
+experience during Covid, similar to “A Mess of Emotions,” with news clips and personal stories, 
+including participation in a Black Lives Matter protest. Students in this class are currently busy 
+with meaningful and imaginative final projects in multiple platforms (Twine, ThingLink, Google 
+Earth, and Knightlab’s StoryMap and Scene), as well as students in the introductory class 
+composing the final “connections” projects in Twine and ThingLink.  
+
+White  17 
+
+ 
+
+Figure 14: Screenshots from “My Year of Covid: a 2020 Timeline” by Caroline Goodwin 
+ 
+ 
+Conclusion 
+The simplicity of the software has allowed these new digital swimmers to delve deeper into the 
+platforms’ potential and their subject matter. Daniel Anderson discusses the benefits of 
+introducing students to unfamiliar technologies in his article, “From a Pedagogy of 
+Multiliteracies: Designing Social Futures”: “engaging technical things comes with a bigger 
+
+White  18 
+
+payoff. Experimenting with unfamiliar technologies can facilitate a sense of creativity that can 
+lead to motivation” (363). This is particularly significant in creative writing, where exploring the 
+creative affordances of the media seems to extend to the words, the topics, and the stories as 
+themselves. Students learn technical skills as they compose, often from each other. Digital 
+platforms, these “unfamiliar technologies,” often take them out of their comfort zone, which 
+seems to spark more creativity, thinking outside the norms of a print essay, and a deeper and 
+more thoughtful self-expression. They currently seem to be thinking and writing from a deeper 
+social perspective too, shining through the cracks caused by this time of upheaval, intent on 
+healing this broken society.  
+ 
+As Davin Heckman asks in his article, “Inventing Pedagogies for Electronic Literature”: “Can 
+electronic literature open up a critical perspective on society during a period of radical historical 
+upheaval?” (277). Let’s hope so. Seeing/playing/participating in new immersive and mobile 
+works from the National Film Board of Canada, like “Far Away from Far Away,” “Bubble,” and 
+“Motto,” and work like “Yesterday Today and Tomorrow” and “Infinite Worries Bash” in the Fall 
+issue of The New River Journal that are collaborative voices—political, social, and personal, my 
+students are feeling connected and a part of the current zeitgeist. There is very much a feeling 
+of we are all in this together. The projects the students are composing, what would be 
+categorized as “Third Generation E-lit,” that “builds upon existing forms” and “adopts existing 
+interfaces” (Flores 38), are still bursting with originality and creativity, perhaps the form even 
+broadening the creative scope of their ideas.  These accessible platforms enable expression, 
+particularly of marginalized voices, as Twine has been used widely in the LGBTQ+ community, 
+while also providing potential for exploring virtual spaces with minimal technology. As Anne 
+Frances Wysocki says in Writing New Media, “When someone makes an object that is both 
+separate from her but that shows how she can use the tools and materials of her time, then she 
+can see a possible self—a self positioned and working within the wide material conditions of 
+her world, even shaping that world—in that object” (21). These student projects show how less 
+technical, more accessible plat(free)forms can be used to create political, diverse, and deeply 
+personal narratives, allowing digital learners to shape their worlds and add their voices to the 
+world of e-lit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+White  19 
+
+ 
+Works cited  
+ 
+Anderson, Daniel. “The Low Bridge to High Benefits: Entry-Level Multimedia, Literacies,  
+
+and Motivation.” Multimodal Composition: A Critical Sourcebook.  Claire  
+Lutkewitte, ed. Boston: Bedford/St. Martin’s, 2014. 
+
+ 
+Arseneau, Trevor. “Gorge of Anathema.” 2020. English 693, Digital Literature. University of New  
+
+Hampshire. Remediation of “Taroko Gorge” by Nick Montfort.  
+
+ 
+Ayotte, Parker. “Promise of Paradise.” 2021. English Honor’s thesis project. University of New  
+
+Hampshire. Twine fiction.  
+
+ 
+Bliss, T. J., and M. Smith. “A Brief History of Open Educational Resources.” Open: The  
+
+Philosophy and Practices That Are Revolutionizing Education and Science, edited by  
+Rajiv S. Jhangiani and Robert Biswas-Diener, Ubiquity Press, London, 2017, pp. 9–28. 
+JSTOR, www.jstor.org/stable/j.ctv3t5qh3.6. Accessed 15 Apr. 2021. 
+
+Bradway, Becky and Doug Hess. Creating Nonfiction, a Guide and Anthology. Boston:  
+
+Bedford/St. Martin’s, 2009. 
+
+Braganca, Luiza C., Rosilane R. Mota, and Eduardo P.C. Fantini. Twine Game Narrative and  
+
+discussion about LGBTQ representation. Proceedings of SBGames 2016. Culture Track. 
+http://www.sbgames.org/sbgames2016/downloads/anais/157380.pdf 
+
+ 
+Brown, Sabrina. “The World of Electronic Literature.” 2020. English 693, Digital Literature.  
+
+University of New Hampshire. Twine analysis.  
+
+ 
+Flores, Leonardo. “Third-Generation Electronic Literature.” Electronic Literature as  
+
+Digital Humanities. Dene Grigar and James O’Sullivan, eds. New York: Bloomsbury 
+Academic, 2021.  
+
+Goodwin, Caroline. “My Year of Covid: a 2020 Timeline.” 2021. English 623, Digital Creative  
+
+Nonfiction. University of New Hampshire. Knightlab Timeline creative nonfiction.  
+ 
+
+Heckman, Davin. “Inventing Pedagogies for Electronic Literature.” Electronic Literature as  
+
+Digital Humanities. Dene Grigar and James O’Sullivan, eds. New York: Bloomsbury 
+Academic, 2021.  
+
+Hicks, Troy. Crafting Digital Writing: Composing Texts Across Media and Genres. Portsmouth,  
+
+NH: Heinemann, 2013.  
+
+ 
+
+White  20 
+
+Horton, Maya. “Adventures in the Northeast.” 2020. English 501, Digital Writing. University of  
+
+ 
+ 
+
+New Hampshire. Google Map creative nonfiction.  
+ 
+“A Mess of Emotions.” 2020. English 501, Digital Writing. University of  
+New Hampshire. Twine creative nonfiction.  
+
+ 
+Jones, Brianna. “Hands.” 2020. English 501, Digital Writing. University of  
+
+New Hampshire. ThingLink creative nonfiction.  
+
+Koenig, John. “Sonder: The Realization That Everyone Has A Story.” Film. A Lust for Life.  
+
+https://www.alustforlife.com/videos/sonder-the-realization-that-everyone-has-a-story 
+
+Laarman, Liberty. “My Brain Probably Looks Like a Popcorn Ceiling.” 2020. English 501, Digital  
+
+Writing. University of New Hampshire. ThingLink creative nonfiction.  
+ 
+
+Lamott, Anne. Bird by Bird: Some Instructions on Writing and Life. New York: Anchor Books,  
+
+ 
+1995. 
+ 
+
+Moulthrop, Stuart. “Hypertext Fiction Ever After.” Electronic Literature as Digital Humanities.  
+
+Dene Grigar and James O’Sullivan, eds. New York: Bloomsbury Academic, 2021.  
+
+Murray, Janet. Hamlet on the Holodeck. Cambridge: The MIT Press, 1998.  
+
+ 
+
+Pudlo, Lily. “Backyard Adventure.” 2020. Digital Writing. University of New Hampshire. Google  
+
+Map creative nonfiction.  
+
+ 
+Rettberg, Scott. Electronic Literature. Cambridge: Polity, 2019. 
+ 
+Stewart, Samantha. “Sonder.” 2020. Digital Writing. University of New Hampshire. ThingLink  
+
+360° creative nonfiction.  
+
+ 
+Webster, Marielle. “The Year Before the World Ended.” 2021. English 501, Digital Writing.  
+
+University of New Hampshire. Knightlab StoryMap creative nonfiction.  
+
+ 
+Widrig, Bridget. “Pride.” 2020. English 501, Digital Writing. University of New Hampshire. Twine  
+
+creative nonfiction.  
+
+ 
+Wysocki, Anne Frances. “Opening New Media to Writing: openings & justifications.”  
+
+Writing New Media: Theory and Applications for Expanding the Teaching of  
+Composition. Logan, Utah: Utah State UP, 2004. 
+
+ 
+
+White  21 
+
+

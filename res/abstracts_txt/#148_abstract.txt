@@ -1,0 +1,41 @@
+:
+Tenure Track is a postmodernist critique of 21st-century academia in the form of a simulation game. In the
+vein of satirical games like Cow Clicker—a product of “carpentry,” or a strategy for creating philosophical,
+creative work, according to its designer Ian Bogost—Tenure Track also borrows game mechanics from
+popular puzzle simulators like Papers, Please, merging the finite potentiality of a critical text with the
+lightheartedness and non-prescriptiveness of play. Additionally, the simulation game as a genre harkens
+back to philosophical toys of the 19th century, such as the thaumatrope, the purpose of which was
+demystification through wonderment. The proposed poster would include imagery from the game, as well
+as links to interactive components (gameplay footage, demos) and brief descriptions of the mechanics
+and concept of the game.
+
+Developed in Unity for desktop and VR over the past year, Tenure Track visually consists of a 3D
+re-creation of a nondescript office, viewed from a first-person perspective, with every object in the space
+being manipulable. The goal of the game is to achieve tenure by completing research, grading papers,
+and communicating with students and administrators. Much of this “work” is mediated through a variety of
+simulated digital platforms, which are accessed via a desktop monitor and a mobile phone. The centering
+of platforms underscores the degree to which they are essential to what constitutes labor. Post-pandemic,
+this can be read as referencing a potentially obsolete “platform”: the physical office.
+
+As the player performs a litany of menial tasks over the course of a series of seconds-long days, they are
+interrupted constantly by notifications and knocks at the door. Over time, this produces a simulacrum of
+the frantic yet mundane administrative role many modern-day academics find themselves “playing” as
+they strive for the promised land of tenure. The sequence of predefined yet somewhat open-ended steps
+in the tenure process lends itself to this kind of gamification, which resists the interpretation of a
+prescribed process as fair or logical. The many small but cumulatively important decisions players make
+imparts a feeling of decision fatigue common to most knowledge work, playing with the assumption many
+outside of academe have of the professoriate as belonging to an exceptional, noble profession. What is
+not known until the game’s conclusion is that, once a player reaches one of several possible “endings,”
+the days continue to loop continuously.
+
+While the game rewards literacy of both games and academe by subverting the former and reifying the
+latter, arguably the most satisfying interactions are the ones that are, in reality, the most disruptive
+(dropping the mobile phone and cracking the screen) or least salient (disposing of empty beverage
+
+45
+
+ELO 2021 - abstracts
+
+containers in a recycling bin). Those who misunderstand the tenure track job as a stairway to heaven, or
+even as fundamentally different from other types of white-collar jobs, stand to see it in an uncanny light.
+

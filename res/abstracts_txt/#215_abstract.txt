@@ -1,0 +1,49 @@
+:
+Recent pandemic-imposed restrictions on face-to-face exchanges have required that we find new ways to
+connect, often through networked platforms. Without classrooms, labs, and conference environments,
+ELO has embraced platforms such as Discord and Zoom for communication, and has also looked to
+online platforms for collaborative writing.
+
+As we contemplate how platforms can keep us connected with our work and with each other, as well as
+the ways they may limit our interactions and thus arguably “disconnect” us, this panel explores what
+happens when e-literature—as research, practice, and field—is bound to platforms. E-literature
+scholarship and creative works that do not have the opportunity for in-person exchange provoke
+re-examinations of platform affordances and limitations. We ask: how may platforms may shape
+e-literature through their pre-set parameters, interfaces, and infrastructures? What are the promises and
+perils of platform-specific e-literature? Can we bring attention to platform through works of e-literature?
+Led by Marjorie C. Luesebrink, five speakers will answer these questions.
+
+Lai-Tze Fan will trace the platform of a work of e-literature to its infrastructural origins. Nick Montfort’s
+generative poem Round (2013) is accompanied by a Note that describes the computational processes
+behind the poem. Fan will trace the specific hardware components’ production, manufacturing, assembly,
+
+80
+
+ELO 2021 - abstracts
+
+and natural resource origins that support Round; in so doing, she provides an ecological understanding of
+the physical platforms that support e-literature.
+
+Will Luers will sketch out some principles for a theory of recombinant fiction by exploring algorithmic flux
+(scripted variability) as something experiential within the digital text itself. His question for authors and
+readers of platform-based fiction production is: why is this play of forces between chaos and order
+thematically and formally important? Luers argues that algorithmic flux in digital fiction has a history, but
+that it presently lacks a theory and poetics for contemporary practice.
+
+Erik Loyer will examine Google Sheets for how it enables users to treat spreadsheets as databases which
+can drive whole applications, effectively turning documents into platforms. He asks: what happens when
+we apply the same approach to digital narrative, giving individual stories the potential to function as their
+own platforms? Drawing on his experience developing creative tools for the digital humanities, digital
+comics, and e-lit, Loyer will sketch out some of the potentials and pitfalls of this mode of creation, and
+how our practices might better encourage it.
+
+Christy Sanford reflects upon the processes for combining images and texts in some of her creative
+works. Sanford finds herself prompted by various platforms and platform-based texts around her, noting
+that in order to combine images and text, she needs technology’s assistance and inspiration to let unique
+characteristics of programs and platforms contribute to the development of her work.
+
+Finally, Caitlin Fisher will discuss the promises and perils of disconnection and connection inside VR
+platforms that support literary and artistic co-creation. As we consider the use of virtual environments and
+spaces in place of in-person meetings and engagements, Fisher explores the futures of these platforms
+as a novel means of creative exchange.
+

@@ -1,0 +1,41 @@
+:
+Net literature on the WWW is characterized by a special relationship between literary text and technical
+medium. In addition to the importance of graphic and typographic design, this includes in particular the
+hypertext structure of the texts. The distribution of a literary text across several interlinked web pages
+often leads to a non-linear structure, which usually corresponds to non-linear narrative structures. We
+consider a non-linear text structure to exist as soon as a page contains more than one reference to
+subsequent pages. A linear passage through the entire text is then no longer possible. For narrative texts,
+this also implies a non-linear narrative progression. Non-linear text structures can allow predominantly
+linear narrative progressions with alternative strands, variable endings, and cyclical elements, or multiple
+narrative progressions through complex linking.
+
+For the identification of non-linear patterns, we extract link and element structures from the corpus data
+and visualize the link networks. We then identify patterns via the visualization and network metrics. A
+necessary prerequisite for corpus-oriented pattern recognition is the comparability and reproducibility of
+the individual analyses. Live online literary works can change over time. We work with archived versions
+
+31
+
+ELO 2021 - abstracts
+
+of the works, which are kept available via a repository. The pages are archived in the WARC format, a
+standard format for web archiving.
+
+We have modelled and described all types of links we found in the corpus. This model is mainly based on
+our historical corpus and serves to improve extraction and analysis, but will be tested and complemented
+with additional material in the future. Additionally, we assessed several existing approaches for the
+extraction of links. For the actual extraction of the link network data from the WARC files, we use our own
+software module WARC2graph which is based on our link network model and makes use of multiple
+extraction approaches. WARC2graph extracts link networks from WARC files and returns these link
+networks. Users can choose which method to use to extract the network data. The program has a basic
+module for generic visualization of the data, but this is just for a first impression, since visualization
+depends on the research question and the nature of the analyzed material.
+
+WARC2graph will be made available as a Python module and as a web service run by the Science Data
+Center for Literature, a joint project of the German Literature Archive (DLA) and several departments at
+the University of Stuttgart.
+
+Our approach is focused on net literature and literary blogs. However, it should work generically on
+standard WARC files. We hope to make the module reusable both at the level of research-oriented work
+with WARC data and at the level of archiving and provision of WARC data and data analytics services.
+

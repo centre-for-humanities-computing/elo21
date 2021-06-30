@@ -1,0 +1,820 @@
+Executable Landscapes: Speculative Platforms for Ecological E-Literature 
+
+ 
+
+Dr. Richard A Carter, University of Roehampton (richard.carter@roehampton.ac.uk) 
+
+ 
+
+Keywords 
+
+Electronic Literature, Digital Art, Platforms, Ecology, Infrastructure, Sensors, Esoteric Code, 
+
+Code Poetry 
+
+ 
+
+Paper 
+
+ 
+
+It  is  no  revelation  to  observe  that  the  contemporary  digital  environment  is  made  possible 
+
+through a matrix of behemoth infrastructures that traverse the orbital, atmospheric, oceanic, 
+
+and  terrestrial  domains.  These  infrastructures  manifest  not  only  in  the  narrowly  technical 
+
+sense,  but  encompass  the  manufacturing  chains,  regulatory  interfaces,  and  geopolitical 
+
+contexts that enable (or forestall) the development, deployment, and maintenance of digital 
+
+systems  at  a  global  scale.  Underpinning  all  these  aspects  are  the  flows  of  energy  and 
+
+materials constituting the liveable Earthly ecology. The latter comprises the ultimate baseline 
+
+‘platform’ on which discrete digital platforms, as more commonly expressed, are enabled—but 
+
+that, being so defined, obscure these far larger structures and processes  in which they are 
+
+embedded. It is here that we can note something of a paradox, in that the global scale of digital 
+
+infrastructure  is  now  foundational  to  the  charting  and  modelling  of  a  rapidly  deteriorating 
+
+planetary ecology—as achieved through satellites, drones, remote buoys, weather stations, 
+
+datalinks, supercomputers—but this comes with a recognition that it is both a product, and a 
+
+critical  facilitator,  of  economic  processes  that  are  driving  the  very  pollution,  wastage,  and 
+
+largely unhindered exploitation behind the calamitous signals they detect. 
+
+ 
+
+One concept that has been deployed, in various guises, to characterise these endlessly 
+
+entangled circumstances is that of the ‘Anthropocene’. Emerging as an epochal marker of the 
+
+ineradicable inscriptions of global human activity, definitions of the Anthropocene have rested 
+
+variously  on  either  the  technogenic  geologies  of  nuclear  residues,  or  the  exponential 
+
+geophysical  shifts  being  picked  up  and  characterised  by  electronic  sensors,  mathematical 
+
+models,  and  computerised  simulations.  In-turn,  the  Anthropocene  has  provided  a  much 
+
+broader  vehicle  for  expressing  a  suitably  grand,  hubristic  fable  concerning  the  planetary 
+
+conditions brought forth by human activity, and how the supreme agency of the latter, over the 
+
+former, is bringing about their mutual downfall. 
+
+ 
+
+There are, of course, many reductionist problematics encapsulated in this latter account 
+
+of  the  Anthropocene,  and  its  presumptions  of  a  unified  human  culpability  with  equally 
+
+distributed consequences. We may note that even the gravely scientific emphasis on nuclear 
+
+boundary  markers  reveals  a  very  particular  set  of  contexts,  with  their  associated  political, 
+
+economic,  and  material  histories,  that  have  instigated  and  are  shaping  the  dangers  of  the 
+
+present moment—as well as defining the forums in which it is mapped and characterised. It is 
+
+in  recognition  of  these  gaping  aporia  that  there  have  been  many  dozens  of  varied  ‘cenes’ 
+
+generated  across  the  academic  world,  seeking  either  to  better  account  for  the  particular 
+
+histories, processes, and implications of current ecological perils, or, indeed, to suggest how 
+
+these might be responded to justly (see Chwałczyk 2020, for instance, who charts no less than 
+
+80-90 distinct variations). 
+
+ 
+
+I  have  outlined  previously  how  digital  art  and  electronic  literature  have  responded  to 
+
+some  of  the  implications  of  the  Anthropocene  hypothesis,  and,  indeed,  the  uncomfortable 
+
+relationship  between  the  expressive  richness  of  the  digital  medium  and  its  profound 
+
+entanglement with environmentally damaging paradigms (see Carter 2020). In reflecting on 
+
+these  aspects,  I  recall  how  early  digital  art  sought  to  demonstrate  (with  admittedly  varying 
+
+success) different possibilities for computing beyond militarised technoscience, and it appears 
+
+that the creative and critical challenge today is to rework and reframe digital platforms so they 
+
+might  perform  and  inspire  substantive  ecological  critique  and  expression,  rather  than  be 
+
+relegated  only  as  perpetuators  of  extractive,  accelerationist,  technocentric  paradigms. 
+
+Contemporary  electronic  literature,  in  its  very  particular  fusions  of  data,  writing,  and  the 
+
+algorithmic, affords rich experimental pathways for just this kind of work—as deftly illustrated 
+
+by the recent outputs of artists such as J.R. Carpenter (2019, 2018, 2016) and Eugenio Tisselli 
+
+(2020).  Raley  (2011)  similarly  observed  an  ‘ecological  turn’  in  emerging  digital  poetic 
+
+practices, and Naji (2021) has recently developed an extended critical account of the valuable 
+
+role  played  by  the  ‘literary  algorithm’,  as  instantiated  across  varied  digital  poetic  texts,  in 
+
+exploring  and  critiquing  reflexively  the  foundational  structures  and  processes  of  digital 
+
+systems, articulating their implications for both the living and material worlds. 
+
+ 
+
+My own creative and critical practices have centred also on exploring not only how digital 
+
+writing can bring about new ways of framing and understanding its sociotechnical contexts, 
+
+but also its capacity to chart different speculative futures concerning digital technologies more 
+
+broadly.  That  is,  to  enact  what  the  digital  world  might  resemble  concretely  if  the  critical 
+
+perspectives  it  is  subjected  to  were  adopted  as  a  key  aspect  of  its  future  design  and 
+
+deployment—of  what  kinds  of  activities,  artefacts,  and  infrastructures  might  emerge  in 
+
+response, with an emphasis on the ecological impacts of digital systems. Given the challenges 
+
+of the present moment, and the troubling futures ahead, the aspiration here is not to suggest 
+
+a specific path forward—which would repeat the mistakes inherent to unified accounts of the 
+
+Anthropocene, with its implication of  unified solutions—but to help enact a range of partial, 
+
+provisional investigations that catalyse an agility of thought and practice: to enact a spectrum 
+
+of stories and ways of seeing that resist the destructive influence of monologic narratives. 
+
+ 
+
+In pursuing this speculative approach towards my research and practice, I have found 
+
+resonances  in  the  work  of  various  theorists  concerning  the  need  for  new  kinds  of  media 
+
+critique, with speculative practice affording a rich a site of enquiry and reflection. I would cite 
+
+in  this  vein  Parikka’s  (2015)  ‘speculative  media  archaeologies’,  Agre’s  ‘critical  technical 
+
+practice’ (1997), and Jones ‘distributed critique’ (2020), which forwards a need for modes of 
+
+investigation that are conducted across the multiplicity of sites, platforms, practices, and ways 
+
+of perceiving and knowing that constitute the digital world. Jones offers a particularly succinct 
+
+expression here of the value of artistic approaches and attitudes in making possible this mode 
+
+of critique-in-practice: 
+
+ 
+
+ 
+
+Critical new media art encapsulates the “foreign entanglements” we encounter through 
+
+data,  updates,  visualisations  and  other  affective  intensities  of  the  Internet,  and  turns 
+
+them  into  a  subject  of  study.  The  demands  placed  on  the  critique  of  new  media  art 
+
+practices are great, but they secondarily offer to create the communities of knowledge-
+
+making that we need, rather than the ones we have inherited from humanist and science 
+
+traditions. Embracing the problem of art practice as generative puts art at the service of 
+
+thought in a serious way (6). 
+
+Jones  goes  on  to  observe  that  digital  artistic  practice  functions  not  in  response  to  fully 
+
+predetermined questions, issues, and even potential answers, with their attendant specialist 
+
+disciplinary frames, but instead develops these aspects as part of their inherent contingencies 
+
+and uncertainties. The act of wrestling with the complexities of digital activities, artefacts, and 
+
+environments through speculative endeavours serves to both denature and reconfigure their 
+
+predominant  modalities,  and,  from  this,  to  see  what  they  may  yet  become.  Such  grand 
+
+ambitions  will  never  be  actualised  fully  within  the  space  of  any  one  artistic  process  or  its 
+
+outcomes, but the latter functions instead as a distributed site of investigation that can catalyse 
+
+others subsequently—the act of critique being always a collaborative process, than a discrete 
+
+declaration. 
+
+ 
+
+It is in a similar spirit that my experimental practice of recent years has brought together 
+
+diverse,  unconventional  assemblages  of  digital  systems  and  scholarly  reflection,  with  this 
+
+aspect forming the core of their creative expression and critical potential. Over the course of 
+
+several  projects,  I  have  developed  often  elaborate  processes  that  entangle  cameras, 
+
+satellites,  drones,  web  graphics,  esoteric  code,  academic  writing,  and  the  printed  codex, 
+
+seeking  to  investigate  what  their  complex,  contingent  exchanges  can  reveal  about  the 
+
+structures, dynamics, and possibilities of the contemporary environment. The hybrid art-texts 
+
+resulting are thus better understood as being enacted across these different platforms, and so 
+
+deriving  their  creative  and  critical  force  as much  by  encouraging  reflection  on  these  varied 
+
+aspects and processes, as the actual markings they leave behind. 
+
+ 
+
+A particular gesture that characterises my recent investigations into digital writing is the 
+
+use of technologies ostensibly focused on the capturing of images for the production of text. 
+
+Across several projects, I have deployed imaging sensors and systems as a means through 
+
+which different kinds of visual data are gathered and analysed about ecologically provoking 
+
+scenes,  before  using  this  to  actualise  corpus-derived  data-structures  into  various  ‘human-
+
+readable’ configurations—which, nevertheless, may or may not adhere to the conventions of 
+
+‘natural’ language. In transforming images to text, my aim is to meditate on the performative 
+
+multivalency of data itself, and, following this, how algorithmic structures are neither inherently 
+
+visual nor textual in their operations, but parse a multiplicity of rapidly mutating symbols and 
+
+values. Image-to-text conversions can depict the enacted (as opposed to inherent) status of 
+
+all visual data, involving algorithmic routines that act not on colours, textures, and form, but 
+
+on matrices of values, encoded thresholds, and filter gates. 
+
+ 
+
+While this might all suggest a forbidding disconnect between human and machinic ways 
+
+of seeing and knowing, it also emphasis how visual data, being rendered as such and not a 
+
+straightforward window onto the world, can be articulated in different ways so as to become 
+
+‘prehensible’,  and  that  the  predominant  modes,  such  as  colour-coded  images  and 
+
+visualisations,  are  not  the  only  such  available.  Moreover,  textual  parsing  does  not  simply 
+
+substitute one mode of representation for another, as provide a means of invoking contexts 
+
+and frames of reference and understanding beyond what is suggested ostensibly by the image 
+
+as a purely visual formation. Given the critical role played by ocular paradigms of sensing and 
+
+knowing the world in Western technoscience, and its depiction as rendering transparencies 
+
+through  which  to  capture,  rather  than  in-fact  perform,  the  observable,  my  aim  here  is  to 
+
+express the inherent performativity of data-generating architectures, and so establish a space 
+
+for formulating new stories concerning how the world is known and acted upon by human and 
+
+machine alike. The ultimate aspiration behind such efforts, however tentative, is to encourage 
+
+reflection on the other possible ways of knowing and being in the world that can better attend 
+
+to the challenges of life in the Anthropocene, howsoever understood. 
+
+ 
+
+One  such  project  I  have  discussed  at-length  in  the  past,  and  which  I  have  had  the 
+
+privilege of seeing discussed by others, is Waveform (2017—) (see Carter 2018; Naji 2021). 
+
+This project uses drone footage, machine vision routines, and generative text algorithms to 
+
+produce  output  sequences  depicting  the  transformation  of  incoming  ocean  waves  into 
+
+enigmatic, poem-like texts. This project raises questions concerning the nature and potentials 
+
+of machine sensing in characterising the observable world, with an emphasis on the myriad 
+
+phenomena these systems fail to prehend about life in an imperilled ecology—in terms of its 
+
+myriad  uncertainties,  perceptual  aporia,  and  affective 
+
+tensions—but  also  enacting, 
+
+speculatively, an instance of how it may yet still contribute to creative meditations on these 
+
+aspects. 
+
+ 
+
+Another ongoing project in this vein is Orbital Reveries (2020—). This project performs 
+
+a  similar  undertaking  to  Waveform  in  its  gathering  of  terrestrial  satellite  imagery,  compiled 
+
+from  the  Landsat  Earth  Observation  programme,  and  sequencing  it  through  a  chain  of 
+
+algorithmic processes to compose generative visual ‘textscapes’ (see Carter 2021). As with 
+
+Waveform,  a  machine  vision  algorithm  is  used  to  analyse  and  define  the  apparent  terrain 
+
+signatures  of  a  given  source  image,  with  the  data  obtained  being  then  used  to  mobilise  a 
+
+database  of  textual  sources  that  variously  encompass  satellite  imaging,  geophysical 
+
+terminology, and ecocritical writing. This project extends the enquiry conducted by Waveform 
+
+into  machinic  modes  of  sensing  and  making  sense  of  the  world,  engaging  in-particular  the 
+
+critical  role  of  multispectral  satellite  imagery  in  underpinning  a  globalised,  managerial 
+
+approach towards the  Earth—as  an  expression of  a  geopoliticised  ‘whole  Earth’  discourse, 
+
+with its emphasis upon strategies of abstraction, enclosure, and control. In transforming the 
+
+multispectral,  technoscientific  imagery  generated  by  the  satellite  gaze  into  consciously 
+
+experimental  outcomes,  Orbital  Reveries  aims  to  resist  popular  conceptions  of  the  ocular-
+
+centric  transparency,  objectivity,  and  perceptual  totality  of  satellite  sensing,  which  is 
+
+predicated  on  the  suggestively  Cartesian  outlooks  of  its  constituent  nodes:  physically  and 
+
+functionally  removed  from  Earthly  disorder,  and  unreachable  by  anything  other  than  the 
+
+commanding interests of state or corporate actors. 
+
+ 
+
+I am presently writing at-length about Orbital Reveries as part of forthcoming work, and 
+
+so I would like to dedicate the remaining balance of this paper to outlining a project that is still 
+
+something of a work-in-progress, but is mature sufficiently as to depict both its key principles 
+
+and where my practice will stand in the coming future—and so, it is hoped, offer fruitful points 
+
+of reflection as such. The project in question is entitled Landform and, as its name suggests, 
+
+it follows directly from my work with Waveform, in responding to three interrelated enquiries 
+
+that  emerged  from  conversations  the  latter  has  generated  at  various  conferences, 
+
+presentations, and public events. 
+
+ 
+
+The first such enquiry centred on how, in Waveform, the drone imagery is treated as a 
+
+body  of  variables  within  a  chain  of  algorithmic  processes:  a  data-structure  that  cues  the 
+
+behaviour of specific operations, but does not exert any further influence. This instigated the 
+
+question  of  whether  imaging  data  might  itself  function  as  a  means  of  assembling,  and  not 
+
+simply  driving,  specific  compositional  routines—to  operate  algorithmically  in  its  own  right, 
+
+rather than as an array of stored values. Such ideas were inspired partly by Farocki’s (2004) 
+
+notion of the ‘operative image’, in which visual data rarely exists for human prehension alone, 
+
+but  instead  is  transformed  and  manipulated  across  an  array  of  machinic  contexts  for  the 
+
+automated  fulfilment  of  specified  operational  goals.  From  this  perspective,  the  source 
+
+phenomena  driving  these  sensory  routines  are  treated  not  as  exteriorities  to  be  simply 
+
+recorded, but as structures awaiting execution: to be parsed and reprogrammed into a more 
+
+orderly,  comprehensible,  and  manipulable  structure—an  expression, 
+
+indeed,  of 
+
+the 
+
+foundational paradigm behind all digital computing and signal processing architectures, and 
+
+their predominant employments subsequently. Being so deeply embedded, the challenge is 
+
+to find ways of making visible these aspects that otherwise manifest far beyond the spatial 
+
+and temporal scales of the human senses. 
+
+ 
+
+A  second  enquiry  coming  out  of  Waveform  concerned  what  other  kinds  of  textual 
+
+formation might be enabled through an image-to-text generation process. In Waveform, the 
+
+outputs were formatted to resemble very short poetic statements, and I initially characterised 
+
+these as such, somewhat playfully. Nonetheless, while I found the image of a drone writing 
+
+poetry rather appealing—in contrast to the threatening,  gravely utilitarian tropes  associated 
+
+with drones in popular discourse—audience reactions have tended to dwell on the final output 
+
+text itself as the ultimate end of the generative process, rather  than it forming but only one 
+
+aspect.  Text  resembling  traditional  modes  of  prose  and  poetry  certainly  encourage  such 
+
+reactions, along with their associated questions about AI routines replacing human agency. 
+
+This  belies  the  fact  that  drones  and  imaging  algorithms  are  machinic,  more-than-human 
+
+formations that parse the world in ways beyond the frames of language—and the same applies 
+
+to the text generating routines I have sought to connect them to. Therefore, I sought to explore 
+
+how these operations might be captured better in the character of the generated outcomes, to 
+
+bear  out  the  structures  and  processes  from  which  they  have  emerged,  and  so  facilitate 
+
+reflection on these aspects. 
+
+ 
+
+One last point of creative response, giving shape to the very subject matter of Landform, 
+
+is  that  Waveform  engages  the  most  visible  manifestation  of  a  more-than-human  world 
+
+undergoing a continuous process of becoming, the coastline, and I wanted subsequently to 
+
+depict  settings,  and  engage  themes,  that  are  more  suggestive  of  the  multitude  of  ways  in 
+
+which ostensibly natural landscapes bear the marks of human activity—a foundational theme 
+
+of much eco-critical thought around the exact status of the ‘natural’, especially in an age of the 
+
+Anthropocene hypothesis. 
+
+ 
+
+It is from within these dialogues of thought and practice that the catalyst for Landform 
+
+has emerged. This project takes the form of landscapes photographed from the vantage point 
+
+of  a  low-flying  camera  drone,  before  having  these  images  parsed  through  a  program  that 
+
+converts its constituent brightness signatures into circuitous, diagrammatic visual algorithms. 
+
+The instructions encoded within this algorithm are then executed with the aid of a specially 
+
+developed interpreter routine, composing a generative textual formation that draws from the 
+
+vocabularies  of  scholarly  texts  discussing  ecological  concerns.  This  formation  does  not 
+
+manifest  as  a  conventional  block  of  text,  but  is  encoded  as  a  JSON  (‘Javascript  Object 
+
+Notation’) object, which is a simple data structure consisting of labelled attribute tags and their 
+
+associated values—in this case, keywords followed by arrays of interrelated words. This JSON 
+
+object  is  placed  subsequently  alongside  the  visual  algorithm  and  its  source  to  constitute  a 
+
+triptych of images that illustrate each stage of the creative process (see Fig. 1). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+main: { 
+ 
+δ: { 
+ 
+ 
+ 
+
+}, 
+Φ: { 
+
+engage: [investigate], 
+
+symbolic: [linguistic, 
+logical], 
+
+ 
+ 
+
+}, 
+Ψ: { 
+
+real: [urban, organic, 
+architectural, technical], 
+
+}, 
+
+ 
+}; 
+
+ 
+
+ 
+
+Fig. 1. A depiction of the final outputs. Note that the text in the bottom-right image 
+is a highly abridged excerpt from the far longer sequence generated by the visual 
+algorithm in the bottom-left. The source text for this piece was Parikka (2015). 
+
+To unpack more slowly this highly elliptical undertaking (although constraints of space 
+
+prevent a fully detailed account), it can be noted firstly that in its prototype iteration, Landform 
+
+is sourcing its imagery from a series of drone flights conducted over parts of North Cornwall, 
+
+in  the  United  Kingdom—encompassing  a selection  of  moorland regions  and  coastal  areas. 
+
+This  footage  was  taken  considerably  before  the  current  COVID19  pandemic  and  its 
+
+accompanying travel restrictions, and not, initially, with the intention of it being used as part of 
+
+an artistic project. Nevertheless, what is captured in the existing footage are sites inscribed by 
+
+the marks of human activity in various guises—from quarries, to runways, to the ghosts of iron 
+
+age communities. Despite its official status as an area of ‘Outstanding Natural Beauty’, with 
+
+its idyllic implications, there is no area of North Cornwall that does not bear the signs of human 
+
+settlement,  cultivation,  and  extraction,  and  this  affords  an  apposite  opening  domain  for 
+
+capturing  the  ecological  entanglements  driving  Landform.  Once  the  safety  concerns  of  the 
+
+pandemic abate, it is planned to visit other such areas across the United Kingdom, and  so 
+
+explore their complex status as sites that celebrate the more-than-human ‘natural’ world while 
+
+being firmly marked and enclosed by human activity. 
+
+ 
+
+The  transformation  of  the  gathered  landscape  imagery  into  poetry  is  a  necessarily 
+
+complex, multistage process. Initially, the digital images are processed by a system that treats 
+
+them  only  as  an  array  of  grayscale  brightness  signatures.  These  signatures  cue  a  plotter 
+
+algorithm  that  draws  across  the  surface  of  this  grayscale  array,  with  the  differences  in 
+
+brightness  between  individual  and  contiguous  blocks  of  pixels  determining  its  directional 
+
+vectors—the only constraint being that it is not permitted to overlap previously inscribed areas. 
+
+The coordinates that make up this plotter trail are then processed by another routine that treats 
+
+these vectors as a series of encoded instructions—effectively, what might be characterised as 
+
+an elementary ‘esoteric’ visual programming language. These instructions are then used to 
+
+navigate and actualise a multi-dimensional data-structure generated by a separate routine that 
+
+charts  the  detected  relations  between  different  grammatical  units  in  a  source  corpus.  The 
+
+instructions  of  the  visual  algorithm  effectively  specify  a  series  of  lookup  coordinates, 
+
+determining  which  sequences  of  interrelated  words  are  pulled  out  of  this  data  structure  for 
+
+composing the final textual formation. The specific use of the JSON format, as a means of 
+
+rendering this text, allows its word sequences to be grouped and displayed in a manner that 
+
+adheres closely to their encoded representations in the system, and thus, their status as a 
+
+data objects generated by machinic modes of textual parsing. 
+
+ 
+
+The  source  texts  themselves  are  currently  a  mixture  of  academic  works  exploring 
+
+ecological writing, sensory apparatus, or media materialities, such as Barad (2003), Edwards 
+
+(2020),  Engelmann  (2021)  and  Parikka  (2015).  While  none  of  these  sources  could  be 
+
+discerned or reconstructed by examining the final JSON object into which they are arrayed 
+
+(relying instead on citations in their accompanying artist’s statements) the latter nonetheless 
+
+articulates a partial map of their lexical relations. The creative and critical gesture here is to 
+
+concretely entangle these texts within the very systems, sensors, and digital apparatus they 
+
+explore  and  critique,  and  thus,  in-turn,  highlight  the  discourses  surrounding  these  systems 
+
+concerning how they parse and render the world as perceivable and knowable. 
+
+ 
+
+Taken as a whole, Landform is an effort at developing a hybrid, visual-textual work that 
+
+advances  the  kinds  of  speculative  digital  platforms  I  have  outlined  above,  wherein  the 
+
+entanglements  between  human  and  more-than-human  domains  (whether  environmental  or 
+
+machinic)  are  staged,  refigured,  and  depicted  as  being  materially  and  conceptually 
+
+inextricable. What distinguishes Landform in-particular from my previous work with Waveform 
+
+and Orbital Reveries is its deployment of sensory information not simply as a motive source 
+
+of variation, but as constituting a structured schema that translates into specific compositional 
+
+instructions. The landscape images are treated as executable environments in a very concrete 
+
+sense, as being already-enfolded within the functioning of the machinic routines through which 
+
+it is prehended, as opposed to being only visual renderings of camera data for human eyes, 
+
+or  topographies  for  analytical  enclosure  by  machine  vision.  The  result  is  the  multiple 
+
+interlinking  of  environments,  sensors,  software,  and  scholarly  texts  to  generate  a  highly 
+
+distributed,  contingent  assembly  of  energies  and  materials  that  renders  the  world  in  ways 
+
+significantly  removed  from  the  utilitarian,  regimenting  imperatives  associated  with  extent 
+
+sensory  regimes  of  automated  data  gathering  and  processing,  or,  indeed,  the  frequently 
+
+delimited modes of expression that typify academic knowledge-making. These dynamics have 
+
+a hand in the perils of the present moment, and their refiguration, I venture, shall become ever 
+
+more necessary as the worldly formations on which their stability is predicated start to unravel 
+
+and transform in increasingly unpredictable ways. 
+
+ 
+
+As  highlighted  throughout  this  discussion,  the  creative  and  critical  potential  of 
+
+speculative  digital  art  is  not  necessarily  to  be  found  in  its  articulation  of  explicit  messages 
+
+concerning the current state and future implications of the contemporary environment, as to 
+
+offer  suggestive  conjunctions  of  technology,  discourse,  and  form  that  denaturalise  and 
+
+reformulate existing structures and processes. The hazards here, of course, are its reliance 
+
+on an onlooking audience being willing to think across these elements, and to understand the 
+
+creative  and  critical  gesture  at  work  as  much  in  terms  of  its  enabling  processes  as  the 
+
+outcomes  generated—and,  for  the  latter,  a  disposition  to  view  them  outside  the  genre 
+
+categories  within  which  they  might  be  associated  or  confined.  However,  on  this  point,  the 
+
+seemingly ‘alien’ character of such work presents its own interpretative challenges, and the 
+
+intended qualities of the artworks outlined in this paper do not necessarily become apparent 
+
+when their outputs are viewed in isolation. Nevertheless, I would forward that the potential for 
+
+such  interpretative  aporia  is  not  necessarily  a  failing,  for  the  goal  of  speculative  work,  as 
+
+mentioned  previously,  is  not  the  production  of  delimited  narratives  and  defined  points 
+
+reflection,  but  to  catalyse  further  creative  vectors  of  intrigue  and  enquiry.  To  borrow  the 
+
+evocative  phrase  of  author  Michael  Joyce  (1988),  when  characterising  the  hypertextual 
+
+beginnings of electronic literature, these speculative platforms, I venture, represent ‘versions 
+
+of  what  they  are  becoming:  a  structure  for  what  does  not  yet  exist’,  and  so  are  a  means 
+
+towards not the realisation of definitive answers, but for instigating and developing ongoing 
+
+conversations  around  how  ecology,  technology,  and  knowledge-making  facilitate  specific 
+
+modes of  being in the world, while,  by the same turn,  affording the potential for other such 
+
+ways of living and understanding. It is these conversations that are the foundation of my artistic 
+
+and academic practice thus far, and it is a privilege to explore where they may yet lead. 
+
+ 
+
+References 
+
+ 
+
+Agre, P. (1997) Toward a Critical Technical Practice: Lessons Learned in Trying to Reform 
+
+AI. Available at: https://pages.gseis.ucla.edu/faculty/agre/critical.html (Accessed: 1 May 
+
+2021). 
+
+ 
+
+Barad, K. (2003) ‘Posthumanist Performativity: Toward an Understanding of How Matter 
+
+Comes to Matter’, Signs: Journal of Women in Culture and Society, 28(3), pp. 801-831. doi: 
+
+https://doi.org/10.1086/345321. 
+
+ 
+
+Carpenter, J.R. (2016) The Gathering Cloud. Available at: 
+
+http://luckysoap.com/thegatheringcloud/ (Accessed: 1 May 2021). 
+
+Carpenter, J.R. (2018) This is a Picture of Wind: A Weather Poem for Phones. Available at: 
+
+http://luckysoap.com/apictureofwind/ (Accessed: 1 May 2021). 
+
+ 
+
+Carpenter, J.R. (2019) The Pleasure of the Coast. Available at: 
+
+http://luckysoap.com/pleasurecoast/ (Accessed: 1 May 2021). 
+
+ 
+
+Carter, R. (2018) ‘Waves to Waveforms: Performing the Thresholds of Sensing and Sense-
+
+Making in the Anthropocene’, Arts 7(4). doi: 10.3390/arts7040070. 
+
+ 
+
+Carter, R. (2021) Orbital Reveries. Available at: http://richardacarter.com/orbital-reveries/ 
+
+(Accessed: 1 May 2021). 
+
+ 
+
+Chwałczyk, F. (2020) ‘Around the Anthropocene in Eighty Names—Considering the 
+
+Urbanocene Proposition’, Sustainability 12(11). doi: https://doi.org/10.3390/su12114458. 
+
+ 
+
+Edwards, D. (2020) ‘Digital Rhetoric on a Damaged Planet: Storying Digital Damage as 
+
+Inventive Response to the Anthropocene’, Rhetoric Review, 39(1), pp. 59-72. doi: 
+
+10.1080/07350198.2019.1690372. 
+
+ 
+
+Engelmann, S. (2021) ‘Geopoetics: On Organising, Mourning, and the Incalculable’, Dialogues 
+
+in Human Geography, 11(1). doi: https://doi.org/10.1177/2043820620986398. 
+
+ 
+
+Jones, N. (2020) ‘Distributed Critique: Critical New Media Art as a Research Environment for 
+
+the  Post-Humanities’,  Parse,  12.  Available  at:  https://parsejournal.com/article/distributed-
+
+critique-critical-new-media-art-as-a-research-environment-for-the-post-humanities/ 
+
+(Accessed: 1 May 2021). 
+
+ 
+
+Joyce, M. (1988) Siren Shapes: Exploratory and Constructive Hypertexts, in Wadrip-Fruin, N. 
+
+and Montfort, N. (eds.) The New Media Reader. Cambridge, M.A.: The MIT Press, pp. 614-
+
+624. 
+
+ 
+
+Naji, J. (2021) Digital Poetry. Palgrave Macmillan. 
+
+ 
+
+Parikka, J. (2015) ‘Mutating Media Ecologies’, continent, 4(2), pp. 24-32. Available at: 
+
+https://web.archive.org/web/20200712170215/http://continentcontinent.cc/index.php/contine
+
+nt/article/view/183 (Accessed: 1 May 2021). 
+
+ 
+
+Raley, R. (2011) ‘The Ecological Turn in Contemporary Digital Poetics’, Contemporary 
+
+Literature, 52(4), pp. 883-912. Available at: https://www.jstor.org/stable/41472497 
+
+(Accessed: 1 May 2021). 
+
+ 
+
+Tisselli,  E.  (2021)  ‘The  Gate:  A  Game-Essay  on  Coexistence  and  Spectrality  in  the 
+
+Anthropocene’, The Digital Review, 0. doi: https://doi.org/10.7273/g4jb-3d52. 
+
+

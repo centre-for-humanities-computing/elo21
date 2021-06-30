@@ -1,0 +1,40 @@
+:
+Following the increasing hypertext practice in digital culture over the past decades, reinventing the medial
+mode of academic publication becomes desirable to open up new research practices and knowledge
+production. New digital platforms are taking practice-based steps towards more multimodal publications.
+This paper examines the born-digital book Pathfinders: Documenting the Experience of Early Digital
+Literature by Dene Grigar and Stuart Moulthrop which was published in the humanities publication
+platform Scalar. In Pathfinders, four classic works of electronic literature are documented using a
+combination of Traversals (filmed walkthroughs by authors and readers), filmed interviews and carefully
+described and photographed physical materials. As such, Pathfinders is positioned as a DH practice to
+"rescue" early works of electronic literature from both technological obsolescence and oblivion.
+
+56
+
+ELO 2021 - abstracts
+
+Using the ‘Follow the Thing’ method, I trace the various stages in the publication to induce the themes
+that are important for born-digital publications. The first stage is the technical platform Scalar and its
+technological affordances. The second stage is the scholars’ adoption and appropriation of the platform
+for their own purposes. The third stage is the media text, the born-digital book publication, and its
+media-specific arguments. The fourth and final stage is the reader’s experience of the multimodal book.
+
+Through a combination of interviews (with author Dene Grigar and two readers), textual analysis, and
+literature review, I distill the themes that are key in this publication. The first theme is platform adoption.
+Here, I focus on the technological affordances of Scalar in relation to the use of Scalar by the authors and
+readers of Pathfinders. This includes a discussion on software sustainability in terms of labor as well as a
+media analysis on the 'bookishness' of the work. A second theme that arose is the implementation in
+institutional and academic publication structures. Previously mainly researched in the context of digital
+pedagogy, I take this to a new level by considering how Pathfinders has fared as a seminal publication in
+the field of electronic literature and the role of accessibility in its functioning as an academic resource.
+Third, I focus on the technological context, which includes a reflection on the embedded media as an
+iteration of the metainterface paradigm and the role of documented physical materials in the
+understanding of early electronic literature. Finally, I discuss the theme of documentation and publication
+as a research value. Pathfinders is a prime example of the argument the documentation needs to be at
+the center of research on ephemeral media, using the platform's tool and functionalities to highlight this in
+the book.
+
+My video presentation and article provide a nuanced understanding of Pathfinders, using video clips from
+the various interviews. I take my analysis into a broader perspective by considering how this
+understanding can be extrapolated for other born-digital publications.
+

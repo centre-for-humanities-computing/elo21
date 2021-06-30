@@ -1,0 +1,707 @@
+ELO 2021 
+
+ 
+
+ 
+
+Theorizing, Teaching and Preserving a Platform-Specific eLit 
+
+TabLit: 
+
+Jason Boyd, Ryerson University 
+
+1 
+
+Tablet computers such as the iPad come with standard technological affordances that other 
+
+computers such as laptops and desktops do not have as a default, such as touch screens, 
+
+gyroscopes, and accelerometers. Their simplicity of design, consisting of a flat screen with no 
+
+required user peripherals (such as a mouse and keyboard), and their manipulability (they can be 
+
+held in one hand, utilized assuming multiple bodily postures, held at different angles and in 
+
+various distances from one’s face, and easily switched between portrait and landscape 
+
+orientations) have opened new creative opportunities for multimedia authors. In doing so, 
+
+‘TabLit’ (or ‘AppLit’) has challenged scholars, teachers and preservationists of eLit to take 
+
+cognizance of the unique features of the platform which has enabled and shaped this body of 
+
+work. This presentation represents a very preliminary foray into delineating and foregrounding 
+
+some of the key issues of TabLit from theoretical, instructional, and preservation and access 
+
+perspectives. It will first describe four tablet-based works of eLit in order to demonstrate the 
+
+creative potential of this technology and its value as an object of scholarly study. These works 
+
+are Erik Loyer’s Strange Rain (2010), Tiger Style’s Spider: The Secret of Bryce Manor (2009), 
+
+Simogo’s DEVICE 6 (2013), and Semyon Polyakonskiy’s Maginary (2020). Second, it will describe 
+
+a pilot tablet lending program the author developed with his university library in order to 
+
+ensure that tablet-based works assigned in a Ryerson University course (“Narrative in a Digital 
+
+Age”) were accessible to students. It will outline some of the challenges this pilot faced, 
+
+including students’ tablet/tabLit literacy and technological obsolescence. This last challenge 
+
+ELO 2021 
+
+2 
+
+offers a germane segue way into the final topic, preservation and access, a key concern for both 
+
+scholars and teachers of tabLit/eLit. 
+
+TabLit as a subgenre of eLit 
+
+ 
+
+Although they are computers, tablets are not the same as desktops and laptops. In 
+
+many respects, they are technologically closer to smartphones—indeed they could be described 
+
+as smartphones without the phone (assuming a tablet does not have a SIM card enabling it to 
+
+connect to a cellular network). Smartphones and tablets have a specific operating system, iOS 
+
+or Android, to deal with the hardware specificities of these devices, such as touchscreens, 
+
+gyroscopes, accelerometers, built-in microphones, cameras, and GPS chips. In terms of 
+
+technological design, size, and manipulability, tablets are much closer than other computer 
+
+types to an approximation of the book/book page, and thus it is not surprising that they have 
+
+been used as a medium for eLit. Although some works of TabLit simulate the ‘turnable’ pages of 
+
+the print book or codex (enabling the turning of a page by either dragging or tapping one’s 
+
+finger on a page edge or corner), others radically rethink the idea of ‘the page,’ requiring the 
+
+development of a new poetics of the page. In large part due to the touch screen, two common 
+
+design paradigms can be distinguished in the design of the tabLit page/screen: the indexical or 
+
+digital instrument, which require requires skilled use of a (usually the index) finger (or multiple 
+
+fingers), and the frame and infinite page, where the tablet screen becomes a ‘moveable’ 
+
+viewing window over a page that extends in multiple directions beyond this window. This 
+
+second paradigm can be extended to TabLit that feature digital pages that remain bounded 
+
+within a frame but which undergo transformations prompted by multiple types of reader input 
+
+(using various technical affordances of the tablet). 
+
+ELO 2021 
+
+3 
+
+ 
+
+Erik Loyer is well-known in the eLit community for his innovative uses of digital 
+
+technology for creative and critical work, and, unsurprisingly, he was an early explorer of the 
+
+creative possibility of the tablet. His 2010 work, Strange Rain, can be classified as a “textual 
+
+instrument,” defined in the Electronic Literature Collection Volume One as: “A work written and 
+
+coded in such a way that it is capable, by analogy with a musical instrument, of playing 
+
+numerous compositions. The reader is invited to become an expert player of the piece, for skill 
+
+at manipulating it, above and beyond familiarity with how with its interface works, yields 
+
+reading and viewing rewards. A closely related idea is that of the instrumental text, where an 
+
+interface allows manipulations of a particular piece of writing in an interesting way” (“Textual 
+
+Instrument”). As Loyer notes in the App Store description: “Strange Rain turns your iPad, 
+
+iPhone, or iPod touch into a skylight on a rainy day. Raindrops fall and splatter on your screen, 
+
+shifting perspective in 3D as you tilt your device like a handheld camera. Touch the screen and 
+
+guide the path of the raindrops, stepping through the notes of an eerie melody as you go. It’s a 
+
+relaxing, intriguing experience that feels as if you’re holding a living window in your hands.” In 
+
+Strange Rain, the primary challenge is to experiment with various combinations of tapping and 
+
+dragging a range of fingers on/across the screen using various tempos and press durations, 
+
+allowing one to manipulate images, sounds, words, and sentences in various modes (Wordless, 
+
+Whispers, Story). The Story mode has iOS Game Center achievements (19 in total) which 
+
+encourages the user to persist in teasing out the thoughts of the character Alphonse—as he 
+
+stands in rain processing his sister’s involvement in a car crash—through haptic exploring and 
+
+experimentation. A video of the artist himself demonstrating the functionalities of Strange Rain 
+
+can be watched here. As Mark Sample notes in a 2012 talk, we have developed a “camcorder 
+
+ELO 2021 
+
+4 
+
+subjectivity”  as a result of habitually “viewing the world through devices [i.e., smartphones and 
+
+tablets] that have cameras on one end and screens on the other” and Loyer, in an email 
+
+exchange with Sample, noted that “[a]s people began to play the piece, many of them held it up 
+
+over their heads so that ‘it looked like the rain was falling on them from above—many people 
+
+thought that was the intended way to play the piece’” (Sample)—a posture only possible with a 
+
+mobile device like a tablet or smartphone. 
+
+ 
+
+A quite different digital instrument from Strange Rain is Tiger Style’s Spider: The Secret 
+
+of Bryce Manor. In this work, the user controls the titular spider, who can crawl on surfaces by 
+
+pressing and dragging a finger on the touch screen, jump between surfaces with a quick finger 
+
+swipe, and spin a web with a tap (to anchor a strand of silk on a surface) and a swipe (to jump 
+
+and attach the other end of the strand to a different surface). This is the core of the gaming 
+
+aspect of Spider, but, as Spider's subtitle suggests, it is also a story (or perhaps more accurately, 
+
+a potential story), told exclusively through images of the Manor's rooms and spaces in which 
+
+the spider moves. This story, increasingly disquieting and moving as it emerges over the course 
+
+of the game, concerns the fortunes and fates of the absent Bryce family, which revolve around 
+
+a hidden family treasure and what appears to be a romantic triangle involving the two Bryce 
+
+sons. A playthrough of Spider can be watched here.  
+
+ 
+
+One of the most intriguing aspects of Spider is that this digital touchscreen gameplay is 
+
+completely independent from the story concerning the Bryce family, which might initially 
+
+suggest that it is an irrelevant 'gamification' add-on, potentially diluting the impact of the story. 
+
+To survive, the spider must feed by ‘spinning’ webs to trap a variety of insects that fly into that 
+
+space (the one exception is hornets, which are caught by tackling them in mid-leap—very fun!). 
+
+ELO 2021 
+
+5 
+
+Spinning webs increases the need to feed; conversely, the spider needs to feed to replenish the 
+
+silk it needs to spin webs. Another familiar game element are the statistics provided at the end 
+
+of each level (score, time to completion, bugs eaten, greatest number of bugs caught in one 
+
+web, number of silk threads used, number of webs created, percentage of web coverage of 
+
+room, web with most number of sides), which encourage the user to hone and perfect their 
+
+digital skill as a webspinner. Does all this 'gaminess' devalue the story of Spider? Does playing a 
+
+non-human, indeed a widely feared and reviled insect avatar that doesn't (and indeed, can't) 
+
+care about the story, diminish its meaningfulness for the player? Typically, the presence of 
+
+spider webs on the furnishings of a room evinces a state of abnormality in human life and gives 
+
+rise to foreboding. It is the conjunction of spider web and human domesticated space that 
+
+makes Spider so emotionally compelling: in the Bryce Manor rooms, the player is compelled to 
+
+act 'instinctively' as a spider that does not and cannot care about the humans who moved in 
+
+the spaces which now are inhabited only by insects, that has a complete lack of interest in 
+
+anything but its own survival. That the player, through the spider, digitally enacts this instinct-
+
+driven indifference, progressively authors, room by room, a home whose spiderwebs stand as 
+
+testimony to its being utterly devoid of human life, serves to amplify the poignancy of the story 
+
+rather than diminish it. 
+
+ 
+
+Moving to the second tablet design paradigm, the frame and infinite page, Simogo’s 
+
+DEVICE 6, in terms of design, is very bookish, even print-like, in its use of letterpress fonts, 
+
+typography, ornamentation and layout: as you can see in Figure 1, DEVICE 6 draws on 
+
+writing/typographic traditions like shaped text, here with the text visually representing the 
+
+spiral staircase the character Anna climbs. 
+
+ELO 2021 
+
+6 
+
+Figure 1: A portrait-orientation view of a portion of the ‘infinite page’ of a DEVICE 6 chapter. 
+Note how the text moves from a horizontal alignment along the bottom to a vertical alignment 
+up the spiral. The text actually does spiral as the reader drags their finger down (to move up). 
+
+ 
+
+ 
+
+Figure 2: A landscape view of a portion of the ‘infinite page’ of a DEVICE 6 chapter. 
+
+ 
+
+ELO 2021 
+
+7 
+
+Figures 1 and 2 also show how DEVICE 6 makes use of both portrait and landscape orientations, 
+
+which can be easily switched between because a tablet can be easily and comfortably rotated. 
+
+In each chapter of DEVICE 6, the entire chapter is essentially one page (a sort of text map of the 
+
+environment in which Anna moves) that you see portions of through the ‘window’ of your 
+
+tablet screen, and you move the ‘window’ over portions of that page by dragging your finger on 
+
+the touch screen. The idea of the “infinite page” is based on the concept of the “infinite canvas” 
+
+originated by Scott McCloud, the author of the popular Understanding Comics, and McCloud’s 
+
+concept is predicated on a vision of the computer screen as a window rather than a page, which 
+
+so many tablet ebooks still treat the screen as. What creative benefits does the infinite canvas 
+
+enabled by digital technology make possible? As McCloud notes, creators do not have to let the 
+
+restrictions of the page be the primary determinant, so they could have masses of white space 
+
+or scenery or as many panels as they felt was necessary to effectively convey the story, and 
+
+panels would not be in competition for page space. Creators in print can’t use page space to 
+
+visually convey distance or time because it uses up limited space. McCloud notes that the page 
+
+is an artificial, material division that is not part of the story; what happens on a single page does 
+
+not include the beginning and end of a story or even usually a break in the narrative. As well, 
+
+McCloud notes, the z-axis can be explored for its storytelling potential rather than being just a 
+
+gimmick. 
+
+In the same way that the player of DEVICE 6 and the iPad they are using are 
+
+incorporated into the story (as Player 249 and DEVICE 4, respectively), in Semyon 
+
+Polyakonskiy’s Maginary (2020), the reader and the tablet are explicitly incorporated into the 
+
+story: after typing one’s name in the space provided after “This book belongs to,” the reader is 
+
+ELO 2021 
+
+8 
+
+told at the start of Chapter 1 that the story “began at the very moment that [she/he] turned to 
+
+the next page of the book, which [she/he] had downloaded earlier from the App Store. … 
+
+[Player name] was reading a book, in which [she/he] was one of the main characters.” The book 
+
+starts off, in appearance and functionality, as a very conventional ebook with ‘turnable’ pages 
+
+(a digital simulacra of a codex book) but is quickly transformed by text-altering animations. The 
+
+role of the reader is to assist another character, Michael Sterry of Ipswich, England, who has 
+
+woken up in the book after previously having failed to finish “a strange book called Maginary.” 
+
+To help Michael, the reader has to manipulate many components of their tablet beyond the 
+
+touchscreen: these include the accelerometer, the brightness setting, the microphone, the 
+
+detachable power cable, and the camera. A walkthrough of Maginary is viewable here. 
+
+This brief survey of TabLit is not intended to be definitive or exhaustive of the tablet 
+
+affordances that can be used for creative purposes, but the hope is that these examples offer 
+
+compelling support for the uniqueness and value of tablets as a storytelling technology. 
+
+Teaching TabLit 
+
+For my upper undergraduate course, “Narrative in a Digital Age”, I wanted to be able to teach 
+
+works of TabLit such as those described above. However, I could not presume that students 
+
+would either own or have easy access to a tablet, nor could I require them to purchase a tablet 
+
+for the course. Accordingly, in 2015, a pilot project was created in which 10 iPads were made 
+
+available for short-term loan through the Ryerson University Library for a class of approximately 
+
+90 students. The Library already had a very successful laptop loan program in place, which this 
+
+pilot was modeled after. The pilot used a free app to manage the iPads: Apple Configurator. 
+
+Using this app, identical content and apps were deployed to all 10 iPads. The iPads in this pilot 
+
+ELO 2021 
+
+9 
+
+project were supervised devices. Supervision allowed the Library to configure settings and load 
+
+apps without students being able to remove them, as well as giving the Library control over the 
+
+enabling and disabling of features on the iPad. A dedicated MacBook was used to image the 
+
+iPads. An existing laptop cabinet with a USB Hub was used to connect iPads with the MacBook 
+
+in order to charge them as well as to transfer content and apps from the MacBook to the iPads. 
+
+When an iPad was connected to the hub, the MacBook redeployed the image to the iPad 
+
+including all the needed apps, erasing the apps previously deployed on the device. The pilot 
+
+used the Library’s reserve service model for laptops to lend out iPads. iPads could be loaned for 
+
+2 hours. 
+
+The redeployment using Apple Configurator did not always work perfectly, and 
+
+sometimes one or more apps were not loaded. Sometime students found some of the work 
+
+partially read or played through and were not sure in some instances how to restart or reset 
+
+the app. For privacy and security reasons, the iPads in the pilot had most functions besides the 
+
+TabLit works locked down. This disappointed some students, who wanted to be able to peruse 
+
+the assigned reading, take notes and complete the survey about the reading (on the LMS D2L 
+
+Brightspace) at the same time using the iPad (a multitasking that was possible with the laptop 
+
+loan program). Some students did not like the iPad loan program for the same reason students 
+
+do not like on-reserve print readings: they had to be physically present on campus in the Library 
+
+and had to do the work immediately and on-site (given the loan period).  One of the issues with 
+
+the 2-hour loan period was that it was almost impossible to determine how much time a 
+
+student might need to finish a given work: Strange Rain was open-ended, exploratory, 
+
+sometimes challenging to make progress in; DEVICE 6’s puzzles could sometimes be 
+
+ELO 2021 
+
+10 
+
+intellectually complicated; and Spider required close reading of the features of the rooms and 
+
+time to interpret what those features signified. Other assigned TabLit works not discussed here 
+
+similarly offered a plenitude of storylines or ergodic challenges that some students did not have 
+
+the aptitude or time to satisfactorily address. 
+
+The iPad loan pilot was successful enough that it was continued for two more years 
+
+(2016, 2017). In 2018, “Narrative in a Digital Age” was not offered. In 2019, the loan program 
+
+was revived, but by this time technical obsolescence was starting to become an issue; in part 
+
+because at least one of the TabLit works (Strange Rain) would not work on newer iOS versions, 
+
+we kept using the original iOS version from 2015 rather than updating it. In the most recent 
+
+offering of the course in Winter 2021, most of the TabLit were dropped, with playthrough 
+
+videos of DEVICE 6 and Spider being assigned rather than the works themselves, a less than 
+
+ideal scenario. Given the continual updates of tablet hardware and operating systems, and the 
+
+inability or disinterest of TabLit creators to constantly keep their works compatible with the 
+
+latest technology, whether the iPad loan program is sustainable in the long-term seems 
+
+unlikely. 
+
+Preservation and Access to TabLit 
+
+This last challenge offers a germane segue way into the final topic, preservation and access, 
+
+which is (or should be) a key concern for both scholars and teachers of TabLit. The issue of the 
+
+preservation and access to creative interactive digital work is not a new one, and, given the 
+
+recent demise of Flash, a very present issue; this paper will confine itself to addressing possible 
+
+solutions to making TabLit broadly accessible to a general public, including university 
+
+instructors and students (rather than a solution that is primarily accessible to researchers).  
+
+ELO 2021 
+
+11 
+
+As modern tablets are just over a decade old (originating 2009/2010), there is not as 
+
+robust an emulation culture for iOS/Android as there are for other systems; and while 
+
+emulators exist, they are mostly concerned with getting current versions of iOS/Android to 
+
+work on laptops and desktops. As well, the touch screen functionality, perhaps one of the most 
+
+defining interactive/navigational features of TabLit, cannot be emulated using a mouse and 
+
+keyboard as the means of interaction. Another solution is the recording and online archiving of 
+
+TabLit transversals. One example of this is the website and social media channels of the iOS 
+
+game reviewer, AppUnwrapper (https://www.appunwrapper.com/). Despite being only one 
+
+person, AppUnwrapper has, over the course of a decade (2011-2021) amassed an impressive 
+
+archive of reviews and walkthroughs of primarily iOS games focused on adventure and puzzle 
+
+games (which include games created on other platforms and ported to iOS): her YouTube 
+
+channel has 6,301 videos as of this writing. One of things that I find valuable about 
+
+AppUnwrapper is that her reviews are intelligent and informative and her walkthroughs 
+
+straightforward, with none of the juvenile silliness or ‘hardcore’ arrogance that characterize 
+
+other gamers who record their gameplay and views on games for public consumption: I usually 
+
+recommend her playthroughs of works assigned for “Narrative in a Digital Age.” For 
+
+AppUnwrapper, this work is business, and it’s unknown if she has considered or cares about 
+
+long term preservation of her work. In 2019, due to a misunderstanding, AppUnwrapper’s 
+
+YouTube account (which she uses to host her videos) was suspended and the videos removed, a 
+
+situation which thankfully turned out to be temporary—however, it was a reminder that such 
+
+services are not reliable in terms of ongoing preservation and access. 
+
+ELO 2021 
+
+12 
+
+In an article published in 2019, “We’re losing the history of the App Store,” Eli Hodapp, 
+
+who had been editor-in-chief for a decade of Touch Arcade, a review site for iOS games 
+
+(https://toucharcade.com/), announced he was leaving that post to take up a position at 
+
+GameClub (https://gameclub.io/), a subscription service that enables access to a “library of 
+
+iconic games.” In that article, Hodapp writes: 
+
+With each leap forward, pieces of the App Store's history became lost. Keeping your 
+
+games on the App Store requires regular maintenance - you have to support new screen 
+
+sizes and resolutions, operating system compatibility fixes, processor architecture 
+
+changes, and make other required tweaks as technology advances. Not to mention the 
+
+$99 per year developer fee. 
+
+…[T]o the disappointment of their fans, developers made difficult choices, often 
+
+leaving old titles in a state of disrepair, half-working or broken entirely, until they were 
+
+eventually removed from the App Store. 
+
+The largest purge of iOS games followed the release of iOS 11 [in September 
+
+2017], which no longer supported 32-bit apps. We called this the "appocalypse," and in 
+
+the blink of an eye, an unbelievable number of truly classic, critically acclaimed games 
+
+became unplayable…. As time went on, we realized that TouchArcade had inadvertently 
+
+become the archivists of massive swaths of iOS gaming history. Many of the best games 
+
+ever released on the App Store now only exist in reviews or YouTube videos we 
+
+published. 
+
+These games are effectively lost forever. 
+
+ELO 2021 
+
+13 
+
+GameClub, founded in 2019, ‘preserves’ older mobile games by updating their code so that 
+
+they will run on current tablet/smartphone operating systems. Their catalogue is to date fairly 
+
+modest. The business model is apparently premised on the expectation that there will be 
+
+enough gamers who will be willing to subscribe to its service in order to play older games they 
+
+will otherwise be unable to access (Spider is one of the games they offer). To what extent this 
+
+service’s appeal is not just nostalgic is unclear. The revenue from these subscriptions 
+
+presumably is being used to pay for updating future works and to provide some revenue to the 
+
+original developers. Whether TabLit such as Strange Rain or DEVICE 6 would ever be profitable 
+
+to include in such a service as GameClub is an open question.  
+
+ 
+
+How well do scholarly resources such as the Electronic Literature Directory 
+
+(https://directory.eliterature.org/) and the ELMCIP Knowledge Base (https://elmcip.net/) cover 
+
+TabLit? Unfortunately, not very well. The works discussed above that are covered are Loyer’s 
+
+Strange Rain (https://elmcip.net/creative-work/strange-rain) and DEVICE 6 (although this entry 
+
+is mostly empty), both on the ELMCIP Kb. While “tablet” is a searchable classification on ELD, 
+
+only two works are so classified: Lucas Pope’s indie videogame Papers, Please (2013), created 
+
+for Windows/Mac and ported to iOS in 2014, and Teju Cole's Seven Short Stories About Drones, 
+
+a series of tweets published to the author's Twitter feed in 2013. I would consider neither of 
+
+these to be true examples of TabLit. The ELMCIP Kb’s tag for “tablet” returns 9 items, although 
+
+the “iPad” page currently lists 70 items and the “iOS” page 114 items, under “Works developed 
+
+on this platform.” The “Android” page lists 44 items. Without going through the entries for each 
+
+item, it is unclear how many of these works were specifically created on iOS/Android and thus 
+
+ELO 2021 
+
+14 
+
+would be considered trye TabLit. A more careful application of tags would enable easier 
+
+identification of TabLit in these resources.  
+
+ 
+
+One suggestion for growing the content related to TabLit and works of eLit in general on 
+
+resources such as ELD and the ELMCIP Kb is to approach it through the teaching of eLit. The 
+
+ELMCIP Kb has a category “syllabus” (https://elmcip.net/category/teaching-resource-
+
+type/syllabus), and it is in a learning context that I find the need for resources like ELMCIP most 
+
+urgently needed. Collaborations between EMLCIP and eLit teachers, say in the form of targeted 
+
+edit-a-thons, would help develop a robust set of learning aids that would hopefully be used 
+
+year after year and that would maintain an audience for these resources. Content like 
+
+AppUnwrapper’s reviews and walkthroughs should be linked to ensure that entries go beyond 
+
+mere summaries of the work and give representations of the work itself. Ultimately, the value 
+
+of resources like ELMCIP depend on the extent to which they can provide or point to access to 
+
+the work itself, and therefore these resources should spend at least equal effort in finding and 
+
+providing access to (and, if possible, preserving) outside non-scholarly resources like 
+
+AppUnwrapper’s work.  
+
+ 
+
+ 
+
+ 
+
+ELO 2021 
+
+15 
+
+Works Cited 
+
+“Android.” ELMCIP Knowledge Base, https://elmcip.net/platformsoftware/android.  
+AppUnwrapper. https://www.appunwrapper.com/.  
+ 
+“DEViCE 6.” ELMCIP Knowledge Base, https://elmcip.net/creative-work/device6.  
+ 
+Hodapp, Eli. “We’re Losing the History of the App Store.” Gamesindustry.biz, March 5, 2019, 
+https://www.gamesindustry.biz/articles/2019-03-05-were-losing-the-history-of-the-
+app-store/2019-03-05-were-losing-the-history-of-the-app-store). 
+
+ 
+“iOS.”  ELMCIP Knowledge Base, https://elmcip.net/platformsoftware/ios. 
+ 
+“iPad.” ELMCIP Knowledge Base, https://elmcip.net/platformsoftware/ipad.  
+ 
+Loyer, Erik. Strange Rain. App Store Preview, https://apps.apple.com/us/app/strange-
+
+rain/id400446789. 
+
+ 
+-----. Strange Rain. Opertoon, http://opertoon.com/2010/11/strange-rain-for-ipad-iphone-ipod-
+
+touch/. [includes YouTube preview video]. 
+
+ 
+McCloud, Scott. “The ‘Infinite Canvas’.” Scottmccloud.com, February 2009, 
+
+http://scottmccloud.com/4-inventions/canvas/.  
+
+ 
+Polyakonskiy, Semyon. Maginary, 2020, https://www.maginary.app/. 
+ 
+Sample, Mark. “Strange Rain and the Poetics of Motion and Touch.” Samplereality.com, 
+
+February 5, 2012, http://opertoon.com/2010/11/strange-rain-for-ipad-iphone-ipod-
+touch/.  
+
+ 
+Simogo. DEVICE 6. 2013. https://simogo.com/work/device-6/.  
+ 
+“Strange Rain.” ELMCIP Knowledge Base,  https://elmcip.net/creative-work/strange-rain. 
+ 
+“Tablet.” Electronic Literature Directory, https://directory.eliterature.org/mechanisms/tablet.  
+ 
+“Tablet.” ELMCIP Knowledge Base,  https://elmcip.net/category/tags/tablet.  
+ 
+“Textual Instrument.” Electronic Literature Collection, Volume 1: Keywords. 2006, 
+
+https://collection.eliterature.org/1/aux/keywords.html.  
+
+ 
+Tiger Style Games. Spider: The Secret of Bryce Manor. 2009. 
+
+https://tigerstylegames.com/Spider/tsobm/.  
+
+ 
+
+

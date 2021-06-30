@@ -1,0 +1,537 @@
+ 
+
+ELO21 Susie Cronin 
+
+ 
+ 
+ELO21 : 28 May 2021/ Panel: Platform Possibilities and Beyond  
+Dr. Susie Cronin 
+ 
+“Interacting with Empathy: Migrant Narrative in the Context of Mobile Apps” 
+ 
+Abstract 
+ 
+This paper explores two mobile app narratives that deal with the issue of 
+perilous irregular migration, Survival (2017, Omnium Lab) and Bury me, my love 
+(2017, The Pixel Hunt/Figs/Arte France). This paper explores the way in which 
+the mobile app form lends itself to elevation of migrant narratives and explores 
+the capacity of such works to generate empathy.   
+The paper will analyse the way in which migration and its subjects are treated 
+and placed into relation with the notion of the game. The paper will also address 
+the comparison between game-style apps and other online modes whereby 
+migrant experience is being represented, such as that of humanitarian 
+photojournalism and portraiture as it arises in social media apps, such as 
+Instagram. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ELO21 Susie Cronin 
+
+ 
+Interacting with Empathy: Migrant Narrative in the Context of Mobile Apps 
+ 
+ 
+Introduction 
+ 
+This paper arose from my discovery on reading in the most recent IOM World 
+Migration Report, published in 2020, that migrant narratives have been rendered in 
+expressive digital forms, including the Survival narrative mobile app, which the report 
+specifically names.i Survival introduces itself in its Google Play store blurb 
+description as a ‘serious game about the human tragedy of migration.’ii I was curious 
+when I first read about the app, developed in Algeciras, Spain, by young Spaniards, 
+among them migrants and refugees, whether the apparent paradox of a ‘serious game’ 
+could succeed in representing the more fraught elements of migrant experience, 
+gamifyng without trivialising.  
+ 
+Perhaps the need to add a defensive epithet, ‘serious,’ gestures to the traditional 
+relegation of the game to light-hearted and simplistic subjects and aims. Apps such as 
+Survival fall not so much within the scope of the commercial video game, but rather 
+that which Rita Raley terms the ‘persuasive game,’ designated as an art practice, a 
+piece of instructive art, more so than a marketable product designed as an enjoyable 
+distraction from the ‘real’ world.iii Raley emphasises the particular aptitude of the 
+persuasive game form for dealing with ‘political themes such as labor, migrancy and 
+war.’iv  
+ 
+It is in this vein that I read Survival, as an app that undertakes the tools of ludics and 
+interactivity to relay a didactic experience. Of course, forced migration is not a game 
+to be played, but one of the most controversial and traumatic issues currently being 
+faced – or not, as the case may be - globally. In recent years, it has become apparent 
+that different approaches to generating, delivering, and elevating migrant and refugee 
+narratives are necessary, and indeed constructive, in order to promote understanding 
+and hopefully contribute to fairer, safer and more humane routes to safety.  
+ 
+While journalism and photographic reporting are essential in this regard, the starkness 
+of the facts and the not infrequent lack of objectivity and empathy exercised in 
+reporting to some degree fall short of the crucial rehumanisation of those affected by 
+issues such as trafficking, forced and/or irregular migration, and separation from 
+family members.v Gradually, certain outlets of the media can be seen to move away 
+from a distant, detached point of observation and instead take an approach that places 
+refugees at the centre of these stories, and the way in which personal accounts and 
+experiences are relayed offers a more complete picture of the complex lives of people 
+on the move. Moving away from a language dominated by crisis and tragedy, which 
+tends to facilitate a reductive understanding of these problems as somehow universal, 
+homogenous and irresoluble, innate in some way to the identity of those affected by 
+them, such an approach affords the opportunity to pluralise understandings and 
+elaborate on the many facets of migrant experience, not least the importance of 
+resilience, humour, collaboration, and strategy.  
+ 
+The fact that migrants participated in the creation of Survival, and that Bury me, my 
+Love was based on true experiences is encouraging, and supports the apparent turn 
+
+ 
+
+2 
+
+ 
+
+ELO21 Susie Cronin 
+
+taking place that suggests that migrant narratives are being reclaimed, recast and 
+internally reframed by communities of people on the move. Detection of this 
+representative shift, or at least the broadening of representative outlets, calls for a re-
+examination of the one-dimensionality of the migrant narrative paradigm as mobilised 
+by mainstream media, whereby media typically speak on behalf of such groups to a 
+presumed, detached, and materially comfortable audience, and invites further 
+exploration of these communities in terms of how they understand and represent 
+themselves from within. 
+ 
+Digital Journeys and Empathy  
+ 
+Luc Boltanski (quoted in Walker Rettberg) has argued that ‘the aestheticisation of 
+what we see in the media emotionally and morally insulates viewers from the 
+suffering of others.’vi However we might also choose to see the ways in which 
+aesthetics may be mobilised to make the suffering of others a more tangible and 
+relatable phenomenon. The media often fail to depict the faces of refugees, or 
+deliberately depict large groups of men, whereas portraiture offers the chance to break 
+this fourth wall and bring the viewer face to face with children on the move, as well 
+as observing interactions between families. While, on the one hand, the scrolling 
+Instagram user might find the sudden appearance of a refugee portrait a jarring 
+interruption to the pastel-hued interiors and stencilled lattes that dominate the 
+platform, these accounts hold a powerful capacity to disrupt apathy and serve as 
+strong and crucial reminders that this, too, is life.vii 
+ 
+While photography and storytelling over social media prove valuable as tools to 
+educate the broader public and restore human faces to sensationalised media reports 
+that run the risk of reducing these vulnerable lives to numbers, they are just one outlet 
+among many possibilities for the representation of the more human side of migration 
+narratives. Here I will explore two narratives set in the specific migration corridor 
+from Syria to Europe, that have as their backdrop the highly dangerous Mediterranean 
+routes. As distinct from more practically orientated apps, such as the Italian-
+developed app game Workeen, which provides migrants with information to assist 
+them in navigating the European job market, the apps I will discuss below are 
+specifically dedicated to storytelling and fostering engagement with the different 
+aspects of refugee’s journeys and experiences.viii 
+ 
+ 
+Survival 
+ 
+Survival is an app that is free to download, and which challenges the app user to align 
+with a migrant who is faced with a number of difficult decisions: in the first level, the 
+player’s avatar encounters a wolfish figure, depicting the common presence of people 
+smugglers in zones of conflict and socio-political upheaval. The conversation that is 
+generated offers the player options of two responses; to an extent they ‘choose’ the 
+unfolding of the conversation by deciding whether to disclose information or accept 
+offers of help from the stranger. Their interactive engagement with these choices 
+quickly demonstrates to the user how illusory and constrained the choices are for 
+those who find themselves in these vulnerable situations.  
+ 
+
+ 
+
+3 
+
+ 
+
+ELO21 Susie Cronin 
+
+The user navigates through the levels in Survival not so much in an embodied mode 
+but rather symbolised in the form of a quite nondescript human outline. The emphasis 
+is thus placed on the experience as one in which the user is implanted, rather than 
+centred in the perceptions of the figure whose journey they are undertaking. This is 
+quite distinct from the approach taken in the other app I will discuss later in this 
+presentation, Bury me, my love.  
+ 
+While the layout of the Survival app allows for sensitisation to the conditions under 
+which difficult, irregular migration takes place, arguably its power to convey the 
+depth of this experience is limited by the fact that it does not root its narrative levels 
+in a developing protagonist; something that makes it easier to dismiss the obstacles 
+encountered as inconveniences to be avoided, in the spirit of the game, rather than 
+fully contextualising the dangers that compel such decisions and give rise to these 
+struggles. One of the user reviews in the Google Play store reads ‘I like it but why 
+does the boat level have to take so long’ (sic.)ix   
+ 
+ 
+
+ 
+
+Level 1 of Survival 
+ 
+ 
+The Survival app is commendable for its general simplicity: the facts outlined at the 
+beginning of each instalment of the game contextualise the issues that come into play 
+as the user navigates the dark and testing landscapes. The language is objective and 
+informative; it is simple enough for older children and young adults to engage with. I 
+would like to think that the app could serve as an educational resource for parents 
+wishing to gently but realistically introduce their children to some of the issues faced 
+by those forced to undertake dangerous journeys and the struggles faced by people 
+seeking to construct a safe and dignified life outside of their country of origin.  
+ 
+Survival is just one isolated example of an app that deals with migrant and refugee 
+experience through game aesthetics and digital narrative; the organisation Games for 
+Change specialises in convening and fostering the development of games with a 
+social conscience that broaden on mainstream narratives of gender, culture and 
+society.x Games for Change have highlighted a number of games, apps, and VR 
+works that adopt migrant narratives in order to offer an interactive and educational 
+experience.  
+ 
+
+ 
+
+4 
+
+ 
+
+ELO21 Susie Cronin 
+
+Once such example is the narrative VR work, ‘Another Dream,’ which is not so much 
+a game as a virtual documentary that focuses on the specific LGBT refugee 
+experience of a young migrant couple. The narrative unfolds as an immersive digital 
+experience in which the protagonist recounts the couple’s flight from post-revolution 
+Egypt to seek asylum in the Netherlands. The creator of ‘Another Dream,’ Tamara 
+Shogaolu, believes in the use of first-person narration and the connection to the 
+protagonist’s voice as a vehicle for intimacy and empathy.xi 
+ 
+ 
+Bury me, my love 
+ 
+Indeed, the personal aspect adds greatly to the power of these narratives, and I would 
+argue that this is one of the weaknesses of Survival, and a factor that limits the app’s 
+scope for creating empathetic engagement. Characterisation in the app narrative, Bury 
+me, my love, by contrast, is highly compelling, and the way in which the narrative 
+entwines itself in the temporalities and tones of instant messaging is exemplary of the 
+great potential of the mobile app as a fitting platform and a promising vehicle for 
+immersive storytelling.xii The user grants the app permission to send push 
+notifications to their device, which means that the narrative unfolds at its own pace, 
+with the frequent interruptions and suspensions typical of communicating with 
+someone on the move. Just as Nour is at the mercy of doubts, obstacles, and delays 
+encountered on her journey, the app user must also wait patiently for the app to notify 
+them of updates or messages received. 
+ 
+In terms of characterisation, Bury me, my love attains a warm and believable register 
+from the outset. The dialogue resists any tendency towards melodrama, and in fact the 
+central couple are quite droll. While the dangers of Nour’s departure from Syria are 
+made clear, the tone of the exchanges is often deadpan, playful or ironic.  
+ 
+ 
+ 
+ 
+
+ 
+
+5 
+
+ 
+
+ELO21 Susie Cronin 
+
+ 
+
+Conversation between Nour (yellow) and Majd (white) in Bury me, my love 
+ 
+ 
+Nour and Majd’s exchanges are snappy and by no means overly sentimental. When 
+this chirpy tone breaks for a moment, it is exceptional. At one stage in the 
+conversation, Nour confesses to Majd that she is weary and fed up of the abuse she is 
+enduring. This is the first truly frank mention of difficulty in its pure form: hitherto 
+Nour has been playfully framing her interactions as a sort of adventure, whereby she 
+reckons mischievously with obstacles in her way, sneaking on the bus, for example, 
+with an almost impish spirit imbuing her descriptions. The very occasional frank and 
+jarring message comes as a sharp reminder that she is continually euphemising her 
+experience for Majd’s sake. Majd and the user that is aligned with him are equally 
+startled to hear this. It might be argued that at this point the reader is reminded to 
+query the truth of Nour’s accounts and they are thus compelled into a more actively 
+compassionate role, rather than a more passive and unquestioning receiver of the 
+accounts received from Nour as a plain relation of events. 
+ 
+This rare jab of the cruel reality that Nour is confronting is thus all the more powerful 
+as a generator of affect for its brevity, and its break from the conversations’ ‘usual’ 
+tone, insofar as it calls into question all that has been recounted previously, and what 
+else may not have been included in Nour’s accounts. Majd, when Nour relays to him 
+that she has been spat at countless times, as well as being insulted, is lost for words. 
+When the reply bleeps through this simulated conversation: “I had no idea…” it 
+serves as a reminder that we are merely living a mediated version of the experience 
+that Nour’s journey represents. The fiction she relays is a sort of self-defence 
+mechanism from the cruel realities of her journey. The ostensible intimacy, then, of 
+the communications between the couple cannot bridge the gap between the experience 
+
+ 
+
+6 
+
+ 
+
+ELO21 Susie Cronin 
+
+of struggle and the way in which it is recounted, lightened for an easier delivery to a 
+loved one. 
+ 
+
+ 
+
+Screenshot from Bury me, my love 
+ 
+ 
+In terms of the interactive dimension of the narrative, the app user adopts the role of 
+Nour’s husband, Majd, and they are given limited choices of how they respond to 
+Nour’s text updates. Occasionally the app prompts ‘Majd’ to send a selfie, which is 
+animated and provided as a feature within the app itself. The way in which Bury me, 
+my love inhabits the user’s device means that it runs parallel to the user’s real life, 
+their phone screen is interspersed with updates and cues to resume the conversation 
+between Majd and Nour. This fragmentation and spreading of the narrative gives 
+
+ 
+
+7 
+
+ 
+
+ELO21 Susie Cronin 
+
+depth to the journey depicted, conveying a more realistic sense of the delays and 
+distances involved.  
+ 
+The separation of the protagonists from each other is also conveyed by these 
+interruptions – Nour occasionally cuts the conversation short, wary of low phone 
+battery, etc. Majd, like the app user, benefits from relative stability, and the comfort 
+of convenient charging facilities, as Nour is the one who is on the move.  
+ 
+As Nour’s correspondent, the user is constrained to endure the same delays and 
+periods of suspense between updates. This tendency to advance to the next level that 
+characterises the game genre and feels more present in an app such as Survival is 
+largely absent from Bury me, my love. The user is held to adapt to the intradiegetic 
+logic and events of the narrative app and the journey it depicts. The app runs in the 
+background of the device user, who will occasionally receive a message notification 
+from the app along the lines of ‘made it past the Turkish border.’ 
+ 
+The above exchange reminds the user of Bury me, my love of the somewhat ironic 
+discrepancy between presence and access to information about one’s environment in 
+the Internet age. Nour is making her way clandestinely across borders and, due to her 
+limitations in access to phone charging facilities (at one point she jokes that ‘I doubt 
+I’ll find electrical outlets on the side of the road’), she is dependent on Majd to fill in 
+gaps in knowledge and provide information to her about the nature of her 
+surroundings. Despite being present ‘on the ground,’ Nour is not in a position to 
+circulate freely and ask for information in Eastern Europe, and certainly not to ask 
+questions in relation to immigration and border control updates. The above screenshot 
+is taken from an exchange of texts in which Nour relays that she is travelling in a 
+horsebox. Nour interrupts Majd’s quip about her deodorant coming in useful to tell 
+him ‘Well anyway/ You should look into Croatia because if we need a change of 
+plans I’d rather be prepared for it.’ Majd is reminded of his relative comfort with 
+regard to his access to information. We imagine his search for information paralleling 
+her journey and updates; when Nour updates Majd that she has arrived safely in 
+Belgrade but that there are ‘police everywhere / I’ll let you know as soon as I know,’ 
+we imagine he might search for news reports that might let him piece together some 
+context for these fragmentary images.    
+ 
+Unlike Survival, which has an introductory page with six thumbnails that signifies a 
+kind of index of the levels to be navigated, Bury me, my love is a narrative that gives 
+much less signposting to its user in terms of the duration of its unfolding. The 
+commitment of engaging interactively with Survival is quite measurable: the first 
+level is relatively brief, and it is one of six. There is no aerial view of Bury me, my 
+love’s breadth or the time it will take to unfold; from a user review, I gleaned that to 
+play the game from start to finish takes a total of 90 minutes, but this is not possible to 
+do uninterrupted, as the stalling and waiting on Nour’s end are important elements for 
+conserving the verisimilitude of the journey. In a sense, this conveys the urgency of 
+the communications the narrative depicts: the user finds themselves rushing to check 
+a notification, hopeful for promising updates on Nour’s progress. One review 
+criticised the largely one-sided nature of the dialogue, but one has to wonder whether 
+the didactic ambitions of the narrative should be privileged over the enjoyability of 
+the game or the opportunities for player participation.xiii  
+ 
+
+ 
+
+8 
+
+ 
+
+ELO21 Susie Cronin 
+
+The app has been largely praised by user reviews in the gaming community, which 
+respond positively to its characterisation and aesthetics. Depending on the user’s 
+selections and responses on behalf of Majd, the game has 19 possible endings. While 
+the title’s allusion to burial might be interpreted as harking to a tragic end, it is in fact 
+that translation of quite a common Syrian Arabic expression that is often used when 
+saying goodbye.  
+ 
+Another issue raised as a negative in reviews of Bury me, my love is the fact that the 
+player’s choices are not incentivised, there are no structures resembling rewards or 
+points to be won within the game.xiv The responses selected by the user simply stand 
+in for responses from Majd, which keep the narrative moving. There is no right 
+answer as such, neither of the two options prompts any kind of boost for the player. 
+For users playing for the emotional fluctuations and competitive energy commanded 
+by a more conventional video game, these aspects are naturally a little 
+underwhelming. It could be argued that this is more a categorisation issue than 
+anything else: the app is, strictly speaking, an interactive narrative more so than a 
+video game, and yet the relative novelty of the former genre means that apps such as 
+Bury me, my love will be advertised and categorised as games, and as a result assessed 
+against the criteria of the game, on account of the medium on which they are relayed 
+and their nonlinear structure. 
+ 
+The issue of the game as a questionable format for ‘serious’ or topical narrative thus 
+recurs, particularly considering the issue of categorisation. The interactive narratives 
+of Survival and Bury me, my love adopt the form of a game more so in the sense of 
+their interactive and engaging features – the enhancements that the app platform can 
+bring to otherwise linear prose or mono/dialogues – than in terms of transforming 
+their subject matter into something as light-hearted as a point-scoring exercise. That 
+said, in the first two levels of Survival, the player must navigate forwards, first 
+through a nocturnal medina, and then through the sea at night, collecting coins as they 
+move through the darkened streets and cross choppy waves.  
+ 
+These hallmarks of simpler games in which the player must collect ‘lives’ are 
+arguably not out of place in the context of Survival, which deals on an allegorical 
+level with conserving secrecy, safety, and resources. One mode in which we might 
+contemplate the seemingly problematic encounter between entertainment and social 
+issues that correspond to real-life peril and suffering is that of ‘pleasure activism,’ a 
+concept offered by author and social media phenomenon adrienne marie brown, who 
+argues that rendering the discussion and pursuit of social justice into forms that are 
+enjoyable need not be an issue per se, but indeed may serve as vital to the furthering 
+of progress on important social issues.xv 
+ 
+The way in which Bury me, my love runs adjacent to the user’s other social media and 
+messaging updates could also be read on an allegorical level, insofar as it is a 
+narrative that the user must choose to make space for. Permission must be granted to 
+the app; the user must choose whether its updates are of value to them, whether they 
+are something worth paying attention to. In the competition for attention that 
+implicitly runs between the competing apps in a device, each one nudging the phone 
+user to dive back in, the narrative of Bury me, my love must be intentionally accorded 
+elevated status. More than a narrative, if the player is to persevere with the game, they 
+
+ 
+
+9 
+
+ 
+
+ELO21 Susie Cronin 
+
+must adopt a sense of attachment and urgency in relation to Bury me, my love’s 
+protagonists and their fate. 
+ 
+ 
+Conclusion 
+ 
+The fact that these narratives are engaged with on a voluntary basis, and on devices 
+and through media usually reserved for entertainment, call for attention. The mobile 
+phone nonetheless represents an intersection between practicality and entertainment, 
+urgency and distraction. As distinct from mobile app platforms, VR narratives for 
+instance require the infrastructure and resources of a gallery space, which determines 
+to whom the work becomes visible. Galleries are undeniably gated spaces, frequented 
+by people who enjoy the freedom to dedicate their leisure to the deliberate 
+consumption of niche art forms. The use of the mobile app thus may be read as a 
+more democratic choice of platform in the case of these narratives, and a platform on 
+whose use the privileged person and the migrant may converge.  
+ 
+This paper has probed some of the initial questions surrounding app-based games as 
+instruments for encouraging empathy on social issues, and their ultimate potential to 
+function as catalysts for social change. Specifically thinking about two examples of 
+migrant narrative here, these ideas resonate also with the forms that have been 
+developed to explore the complexity of LGBT issues and violence endured by 
+members of this minority community. A return to the ‘persuasive game’ notion will 
+no doubt prove fruitful in gaining a fuller understanding of the game form beyond 
+ludics, operating more intentionally as a catalyst for change. 
+ 
+I would like to broaden on this by posing the question of whether the notion of the 
+‘serious game’ or ‘persuasive game’ inverts the traditionally held perception of the 
+video game form as rooted in fantastical escapism, instead engaging the player in 
+urgent immersion and confrontation with ‘real world’ issues. In the two examples 
+discussed here, characterisation was felt to be a crucial element to the engendering of 
+empathy in the app user. The reviews testify to a valorisation of authenticity and 
+believable characterisation that stands in contrast to the reductive idea of gamified 
+space as escapist and superficial. 
+ 
+In reference to the title of this panel, ‘Platform Possibilities and Beyond,’ I am 
+interested in the way in which migrant narrative can be captured and expressed not 
+only in the app narrative form, but also in terms of taking up space on social media 
+sharing platforms such as Instagram, dominated by commercially-sponsored and 
+heavily stylised content. Content created by people on the move and communities 
+traditionally marginalised by social media algorithms in my view stands to powerfully 
+transport the platform into an iteration beyond itself, salvaging storytelling from 
+collapse into mercantile boomerangs and seeding awareness and solidarity with social 
+justice issues. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+10 
+
+ 
+
+ELO21 Susie Cronin 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+iIOM World Migration Report 2020, https://publications.iom.int/system/files/pdf/wmr_2020.pdf; 
+viewed 7 January 2021. 
+iiGoogle Play Store, Survival App Description 
+https://play.google.com/store/apps/details?id=com.omniumlabstudios.peaceapp.survival&hl=en&gl=U
+S; viewed 7 January 2021. 
+iiiRaley, Rita. 2009. Tactical Media (Minneapolis : University of Minnesota Press), p.4.  
+ivIbid.  
+vThe sociologist David Fitzgerald, author of Refuge Beyond Reach: How Rich Democracies Repel 
+Asylum Seekers (Oxford: Oxford University Press, 2019) in fact began his career as a photojournalist 
+and changed paths partially due to issues in the way that media briefs limited the workings of 
+representation. (Zoom discussion, ‘Displacement: Global Conversations on Refuge,’ 28 January 2021).    
+viWalker Rettberg, Jill. 2014. Seeing Ourselves Through Technology (London: Palgrave Macmillan), p. 
+25.  
+viiThe information gained from analysing datasets from Instagram has given rise to interesting projects 
+that examine the way in which the platform showcases and perhaps indeed engenders inequalities. One 
+such project is Inequaligram, http://inequaligram.net/  
+viiiWorkeen, A Game for EU Labour Markets Integration,   
+https://play.google.com/store/apps/details?id=eu.sirius.workeen&hl=en&gl=US; viewed 7 January 
+2021 
+ixIbid.  
+x Games for Change, ‘About Us’, https://www.gamesforchange.org/who-we-are/about-us/; viewed 7 
+January 2021. 
+xiTola Onanuga, The Guardian, 28 May 2019, ‘Virtual Reality : How Women are Taking a Leading 
+Role in the Sector,’  https://www.theguardian.com/careers/2019/may/28/virtual-reality-how-women-
+are-taking-a-leading-role-in-the-sector; viewed 7 January 2021 
+xiiIcomedia, ‘Bury me my love’ https://www.icomedia.eu/bury-me-my-love/; viewed 7 January 2021. 
+xiiihttps://switchplayer.net/2019/12/21/bury-me-my-love-review/ 
+xiv“It effectively connects students with the harrowing journey of a Syrian refugee, even though some 
+of the interactive elements are underwhelming.” 
+ https://www.commonsense.org/education/app/bury-me-my-love 
+xvBrown, Adrienne Marie. 2019. Pleasure Activism: The Politics of Feeling Good (Chico, 
+
+California :AK Press) 
+
+ 
+
+11 
+
+

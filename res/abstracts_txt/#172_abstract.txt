@@ -1,0 +1,43 @@
+:
+William James famously defined attention in terms of focused concentration: an act of zooming in on one
+out of many possible objects. In our current hypermediated moment, such acts of focused attention have
+become more difficult, to the point where we have come to rely on multiple sources of input in order to be
+able to concentrate. How to decide what to attend to and what to disregard becomes a pressing aesthetic,
+ethical, and even political issue (if it hadn’t always been).
+
+Traditionally, literary studies have celebrated the close reading of texts in a mode of ‘deep’, focused
+attention, as a core skill. Yet in our present attention economy, where we are bombarded with texts and
+images from multiple sources and channels on a daily basis, attentional flexibility and modulation become
+sought-after skills as well. There is simply too much to read, and we do not always know beforehand what
+might turn out to be of importance.
+
+In this paper, I examine a range of works in electronic and digital literature to go beyond the juxtaposition
+of close or deep literary reading on the one hand, and hyperreading as modality of the information age on
+the other. I argue that this binary fails to grasp the different rhythms and modalities of literary reading.
+This becomes especially clear in the case of electronic works that incite us to combine a whole range of
+attentional stances and foci from broad to narrow, vigilant to absorbed to distracted, and deep to hyper.
+How do contemporary and older works of electronic literature both reflect and anticipate different modes
+of reading and attention? How does the design of the text and its utilization of platform affordances incite
+us to modulate our reading rhythm and attention?
+
+I examine such diverse works as Stuart Moulthrop’s hegirascope (1995); Jim Andrews’ Stir Fry Texts
+(1999-); the serial flash texts of Young-Hae Chang Heavy Industries; With those We Love Alive by
+Porpentine Charity Heartscape (Twine, 2014); Pry (Tender Claws, 2014); The Ice-Bound Concordance
+(Reid & Jacob Garb 2014), and the novella and ‘meditative story app’ Lotus (‘t Hooft & Freeke 2019). I
+make an inventory of devices that structure attention, including alterations of speed, expanding and
+contracting text, foregrounding and backgrounding devices, maximalist and minimalist forms, ‘useless’
+
+58
+
+ELO 2021 - abstracts
+
+text, pop ups, and time outs. Thus, I map out the ‘rules of un/notice’ (Rabinowitz 1987) for multimodal,
+digital works of literature, with attention to their platform- and media specific affordances. In my
+conclusion, I reflect on possible uses of electronic literature to inspire strategies of attending in
+increasingly information-rich environments.
+
+References
+
+Rabinowitz, Peter. Before Reading. Narrative Conventions and the Politics of Interpretation. Ohio State
+UP, 1987.
+

@@ -1,0 +1,475 @@
+1
+
+NetworksofNetLiterature:
+Modelling,ExtractingandVisualizing
+Reference-BasedNetworksintheDLAnet
+literaturecorpus
+
+MonaUlrich,Claus-MichaelSchlesinger,PascalHein,AndréBlessing
+ScienceDataCenterforLiterature (GermanLiteratureArchive,UniversityofStuttgart)
+ELOConference2021,AarhusUniversityandBergenUniversity
+
+Abstract
+In this essay, following (1) the introduction, we will (2) show explorative examples of network
+graphs extracted from net literature works that are part of a larger corpus of archived net
+literatureandelaboratethequestionhowthesecanbeusefulforfurtherresearch,(3)describe
+the corpus we are working with for developing our approach, (4) explain our model of
+references in web sites, (5) describe the software module Warc2graph which extracts
+referencesandthusnetworkinformationfromthearchivedWARCfilesinthecorpus.
+
+1Introduction:Hyperfictionitinerariesandnetworktopology
+“Zeit für die Bombe” (Berkenheger 1997, “Time for the Bomb”) is a complex hyperfiction by
+Susanne Berkenheger, where the reader follows Veronika and three other protagonists
+throughthenarrativeevolvingaroundabombinasuitcase.Theworkisbuiltofalargenumber
+of interlinked snippets. Snippets can lead to just one more snippet or they can lead to more
+than one. The reader thus constructs the line of events by choosing where to go next when
+presented with more than one option. Text snippets can have multiple incoming links and
+multipleoutgoinglinks.Readingitinerariescanleadtocertainsnippetsmorethanonce.Thus,
+each reading constructs a specific narrative through specific choices at these hypertextual
+intersections. Any individual itinerary will likely lead to some intersection snippets more than
+once, which gives the reader the possibility to explore the other paths ignored before. At the
+sametime,thenumberofsnippetsislargeenoughthattheoverallstructureofthetextisrather
+difficult to deduce from following more and different itineraries. The text adresses the reader
+explicitly in several reflexive passages where a choice leads to a snippet that starts with a
+
+2
+comment of that choice or musings about the motivation of the reader. Passing by a specific
+intersection several times during one itinerary through the text also reflects on the narrative
+structure and the constructive function of the reader and their reading. It points out the
+contingency of a certain choice. And with each different route a reader explores, they sketch
+atraceintotheirmemory,whichmightleadtoamapofthestory,shouldthatsketchbewritten
+down.
+The textual and narrative structure of “Zeit für die Bombe” can be approached both from the
+perspective of the itinerary experience and from the perspective of the overall structure that
+canbededucedbymappingalloptionsofferedbythetext.Modelingnetworksofnetliterature
+and interpreting these networks of net works needs to take into account both perspectives
+and not confuse the network topology data and visualization with a stable version of an
+otherwise dynamic object.1 At the same time, the network structure of a literary text can
+provideresearchapproacheswithspecificinsightsandhelpnavigatethetext.
+The surge of web archives and the need for analytics approaches in recent years have led to
+the development of
+frameworks that provide functions for the extraction of reference
+information from WARC files, notably the Archives Unleashed Toolkit (Lin et al. 2017) and
+LinkGate(EldakarandAlsabbagh2020).Bothframeworksextractreferenceinformationfrom
+the WARC header. References that were not written into the WARC header at crawl time are
+lost. Both frameworks provide functions for large scale analytics, where efficiency is a major
+factor. For our research on net literature, we need detailed representations of reference
+networks. In this scenario, best outcome, meaning the software catching all references that
+exist in a WARC file, is more important than computing efficiency. Our software module
+Warc2graph2 provides multiple methods for analyzing WARC header and payload data that
+canbecombinedinordertoachievemostdetailedresults.Sincethisiscomputationallycostly,
+Warc2graph is suitable for analyzing single site objects and small to medium web archives
+(asopposedtoanalyzingverylargewebarchives).
+
+1WeapplythenotionsofmapandrouteasdescribedbyMicheldeCerteau(deCerteau1988)inrelationto
+architecturalandgeographicalspaces.SeeLandow(1997)forhypertexttheoryandCiccoricco(2004)foramore
+detailedviewonthediscussionaboutcognitivemapsandtopologyofhypertextnarrative.
+2Codeforallreleaseswillbepublishedto https://github.com/dla-marbach/warc2graph.Thepackagecanbe
+installedfromthePythonPackageIndex,youcanfinditunder https://pypi.org/project/warc2graph/.Acurrent
+snapshot(Version0.1.1)inregardofthepublicationofthispapercanbeobtainedviaZenodo,DOI:
+10.5281/zenodo.4742254 (Heinetal.2021).
+
+3
+
+2AnalysissupportwithWarc2graph
+Warc2graph was developed for analysing literary objects published on the Web containing
+references in HTML elements. The tool extracts information about
+the resources and
+referenceswithinaliteraryobject andbuildsanetworkgraphbasedonthat information. With
+resources, we mean reference targets like images or a HTML page. We consider a network
+graph to be useful for many (not all) analytical approaches, because the web as a medium
+offerssomanypossibilitiestodefineandimplementaliterarywork‘sstructure.
+2.1Examples
+The mainstream web is influenced by usability principles to better distribute information and
+products. Good usability should prevent users from leaving when they get lost due to bad
+design.(Nielson2012)Butthecreativeuseofthemediumdoesnotalwaysadheretousability
+principles.Hereitcanhappenthatwebsitesareevenintendedtoevokeafeelingofbeinglost
+in the user, for example, when authors work with hidden links, wild redirects or confusing link
+structures. Asaresult, it canbedifficult forresearcherstoget anoverviewof thesiteandthe
+resourcesitcontains.
+
+Figure 1: Kyon‘s Metapage, Kyon, 1998, live web, screenshot
+
+https://kyon.metatrons.net/2.html, „please find me - finde mich bitte, ich warte schon so lange“
+
+4
+The page “please find me - finde mich bitte, ich warte schon so lange” (Kyon 1988) is the
+centerpoint of the work “Kyon‘s Metapage” by the author Kyon. It contains 31 references to
+resources, 29 of which are HTML documents. The references use the <area> HTML element
+thatdefinesaclickableareaonthepagebyspecifyingcoordinates,shapeandsize.Bysetting
+a target address using the href attribute, the <area> tag becomes a hyperlink. (W3C: 4.8.12)
+With this method, invisible links can be set everywhere. In Kyon‘s Metapage, the links are
+placed above the colored elements in the image. Hidden links can be a challenge for
+researching a particular work. They can only be accounted for methodically by reading the
+sourcecode,eithermanuallyorautomatically.Informationabouttheresourcesandreferences
+within the work helps researchers to make sure all references have been discovered without
+needingtoanalyzethesourcecodemanuallypagebypage.
+Another example is the work “btong” from Michael Kaiser. (Kaiser 2001) It contains 211
+interlinkedHTMLdocuments.ThenetworkstructureisshowninFigure2.Theworkhasclear
+boundaries and contains only work- and domain-internal references and resources. The
+HTML elements <a>, <frame>, and <img> were used to reference resources. All
+image
+resources (nodes) and image references (edges) have been removed from the graph data,
+sincethefocushereisprimarilyontheHTMLdocuments.Asasresult,allnodesinthegraph
+represent HTML documents and all edges represent references through <a> and <frame>
+elements. In this graph the size of a node is determined by the number of its incoming
+references (larger node size means more incoming references). The visualization was made
+GephiusingtheYifanHu‘sProportionalalgorithm.(Hu2005)
+The visualization reveals that there are central and peripheral resources. It can be seen that
+there are documents with either incoming and outgoing references and documents with only
+one incoming reference, which are located at
+the graph. Only a few
+documents have very many references and are shown as hubs located more to the center of
+thenetwork.
+
+the periphery of
+
+5
+
+Figure 2: btong, Michael Kaiser, 2001, visualization with Gephi,
+
+http://www.polyaethylen.de/btong/btong.htm
+
+A network visualization can open up alternative analytical approaches, e.g. to pinpoint the
+resources that are referenced most often and analyze if and why they play a central role.
+However, such an analysis cannot be adequately conducted without the rendered work on
+which it is based. Additionally, from our experience it is useful to initially record which HTML
+reference elements exist in the work and whether it is contains <frame>, <iframes> or other
+elementswhichallownestedbrowsingcontexts.
+the kind of reference. Some
+The edges in our graph data contain information about
+visualizationtoolscanreadandinterprettheseattributes(others,likeGephi,can‘t).Abrowsing
+context is usually a single browser window or a browser tab. Within a browsing context, if a
+linkisclicked,thewebpagewillchange.However,HTMLelementslike <frame>and <iframe>
+can initiate additional browsing contexts - so called nested browsing contexts. (W3C: HTML
+5.2:6) When working with a network visualization, it is helpful to be able to see in the graph
+how many browsing contexts the work contains or spawns and which resources will be
+displayed in which browsing context. The problem of nested browsing contexts is rather
+
+6
+complex. With the current version of our software module, browsing contexts are not
+automatically represented by the graph, but can be identified through the reference type
+represented by the edge attributes.3 If a work contained only references via the <a> element
+andthetargetattributecontainsthedefaultvalue“_self”,allpagesstayinthesamebrowsing
+context. The sequence structure of the pages could be read from the graph and it would be
+easy to get an idea about the rendered work. The more (nested) browser contexts a work
+consistsof,themoredifficultitistoreaditsgraphsimilartothework.
+Thework“btong”includes390referencesbetweenHTMLdocumentsviathe <frame>element
+and206viathe <a> element.Asmentionedabove,theworkcontains211HTMLdocuments,
+which means that some documents belong to more than one browsing context. The network
+visualizationisthereforecomplicatedtoread.Theworkinterpretedbythebrowsernowhelps
+toexplainwhysomeresourcesarereferencedmuchmoreoftenthantherest.Theworktakes
+place mainly on pages like the one shown in Figure 3. These pages can be characterized by
+the fact that they are always referenced through <a> and contain five references using the
+<frame> element, spawning multiple browsing contexts. In Figure 3, the different browsing
+contexts are marked and numbered. Table 1 lists the HTML documents belonging to Figure
+3andtheirin-andoutdegrees.TheHTMLdocumentcontainedinthebrowsingcontextonthe
+right (ID F) is referenced 20 times, making it the second most referenced resource within the
+entirework.Thehighnumberofincomingreferencesofthisresourcecanbeexplainedbythe
+frames structure - many web pages include the same HTML document for navigation. This
+meansthat theresourcesfornavigationaremoreinterconnectedandappearmoreimportant
+in the graph. The HTML documents containing literary texts are also referenced via <frame>,
+butusuallyonlyonceandarethereforemostlylocatedintheperipheryofthenetwork.
+In this example,
+the network visualization primarily helped to understand the technical
+structure.Itsupportedfurthercontentandstructuralanalysis,butonlyafterthenetworkgraph
+inrelationtothetechnicalstructureoftheworkhadbeenexaminedandunderstood.
+
+3Inordertotakethebrowsingcontextsintoaccountforoutoftheboxvisualizationwithwarc2graph,further
+implementationswouldhavetobemade:InadditiontotheinformationaboutspecificHTMLelementsanalyzed
+bywarc2graph,thetargetattributemustbeevaluated.Thetargetattributedeterminesinwhichbrowsingcontext
+thereferencedresourceshouldbeopened.Possiblevaluesare“_self”,“_parent”,“_top”,“_blank”and“<XML
+name>”.Thevalue“_blank”opensanewbrowserwindoworanewbrowsertab(dependingonthebrowser
+settings).Also,visualizingnestedbrowsingcontextsinasinglenetworkvisualizationisacomplexproblemthat
+wouldneedtobesolved.Seechapter6NextStepsregardingsomeideasforfurtherdevelopmentofagraph-
+basedapproachtoWARCanalytics.
+
+7
+
+Figure 3: btong, Michael Kaiser, 2001, live web, screenshot, edited: marked browsing contexts
+
+http://www.polyaethylen.de/btong/btong.data/bbtong/bbtong.htm
+
+ID
+A
+B
+C
+D
+E
+F
+
+Resource
+http://www.polyaethylen.de/btong/btong.data/bbtong/bbtong.htm
+http://www.polyaethylen.de/btong/btong.data/bbtong/pali01.htm
+http://www.polyaethylen.de/btong/btong.data/bbtong/pmo01.htm
+http://www.polyaethylen.de/btong/btong.data/btong/amm00.htm
+http://www.polyaethylen.de/btong/btong.data/btong/a0000000.htm
+http://www.polyaethylen.de/btong/btong.data/btong/are01.htm
+
+Indegree
+16<a>
+5<frame>
+5<frame>
+15<frame>
+4<frame>
+20<frame>
+
+Outdegree
+5<frame>
+5<a>
+4<a>
+0
+0
+3<a>
+
+Table 1: btong, Michael Kaiser, 2001, URLs, in- and outdegrees
+
+8
+Frank Klötgen‘s and Joachim Schäfers‘s online musical “Endlose Liebe. Endless love”
+(Klötgen and Schäfer 2005) also consists of several browsing contexts (see Figure 4). Pop-
+upwindowsrepresenttheactorsintheplay.Andasactorswoulddo,thepop-upwindowstalk
+to each other. By clicking a link within one pop-up window, the content in another pop-up
+window changes. The network graph would be complicated to understand, but this is not the
+mainissue.Mostapplyamixofthe<a>elementandJavaScriptfunctions.
+
+<a href="javascript:window.open('peter1.html','gegentext', 'width=449,height=291');
+textausblenden('1_t3'); textausblenden('1_tr2');" onFocus="if(this.blur)this.blur()">jetzt
+
+noch</a>
+
+The JavaScript method window.open is part of the <a> tag and opens a HTML Document in
+anewwindow.Thisreference,orratherthereferencedresource,willnotbehandledcorrectly
+byWarc2graph. Warc2graphwouldcreateanodewiththevalueinhref.Thestringwouldnot
+be parsed to look for the HTML document within the JavaScript method window.open. The
+resultingnetworkgraphisincomplete.
+
+Figure 4: Endlose Liebe. Endless love, Frank Klötgen, Joachim Schäfer, 2005, live web, screenshot
+
+http://www.hirnpoma.de/trashical/
+
+2.2Summary
+Network graph data and visualization assists research by providing an overview of the work
+(How much resources are included in the work?) and its structure (How are resources
+interlinked?Whatincomingandoutgoingreferencesdoesaparticularresourcehave?).
+
+9
+The graph makes it possible to examine the structure of a work. (How to characterize the
+resourceswithinthenetwork?Wherearecentralpartsofthework,andwhatistheirfunction?).
+Informationaboutasite‘sstructurecanprovehelpfulwhenanalyzingnarrativestructure,asit
+can support sorting out hard-coded boundaries and connections between textual elements.
+For larger sites, network information makes it possible to identifiy key elements and navigate
+thework.Lastnotleast,Warc2graphliterallyanalyzesawork,inthatittransformsWARCdata
+intoagraphstructure,whichmakesitpossibletonavigate,searchorsortelementsaccording
+tothetypeofreferenceorthetypeofnode,e.g.images.
+Warc2graph does not recognize all possible references. The system has limited outcomes if
+references are constructed using complex JavaScript, Java or any proprietary binary format
+like Shockwave or Flash. Before working with Warc2graph (or any WARC analyzer), it is
+necessarytodefineexpectationstakingintoaccounttheanalyticalscopeofthesystem.
+3Corpus
+The literary objects on which we developed warc2graph are part of the collection Literature
+on the Web at the German Literature Archive (DLA) in Marbach. The collection contains
+archivedliterarynetobjectswithatotalofabout500sources.Theobjectshavebeenarchived
+from 2008 to 2018.4 The archived sources are currently accessible on the platform Literatur-
+im-Netz. (Deutsches Literaturarchiv: Literatur im Netz) Within the collection, works are
+assigned to the categories literary blogs,
+literature.
+Classificationisbasedongenreorconceptualcharacteristics.Technicalcharacteristicsofthe
+sources are not decisive for the classification, and yet the sources within a category often
+share similar technical characteristics. The net literature works in the collection were created
+between 1995 and 2011. The majority of the works are characterized by common features,
+whichdonot necessarilydescribethegenreof net literature. Thewebsiteswereoftenwritten
+by the authors themselves and are not based on prefabricated templates. The object
+boundaries of
+the works are usually clearly definable and the objects contain several
+interlinkedHTMLdocuments.
+The collection mandate of the German Literature Archive Marbach encompasses german
+literature and contemporary documents of literary and cultural life from 1750 to the present.
+(Deutsche Schillergesellschaft 2018) Selection criteria for network objects take into account
+whetheranobjectcontainsprimarytexts,isanexemplaryrepresentativeofindividualliterary-
+
+literary online magazines and net
+
+4Since2018webarchivingistemporarilysuspendedbecausethetechnicalserviceproviderdiscontinuedthe
+developmentandoperationoftheSWBcontentwebarchivingservice.
+
+10
+technical forms and time periods, or has been discussed in the cultural sector. (Deutsches
+Literaturarchiv:Auswahlkriterien)
+The web objects are archived in WARC files. The file stores the resources requested and
+recievedbythecrawlerorotherwebarchivingtools,aswellasthecontrolcommunicationsof
+commonInternetprotocols.AWARCfileconsistsmainlyofrecordedrequestsandresponses,
+sent by client and webserver, and metadata describing the contained resources. (IIPC: The
+WARC Format) Each literary net object is stored in its own WARC file. The resources (e.g.
+HTML, CSS, JavaScript, Java Applets, image files) are in the payloads of the recorded
+responsesfromthewebserver.
+4.Modelling
+Inordertovisualizethestructuralinformationasagraph,weneededtodefinewhichelements
+are represented by nodes and by edges. We decided on a graph model where the nodes
+represent the resources and the edges represent the HTML elements referring from one
+resourcetoanother.
+
+Figure 5: Illustration of thegraph model
+
+We colloquially refer to Warc2graph's operation as link extraction, but what we actually do is
+"reference extraction". Only few HTML elements that we extract are considered links. W3C
+defines only the following elements as links: <a>, <link> and <area>. (W3C: 4.12) However,
+they are considered links only if they contain the href attribute. (W3C: HTML 5.2:4.5) There
+are other HTML elements that also include the href attribute or other attributes that can refer
+to html files: <base>, <frame>, <object>, <applet>, <embed>, <meta>, <form>, <button>, <q>
+and <blockquote>.SoitisnotsufficienttosearchonlyforHTMLelementsconsideredaslinks.
+
+11
+This bears the question: If we want to collect not only links, how should the selection of
+elements be extended? It seems clear that the focus is on looking for references to HTML
+files,butcanitbeastrictruletolookonlyforthosereferences?Notforourpurpose,because
+links to image files, PHP files, etc. would be disregarded, e.g. <a href=“nice.img“>, <a
+href=“index.php“>.ItisalsonotpossibletolookonlyforHTMLelementscontainingabsolute
+andrelativeHTTPURLs.ReferencestoimagefilesorPHPfileswouldbeincluded,butalink
+to a mail adress (<a href=“mailto:someone@example.org“>)would be excluded. Since we
+cannot distinguish HTML elements with references to URLs by either the type of referenced
+objectorthereferencetype,wesearchforallHTMLelementswithattributeswhichcancontain
+referencestorelativeorabsoluteURLs.
+5Warc2graphfunctions
+UsingthepythonpackageWarc2grapharchivedwebsitesstoredintheWARCformat canbe
+analysed and modelled as network graphs. The package can be obtained from the Python
+PackageIndex.Itprovidesapythonlibrarythatallowsaversatileandcustomizableusageas
+wellasaneasytousecommandlineapplication.
+Our tool reads the WARC file using the library warcio (Webrecorder Project) and accesses
+metadata and stored resources to find references between resources implemented as HTML
+tags.Tobuildthenetworkgraphallresources–e.g.HTML,CSS,orimagefiles–aremodelled
+as nodes while all references between them are modelled as edges. The nodes are defined
+usingtheoriginalabsoluteURLandthedirectededgescontaininformationaboutthetagthat
+connecttheresources.
+5.1Usage
+The command line interface can be accessed using the warc2graph command. Additionally
+the path to a WARC file must be passed as a parameter. The tool processes the WARC file
+andoutputsthreefiles:onefilecontainingthedatafromthenetworkgraphstoredintheGEXF
+(GEXF Working Group 2009) format which is based on XML, another file containing multiple
+visualizations for a first impression of the extracted references and a JSON file containing
+metadatadescribingtheanalysedobjectaswellastheprocessofcreatingthenetworkgraph
+(date and time of the creation as well as all parameters used for running the program).
+Metadataiscreatedautomaticallyandcanbesupplementedmanually.Ifmorethanonepath
+to WARC files is passed to the program, extraction results will be merged and presented in
+one graph. This functionality is provided because WARC files are not supposed to be bigger
+than 1GB which sometimes leads to websites being archived in more than one file. (IIPC)
+
+12
+Additionally, links to web pages on the live web can be passed, allowing analysis of websites
+ontheliveweb.
+The library warc2graph for use in python environments or programs provides the principal
+function create_model that needs a path to a WARC file as input. This function returns a
+directed graph that is implemented with the open source library NetworkX. (Hagberg et al.
+2008) This means that NetworkX can then be used for further computation, e.g. calculate
+centralitymetricsortestforspecificpropertiessuchascircularity.
+5.2Methodology
+ModelingawebsiteasanetworkgraphusingWarc2graphisatwo-step-process.Thefunction
+warc2graph.extract_links reads the WARC files and extracts all the references while the
+function warc2graph.create_network uses the extracted data to create the directed graph.
+Using the python library the two steps can be run automatically in the background using the
+create_modelfunctionbutcanalsobecalledseparately.Inthiscasethedatacanbeexamined
+andcusomizedaftereachstep.
+To extract the references from the WARC file our tool iterates over all the entries in this file
+using the warcio library. All the HTML files are then analysed using three different extraction
+methods.
+
+2.
+
+1. The most basic approach reads out the metadata stored in the WARC file. Usually all
+the outlinks found at crawling will be stored here. This method is quite robust and
+performant but it lacks flexibility. Domains can be filtered, but what was not found in
+the crawling process can also not be analysed now. To make matters worse storing
+the outlinks is not defined as a requirement in the WARC specification. Quality and
+scopethusdependsonthetoolsusedforcrawlingandarchiving.
+In our second approach we analyse the HTML data using the python library
+BeautifulSoup. (Richardson 2020) All tags contained in the HTML data can be found
+and checked for references to other resources. References that are generated
+procedurallybythebrowserusingJavaScriptwillnotberecognized.
+In order to also evaluate JavaScript the HTML data is processed with the remote
+controlled headless browser Selenium. (Selenium Project) Opening and controlling
+thisbrowseraswellasevaluatingtheJavaScriptcodehasasignificantnegativeimpact
+onruntimeandisnotsuitedforlargearchives.
+
+3.
+
+Afterthefirstpartialstepoftheextractionofreferencesthedatawillbestoredinalistoftuples
+containingtheURLsofthesourceandthetargetofthereference.Inthenextstepthecreated
+
+13
+listisbeingtransposedtoanetworkgraph.Thedataandmetadatastoredinthegraphcanbe
+accessedandextended.
+The software is built in a modular fashion, so those interested only in the extraction of
+references can rely on the list of tuples returned by the extract_links function. In the same
+manner, a graph compatible with the graphs created from WARC files can be constructed by
+passingalistoftuplestothe create_networkfunction.
+6.NextSteps
+We have used Warc2graph successfully for an exploration into non-linear text structures and
+non-linear narrative in specific works of net literature from the DLA corpus. In order to make
+the approach more robust we hope to expand the scope of our tests to other web archive
+corpora, do a more in-depth assessment of existing WARC analytics frameworks and better
+define the specific function Warc2graph can fulfill
+in web archive analytics workflows.
+Furthermore, the transformation of WARC files into graph representations opens up archival
+and research possibilities on a corpus level. We will explore the possibilities of such graph
+representations for further analytical questions pertaining not only to references, but also to
+the content of the elements or nodes of each object and of different aggregations up to the
+level of large web archives. This approach also requires epistemological and aesthetic
+reflections on graph representations and topologies of either dynamic works of net literature
+andnon-specializedwebarchives.
+
+14
+
+References
+Berkenheger,Susanne. Zeit Für Die Bombe.1997,
+http://www.berkenheger.netzliteratur.net/ouargla/wargla/zeit.htm.
+Certeau,Michelde. Kunst Des Handelns.Merve,1988.
+Ciccoricco,Dave.“NetworkVistas:FoldingtheCognitiveMap.” Image & Narrative,no.8,2004,
+http://www.imageandnarrative.be/inarchive/issue08/daveciccoricco.htm#013.
+DeutscheSchillergesellschafte.V. Satzung.2018, https://www.dla-
+marbach.de/fileadmin/redaktion/Ueber_uns/Satzung_DSG_Stand_2018.pdf.
+DeutschesLiteraturarchivMarbach. Auswahlkriterien Und Verfahren.https://www.dla-
+marbach.de/en/library/literature-on-the-web/voraussetzungen/auswahlkriterien-und-
+verfahren/.Accessed7May2021.
+---. Literatur Im Netz.http://literatur-im-netz.dla-marbach.de/.Accessed7May2021.
+Eldakar,Youssef,andLanaAlsabbagh. LinkGate: Let’s Build a Scalable Visualization Tool for
+Web Archive Research.23Apr.2020,
+https://netpreserveblog.wordpress.com/2020/04/23/linkgate-update/.
+GEXFWorkingGroup. GEXF File Format.2009, https://gephi.org/gexf/format/.
+Hagberg,AricA.,etal.“ExploringNetworkStructure,Dynamics,andFunctionUsingNetworkX.”
+Proceedings of the 7th Python in Science Conference,editedbyGaëlVaroquauxetal.,
+2008,pp.11–15.
+Hein,Pascal,etal. Warc2graph.Zenodo,2021. Zenodo,DOI:10.5281/zenodo.4742254,
+https://zenodo.org/record/4742254.
+Hu,Yifan.“EfficientandHighQualityForce-DirectedGraphDrawing.” The Mathematica
+Journal,no.10,2005,pp.37–71.
+IIPC. The WARC Format.https://iipc.github.io/warc-specifications/specifications/warc-
+format/warc-1.1/.Accessed7May2021.
+Kaiser,Michael. Btong.2001, http://www.polyaethylen.de/btong/btong.htm.
+Klötgen,Frank,andJoachimSchäfer. Endlose Liebe. Endless Love.2005,
+http://www.hirnpoma.de/trashical/.
+Kyon. Kyon’s Metapage.1998, https://kyon.metatrons.net/2.html.
+Lavoie,Brian,andHenrikFrystykNielsen.“WebCharacterizationTerminology&Definitions
+Sheet.” Web Characterization Terminology & Definitions Sheet,1999,
+https://www.w3.org/1999/05/WCA-terms/.
+Landow,GeorgeP. Hypertext 2.0: The Convergence of Contemporary Critical Theory and
+Technology.Baltimore:TheJohnsHopkinsUP.1997.
+Lin,Jimmy,etal.“Warcbase:ScalableAnalyticsInfrastructureforExploringWebArchives.” J.
+Comput. Cult. Herit.,vol.10,no.4,July2017,p.22:1-22:30. ACM Digital Library,
+doi:10.1145/3097570.
+Nielson,Jakob. Usability 101: Introduction to Usability.Jan.2012,
+https://www.nngroup.com/articles/usability-101-introduction-to-usability/.
+Richardson,Leonard. Beautiful Soup Documentation.2020,
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/.
+SeleniumProject. The Selenium Browser Automation Project.
+https://www.selenium.dev/documentation/en/.Accessed29Apr.2021.
+W3CHTMLWorkingGroup. 4.8.12 The Map Element.2011, https://www.w3.org/TR/2011/WD-
+html5-20110405/the-map-element.html.
+---. 4.12 Links — HTML5.2011, https://www.w3.org/TR/2011/WD-html5-20110405/links.html.
+---. HTML 5.2: 4.5. Text-Level Semantics.Jan.2021, https://www.w3.org/TR/html52/textlevel-
+semantics.html.
+---. HTML 5.2: 4.7. Embedded Content.Jan.2021, https://www.w3.org/TR/html52/semantics-
+embedded-content.html.
+---. HTML 5.2: 6. Loading Web Pages.2021, https://www.w3.org/TR/html52/browsers.htm.
+WebrecorderProject. WARCIO: WARC (and ARC) Streaming Library.
+https://github.com/webrecorder/warcio.Accessed7May2021.
+
+

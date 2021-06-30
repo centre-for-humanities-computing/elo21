@@ -1,0 +1,48 @@
+:
+What Do We Call This?
+
+Between 2019 – 2020 The University of South Wales collaborated with a consortium of creative
+commercial practitioners dubbed Fictioneers in a UKRI funded, Audience of the Future R&D demonstrator
+project designed to further develop digital storytelling within the UK Creative Industries. Using the popular
+Wallace and Gromit IP, the consortium drew upon their combined skills in games production, animation,
+creative marketing and new technology development to create a location-based experience targeting
+young audiences entitled Wallace & Gromit: Big Fix Up, designed to propel new and playful identities for a
+traditional narrative media.
+
+Wallace & Gromit: Big Fix Up is an ambitious and complex production. Through their research and
+development efforts, Fictioneers sought to develop a viable production alternative to branching tree,
+digital story-telling structures which risk combinatorial explosion. Instead, the application delivers a rich
+tapestry of serialised, short media elements. Linked by a central, enhanced mobile application, the
+multi-platform media include YouTube videos and comics, as well as augmented reality game-play
+challenges. The application aims to engage new audiences and provide innovative ways for long term
+fans to interact with media favourites. Mimicking a variety of social newsfeed items these media elements
+are variable, chunked and optional to view. They are also pre-determined and closely networked via the
+
+23
+
+ELO 2021 - abstracts
+
+central newsfeed. The story-flow is complex nevertheless, incorporating enhanced augmented reality
+story-telling, multi-platform media and mobile game-play.
+
+The hybridity of this experience posed new challenges regarding the most definitive way to describe the
+experience on offer, as well as the most helpful frameworks to evaluate it. With few alternative terms on
+hand to describe this genre, the term experience was often used to describe the sort of hybrid encounter
+made possible via this complex network of media influences, but experience is still an open-ended
+concept that can be hard to pin-point. Alternative terms like digital story-telling may also be useful
+place-holders to help delineate interactive and narrativised experiences from traditional media
+encounters, nevertheless such terminology is still only useful to an extent. Narrative frameworks such as
+characterisation, pace and tone are relevant to projects like Wallace & Gromit: Big Fix Up, but they don’t
+capture all the elements that audiences encounter in real time. Describing the experience as a game can
+be equally problematic, since it can set up expectations of a very different type of challenge-driven,
+dramatic experience than this application delivers.
+
+In this paper I explore what additional insights can be gained by also considering the interplay of
+technology and creativity within the research and development process. Technology is a defining feature
+of this digital storytelling experience. Augmented reality technologies, for example, offer dynamic,
+enhanced tracking and visualisation opportunities, whilst also demanding strict file-size constraints,
+comprehensive audience testing and extensive cross-disciplinary collaboration. By evaluating the creative
+and technical processes shaping the development of this hybrid media identity, I explore the ways in
+which any effective definition of this new type of distributed genre is likely to be as much about
+co-ordination, as new experience.
+

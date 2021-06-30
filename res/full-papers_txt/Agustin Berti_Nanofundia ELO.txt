@@ -1,0 +1,261 @@
+The country and the platform, or the issue of nanofundia 
+
+Agustín Berti 
+
+ 
+Abstract 
+This  paper  discusses  the  issue  of  the  platformization  of  culture  from  a  Latin-American 
+perspective. The issue of latifundia and the consolidation of vast productive land a very 
+reduced  minority  of  wealthy  elites  has  been  one  of  the  distinctive  traits  of  lasting 
+inequalities in Latin-American countries. And the diaspora of migrants to the slums of major 
+cities has been a defining trait of the 20th century. This has seemingly nothing to do with 
+digital  culture,  and  yet  this  paper  will  stress  the  links  between  the  reprimarization  of 
+production  in  the  developing  world  and  the  digital  extractivism  of  platform  economy 
+described by Pasquinelli and Joler (2020) in order to assess the consolidation of culture 
+enhanced by digital technologies. Such consolidation goes well beyond the scope described 
+in Adorno and Horkheimer’s definition of cultural industry, since everything digitized con 
+be treated as “digital content”.  
+
+Drawing  from  previous  work  on  the  ontology  of  digital  objects  (Blanco  &  Berti, 
+2016),  and  my  critique  of  “content  dynamics”  (Berti,  2015).  Platforms  strive  on  the 
+automated  algorithmic administration  of  access  and  reproduction  of  creative  works  (be 
+they text, sound, video, o code-based). The common trait of current platform culture is the 
+maximization of profit by means of garnering data and attention in order to capture more 
+attention (and more data). My claim is that this data extactivism is enabled by the ability to 
+treat  artistic  works  as  interchangeable  digital  content.  It  is  a form  of  standardization  of 
+cultural production akin to that of nature into agricultural parceled land. The emergence of 
+corporate  cultural  platforms  has  led  to  an  unprecedented  concentration  of  media  and 
+cultural production ownership that flourished in the platform ecosystem that the COVID-19 
+pandemic has once accelerated, configuring what I will discusses as the specific form of 
+primitive accumulation in digitized societies. A phenomenom well characterized by Snricek 
+(2017),  platform  economy  is  the  way  of  capturing  surplus  value  in  the  age  of  digital 
+connection.  
+
+In previous shared research (Berti, 2015, Ré & Berti, 2021; Ré, Costa, Célis Bueno & 
+Berti, 2020), I have explored the attempts to obstruct digital addressability in electronic 
+literature  and  digital  arts  as  a  reaction  to  the  extraction  of  surplus  by  means  of  the 
+normalization of content. My partial assessment is that these aesthetic strategies provide 
+examples of resistance rather than an alternative model of digital (and platform) culture. 
+Meanwhile corporate media has advance towards the consolidation of actual nanofundia 
+characterized  by  the  massive  purchased  of  copyrights  and  of  infrastructure  ownership, 
+strategically located in the global North.  Taking on from Williams (1973) classical study of 
+English literature, if there is to be a politics of electronic literature, the class struggle will be 
+located on the servers and the protocols. Expanding Jameson’s concept of a “geopolitical 
+aesthetics” (2018), if there is to be a geopolitics of electronic literature, the struggles will 
+be about national and regional digital infraestructures and the local regulations over the 
+globalized  attention  economies.  The  problem  is  about  how  much  can  we  tolerate  the 
+expansion of cultural nanofundia. 
+Keywords: platforms, digital content, national literatures, neo-extractivism. 
+ 
+1.  On Nanofundia 
+The issue of latifundia and the consolidation of vast productive land a very reduced minority 
+of  wealthy  elites  has  been  one  of  the  distinctive  traits  of  lasting  inequalities  in  Latin-
+American countries. And the diaspora of migrants to the slums of major cities has been a 
+defining trait of the 20th century. This has seemingly nothing to do with digital culture, and 
+yet  this  paper  will  stress  the  links  between  the  reprimarization  of  production  in  the 
+developing world and the digital extractivism of platform economy described by Pasquinelli 
+and Joler (2020) in order to assess the tendencies of consolidation of culture in oligopolies 
+(mostly the GAFA but some other minor players as well) enhanced by digital technologies. 
+Such  consolidation  goes  well  beyond  the  scope  described  in  Adorno  and  Horkheimer’s 
+definition of cultural industry, since everything digitized can be treated as “digital content”. 
+The issue I want to present in this paper is that corporate media has advanced towards the 
+consolidation of actual nanofundia characterized by the massive purchase of copyrighted 
+collections  of  works  and  contents  and  of  infrastructure  ownership,  strategically  located 
+
+(and  managed  from)  in  the  global  North.  Drawing  inspiration  from  Raymond  Williams’ 
+(1973) classical study of English literature on the relations between economic modes of 
+production  and  literature,  I  would  like  to  present  the  case  of  contemporary  platform 
+capitalism as a form of land ownership. To do so I have to make several counterintuitive 
+claims. (Although some of them may be obvious to some, they are necessary nonetheless):  
+First, digital culture is not a process of dematerialization and ubiquity but rather, one of 
+miniaturization and acceleration.  
+Second, miniaturization makes way for large economies of scale based on data collection 
+and processing. 
+Third, such data collection is allowed by infrastructures of networks and servers operating 
+according to protocols which are a form of standardization (that is, of mathematization of 
+the world). 
+Fourth, digital reproducibility of cultural forms reduces them to unspecific forms of digital 
+content. (Such process has been deemed as convergence culture, the implications of this 
+assessment are not politically neutral to say the least).  
+Fifth, “convergence culture” has expanded author and copyright based ideas of culture. 
+Sixth,  the  platform  capitalism  stage  of  20th  century  cultural  industry  depends  on  the 
+corporate control of huge collections of digitized and digital content of cultural entities 
+formerly known as works (of art, literature, science or knowledge). 
+This brings us to the issue of nanofundia. Basic economic power now not only resides in the 
+control of land from the extraction of mineral, vegetal and animal resources, but also in the 
+miniaturized  landscape  of  information,  that  is,  on  servers.  Contrary  to  what  it  may  be 
+expected,  the  cost  of  IA  and  large  databases  makes  nanofundia  a  digital  equivalent  of 
+latifundia, rather than a tiny form of minifundia. 
+So, my claim is that server farms are a form of land ownership. And, if there is to be a 
+politics  of  electronic  literature,  class  struggle  will  be  located  on  the  servers  and  the 
+protocols. 
+ 
+
+2.  The issue of latifundia in Latin-American Literature 
+
+“The men in former days believed that above all moderation should 
+be observed in landholding, for indeed it was their judgment that it 
+was better to sow less and plough more intensively. Virgil, too, I see 
+agreed with this view. To confess the truth, the latifundia have ruined 
+Italy, and soon will ruin the provinces as well. Six owners were in 
+possession of half of the province of Africa at the time when the 
+Emperor Nero had them put to death”  
+-Pliny’s Natural History, 18.7.35. 
+
+ 
+Latifundia as a mode of production has a long history in Western societies. Accumulated 
+from the spoils of war, confiscated from conquered peoples, it can be traced as early as the 
+2nd  century  before  Christ.  Though  modern  Europe  has  modified  the  structure  of 
+landownership,  it  is  still  one  of  the  defining  traits  of  Latin  American  societies  (and  it’s 
+inequalities),  with  white  class  elites  of  European  descent  owning  most  of  the  most 
+productive  land  in  each  country.  Such  model  has  been  deemed  both  as  economically 
+inefficient and as socially regressive. The opposition to such land concentration has come 
+in the form of agrarian reform in two ways: either by redistribution or by modernization.   
+Just to name an example of the persistence of this issue, in 1969 Tizon’s experimental novel 
+Fire in Casabindo used modernist narrative alongside ancient oral narrative techniques to 
+depict the peasant and native American population struggles over land ownership in the 
+Argentinean northern provinces in the late 19th century, a conflict that is still ongoing well 
+into the 21st century. The expansion of the agricultural border for transgenic soy extraction 
+and the exploitation of gold and lithium mineral reserves (crucial for the existence of digital 
+culture) has only deepened these conflicts over land ownership. This is not the place to 
+comment on the vast critical tradition on the impact of latifundia on Argentine culture (and, 
+especially, literature), as there is on Colombian, Brazilian, Mexican and Peruvian literature  
+as  well  (only  to  name  he  few  I  am  somewhat  familiar  with),  but  I  would  like  to  draw 
+attention on the fact that during the 19th and 20th centuries Latin American literature has 
+
+repeatedly looked into the relation between the question of national identities vis-a-vis 
+cosmopolitanism and restaged the ongoing tensions between the country and the city, a 
+opposition that, as Williams very well contends, is far from being as linear or as clear a 
+dichotomy as it is usually presented.  
+ 
+3.  Platforms as Plantations: Nanofundia 
+As Nick Snricek (2017) has pointed out, there is a shift on internet economy which is not as 
+new as it seems. Current consolidation is but another iteration of what Marx characterized 
+original accumulation. That is, the extraction of surplus that has pervaded the concentration 
+of landownership in fewer hands and, later on, the ownership of machines. Oligopolistic 
+tendencies  are  nothing  new  and  platforms  are  just  its  current  form.  For  the  sake  of 
+argument, let me draw some parallels between early village entrepreneurs and internet 
+entrepreneurs. Prior to the dot com bubble burst, the technoptimism about cyberculture 
+was thriving on the internet as a space for freedom. But what kind (or kinds) of freedom? 
+1.  Most notably, a sense of freedom from the constraints of the physical world, the 
+illusion of dematerialization which fed all the convergence tropes and that I have 
+discussed  as  the  digitization  of  culture  as  a  “dynamic  of  contents”  (Berti  2015). 
+Eventually, the enhanced copyright enforcement and the accumulation of collection 
+in  fewer  hands  has  led  to  what  Striphas  (2011)  has  defined  as  “controlled 
+consumerism”, one of the distinctive traits of nanofundia. 
+
+2.  The hails of democratization and actual freedom of speech of course, only to be 
+subdued by surveillance capitalism as the Snowden revelations would make clear. 
+What  we  actually  gained  was  “freedom”  of  input,  which  led  to  massive  data-
+collection  and  what  Pasquinelli  and  Joler  (2020)  have denounced  as “knowledge 
+extractivism”. 
+
+3.  The  promise  of  universal  accessibility,  only  to  end  up  stratified  by  premium 
+accounts  and  paywalls,  where  the  internet  actually  is  mirror-world  of  material 
+inequalities. 
+
+4.  The siren chants of optimization and rationalization, illustrated by the growth of 
+precarious 
+in  “lean 
+platforms” (Snricek  2017)  fueled  by  biker  blood  and  “collaborators”  own  cars  or 
+homes. 
+
+loss  of  work  rights,  that  ends  up 
+
+labor  and  the 
+
+Today  some  people  yearn  the  “non-commercial”  internet  that  fascinated  the  world 
+between 1993 and 2001. But, just as Williams has pointed out about the idealization of a 
+rural past, older people were then longing for the BBS [Bulletin Board System] and its local, 
+face-to-face, communities of users. But then again, back then, some may also have also 
+been missing the good ole days of ARPANET, with no cyberpunks or yuppies, and so on.  
+
+Some had hoped that the Internet was a new country, or a newfoundland to begin 
+society anew, such utopianism ended up crashing against a Wall… street. Financial capital 
+rushed to  invest  liquidity  in the  start-ups.  And Patriot  Acts  started policing  those  green 
+pastures. The internet, just as Williams’ rural Britain, came to the Age of Enclosures (and a 
+brief battle for the survival of the Commons). It took music almost a quarter of a century to 
+migrate form a closed industrialized product (that is the sale of CDs) to the management of 
+streaming  flows  (by  premium  accounts  and  advertising),  editorial  houses  went  down  a 
+similar road, as well as film and television industries. In the end, culture did not get freer, a 
+flow  of  information,  it  just  got  coded  in  nanoscopic  inscriptions  and  light-speed  fast, 
+harvested in copyright holders’ server farms.  
+
+There is a striking similiarity between server farms and soy beans, the ever-growing 
+efficiency in the extraction of surplus out of the plows of arable land mimic those of the 
+hard drive tracks. The analogy stops working in solid state drives but I assume you get the 
+point. Literary, artistic, scientific and other cultural “works” are coded into digital contents. 
+Just as plantation slave and peasant workers, works are migrated (note the stress on the 
+passive voice). 
+ 
+4.  Cultural Extractivism and the Reprimarization of the Global South 
+The main point of this intervention is political. Under the modernizing imaginaries of digital 
+cultures there is nothing more than a form of good old colonialism. Pasquinelli and Joler 
+
+presented (2020) Patern Recognition and IA as an instrument, a magnification tool, as the 
+telescope and the microscope. But, as current copyright over COVID-19 vaccines painfully 
+shows, no instrument of knowledge is ever neutral. The nooscope actually strengthens the 
+positions held by the copyright owners in the digital landscape, that is, the nanofundists. 
+The  is  a  breeding,  underlying  class  struggle,  the  unstable,  precarious  labour  of  the 
+cognitariat, the freelancers (yet another form of work traced by Williams) and the precariat.  
+Argentine e-lit also illustrates this issue, the disputes over ownership took place between 
+Boirges’ widow and Pablo Katchadjian over his El Aleph engordado [Fattened Aleph]. He had 
+previously  subverted  the  national  poem,  Martín  Fierro  by  alphabetically  rearranging  its 
+7165 verses. Let me suggest here that verses are another form of plow, by which que can 
+harvest language. This is not the place to discuss this but it has received critical attention 
+(Kozak  2018, 2019; Berti 2016). 
+ 
+5.  Towards a geopolitics of electronic literature: Going beyond r3$1$t! and un4dr3$$!  
+The relation between platforms and e-literature in general, and to Latin American e-lit, in 
+particular cannot be properly understood without contrasting it to the global flows of goods 
+and information (and goods as information). The current role of developing countries as 
+source of commodities, cheap input and cheap data processing expresses global design led 
+by the global North. There are many ways to contend such geopolitical inequalities. Thus, if 
+there is to be a politics of electronic literature, the political debate will have to take a stance 
+on the servers and the protocols which are the way land is distributed in the digital realm. 
+Expanding  Jameson’s  concept  of  a  “geopolitical  aesthetics”  (2018),  if  there  is  to  be  a 
+geopolitics of electronic literature, the struggles will be about national and regional digital 
+infraestructures  and  the  local  regulations  over  the  globalized  attention  economies.  The 
+problem is about how much can we tolerate the expansion of cultural nanofundia. 
+ 
+With Anahí Ré (Ré y Berti 2018, 2020; Ré, Costa, Célis Bueno y Berti 2020) we have 
+proposed the term of unadressability as a poetics for intervening the workings of the code 
+to render it useless for the algorithmic administration which is at the heart of platform 
+capitalism. The limits of is that such artistic procedure is that is a resistance tactic rather 
+
+than a sustainable strategy for technical, cultural and political equality. My intuition is that 
+e-lit is a fertile ground for developing forms of digital culture other than platform capitalism, 
+towards a fairer redistribution of digital space, that is, a politic and an aesthetic for the 
+nanocommons.  
+ 
+References 
+Berti, A. (2015) From Digital to Analog. Agrippa and Other Hybrids in the Beginnings of 
+Digital Culture. Peter Lang Publishers, New York. 
+Berti, A. (2016) El uso de acervos textuales digitalizados en la creación literaria - 
+Humanidades Digitales. Construcciones locales en contextos globales. I Congreso 
+Internacional de la Asociación Argentina de Humanidades Digitales - Ponencia - 
+UBA/AADH. Buenos Aires, noviembre 2016. Ponencia.  
+Jameson, F. (2018). La estética geopolítica: Cine y espacio en el sistema mundial. 
+Barcelona: Paidós 
+Kozak, C. (2019). Derivas literarias digitales: (des)encuentros entre experimentalismo y 
+flujos culturales masivos. Heterotopías, 2(3). Recuperado a partir de 
+https://revistas.unc.edu.ar/index.php/heterotopias/article/view/24768 
+Kozak, C. (2018) Comunidades experimentales y literatura digital en Latinoamérica, Virtualis 
+Vol. 
+17 
+https://www.revistavirtualis.mx/index.php/virtualis/article/view/272/270  
+Ré, A. & Berti, A. (2020) La d3$r3f(x) comme opération technique de résistance esthétique-
+politique chez quelques artistes de l’Amérique Latine. [ad referendum] 
+Ré, A.; Costa, F.; Célis Bueno, C. y Berti, A. (2020) Escrituras algorítmicas e imágenes 
+invisibles:  Tecnoestética  y  política,  Pensando.  Revista  de  filosofía,  Vol.11,  n.24, 
+Setembro-Dezembro 2020, pp.41-53 
+Ré, A. & Berti, A. (2018) Estándar y poéticas industriales en la literatura digital argentina - 
+A contracorriente 16.1, Fall 2018, pp. 100-127. 
+Snricek, N. (2017) Platform capitalism. Cambridge, UK: Polity, 
+Williams, R. (1973). The country and the city. New York: Oxford University Press. 
+
+Núm. 
+
+9, 
+
+

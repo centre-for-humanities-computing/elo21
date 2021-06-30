@@ -1,0 +1,46 @@
+:
+Amid the Great Plague of London (1665–1666), a man named John Peter developed a peculiar system
+allowing for the procedural generation of Latin poetry. A decade later, in 1677, Peter's system was
+published in a landmark booklet, titled "Artificial Versifying," whose subtitle proclaims that anyone "that
+only knows the A.B.C. and can count 9" may use it to produce "true Latin, true verse, and good sense"
+[1].
+
+The system itself centers on six tables in which letters are distributed across grids of cells. To generate a
+line of poetry, the user first produces a string of six digits (e.g., "952129"). Next, each digit is used to
+retrieve a sequence of letters from the table corresponding to that digit's position in the string. The letters
+obtained from a given table form one of nine words contained in that table, and the concatenation of the
+six chosen words constitutes a line of Latin verse in dactylic hexameter. The system is capable of
+generating 9^6, or 531,441, lines of verse.
+
+As a bizarre forerunner of electronic literature, "Artificial Versifying" was wildly successful: the booklet
+appeared in three editions, and its procedure was reprinted in books and periodicals for the next 200
+years [2-5]. Sadly, Peter's innovative system has received scant treatment by scholars working in this
+area today [6-9]. This limited coverage is incommensurate to its importance as a groundbreaking work
+
+69
+
+ELO 2021 - abstracts
+
+produced centuries ahead of its time. Indeed, its combinatorial method is similar to those employed in
+early computer poetry, such as Theo Lutz's "Stochastische Texte" [10-11].
+
+We have carried out the first translation into English of the "Artificial Versifying" system. While it would be
+easy to translate any one of the 531,441 hexameter verses that the system can produce, we sought
+instead to translate the system itself into English. This only entailed translating the 54 words in the six
+tables, but the process raised a number of interesting challenges nonetheless. The major difficulty is in
+preserving both meaning and meter, and in total we identified twelve features of the original system that
+we sought to maintain. In wrangling with interrelations between these features at the level of
+combinatorics, our design space was not unlike Peter's. While a core aim of this process has been to
+make "Artificial Versifying" accessible to non-Latin speakers today, this act of translation has helped us to
+better appreciate the triumph of the system's design.
+
+While our project seeks to celebrate an unheralded pioneering effort in the area that became electronic
+literature, we situate this work amid emerging scholarship on the challenges and opportunities of
+translating computational textual artifacts. This subarea of translation studies [12] is perhaps best
+characterized by the Renderings project carried out by Nick Montfort, Piotr Marecki, and other
+collaborators in the last decade [14-17], though others have taken it up [18-21]. In this paper, we will show
+that the peculiar considerations inherent in the translation of computational textual artifacts are already
+present in protocomputational works that are sufficiently procedural, such as "Artificial Versifying."
+
+[See Attached Bibliography.]
+

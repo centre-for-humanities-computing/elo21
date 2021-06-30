@@ -1,0 +1,464 @@
+Marianne Gunderson -  ELO 2021
+
+Note to readers: This text is heavily based on my master thesis from 2017, I’m in the process of
+rewriting it toward an article. Would love any feedback on what needs elaboration, of anything
+feels left out or out of context, and how to update and rework the text for this context.
+
+Heats, knots and hierarchies: Speculative genders in omegaverse fanfiction
+
+Abstract
+
+As a digital genre, fanfiction enables the recontextualisation and transformation of characters,
+plots, and stories from popular culture. The dynamic combination of a community-driven writing
+practice with well-developed platforms that support an extensive and generative labelling
+system, supports the development of an ever-expanding network of tropes, which are continually
+being reinvented and reimagined in new forms. This article discusses one such trope, popularly
+known as “omegaverse” or alpha/beta/omega fanfiction. Currently counting 89 253 distinct
+works on the fanfiction platform aO3.org, omegaverse fanfiction draws on popular imaginations
+of wolf or canine social hierarchies and reproductive behaviours in order to reimagine characters
+from popular culture into a parallel gender structure as alphas, betas, or omegas. Using concepts
+from fan studies and feminist theory, this article shows how omegaverse fanfiction treats
+discourses about gender and embodiment in the same manner as it treats the original media texts,
+mining them for meaning in order to imaginatively transform them. Through this speculative
+mode, omegaverse fanfiction creates a space where the discourses associated with gender,
+biology, and embodiment are broken down into a set of building blocks with which individual
+authors can explore the inner logic of fictional gender systems on societies, relationships, and
+situations, examine their consequences, and imagine their downfall. Furthermore, by rewriting
+these discourses onto familiar characters through fanfictional narratives, the alpha/beta/omega
+system works as a node through which fans imagine how specific reconfigurations of differently
+gendered bodies would play out as lived, situated, meaningful experience. The speculative mode
+that is characteristic of fanfiction as a digital genre, in combination with the affordances of
+platforms such as ArchiveOfOurOwn.org, support the iterative play not just with products and
+works of popular culture, but also with the discourses and meanings with which gendered bodies
+are constructed and made intelligible. The constant reinvention of the trope is made possible
+through the interconnected and iterative process of this community-based, affect-driven, digitally
+native genre. Understood as an example of electronic literature, omegaverse fanfiction can be
+read as a kind of ‘low theory’, theory that exists at the margin of formal knowledge formations,
+creating alternative ways of talking and thinking about gendered embodiment.
+
+1
+
+Marianne Gunderson -  ELO 2021
+
+Introduction
+
+After years of being valued more for what lay between his legs or in his head than who he was, it
+was hard to believe. Yet here they were, John close enough that every breath mingled, blue irises
+dark with desire and understanding as if, for once, he was reading Sherlock’s mind with ease.
+
+‘You were a brilliant, mad, nutter of a man.’ [John] nudged Sherlock’s chin, encouraging him to
+meet his gaze again as if he could drive home the truth with eye contact alone. He licked his lips,
+his voice cracking as he forced out the words that Sherlock knew John would not find easy. ‘And
+you still are. Alpha, Beta, Omega… This –’ [John] cleared his throat, huffing out a sigh and
+squaring his shoulders. ‘This isn’t about any of that. It’s about who you are. Not what you are.’
+(...) ‘Don’t,’ [Sherlock] implored, brushing two fingers across John’s mouth before he could
+speak. ‘We can’t dismiss the impact our respective genders have on our situation, particularly
+mine, but please – don’t say it.’
+
+(The Gilded Cage, BeautifulFiction 2014)
+
+This is an excerpt from a fanfiction story called The Gilded Cage, based on the BBC TV-show
+Sherlock. In the course of this presentation I will try to unpack what is going on in the story this
+is an excerpt from, and show how it may relate to the concept of complicity and gendered
+in/equality. Fanfiction is any fictional text based on an established media product, written by fans
+of that product. Through the practice of writing fanfiction, fans appropriate characters, settings,
+and plots from commercially published media works, in order to produce stories according to
+their own desires. This means that fanfiction, as well as many other fan practices, involves a
+fundamental complicity with the works upon which they are based - constantly referencing,
+drawing from and referencing the original media products
+
+One of the more common transformative practices in fanfiction is to insert a romance between
+two characters of the same gender, who do not have a romantic storyline in the canonical work,
+also known as “slash” fanfiction. In the case of Sherlock, this has to be seen in the context of
+what many fans perceive as queerbaiting, where a queer romance is strongly implied, but never
+textually acknowledged in the actual work. Thus slash fanfiction can be seen as an answer to the
+desire for more queer representation in popular media, but it has also been theorised as an
+expression of the desire to imagine relationships between two equal partners, without having to
+contend with the complications of gender roles.
+
+The Omegaverse
+
+However, the story I quoted from in the beginning, is written into a fanfiction trope known as the
+omegaverse, or alpha/beta/omega dynamics. The omegaverse or alpha/beta/omega dynamics
+(often shortened to a/b/o) is an alternate universe consisting of a cluster of tropes involving
+humans with animalistic traits, inspired by the popular imagination of wolf biology and
+
+2
+
+Marianne Gunderson -  ELO 2021
+
+behaviour, the rewriting of sex, gender, and the human reproductive system, and dynamics of
+dominance and submission. The defining feature of the omegaverse is the introduction of the
+alpha, beta, and omega categories which have been connected to a number of tropes which were
+already circulating in fanfiction communities, such as male pregnancy, knotting - a
+canine-inspired anatomical feature where a protrusion forms at the base of the penis during
+sexual intercourse, locking the partners together, heat cycles - another canine-inspired trope, in
+which a character experience urgent sexual desire at while they are ovulating, and unequal power
+dynamics, in which one character is written as dominant and the other one is written as
+submissive.
+
+In an archetypical version of the omegaverse trope, omegas, both male and female, have heat
+cycles, ovulate, and have the ability to become pregnant. Alphas, both male and female, can form
+a knot during sexual intercourse, and often respond to the proximity of an omega in heat by
+going into rut, an intense sexual arousal which in many ways mirror that of the omega’s heat.
+The beta label is usually reserved for characters without any alpha or omega traits, whose
+biological makeup is mostly unaltered from non-omegaverse humans, but in some stories they
+written as either sterile/infertile or intersex. The popular imagination of wolf pack hierarchy
+remains a central theme, and while the degree of emphasis on animality varies, most a/b/o stories
+involve a hierarchical social structure in which alphas are thought to be dominant and omegas
+are imagined to be submissive (Busse, 2013). The majority of omegaverse stories focus on a
+romantic and/or sexual relationship between an alpha and an omega character.
+
+From its origin in the Supernatural fanfiction community in 2011, the omegaverse was quickly
+adapted by other fandoms (netweight 2013). The specifics of the trope are often adapted to the
+setting and genre of each individual fandom, and every writer will make their own interpretation
+of the trope. As a result, the omegaverse has become a loose and highly customizable framework
+which lends itself to a variety of different interpretations, depending on the interests and
+inclinations of the author. This means that while all of the above-mentioned elements are
+common in a/b/o, there is enormous variety in how they are interpreted. Each story contains its
+own unique version of the omegaverse, embracing some elements of the trope, while ignoring or
+discarding others. Some stories focus heavily on the erotic potential of a/b/o, in which heat
+cycles provide the urgency of excruciating and uncontrollable physical desire, knotting creates
+intensity and intimacy, and the alpha/beta/omega hierarchy and associated personality traits
+become a vehicle through which to explore a dom/sub dynamic. Some stories center around
+domestic narratives, exploring the romantic and intimate potential of soul bonds, coupledom and
+(frequently male) pregnancy. Other stories build on the concept of alpha/beta/omega hierarchy to
+outline societies in which a person’s status as alpha, beta, or omega determines their status and
+position, using the a/b/o trope to explore experiences of oppression and injustice. A number of
+stories posit that a person’s alpha or omega characteristics only become apparent when a person
+reaches puberty, and use this premise to explore experiences of adolescence. Most often, any
+particular a/b/o story will contain a combination of several of these themes.
+
+3
+
+Marianne Gunderson -  ELO 2021
+
+Based on the BBC TV-show Sherlock, The Gilded Cage (BeautifulFiction 2015, hereafter
+referred to as TGC) starts with John Watson’s accidental discovery that Sherlock is actually an
+omega, not an alpha as he had been assuming. Alternating between Sherlock’s and John’s point
+of view, the story then follows their gradual development from friends to lovers, a process that is
+complicated by the fact that John’s status as an alpha, and Sherlock’s status as an omega, starts
+them out in an asymmetrical position: in the society described in TGC, omegas are treated as the
+legal property of their families or their alpha partners. It also does not help the situation that
+Sherlock is still bound to his abusive former partner, from whom he moved to London to escape.
+The story is also a ‘casefic’, i.e. a story which revolves around the investigation of a crime:
+someone have been poisoning and killing alphas, and the resolution to the investigation turns out
+to have potentially groundbreaking consequences for Sherlock’s future, as well as for omegas in
+general. It is 326 887 words long, which would make it 7-800 pages long in book form,
+depending on the font and formatting. With more comments, ‘kudos’, and bookmarks than any
+other Sherlock A/B/O fic in the archive, it is arguably the most popular omegaverse story within
+the Sherlock fandom. This story was selected for its thorough exploration of the difficulties
+involved in establishing an equal, respectful, consenting relationship under conditions of
+gendered oppression, as well as for its descriptions of omega embodiedness.
+
+A Stiller Doom (Tessa on Ice 2017, hereafter referred to as ASD), is based on a Japanese
+animated TV-series called Yuri!!! on Ice. The story centers on the young Russian ice-skater Yuri
+Plisetsky (the namesake of the main character in the show, the Japanese ice-skater Yuri Katsuki).
+Surpassing his peers in junior championships, Yuri has just begun entering competitions as a
+senior, and has his eyes set on the olympics. This plan gets derailed when Yuri unexpectedly
+goes into heat, revealing that he is an omega, and not a beta as he had previously assumed. As an
+omega, Yuri has to confront prejudice, shame, discrimination, and ultimately the Russian state, in
+order to continue to skate. In the TV-series Yuri Plisetsky is portrayed as ambitious, arrogant, and
+rebellious, a teenage punk with a short temper, and in ASD these traits are channeled into Yuri’s
+resistance against the treatment of omegas in Russian society. Throughout the story, Yuri also
+develops a romance with the Kazakhstani skater Otabek Altin, whose “omegist” mother turns out
+to be an important influence on Yuri’s political awakening. This story was selected for its
+exploration of the teenage experience of becoming gendered, and for its depiction of the journey
+through resignation, anger, and hope, as Yuri gets involved in activism against the oppression of
+omegas.
+
+Misogynistic premises
+
+A conspicuous feature of omegaverse fanfiction is the degree to which the alpha/omega dynamic
+resembles misogynistic stereotypes of men and women. Although a/b/o is a ternary rather than
+binary system, and uses the labels of alpha, beta, and omega rather than male and female, it is
+easy to read the alpha/omega categories as exaggerated versions of the male/female gender/sex
+system. In omega verse stories, meanings, norms, and biological characteristics normally
+
+4
+
+Marianne Gunderson -  ELO 2021
+
+associated with women are usually written into the omega category, and meanings associated
+with men and maleness are written into the alpha figure. The direct association of reproductive
+function with social roles and behaviour, linking the ability to become pregnant with inferior
+status, domesticity, and submissiveness, and the ability to impregnate with superior status,
+aggression, and dominance, is highly reminiscent of coarse caricatures of misogynist discourses.
+In addition these traits are also often said to be biologically hardwired, coded into hormones,
+instinct, and genes, presenting a view of (a/b/o) gender as something that has an inescapable
+essence which is dictated by nature, and that gendered characteristics and behaviour can be
+straightforwardly traced back to biological dictums. The attribution of fixed characteristics to
+categories based on biological or “natural” traits, echoes the gender essentialist descriptions of
+women which have been frequent targets for feminist criticism (Grosz 1995).
+
+Furthermore, these biological imperatives not only manifest in gendered behaviour, they also
+often dictate the direction of the character’s attraction. Often omegas are described as responding
+instinctively to the presence of a certain alpha, without conscious intent or will. This is amplified
+by the common use in a/b/o of the soulmate and soulbond tropes, where two characters are
+written as destined for each other on a biological level, resulting in near-irresistible mutual
+attraction and a special connection. When the mechanisms underlying the soulmate/soulbond
+phenomenon are described as part of the alpha or omega biology (betas are often described as
+“immune” to soul bonds), this results in the biological and essentialist encoding of alpha/omega
+heterosexuality.
+
+Even though it is clear that the a/b/o stories analyzed in this thesis draw on essentialist,
+stereotypical, and heteronormative representations of sex and gender, it does not automatically
+follow that they can be said to straightforwardly reproduce or resist them. Fanfiction tropes, and
+alternate universes in particular, are often based on a hypothetical ‘what if’-type question
+through which the canonical material is transformed and reinterpreted (Pugh, 2005). In the case
+of the stories analyzed in this paper, some of the questions they can be said to explore are: what
+if the basic structure of human reproductive functions positioned one sex as fundamentally
+dependent and vulnerable to exploitation? What if this group was valued only for their
+reproductive abilities, and were restricted in their participation in society because of this? What
+if people of one gender was treated as the property of another, because of their reproductive
+abilities? What if their (in)ability to consent to sexual relations was seen as irrelevant?
+
+This speculative mode allows the stories to have a more flexible relationship with reality than
+other kinds of texts. As opposed to non-fiction and more realist styles of fiction, fiction that is
+rooted in the ‘what if’ mode is not assumed to be directly representing a reality that exists
+external to the text. As such, these kinds of stories are freed from the need to prove the premises
+upon which the stories are made, and spared from the imperative of having to justify themselves
+as truth claims. By placing the stories in a/b/o alternate universes, these stories are exempted
+from any assumption that they represent how gender and sexuality works in existing societies,
+structures, and places. As a result, the stories can describe sexism and oppressive gender
+
+5
+
+Marianne Gunderson -  ELO 2021
+
+structures without having to be held accountable for the accuracy of their accounts as
+descriptions of women’s situation in any given place or time. Releasing the stories from the need
+to anchor their premises in references to ‘what is’, the ‘what if’ mode frees them to explore the
+consequences of these premises from a speculative, imaginative point of view. Within the
+omegaverse system, gendered oppression becomes hypothetical and malleable, making it
+possible to take it apart and put it back together again. The speculative mode of omegaverse
+fanfiction creates a space in which the discourses associated with sex and gender can be treated
+as a set of building blocks, with which individual authors can construct models of societies,
+relationships and situations, examine them, and imagine their downfall. By writing about
+structures of gendered oppression as if contrafactual, the stories not only makes it possible to
+examine the premises they are based on, it also creates a space to imagine their unraveling and
+envisioning the possibility for change.
+
+Omega otherness
+
+By actively modifying and transforming the human body, inventing bodily constellations that do
+not exist outside of the text, these stories are not bound to represent existing bodies and genders,
+nor can they be assumed to directly originate in the lived experiences of their authors. Instead,
+they are representations of the experiences that could plausibly be produced by the bodies,
+societies and characters imagined in the stories. The use of a fictional gender structure creates the
+opportunity to examine the inner logic of discourses about sex and gender by imagining
+hypothetical bodies and societies based on the premises that underpin these discourses, whether
+that is hierarchically ordered, biologically rooted gender categories, or socially constructed and
+enforced gender norms. This means that even though the omega is constructed from traits and
+concepts associated with femaleness, such as hormonal cycles and the capacity to become
+pregnant, the imagined experience of the omega is not directly equatable to that of a woman.
+
+In The Second Sex, Simone de Beauvoir argues that the masculine sees itself (and is seen) as the
+universal, the absolute, while woman is seen (and sees herself) as the other, the particular, the
+exception to the male norm (de Beauvoir 2011, 6). Within the a/b/o system, omega characters are
+positioned as the other in relation to the alpha (or occasionally alpha/beta) norm. Furthermore,
+through the omegaverse trope, meanings by which women have been conceptualized as other and
+lesser - such as the primacy of the body over the mind, the volatility and infectiousness of the
+leaking female body, and the fear of uncontrollable female desire - are written into omega
+bodies. In addition, the stories construct societies in which omegas are disciplined by social
+norms and institutions in ways that echo the historical subjugation of women. Presented as both a
+naturalized, biologically rooted category and a socially constructed identity, omega genderedness
+is essentially over-determined, resulting in a fictionalized representation of female-coded
+otherness. Rather than representing women or femaleness, the omega figure is an embodiment of
+multiple discourses by which women have been (and still are) constructed as other. The omega
+does not signify woman, he or she signifies the otherness with which the category ‘woman’ has
+been imbued. By stitching together the omega from discourses that have been used to constitute
+
+6
+
+Marianne Gunderson -  ELO 2021
+
+women as lesser and other in relation to the male norm, the figure of the omega can then be
+mobilized to undermine and resist these discourses.
+
+In both TGC and ASD, various meanings that go into the discursive construction of woman as
+other are made to converge in the figure of the omega, whereupon the narrative is dedicated to
+discrediting them. The stories attack these discourses from multiple angles, sometimes contesting
+the veracity of the essentialist premises that go into the omega figure, revealing that what seemed
+like a biological, naturally given identity is in fact a result of oppressive, socially constructed
+structures that can be resisted and changed. At other points they refute their validity through the
+character's ability to defy even the dictums that are encoded into their bodies, making them rise
+above biological imperatives and thus proving that biology is not destiny. Within these stories the
+question of whether sex or gender is foundational is left unresolved - both of them go into the
+construction of gendered otherness in the shape of the omega. Biology and culture both
+contribute to the oppression of omegas, but neither of the two are deterministic, as proven by the
+ability of the main characters to overcome them. By giving the omega characters the means to
+overcome their uncontrollable bodies, find ways to flourish in a society which is structured to
+deny them the chance to develop their capabilities, and to have them find love and respect with
+an alpha despite all the things that separate them, the narrative becomes one of transcendence
+and hope. As a caricature of the constructions of female otherness, the omega is constituted as a
+strawman argument erected only to be demolished, supporting the inherently optimistic claim
+that even if the premises that construct women as other were written in flesh, they could be
+proven wrong and defeated.
+
+The male omega
+
+So far, this discussion has focused on the constellations of meaning produced through the a/b/o
+categories, without paying too much attention to the fact that the characters that embody them
+carry their male/female genders into the stories. From the perspective of the inner logic of the
+stories, this makes sense. Within the omegaverse, meanings, behaviours, roles, and structures
+that we generally associate with gender and sex are all connected to the a/b/o system. Even
+though the characters’ canonical male/female gender is still referred to alongside their a/b/o
+designation, the a/b/o categories are largely the ones that determine both reproductive abilities,
+gender roles, and which norms apply to them. It is also the system by which some characters are
+othered, while other characters are constituted as the norm. In both TGC and ASD, omegas are
+oppressed because they are omega, regardless of their male/female gender.
+
+Nevertheless, this discussion would be incomplete without discussing the significance of this
+double gendering. What are the consequences of writing the omega as a man? At first glance, the
+fact that the characters retain their male/female gender may seem irrelevant, simply included as a
+relic from the source material. However, this would ignore one of the most characteristic traits of
+fanfiction as a genre: the reliance on characterisation from its source material. Fanfiction
+assumes reader familiarity with the source texts, and uses that familiarity in the production of
+
+7
+
+Marianne Gunderson -  ELO 2021
+
+new stories. According to Francesca Coppa (2006), fanfiction readers come to the text with
+pre-established extratextual knowledge, especially (in the case of fanfiction based on visual
+media) of the characters’ bodies, voices and relationships. She argues that “the actor’s body, as
+much as the words on the page, is the medium of (...) fannish storytelling, and that fanfiction as a
+genre has much in common with theatrical drama, in that it “directs bodies in space” (2006, 225).
+The writers making the already established characters act out a script of their own, rely on the
+reader’s familiarity with the source material to bring the physicality of the characters into the
+story (Coppa 2006b). In the case of movie and television fandom, this includes the canonical
+characters’ physical features, their looks as determined by the actors who play them, and their
+gender as presented in the canonical media. This means that when a fanfiction story is based on
+the BBC TV series Sherlock, the reader will imagine the characters as they are portrayed by
+Benedict Cumberbatch and Martin Freeman in the show. In omegaverse stories such as TGC and
+ASD, the main characters are gendered as male not just through the textual references to their
+maleness, but also through the images and associations drawn from the reader’s familiarity with
+the source media. Through these fics, characters envisioned as male are put into embodied
+situations structured by discourses which have been, and are still, used to construct women as
+other. Yuri is made to go through the adolescent crisis of becoming a gendered body,
+experiencing feelings of betrayal and grief as his body presents the traits that will condemn him
+to the subjugated status of an omega, as well as the process of his gradual omegist awakening as
+he comes to learn how society is structured in order to maintain alpha interests. Sherlock is put in
+a situation where his agency and freedom are constantly threatened, both by his volatile,
+uncontrollable omega body, and laws that frame omegas as property, not people. Together with
+John he is made to struggle to find a way to form an equal, respectful, and trusting relationship
+despite the unequal power dynamics that follow from their respective statuses as omega and
+alpha.
+
+To follow Coppa’s theater reference, by writing these male characters as omegas, they are made
+to act out scripts structured by female-coded otherness. The result is that character is
+simultaneously gendered through the familiar, extratextual, male/female gender system, and
+through the imagined alpha/beta/omega gender system, producing a two-layered, double
+genderdness. This puts the male omega in an interesting position: according to his m/f gender he
+represents the norm, while as his a/b/o gender he represents the other. By writing a familiar male
+character as an omega, experiences which are coded as particular, exceptional, and less than fully
+human because of their association with female otherness, are imagined to be experienced by a
+character who, through his status as a man, represents the norm, the absolute, the human. The
+double position inhabited by the male omega puts experiences of female-coded otherness into a
+context in which they can recognized and legitimized as if they had been experienced by
+someone who were seen as the norm, while also retaining their specificity. Through the figure of
+the male omega, the suffering, indignity, and injustice that comes from being othered are
+validated by being played out by a character who has the the ability to be read (by the reader of
+the text, if not by the world of the fan text itself) as the norm. Simultaneously embodying both
+
+8
+
+Marianne Gunderson -  ELO 2021
+
+the norm and the other, the male omega smuggles experiences of female-coded otherness into the
+sphere of the universal.
+
+Textual poaching
+
+In “Textual Poachers” Henry Jenkins argues that fanfiction authors poach meaning from pop
+cultural texts and repurpose it for their own use, transforming and often subverting the meanings
+communicated by the original media in the process. By treating media texts as “raw material for
+their own cultural production” (Jenkins 1992, 24) the writers “become active participants in the
+construction and circulation of textual meanings” (ibid., 24). In extension of this, Lëppanen
+(2008) has pointed out that fanfiction writers often actively draw on the images of gender and
+sexuality presented in the media they are basing their story on, in order to “modify, question,
+parody, critique and radically subvert the ways gender and sexuality are represented in the cult
+texts” (Lëppanen 2008, 176). In the case of the omegaverse, this rewriting of discourses about
+gender and sexuality is an intrinsic and fundamental feature of the trope: the distinguishing
+elements of a/b/o - encoding the alpha/beta/omega categories with unequal power dynamics and
+the retooling of the reproductive body - invites active engagement with discourses of gender and
+sexuality. The omegaverse trope thus functions as a framework through which discourses about
+gender and sexuality are brought into the text, reorganised, and rewritten. A/b/o fanfiction stories
+thus do not limit their re-interpretative practice to meanings poached from media texts, they
+actively bring discourses about the sexed and gendered body into the story. Through the a/b/o
+trope, the sexed and gendered human body is treated as text that is mined for meaning and used
+as raw material to be repurposed, much in the same way that they repurpose the meanings found
+in pop cultural texts.
+
+According to Henry Jenkins, fanfiction is a result of fascination and frustration. If the original
+work did not fascinate the writers, they would find no reason to engage with it. If it did not
+frustrate them, it would not arouse the desire to transform it according to their own interests and
+preferences. The stories that result from this process can be read as expressions of a desire to
+change something about the source text, to explore possibilities that the canonical texts fail to
+realize. By reconfiguring and reinterpreting the original texts, fanfiction supplies the source texts
+with new meanings and possibilities. As a result, fanfiction can be read as a form of critical
+commentary of the source texts upon which it is based (Jenkins 2006). It follows that fanfiction
+which treats the discourses surrounding sex and gender the same way as it treats the media texts
+is subject to the same logic. By taking the discourses surrounding sex and gender as its source
+material and creatively transforming them, omegaverse can be read as critical commentary of the
+discourses which constitute sex and gender.
+
+References
+BeautifulFiction. 2015. “The Gilded Cage.” Archive of Our Own.
+
+https://archiveofourown.org/works/1103555?view_full_work=true.
+
+Beauvoir, Simone De. 2011. The Second Sex. New York: Random House.
+
+9
+
+Marianne Gunderson -  ELO 2021
+
+Busse, K. 2013. “Pon Farr, Mpreg, Bonds, and the Rise of the Omegaverse.” In Fic: Why
+
+Fanfiction Is Taking Over the World, edited by Anne Jamison, 316–22. Dallas: BenBella
+Books.
+
+Butler, Judith. 1999. Gender Trouble: Feminism and the Subversion of Identity. New York:
+
+Routledge.
+
+Coppa, Francesca. 2006. “Writing Bodies In Space: Media Fanfiction as Theatrical
+
+Performance.” In Fan Fiction and Fan Communities in the Age of the Internet, edited by
+Karen Hellekson and Kristina Busse, 225–45. Jefferson, NC: McFarland & Company, Inc.
+Grosz, Elizabeth. 1995. “Sexual Difference and the Problem of Essentialism.” In Space, Time,
+
+and Perversion: Essays on the Politics of Bodies, 45–58. New York: Routledge.
+
+Jenkins, Henry. 1992. Textual Poachers: Television Fans and Participatory Culture. New York:
+
+Routledge.
+
+Jenkins, Henry. 2006. “Fan Fiction as Critical Commentary.” CONFESSIONS OF AN
+
+ACA-FAN. 2006.
+http://henryjenkins.org/blog/2006/09/fan_fiction_as_critical_commen.html.
+
+Leppänen, Sirpa. 2008. “Cybergirls in Trouble? Fan Fiction as a Discursive Space for
+
+Interrogating Gender and Sexuality.” In Identity Trouble: Critical Discourse and Contested
+Identities, edited by Carmen Rosa Caldas-Coulthard and Rick Iedema, 156–79. New York:
+Palgrave Macmillan.
+
+Netweight. 2013. “The Nonnies Made Them Do It!” Archive of Our Own.
+
+http://archiveofourown.org/works/1022303.
+
+Pugh, Sheenagh. 2005. The Democratic Genre: Fan Fiction in a Literary Context. Bridgend:
+
+Seren.
+
+Tessa on Ice. 2017. “A Stiller Doom.” Archive of Our Own.
+
+https://archiveofourown.org/works/12242697?view_full_work=true.
+
+10
+
+

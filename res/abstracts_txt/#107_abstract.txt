@@ -1,0 +1,45 @@
+:
+
+The 2020 COVID-19 pandemic has had a considerable impact on the way cultural heritage organisations
+engage with their audiences. At a time when public exhibitions and events have to be postponed
+indefinitely or cancelled, many GLAM institutions have chosen to increase their online presence instead,
+looking at virtual platforms as a means to deliver content, showcase their collections and drive
+engagement.
+
+The British Library Simulator (https://giuliac.itch.io/the-british-library-simulator) is a brief video game
+created and released in June 2020, as a way to engage with our audience while the physical library
+buildings were closed. The game, created using the free online game engine Bitsy, allows players to
+explore a pixelated rendition of some popular areas of the British Library; by moving their avatar and
+interacting with other characters in the game, players can learn facts about the history of the building and
+discover some of the projects the library staff have been working on during the pandemic.
+
+One of the main projects we wanted to raise awareness about is the Emerging Formats project: the
+British Library, with the other five UK Legal Deposit Libraries, have been researching, collecting, archiving
+
+55
+
+ELO 2021 - abstracts
+
+and preserving complex digital publications produced in the UK for the past four years. We curate a
+growing collection of web-based interactive narratives hosted in the UK Web Archive
+(https://www.webarchive.org.uk/en/ukwa/collection/1836), which includes a variety of format types and
+interaction patterns, and have just recently launched a collection of all winning and shortlisted entries for
+the New Media Writing Prize (https://www.webarchive.org.uk/en/ukwa/collection/2912). While most of the
+collected entries are only available on Library premises for legal reasons, a few can be accessed
+remotely, allowing for part of the collection to be accessible even during lockdown.
+
+Another aim of the game was to highlight the British Library’s effort to collect and archive around
+COVID-19: the Library has been collecting radio stations recordings, interviews, websites and testimonies
+to capture the experience of lockdown and living through the pandemic. These also include examples of
+e-lit produced in the UK, as well as extensive dedicated collections in the UK Web Archive
+(https://www.webarchive.org.uk/en/ukwa/collection/2975) and the British Library Sounds
+(https://sounds.bl.uk/). Both are mentioned in the game, in an effort to direct audiences to our digital
+resources and bring our steady online services into the spotlight.
+
+The British Library Simulator offered us a chance to present libraries not just as keepers of knowledge,
+but as active and engaging content creators; it allowed us to reach new audiences, outside of the usual
+academic circle; by being an interactive narrative itself, it helped us stress the importance of collecting
+and preserving contemporary born-digital publications, as well as provide and example of the electronic
+literature the Library is interested in collecting; and lastly, it highlighted our ongoing effort to keep offering
+our services online even while the physical Library remains closed.
+

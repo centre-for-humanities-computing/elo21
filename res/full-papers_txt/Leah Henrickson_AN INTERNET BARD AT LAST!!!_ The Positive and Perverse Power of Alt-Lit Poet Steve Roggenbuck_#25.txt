@@ -1,0 +1,796 @@
+‘AN INTERNET BARD AT LAST!!!’: The 
+Positive and Perverse Power of Alt-Lit 
+Poet Steve Roggenbuck 
+
+ 
+
+Content warning: This paper discusses instances of and responses to grooming, emotional abuse, 
+and sexual violence. 
+
+Introduction 
+“In a strict sense, I don't believe there's any definition of poetry that applies to all poets. Different 
+
+poets have different goals. Different poets have different things in their hearts that they’re trying to 
+
+express in different ways that they want to express them. Are my videos where I'm running around 
+
+in the woods talking about YOLO and dogs and dads – are these really poetry? Why call them 
+
+poetry?” (Roggenbuck, “AN INTERNET BARD”)  
+
+ 
+
+These are the words of Steve Roggenbuck, a twenty-something self-proclaimed video artist and poet 
+
+who released YouTube videos from 2010 to 2017. Roggenbuck’s video poems comprised clips of his 
+
+stream of consciousness, often filmed while he rolled in the grass or ran through natural scenes, 
+
+screaming. Amongst random – and, frankly, weird –  remarks, Roggenbuck also offered words of 
+
+motivation, urging viewers to appreciate nature and follow their dreams. Many videos have been 
+
+edited to include musical accompaniment, green screen-facilitated backgrounds, and/or additional 
+
+graphics. 
+
+ 
+
+Over seven years, Roggenbuck’s fanbase grew larger and more devoted, with Roggenbuck being 
+
+established as one of the alt-lit (alternative literature) movement’s most renowned contributors. In 
+
+October 2018, though, Roggenbuck’s fans turned their backs to him as he confirmed allegations of 
+
+sexual misconduct: allegations that followed numerous others made against alt-lit contributors. 
+
+Roggenbuck makes for an interesting subject of study because he embodies various facets of digital 
+
+culture: visual and aural disjointedness, conscious contempt for grammatical correctness (a poetic 
+
+license, so to speak), premeditated performance of personality, and – as he has confirmed – sexual 
+
+misconduct brought to light in the #MeToo moment. This paper also centers on Roggenbuck 
+
+because focus on a single individual allows for deeper understanding of the particular qualities of alt-
+
+lit – and third generation e-literature (henceforth, 3G e-lit) more generally – that facilitate such 
+
+behavior. An individual example allows us to concretize otherwise abstract arguments. 
+
+ 
+
+This paper first introduces readers to Roggenbuck’s work, observing how his poetry fits within the 
+
+category of 3G e-lit. It then considers how the allegations against Roggenbuck may impact 
+
+interpretations of his work. It aims to start a conversation about negotiating cultural value and 
+
+socially unacceptable authorial behavior with new expectations and potential issues for 3G e-lit. To 
+
+use Roggenbuck’s own words (Roggenbuck, “AN INTERNET BARD”): “I am the bard. I am the poet. 
+
+And to be a poet while the Internet exists. Man, we got an opportunity.” The ‘opportunity’ offered 
+
+by the Internet allowed Roggenbuck to rise to fame. It was also his demise.  
+
+ 
+
+Although Roggenbuck has engaged with other forms of dissemination, including print and 
+
+podcasting, his YouTube videos are the primary focus of this paper. 
+
+Roggenbuck’s Videos as Third-Generation E-Lit 
+Steve Roggenbuck was born in Michigan in 1987. He earned a degree in Creative Writing from 
+
+Central Michigan University, and began an MFA program at Columbia College Chicago, but did not 
+
+complete his studies (Davidson). “I recently decided to drop out of my school because it had no 
+
+purpose for me,” Roggenbuck explains in one of his videos from 2011 (“Nobody Can Stop You”). “I 
+
+was just doing it. People will do things that they don’t need to do. They don’t need to spend time on 
+
+it, but they just do it because that’s what everybody does.” But Roggenbuck did not seem to need an 
+
+MFA to succeed online. Alongside his poetry YouTube channel – featuring 167 videos from 2010 to 
+
+2017, which at the time of writing collectively have nearly two million views – Roggenbuck also 
+
+uploaded videos to another channel that features vlogs, information about his vegan lifestyle, and 
+
+his Plant Liker podcast, which ran in 2016 (“plant liker Channel”). Another podcast hosted by 
+
+Roggenbuck called Read Poetry and Eventually Die ran from 2014 to 2015 (“Read Poetry”). 
+
+Roggenbuck also cofounded Boost House, a poetry publisher and vegan co-op house funded by more 
+
+than $17,000 USD of Kickstarter donations raised in 14 days at the end of 2013 (“Boost House”; 
+
+Boost House). Between 2010 and 2015, he released six books of poetry, most of which are still 
+
+available as free e-books. In addition, Roggenbuck toured across the USA, Canada, Western Europe, 
+
+and Australia, selling t-shirts adorned with snippets of his poetry along the way. 
+
+Roggenbuck is often classified as a catalyst for alt-lit: a movement broadly characterized by online 
+
+self-publication, social media usage, and conscious self-reference to Internet culture. Renowned alt-
+
+lit authors include Elizabeth Ellen, Sheila Heti, and Tao Lin, among others. In a 2014 article for The 
+
+New Yorker, Kenneth Goldsmith heralded Roggenbuck as “one of the bright stars of Alt Lit.” A year 
+
+later, Fan Wu (66) described Roggenbuck as a “heavy-hitter” (and, at the same time, an “Internet 
+
+maniac”). A 2016 review (Holloway) speculates that “[w]hen Alt Lit’s wiki has been finally whittled 
+
+away, his [Roggenbuck’s] will be the one name left.” This same review observes that “Roggenbuck 
+
+embodies, in a way virtually no other Alt Lit wordsmith does, the new sincerity,” and ends by stating 
+
+that “Kate Tempest made me want to be a better poet. Steve Roggenbuck made me want to be a 
+
+better human being.” While excitement for alt-lit has largely waned, the genre is perpetuated in 
+
+various corners of the Web. It is also implicitly manifest in meme culture, notably the subset of the 
+
+‘image macro’: when humorous text, usually in a white blocky typeface, is placed atop a related – or 
+
+perhaps purposely unrelated – image. 
+
+Roggenbuck’s work, and much of alt-lit more generally, sits comfortably in the category of 3G e-lit. 
+
+As Leo Flores explains, 3G e-lit, “starting from around 2005 to the present, uses established 
+
+platforms with massive user bases, such as social media networks, apps, mobile and touchscreen 
+
+devices, and Web API services. This third generation […] accounts for a massive scale of born digital 
+
+work produced by and for contemporary audiences for whom digital media has become 
+
+naturalized.” 3G e-lit meets audiences where they are through references to popular culture and 
+
+remixes of extant content. At the same time, Alex Saum-Pascual suggests critique over continuity, 
+
+noting that 3G e-lit “maintains a hyperawareness of the capitalist commodification and datafication 
+
+of human experience on the Web, but relates to it in a sort of ironic, shoulder-shrug-meh, as it 
+
+oscillates between defiance and conformism.” Other scholars have also argued for a critical political 
+
+economy of ‘amateur’ digital artifacts like video poetry posted to popular platforms (Iribarren). 
+
+Saum-Pascual observes that “purposeful amateurism is read as a critique of those other polished 
+
+techno-imperialist aesthetics that make software invisible […] or that make even hardware invisible[. 
+
+…] Poor remixes, glitchy programs, patchy sites, all serve as a reaction to the cleanliness, lightness 
+
+and invisible pervasiveness of the Web in our lived experience.” 
+
+Much of the praise Roggenbuck received during his popularity climax noted his ability to spark 
+
+interest in poetry amongst teenage and young adult viewers through such oscillation between 
+
+defiance and conformism, as well as through his ‘purposeful amateurism’. In an early video, 
+
+Roggenbuck reflects upon what he considers the problems of modern poetry. “Almost every poetry 
+
+book is eighty pages long,” he laments ( “am i even a poet”). “Almost every poetry book is twelve-
+
+point God-dang font. Black on white. Left-aligned. I’m interested in the more flowing culture. […] Art 
+
+is the making of belief systems. […] How can you have a belief system if all you have is eighty-page, 
+
+black-on-white, twelve-point font, serifs – God help me.” As his videos were posted, Roggenbuck’s 
+
+distinctive poetic style emerged and evolved to reflect this ‘flowing culture’. One video from May 
+
+2011 (“1,000 twitter followers”) begins with motivational clips of Shunryu Suzuki and Gary 
+
+Vaynerchuk, transitions to Roggenbuck listing ridiculous ways to be murdered, and then ends with 
+
+Roggenbuck doing what looks to be a frenetic Napoleon Dynamite-inspired dance. By August 2011, 
+
+Roggenbuck has started filming outside (“How to Live Your Lief”). Within only a few months, he is 
+
+screaming at the camera while outdoors or in public spaces (“Nobody Can Stop You”). By 2012, his 
+
+video style appears to have informed his performance style, and a video of a live poetry reading 
+
+opens with Roggenbuck excitedly declaring that “I am a fucked up prick!” (“Steve Roggenbuck at 
+
+Lollapagazna”) The first video to showcase all of these features is dated 27 December 2011 (“LIEF IS 
+
+BEAUTIFUL”), although numerous preceding videos include various combinations of these features. 
+
+Roggenbuck starts using a green screen at the end of 2016, around the same time he develops his 
+
+fascination with different types of clouds (“DON’T QUIT”).  
+
+Teachers and researchers have observed how digital affordances are changing forms and 
+
+perceptions of poetry in ways that correspond with Roggenbuck’s views  (Padgett and Curwood; 
+
+Stuart). Moreover, many continue to question the Internet’s effects on literary cultures (de Haas; 
+
+Inwood; Murray; Tsaaior). Despite inconsistent conclusions, it is clear that digital technologies are 
+
+changing what it means to be a poet, and what it means to read or – as per Roggenbuck’s evocation 
+
+of poetry’s oral tradition – hear, and even see, a poem. Roggenbuck directly responded to these 
+
+changes through explicit observation of the contemporary literary landscape, as well as deliberate 
+
+experimentation with literary form and video editing software. For Roggenbuck, poetry is not words 
+
+on a page, but the evocation of feelings that promote the interconnectedness of human experience. 
+
+Roggenbuck’s work is rooted in the banality of the everyday, encouraging viewers to consider both 
+
+the beauty and the suffering of their own lives. At the same time, his work embraces the strangeness 
+
+of mental processes and incoherent thoughts so often pushed aside in favor of rationality. 
+
+Roggenbuck is, in these ways, a prime example of a 3G e-lit poet: a mass of diverse cultural 
+
+influence, packaged in a performance that is both bewildering and beautiful. 
+
+Roggenbuck’s aesthetic – including the misspellings in his video titles; videos; and YouTube, Twitter, 
+
+and Tumblr comments and posts – distinguished him not just on the social media platforms he was 
+
+using, but also within the more traditional poetic tradition that he wanted to be part of. In one of 
+
+the few scholarly reviews of Roggenbuck’s work, Prathna Lor (154) argues that: 
+
+Roggenbuck advocates for the reconceptualization of textual production through social 
+media as poetic production, and he attempts to infuse poetry into every aspect of digital 
+production as a democratizing force. Paradoxically, such attempts nonetheless perpetuate a 
+logic of exceptionalism and the cult of celebrity. Roggenbuck’s work thus provides an 
+example of digital realism in which social media is used to produce a low poetics that is 
+sincere and lifelike and yet ultimately fictive. 
+
+Roggenbuck establishes a powerful persona of relatability. However, as Lor acknowledges, this is 
+
+indeed a persona, a consciously-crafted character. In his article about Roggenbuck, Lor identifies a 
+
+fundamental issue with the tendency towards digital realism: namely, that it is commonly straight, 
+
+white, and male. In Lor’s words (159), “digital realism mobilizes social media poetics as a force of 
+
+democracy, but it also frequently rests on exclusionary logics of white male heterosexism. […] The 
+
+digital realism of Roggenbuck — and of alt-lit more broadly — celebrates expressions of banality, 
+
+boredom, and absurdity by privileged subject positions.” In Literature in the Digital Age, Adam 
+
+Hammond similarly notes the complexity of the celebrity enjoyed by alt-lit writers, writing that “[i]f 
+
+their literary productions are deliberately lazy, flat, and boring, their strategies of self-promotion are 
+
+tireless and ingenious” (144). This calculated use of popular social media “[makes] the social 
+
+dimensions of poetry visible to twenty-first century readers” (McGrath 142). Such use responds to 
+
+the emergence of a new kind of predominately digital audience, which expects access not just to an 
+
+author’s works, but also to glimpses of that author’s personal life and mind. 
+
+And glimpses into Roggenbuck’s mind we get, however dark. Undoubtedly representing efforts to be 
+
+deliberately shocking, many of Roggenbuck’s videos make reference to the illuminati, Satanism, 
+
+murder, or dead children. He may also insert more sexualized clips wherein he mentions kissing, sex, 
+
+penises (his own, or those of others), or some combination thereof. “I will literally kiss this cake into 
+
+your mouth,” he declares in one video (“me and you”). “You fucking dumbass. I got my dick length 
+
+notarized,” he shouts in another (“THE LOST TAPES”). As time progresses, though, Roggenbuck more 
+
+explicitly incorporates issues of social justice, including feminism, into his videos. In a video from 
+
+2014 (“BE YOURSLEF, PART 3”), he recommends bell hooks’ The Will to Change: Men, Masculinity, 
+
+and Love. In another from the same year (Violent J in Roggenbuck, “USE INTERLIBRARY LOAN”), he 
+
+includes a clip of Violent J from musical duo Insane Clown Posse commenting on fellow musician 
+
+Chris Brown: “Fuck Chris Brown. Every time they spin his shit, they’re not spinning somebody else’s 
+
+shit, who didn’t beat up a woman.” These examples illustrate the manifestation of our modern 
+
+zeitgeist of advocacy, the oscillation between defiance and conformism observed by Alex Saum-
+
+Pascual, in works of 3G e-lit. They also illustrate the protean nature of the human mind. Roggenbuck 
+
+is consistently inconsistent in a way that affirms his personal depth to his audience. 
+
+The apparent randomness of Roggenbuck’s videos make his moments of insight even more 
+
+impactful. Amidst of rapid video cuts and frantic remarks, Roggenbuck inserts clips of either 
+
+motivational speakers (e.g. Gary Vaynerchuk and Steve Jobs) or himself inciting critical self-reflection 
+
+and, at times, uninhibited hedonism. In early videos, he touts his idea of ‘boosting’: encouraging 
+
+people to be their best selves through acknowledgement of everyday joy, and by passionately 
+
+following their dreams. In later videos, he speaks to viewers more directly. “Have I convinced you 
+
+that when you breathe it is the most miraculous thing that has ever happened in history?” 
+
+Roggenbuck asks in one video (“life is right now”). “Everybody dies,” he declares in another (“make 
+
+something”). “Make something beautiful before you are dead.” While Roggenbuck’s videos parody 
+
+the chaos and bleakness of modern life, they simultaneously encourage viewers to appreciate the 
+
+simplicity and wonder of grass and trees. 
+
+Interpreting Immoral Authorship 
+“Today some really disgusting things have been publicly exposed about past actions of mine. You can 
+
+search ‘Steve Roggenbuck’ on Twitter to find the posts that I am aware of at this time,” Roggenbuck 
+
+wrote in a Twitter post on 3 October 2018 (“I’m sorry”). “Many people will now look back on my 
+
+‘feminism’ as if it has been a stunt or a front, meant to decieve [sic] people. It was not a stunt. It has 
+
+been a sincere effort made by a flawed person.” The tweets to which Roggenbuck refers included 
+
+screenshotted messages from 2011. In the messages, Roggenbuck asks a then 16-year-old Ashley 
+
+Olson if she would be interested in being his sex slave, with Roggenbuck proposing forceful sex acts 
+
+(christlover2000). A feature in The Daily Beast details other similar accusations against Roggenbuck, 
+
+exposing Roggenbuck’s repeated abuse of his celebrity status to exploit young women and trans 
+
+people (Zimmerman). 
+
+Other alt-lit contributors have likewise faced claims of sexual misconduct. For example, in 2014 the 
+
+editor of the now-defunct Pop Serial alt-lit magazine Stephen Tully Dierks was accused of sexual 
+
+abuse (Jones). Soon after, Tao Lin was publicly accused of statutory rape and emotional abuse 
+
+(Tsjeng). Roggenbuck took to his Tumblr blog to respond to the claims against his peers, 
+
+commending victims for sharing their stories, as well as writing extensively about sexual consent. 
+
+The final item on his list of consent tips is “BE AWARE OF POWER IMBALANCES” (“content warning”). 
+
+Roggenbuck’s blog post about consent followed from numerous others exploring gendered lives and 
+
+issues related to feminist theory and practice (for example, “[untitled post]”). Despite his public 
+
+promotion of consent, Roggenbuck himself appeared to struggle with the concept. Of course, 
+
+Roggenbuck may have now had time to reflect upon his past behaviors, and may have worked 
+
+towards making more mindful decisions going forwards. What matters, though, is that his publicly-
+
+available works were produced in a context tainted by abuse, however unintentional or 
+
+unrecognized. Even if he has made efforts to change his behaviors, as per his own admission, the 
+
+durability of digital documentation makes it so that an analysis of Roggenbuck’s work is incomplete 
+
+without recognition of his being a ‘flawed person’. Roggenbuck is not bound to the reported 
+
+instances, but his poems’ contexts of creation matter because they inform our judgements of their 
+
+beauty and our understandings of Roggenbuck’s authorial intentionality. 
+
+Steve Roggenbuck’s poetry was once important for its content, for its exemplification of a new 
+
+generation of e-literature. Now, Steve Roggenbuck’s poetry is also important for another reason. It is 
+
+important because it serves as a starting point for a discussion about issues related to the 
+
+development, dissemination, and consumption of digital artifacts: issues that will undoubtedly 
+
+inform the production and reception of 3G e-lit. It exemplifies the potential darkness of digital 
+
+connectivity, and of the use of the Web for new forms of interpersonal control. Alt-lit, as a digital-
+
+born literary form, was – and perhaps still is – a particularly well-paved path to such control. As 
+
+Ashley Olson observed in an interview about how alt-lit may serve as a tool for underage grooming 
+
+(Iskander, Olson, and Karsavin): 
+
+Alt Lit grooms because it is something on a surface level that youth could relate to, media 
+that appears at first glance to be tailored for them. Alt Lit mimics a teenaged affect, 
+establishes a more infantile or youthful voice to use as a vehicle for sometimes very violent 
+or disturbing ideas, and presents these ideas alongside ones that are relatable to 
+adolescents with total indifference. 
+
+The voice of Alt Lit is also established through its technical convention. As in the case with 
+Roggenbuck and others, there are abundant grammatical errors, “creative misspellings,” 
+emojis, webspeak, text that is literally copied and pasted from social media, in the attempt 
+to convey familiarity and intimacy through a relatable, confessional mode. Readers can 
+mistake the lack of structure and unrelenting oversharing in Alt Lit for vulnerability, 
+authenticity, familiarity, and sincerity. This voice was integral to the public persona as well; 
+when I was minor whom Steve solicited for sex, he never dropped the childish affect – it was 
+utilized to mask or soften the violence of his behavior. 
+
+Flores’ formative article about 3G e-lit repeatedly stresses the accessibility of this new category. “If 
+
+you count image macro memes as a kind of electronic literature, as I do, then the numbers of works 
+
+produced and circulated are in the millions,” Flores writes. “The number of practitioners is equally 
+
+enormous, numbering in the thousands, millions if you count image macro meme makers.” Flores’ 
+
+article does not, however, recognize the social inequalities already rampant online. Certainly, 3G e-lit 
+
+has the potential to engage a more a wide-ranging and diverse audience than its categorical 
+
+predecessors. However, we cannot ignore the fact that certain voices are amplified online, while 
+
+others are marginalized (Robinson et al.). We also cannot ignore the significance of familiarity 
+
+established through remixing and popular culture references in 3G e-lit that appears in our 
+
+personalized newsfeeds. We literally welcome 3G e-lit practitioners into our homes when we 
+
+consume their content in domestic spaces. These practitioners exploit the sense of closeness that 
+
+comes with familiar language and personalized consumption experiences for affective impact. This 
+
+impact may very well be harmful, as was so in Roggenbuck’s case.  
+
+For this paper, I have applied a ‘critical reading’ approach to Roggenbuck’s work. I have watched 
+
+every one of Roggenbuck’s videos, and have read most of his published works, for a deep 
+
+understanding of his literary style and cultural contributions. Other scholars, however, have taken 
+
+‘critical not-reading’ approaches to problematic authors. In her explanation for “Not Reading DFW 
+
+[David Foster Wallace]” in light of Wallace’s blatant misogyny in both his published works and 
+
+personal life, Amy Hungerford (163) writes that “[i]n placing my reasons, and the evidence on which 
+
+I base them, on the table, in suggesting the kinds of reasons it might be legitimate to consider as we 
+
+make our best guesses about how to parcel out our reading hours, I hope to draw attention to the 
+
+fact that refusal can be an intentional and transparent part of professional life for the scholar.” 
+
+Hungerford’s choice to not read Wallace is rooted in a decision to dismiss valorization of 
+
+misogynistic views perpetuated by his work and discussions about it. As Hungerford asks (155-156): 
+
+What do people want novels to do for them? What kinds of thought and meaning do literary 
+works make available? What stories matter to a given culture at a given moment in history 
+and what do they tell us about that culture? Wallace’s works surely suggest some answers to 
+these sorts of questions. 
+
+[…] 
+
+But with a contemporary work, a work that is still in the process of being integrated into the 
+culture, the scholar finds herself in a different position. What if we just stop talking about 
+such a work before it matters that much to the culture at large? Stop reading it, stop 
+teaching it, stop studying it? What if we start suggesting something else to read instead? 
+
+Instead of giving culturally problematic works and authors lip service, Hungerford adopts an 
+
+approach that emphasizes alternatives. There is, after all, so much to read, and so little time. Why 
+
+focus on that which was produced by the unsavory? 
+
+Hungerford’s argument is well-articulated and convincing, and provides a basis for future 
+
+justifications of readerly refusal. My opposing approach, though, is driven by an answer to 
+
+Hungerford’s question about “[w]hat stories matter to a given culture at a given moment in history.” 
+
+It is not so much Roggenbuck’s work that is most important here, but what Roggenbuck represents 
+
+in a time of transition towards an upsurge of digitally-produced literature and Web-induced 
+
+connectivity. Roggenbuck’s public activity reflects many stories that matter in our culture, right now: 
+
+stories about human-computer collaboration for artistic output, means of interpersonal 
+
+communication, societal perceptions of consent, and questions of power dynamics in both digital 
+
+and embodied space. Engaging with the corpus of Roggenbuck’s work permits nuanced 
+
+comprehension of how such cultural stories may influence or be influenced by this work. Not talking 
+
+about such stories, or deflecting discussions with recommendations for alternatives, does not make 
+
+them go away. The path towards change is paved with painful and awkward cobblestones that we 
+
+must traverse to reach a more equitable destination. This is a destination that 3G e-lit practitioners 
+
+and scholars should strive towards reaching, whichever road is taken. 
+
+Conclusion 
+This paper represents my own efforts to determine the cultural value of alt-lit poet Steve 
+
+Roggenbuck’s work following verified accusations of sexual misconduct made against him. It also 
+
+serves as an appeal for further conversations about hermeneutic processes associated with 3G e-lit 
+
+in particular: works appearing on widely-accessible platforms, often responding to contentious 
+
+contemporary issues. While works of 3G e-lit may have extraordinary positive effective and affective 
+
+impact, scholars must be attuned to the potentially negative social implications of 3G e-lit practice. 
+
+Whose voices are heard? Whose are not? How and why? What power imbalances might 3G e-lit 
+
+perpetuate or create? 
+
+Although Roggenbuck was by no means the only person forwarding the alt-lit movement in its 
+
+prime, he was one of the most renowned, establishing a widespread and dedicated fanbase by 
+
+personally responding to fans’ comments in an eccentric and endearing way. The character he 
+
+cultivated, to cite Prathna Lor (154), provided “an example of digital realism in which social media is 
+
+used to produce a low poetics that is sincere and lifelike and yet ultimately fictive.” While 
+
+Roggenbuck’s online character was promoting inclusive and feminist practices of consent, though, 
+
+Roggenbuck himself seemingly struggled to do the same. 
+
+Roggenbuck was, to use his own words, an Internet bard, seizing digital opportunities for poetry 
+
+production and dissemination. “And to be a poet while the Internet exists,” he contemplates 
+
+(Roggenbuck, “AN INTERNET BARD”). “Man, we got an opportunity.” Unfortunately, Roggenbuck 
+
+also seized inappropriate opportunities arising from his Internet celebrity. His choice to exercise his 
+
+power in this way concluded his saga of Internet fame. This saga serves as a stark reminder of our 
+
+responsibility as 3G e-lit scholars and practitioners to remain diligent in maintaining inclusive and 
+
+safe literary communities for all. 
+
+ 
+
+ 
+
+Works Cited 
+ 
+“Boost House.” Kickstarter, https://www.kickstarter.com/projects/1459492663/boost-house. 
+
+Accessed 27 November 2019. 
+
+ 
+Boost House [via the Internet Archive], 
+
+https://web.archive.org/web/20160504123600/http://www.boost-house.com. Accessed 27 
+November 2019. 
+
+ 
+christlover2000 [Ashley Olson]. “When I was a teenager…” Twitter, 2 October 2018, 
+
+https://twitter.com/christlover2000/status/1047206333852708864. Accessed 25 November 
+2019. 
+
+ 
+Davidson, Laura, “Profile: Steve Roggenbuck.” Rhizome, 25 October 2013, 
+
+https://rhizome.org/editorial/2013/oct/25/artist-profile-steve-roggenbuck. Accessed 27 
+November 2019. 
+
+ 
+de Haas, Ricarda. “Video Poetry as Re-Creation and Remediation of Oral Performance in the Work of 
+
+Kgafela oa Magogodi and Chirikure Chirkure.” Africa Today, vol. 64, no. 4, 2018, pp. 74-90. 
+
+ 
+Flores, Leonardo. “Third Generation Electronic Literature.” electronic book review, 7 April 2019, 
+
+https://doi.org/10.7273/axyj-3574. Accessed 30 March 2021. 
+
+ 
+Goldsmith, Kenneth. “If Walt Whitman Vlogged.” The New Yorker, 7 May 2014, 
+
+https://www.newyorker.com/books/page-turner/if-walt-whitman-vlogged. Accessed 25 
+November 2019. 
+
+ 
+Hammond, Adam. Literature in the Digital Age: An Introduction. Cambridge University Press, 2016. 
+ 
+Holloway, Dan. “Make Something Beautiful Before You Are Dead by Steve Roggenbuck.” Sabotage 
+
+Reviews, 28 March 2016, http://sabotagereviews.com/2016/03/28/make-something-
+beautiful-before-you-are-dead-by-steve-roggenbuck. Accessed 25 November 2019. 
+
+ 
+Hungerford, Amy. “On Not Reading DFW”, in Making Literature Now. Stanford University Press, 
+
+2016, pp. 141-167. 
+
+ 
+Inwood, Heather. “Poetry for the People?: Modern Chinese Poetry in the Age of the Internet.” 
+
+Chinese Literature Today, vol. 5, no. 1, 2015, pp.  44-54. 
+
+ 
+Iribarren, Teresa. “Subaltern mediators in the digital landscape.” Target, vol. 29, no. 2, 2017, pp. 
+
+319-338. 
+
+ 
+
+Iskander, Maria, Ashley Olson, and Alex Karsavin. “Grooming Style: A conversation on how the Alt Lit 
+
+scene’s documentation of sexual violence became a style of supposed sincerity.” The New 
+Inquiry, 19 March 2019, https://thenewinquiry.com/grooming-style. Accessed 29 November 
+2019. 
+
+ 
+Jones, Allie. “Hip Alt-Lit Editor Quits Public Writing Career After Rape Accusations.” Gawker, 30 
+
+September 2014, https://gawker.com/hip-alt-lit-editor-quits-public-writing-career-after-ra-
+1640785729. Accessed 27 November 2019. 
+
+ 
+Lor, Prathna. “Everybody’s Poetry.” Minnesota Review, vol. 85, 2015, pp. 153-161.. 
+ 
+McGrath, Jim. “Borrowed country: digital media, remediation, and North American poetry in the 
+
+twenty-first century.” Unpublished doctoral thesis. Northeastern University, 2015. 
+
+ 
+Murray, Simone. “10 Myths About Digital Literary Culture.” Post45, 8 April 2020, 
+
+https://post45.org/2020/04/10-myths-about-digital-literary-culture. Accessed 26 April 2021. 
+
+ 
+Padgett, Elizabeth R. and Jen Scott Curwood. “A Figment of Their Imagination: Adolescent Poetic 
+Literacy in an Online Affinity Space.” Journal of Adolescent & Adult Literacy, vol. 59, no. 4, 
+2016, pp. 397-407. 
+
+ 
+Robinson, Laura, Jeremy Schulz, Grant Blank, et al. “Digital inequalities 2.0: Legacy inequalities in the 
+
+information age.” First Monday, vol. 25, no. 7, https://doi.org/10.5210/fm.v25i7.10842. 
+
+ 
+Roggenbuck, Steve. “[untitled post].” lief+, 8 July 2014, 
+
+https://plus.livemylief.com/post/91189167869. Accessed 27 November 2019. 
+
+ 
+---. “1,000 twitter followers: a celebratory motivational/dance video (2011).” YouTube, 12 May 2011, 
+
+https://www.youtube.com/watch?v=3GkeOkNkTzQ. Accessed 28 November 2019. 
+
+ 
+---. “am i even a poet anymore? (2011).” YouTube, 17 May 2011, 
+
+https://www.youtube.com/watch?v=bGyloBitGjc. Accessed 28 November 2019. 
+
+ 
+---. “‘AN INTERNET BARD AT LAST!!!’ (2013) ARS POETICA.” YouTube, 14 July 2013, 
+
+https://www.youtube.com/watch?v=YchvRnKwCbc. Accessed 6 November 2019. 
+
+ 
+---. “BE YOURSLEF, PART 3: PROTECT YOUR LOVE OF YOUR WORK (2014).” YouTube, 5 July 2014, 
+
+https://www.youtube.com/watch?v=_OVU-w197ec. Accessed 2 December 2019. 
+
+ 
+---. “content warning: rape / sexual assault.” live my lief, 1 October 2014, 
+
+https://livemylief.com/post/98945605210/content-warning-rape-sexual-assault. Accessed 
+27 November 2019. 
+
+ 
+---. “DON’T QUIT (2016).” YouTube, 19 December 2016, 
+
+https://www.youtube.com/watch?v=553FUlDf0n8. Accessed 5 December 2019. 
+
+ 
+---. “How to Live Your Lief (2011).” YouTube, 16 August 2011, 
+
+https://www.youtube.com/watch?v=teL6I-Vv55U. Accessed 28 November 2019. 
+
+ 
+---. “I’m sorry.” Twitter, 3 October 2018, 
+
+https://twitter.com/steveroggenbuck/status/1047312208567394304. Accessed 25 
+November 2019. 
+
+ 
+---. “LIEF IS BEAUTFUL (2011) TRULEY WATCH THIS VIDEO IT CAN CHANGE YOU"RE LIFE!!.” YouTube, 
+
+27 December 2011, https://www.youtube.com/watch?v=Fqs33YArkD4. Accessed 28 
+November 2019. 
+
+ 
+
+---. “life is right now (2015) THIS IS A SPECIAL VIDEO PLEASE VIEW THIS WITH A PLANT OR ANIMALS.” 
+YouTube, 10 December 2015, https://www.youtube.com/watch?v=ENZ2zRB-0AI. Accessed 5 
+December 2019. 
+
+ 
+---. “make something beautiful before you are dead (2012).” YouTube, 13 April 2012, 
+
+https://www.youtube.com/watch?v=0bR6uOsDn-Q. Accessed 5 December 2019. 
+
+ 
+---. “me and you because i like you (2012).” YouTube, 24 August 2012, 
+
+https://www.youtube.com/watch?v=RtQz77MKU0w. Accessed 29 November 2019. 
+
+ 
+---. “Nobody Can Stop You From Achieving Your Dreams (2011).” YouTube, 22 November 2011, 
+
+https://www.youtube.com/watch?v=C50fBAowZOA. Accessed 27 November 2019. 
+
+ 
+---. “THE LOST TAPES OF LIVE MY LIEF - VOL. 4 (2013).” YouTube, 25 January 2013, 
+
+https://www.youtube.com/watch?v=wCwkpyyGabY. Accessed 2 December 2019. 
+
+ 
+---. “plant liker Channel.” YouTube, https://www.youtube.com/user/veganfrickwad. Accessed 27 
+
+November 2019. 
+
+ 
+---. “Read Poetry and Eventually Die.” YouTube, https://www.youtube.com/channel/UC_Q_MLFg-
+
+pfnheoR4EA1kYw. Accessed 27 November 2019.  
+
+ 
+---. “Steve Roggenbuck at Lollapaganza (2012) MOST SHOCKING ORAL POETRY SINCE HOMER.” 
+
+YouTube, 7 June 2012, https://www.youtube.com/watch?v=-NV1sm3dVME. Accessed 29 
+November 2019. 
+
+ 
+---. “USE INTERLIBRARY LOAN TO KILL GUY FIERI (2014).” YouTube, 14 July 2014, 
+
+https://www.youtube.com/watch?v=KrbFg0TddL0. Accessed 2 December 2019. 
+
+ 
+Saum-Pascual, Alex. “Is Third Generation Literature Postweb Literature? And Why Should We Care?” 
+electronic book review, 3 May 2020, https://doi.org/10.7273/60pg-1574. Accessed 30 March 
+2021. 
+
+ 
+Stuart, Denise H. “Cin(E)-Poetry: Engaging the Digital Generation in 21st-Century Response.” Voices 
+
+from the Middle, vol. 17, no. 3, 2010, pp. 27-35. 
+
+ 
+Tsaaior, James Tar. “New Wine, Old Wineskins: Authorship and Digitalizing Nigerian Oral Poetry 
+
+through New Media Technologies.” Journal of Asian and African Studies, vol. 48, no. 1, 2012, 
+pp. 97-113. 
+
+ 
+Tsjeng, Zing. “Tao Lin accused of statutory rape and emotional abuse.” Dazed, 2 October 2014, 
+
+https://www.dazeddigital.com/artsandculture/article/22051/1/tao-lin-accused-of-statutory-
+rape-and-emotional-abuse. Accessed 25 November 2019. 
+
+ 
+Wu, Fan. “Brian Droitcour, ed., The Animated Reader: Poetry of ‘Surround Audience’ (New York: The 
+
+New Museum, 2015).” C Magazine, vol. 127, 2015, pp. 66-67. 
+
+ 
+Zimmerman, Amy. “The Star ‘Feminist’ Author Accused of Preying on Underage Girls.” The Daily 
+
+Beast, 5 October 2018, https://www.thedailybeast.com/the-star-feminist-author-accused-
+of-preying-on-underage-girls. Accessed 25 November 2019. 
+
+

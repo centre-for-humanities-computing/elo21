@@ -1,0 +1,53 @@
+:
+Reviewing the history of computing, the educational potential of new ways of knowledge representation
+and new literary affordances have sparked many influential ideas and reform efforts, spanning from
+"frantic systems" (Nelson, 1970) to constructionist discovery learning (Papert, 1993) to the reconfiguration
+of literary education (Landow, 2006, ch. 7). Yet, the current usages of electronic literature in education
+arguably fall behind those early anticipations. Therefore, this paper explores the wider educational and
+social entanglements that withhold electronic literature from entering classrooms in the context of current
+technology transformations.
+
+Considering the recent pandemic-related global upsurge of the digitalization of educational systems, the
+mere lack of supply of digital devices and equipment will cease to be the main obstacle for the adoption of
+electronic literature in K12 classrooms. Nonetheless, the question shifts to what imaginaries and
+discourses shape (and limit) the use of new digital literary affordances. Reviewing current trends, three
+issues are identified. These concern (1) a focus on technological disruption, (2) problematizing learning
+objectives and (3) the marginalization of teaching.
+
+The focus on technological disruption (and solutionism) refers to a tendency for innovators to overly
+emphasize particular technological aspects and to become fixated on their "disruptive" benefits while
+disregarding the need for cultural and artistic conventions and communities of education practices to grow
+within the digital medium.
+
+Secondly, the problematization of learning objectives relates to a prioritization of basic skills and 21st
+century workforce preparation while neglecting the need to address new critical literacy practices.
+Moreover, reading researchers have expressed concerns about the erosion of deep reading within digital
+media (E-Read, 2019). Rather than responding with a restricted, preservationist stance limited to
+paper-based literacy, educators and authors may find ways of combining material affordances and
+electronic literature to introduce wider literacy conceptions in educational practice.
+
+In a similar vein, the marginalization of teaching is concerned with how technology is being used to
+quantify, classify and control teaching practices within new regimes of digital governance. In other words,
+teachers are being increasingly framed as technicians and behavioral managers in place of enhancing
+their role as "cyberbards" (Murray, 2016) or "narrative architects" (Jenkins, 2004).
+
+97
+
+ELO 2021 - abstracts
+
+Given that some of the issues raised correspond to known problems in the field of electronic literature,
+they also provide opportunities for further transdisciplinary research into the production and adaptation of
+electronic literature for educational purposes.
+
+References
+E-Read. (2019). Cost e-read stavanger declaration concerning the future of reading
+https://ereadcost.eu/stavanger-declaration/
+Jenkins, H. (2004). Game design as narrative architecture In N. Wardrip-Fruin & P. Harrigan (Eds.), First
+person: New media as story, performance, and game Cambridge, Mass., MIT Press.
+Landow, G. P. (2006). Hypertext 3.0: Critical theory and new media in an era of globalization JHU Press.
+Murray, J. H. (2016). Hamlet on the holodeck: The future of narrative in cyberspace (2nd ed.) New York,
+The Free Press.
+Nelson, T. (1970). No more teachers’ dirty looks Computer decisions, 9(8), 16–23.
+Papert, S. (1993). The childrens machine: Rethinking school in the age of computer (reprint ed.) New
+York: Basic Books.
+

@@ -1,0 +1,41 @@
+:
+‘Lost water! Remains Scape?’: Transformation Waterscapes in Coimbatore from past to present through
+digital poetry
+
+The digital poetry ‘Lost water! Remains Scape?’ is written in Tamil by the environmental poet Mohamed
+Rafiq and in English by Shanmugapriya T, the co-author of this paper. It is created using 2D and 3D
+environments, and photos in Blender and Adobe Animate software. The 2D and 3D environments reflect
+the narrative about the ecosystem of waterscapes in the past and the photo animations represent the
+current situation of the water bodies in Coimbatore, the southern region in South India. This digital poetry
+is created based on the findings from our AHRC-funded project ‘Digital Innovations in Water Scarcity,
+Coimbatore, South India’. This interdisciplinary project investigates the changed waterscape in
+Coimbatore, South India across 150 years by using range of materials and activities including studying
+historical maps and satellite imagery, and conducting interviews with local farmers, activists and NGOs.
+This digital poetry is an endeavour to bridge gap between digital literature and digital humanities. The
+questions we ask in this paper are how can the adoption/integration of digital literary method be an
+effective agency and actor to represent the environmental objects and disseminate the findings for
+targeted audiences? How can tools and methods contribute to the digital humanities and digital literature
+grounded in materials from the global south? The main aim of this paper is to explore the digital literary
+method as an effective agency to communicate the research findings to the broader public.
+
+Reminiscence is the primary theme of our digital poetry. It will be mediated through text, animations and
+images. Waterscape is an imperative source and forms a conducive ecological community in every
+villages of the region Coimbatore. It is a primary source for drinking, irrigation and other economic and
+cultural activities. However, the forgotten waterscapes due to drought, dereliction and climate change
+have become conduit of drainage waters, and garbage dumbing areas. The photos that have taken during
+our field visits depict the current condition of waterbodies among which most of them are in dreadful state.
+On the other hand, the oral testimonies of the local farmers illustrate a different situation of waterscapes a
+few decades ago. They narrated how they were blessed to have had a healthy waterscape in the past.
+They also told us that there were particular flora and fauna that belong to the region had been destroyed
+and some of the specific species such as Noyyal Otter had gone extinct. The interactive 2D and 3D
+environment of digital poetry will provide a revisitation to such lost waterscapes created based on the oral
+
+113
+
+ELO 2021 - abstracts
+
+testimonies. It will also portray the current condition of waterscapes through photo animation and text
+narration. This digital poetry will be disseminated to students, scholars, activists and the general public
+through our academic and NGO partners and local schools and colleges. Feedback and some of the
+interviews conducted will be made available via the project website.
+

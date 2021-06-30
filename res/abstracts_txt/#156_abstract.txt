@@ -1,0 +1,15 @@
+:
+This workshop presents a hands-on introduction to the RiTa v2.0 tools, including the new RiScript
+language. Version 2 of RiTa is a complete rewrite of the library that is easier-to-use, faster and more
+powerful. The workshop will cover the basics of RiTa and RiScript in JavaScript, with a specific focus on
+the Observable notebook environment.
+
+36
+
+ELO 2021 - abstracts
+
+The number of addition topics covered, and the depth to which they are explored, will vary in relation to
+the time allotted by conference organizers and the experience of participants. While no specific skills are
+required for participation, familiarity with JavaScript and a basic knowledge of programming concepts
+(conditionals, variables, loops, etc.) will be assumed.
+

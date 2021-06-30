@@ -1,0 +1,559 @@
+ [Plat]forms of poïesis. From the Holodeck to Mez Breeze’s V[R]erses  
+Asun López-Varela (Complutense University Madrid)  
+alopezva@ucm.es 
+ 
+ 
+Abstract 
+This paper explores work by Australian net.artist and game designer Mez Breeze. In 2020, 
+Breeze’s VR and XR creations were shortlisted for the Woollahra Digital Literary Award. 
+In 2019 she won Queensland University of Technology’s Digital Literature Award for 
+her  Virtual  Reality  Microstories  Series  V[R]ignettes,  and  received  the  Marjorie  C. 
+Luesebrink Career Achievement Award as a visionary artist. In 2018, another of her VR 
+Literature experiences was shortlisted for the If:book New Media Writing Prize. Also in 
+2018, Mez Breeze collaborated with Microsoft, Samsung and MasterpieceVR in their VR 
+Influencers  Sustainability  Initiative.  These  are  only  some  of  her  achievements.  She 
+currently  serves  as  an  Advisor  to  the  Mixed  Augmented  Reality  Art  Research 
+Organisation  and  is  a  Senior  Research  Affiliate  of  the  Humanities  and  Critical  Code 
+Studies Lab, among other responsibilities.  
+
+V[R]erses is a collection of 3D online experiences of X-Reality -virtual, mixed, 
+and  augmented-  created  by  Mez  Breeze  in  collaboration  with  other  well-known  E-lit 
+artists. In this paper, I argue that this work inquiries into the posthuman scenario, that is, 
+on the impact of human and nonhuman actions in the Anthropocene.  
+
+In the case of electronic literature and net.art, a central concern has been the role 
+of software, considered by some a sort of disembodied haunting voice of the ghost in the 
+machine. In “Theory as Praxis: The poetics of Electronic Textuality” (2002), Johanna 
+Drucker, turned to Jerome McGann’s Radiant Textuality to assert that the Aristotelian’s 
+concept of “poïesis”, nowadays conceptualized only as theory was, in its ancient Greek 
+original meaning, a form of making or craft (see also López-Varela 2017). According to 
+Drucker, “Making things … pushes the horizons of one’s understanding.” (2002: 684) 
+Decades later, there is still the need to call attention to the practical aspects of Humanities 
+disciplines. The aims of this paper are multiple. It attempts to show how art and, in this 
+case,  Mez  Breeze’s  net.art,  foregrounds  contemporary  problems  such  as  the  possible 
+agency of nonhuman actants. It also calls for a blend of STEM disciplines into STE[A]M 
+in order to highlight the 4E1 consilience of all knowledge.  
+ 
+Keywords: Anthropocene, nonhuman agency, Mez Breeze, VR-XR, V[R]erses 
+ 
+Human Readable Messages and nonhuman intra-actions 
+In 2011, Mez Breeze published a book entitled Human Readable Messages [mezangelle 
+2003 - 2011]. On the back-cover of her volume, she poses the following question to the 
+readers: 
+ 
+
+Q: wot do u get if u stitch 2gether standardized literary conventions [think: the 
+monumental  output  of  bill  Shakespeare  +  the  staccato  pulsings  of  Emily 
+Dickinson] with coded poetics steeped in digitally-drenched communication?  
+
+ 
+This is her description of mezangelle, a type of codework she developed in the 1990s and 
+which she used to write her book in diary form. mezangelle, which Breeze spells without 
+capitals, is a new form of writing that combines English language with some code features 
+
+                                                           
+1 Embodied, Embedded, Enacted, Extended. 
+
+ 
+
+1 
+
+of programming languages such as ASCII code, fragments of markup language, protocol 
+code, and others. Her choice of denomination echoes not only her own name but also the 
+musical pieces known as villanelle.2 For readers who cannot interpret code features, the 
+simple bracketing of letters within words enables the emergence of multiple meanings. 
+The  result  is  similar  to  the  portmanteau  words  used  by  Lewis  Carroll  in  his  poem 
+“Jabberwocky”.3 Other authors, such as James Joyce in his novel Finnegans Wake, or 
+William Burrough’s cut/ups are examples of a struggle to break down the linearity of 
+alphabetic writing (López-Varela 2014).  
+
+Her  poem  “Anthropo[S]ceney||AnthropO[bs]cene”,  which  appeared  in  2015  in 
+netwurker.livejournal.com,  is an example of mezangelle mostly made up of bracketing. 
+The poem is a meditation on the Anthropocene, a term that has come to signify our current 
+age in geological time, marked by the beginning of humanity's effects on the environment 
+on a global scale. Coined by chemist Paul J. Crutzen and marine biologist Eugene F. 
+Stoermer, the term emphasises human impact on the planet, characterized by encounters 
+with nonhuman agents. Thus, it considers the material inter-actions and intra-actions that 
+occur between organisms and their environments. In the Anthropocene, the need arises to 
+consider forms of intentionality that come from nonhuman entities. The category of the 
+nonhuman includes biological forms -animal, plants, microorganisms-, as well as non-
+biological entities such as machines and forthcoming forms of AI. 
+
+In his essay “Finding and Evaluating the Code,” David Shepard divides code into 
+different layers in digital work: the executed layer, structural layers and the source code, 
+all of which contribute in meaning making. In “Deeper into the Machine: Learning to 
+Speak Digital,” (2002) Hayles mentions Mez Breeze as member of a new generation of 
+artists  who  produce  works  where  natural  language  mingles  with  the  language  of  the 
+machine producing a creole comprised of English and computer code. For Hayles, this 
+new trend is “not content to let code remain below the surface but rather [its purpose is 
+to]  show  it  erupting  through  the  surface  of  the  screen  to  challenge  the  hegemony  of 
+alphabetic language.” (Hayles 2002: 372) 
+
+Indeed,  Breeze’s  mezangelle  recombinations  contribute  to  the  emergence  of  a 
+multiplicity of meanings that create an effect of “defamiliarization”.4 This mechanism, 
+introduced  in  1917  by  Russian  formalist  Viktor  Shklovsky  in  his  essay  “Art  as 
+Technique”, sought to explore the phonetic and lexical structure of a given distribution 
+of words in order to find material to remove the automatism of perception and cognition. 
+Shklovsky  considered  that  works  of  art  should  modify  perception  in  order  to  raise 
+cognitive awareness to how knowledge is produced by means of language.   
+
+Codework is reminiscent of other techniques used to subvert power structures and 
+their alphabetic language vehicle. We have already mentioned Lewis Carroll and James 
+                                                           
+2  Villanelle were forms of light Italian secular vocal music originating in Naples around 1550. The subject 
+matter was generally rustic, comic, satirical and parodic. It was a polifonic genre,  performed by two or 
+more unaccompanied voices singing in combination and with equal importance. Short phrases were taken 
+up by the voices one after another in fugal imitation; after two or three repetitions of a phrase, the succeeding 
+one was introduced, commonly overlapping or displacing the previous.  
+3  mezangelle  blends  human  discourse  with  machine  code  in  a  form  that  resembles  Lewis  Carroll’s 
+“portmanteau”  words.  The  term  referred  to  a  travelling  suitcase  that  opened  into  two  equal  sections. 
+Breeze’s  bracketed  blends  physically  resemble  the  carrying  handles  of  such  suitcase.  The  meaning  of 
+mezangelle ‘travels’ in the sense that it is fugitive. Its form enables a multitude of meanings emerging from 
+a broken word. mezangelle is also often satirical, calling attention to issues that need pressing solutions.  
+4 Defamiliarization, in Russian “Ostranenie”, was the technique of presenting to audiences common things 
+in an unfamiliar or strange way so they could gain new perspectives and see the world differently. The 
+techique has deeply influenced 20th-century art and theory, from Dada to culture jamming. The relationship 
+with Sigmund Freud‘s notion of “the uncanny” is also explored in Breeze‘s creations; particularly in her 
+V[R]erses. 
+
+ 
+
+2 
+
+Joyce’s  portmanteau  words.  In  his  essay  “The  Electronic  Revolution”,  William 
+Burroughs imagines language as a virus, spreading by means of institutionalized means 
+and hegemonic structures. His cut/ups were conceived as a form of breaking the “order 
+of things”, in Michel Foucault’s words. To use post-pandemic terms, mezangelle can be 
+seen  as  an  inoculation  of  a  small  portion  of  “pharmakon”  (Derrida  1981:  63-171),  a 
+vaccine or antidote (but also a poison) that “incorporates” political antigens in order to 
+subvert the infection of power. Roberto Simanowski writes that code is “an indispensable 
+element in every discussion of digital arts because everything happening on the screen or 
+on the scene is first and foremost subject to the grammar and politics of code.” (2011: 
+viii) 
+
+levels,  mobilizing, 
+
+The  introduction  of  codework  in  the  poem  produces  a  virus-like  infection  at 
+various 
+the 
+epistemological. The poem recalls encounters in the Anthropocene, where humans meet 
+nonhuman  agents  whose  “intra-actions”,  signalled  by  mark-up  language,  indicate  a 
+condition  in  which  none  of  the  actants  pre-exists  their  relationship,  in  a  sort  of 
+[multi]verse process ontology. 
+
+the  ontological  and 
+
+in  poïesis, 
+
+the  aesthetic, 
+
+In  Meeting  the  Universe  Halfway  (2007),  quantum  physicist  Karen  Barad 
+proposed the concept of "intra-action" to explain that “relata do not preexist relations; 
+rather, relata- within-phenomena emerge through specific intra-actions” (2007: 334). She 
+adds that phenomena should be understood as “a matter of intra-acting; it is an enactment, 
+not something that someone or something has.” (2007: 235) Barad describes her “agential 
+realist account” as one where discursive practices are “not human-based activities but 
+rather specific material (re)configurings of the world through which local determinations 
+of boundaries, properties, and meanings are differentially enacted” (2003: 828). In her 
+account, “matter is substance in its intra-active becoming—not a thing but a doing, a 
+congealing of agency. And performativity is […] iterative intra-activity.” (2003: 828). 
+Furthermore,  for  Barad,  agency  is  a  distributed  condition  where  we  are  not  outside 
+observing the world. “Nor are we simply located at particular places in the world; rather, 
+we  are  part  of  the  world  in  its  ongoing  intra-activity”  (2003:  828,  emphasis  in  the 
+original). In this way, Mez Breeze’s works can be seen as performing a reflection on how 
+code  disrupts  the  so-called  ‘natural’  human  language,  forcing  an  inquiry  into  the 
+possibility of machine agency; an agency that depends both on machine languages and 
+on the materiality of the platforms used to support language inter-intra-actions.  
+ 
+Enaction and Material Engagement Theory 
+Before moving on to explore Breeze’s V[R]erses, I would like to provide a brief insight 
+into the theories that have expanded the notion  of “[en]action”. As stated before, my 
+argument in this paper is that theory (explanation) and performance are but two sides of 
+poïesis.  
+
+The term “enaction” was first introduced by Humberto Maturana and Francisco 
+Varela in their ground-breaking volume The tree of knowledge: the biological roots of 
+human  understanding  (1984).  To  these  authors,  enact  means  to  bring  forth,  a  notion 
+connected to their theory of “autopoiesis”. Biological systems are “autopoietic”, meaning 
+that they are proactive, self-organizing and self-regulating in particular spatiotemporal 
+spans. The term “enaction” seems to be a blend of “enabling/emergent” + “action”.  To 
+Maturana  and  Varela,  inter-intra-actions  can  bring  forth  forms  of  meaning  making 
+between organisms and their environment (see also Hoffmeyer in López-Varela 2012: 
+115-119).  More  recently,  enactivism  has  become  part  of  a  cluster  of  related  theories 
+known as the 4Es, which include Embodiment, Embedding, Enaction and, more recently, 
+
+ 
+
+3 
+
+the Extended Mind Hypothesis. In relation to encounters in the Anthropocene, the authors 
+of The Embodied Mind explain that 
+
+ 
+The key point, then, is that the species brings forth and specifies its own domain 
+of problems ...this domain does not exist "out there" in an environment that acts 
+as a landing pad for organisms that somehow drop or parachute into the world. 
+Instead,  living  beings  and  their  environments  stand  in  relation  to  each  other 
+through mutual specification or codetermination. (Varela, Thompson and Rosch 
+1992: 198-199) 
+ 
+In its most recent versions, the Extended Mind (Clark and Chalmers 1998) and 
+Material Engagement Theory MET (Malafouris 2013), enactivism  emphasizes material 
+agency from a non-anthropocentric point of view, opening the way to nonhuman actions. 
+Their arguments is that artefacts are integral to the development of the human mind, and 
+that active engagement with material things/signs brings forth meaning making, that is, 
+semiotic  activity.  Form  and  meaning  emerge  simultaneously  through  coupling 
+mechanisms with the environment, “a sort of visual code or language and thus invites 
+reading” (Malafouris 2007: 293).  
+
+ 
+The functional anatomy of the human mind (which includes the whole organism, 
+that  is,  brain/CNS  and  body)  is  a  dynamic  bio-cultural  construct  subject  to 
+continuous  ontogenetic  and  phylogenetic  transformation  by  behaviourally 
+important and socially embedded experiences. These experiences are mediated 
+and sometimes constituted by the use of material objects and artefacts (e.g., the 
+blind man’s stick) which for that reason should be seen as continuous, integral, 
+and active parts of the human cognitive architecture.( Malafouris 2013: 244) 
+
+ 
+What can these theories bring to the study of electronic literature and net.art? Which are 
+the forms of agency that need to be recognized in the posthuman Anthropocene scenario? 
+ 
+From the Holodeck to Mez Breeze’s V[R]erses5 
+The  Holodeck  is  a  fictional  device  from  the  television  series  Star  Trek.  It  was  first 
+introduced in an episode called “The Practical Joker”, which brings interesting hermetic 
+associations I cannot include in this paper (perhaps just a quick reminder that Hermes is 
+the messenger of the gods, s[he] who brings information). Holography was possibly the 
+first step towards Virtual Reality. The introduction of multidimensional spatiotemporal 
+contexts enabled by the Holodeck platform allowed Star Trek protagonists to question 
+their  self-awareness  and  existence,  posing  metaphysical  questions  as  to  the  nature  of 
+reality. Lewis Carroll performed a similar inquiry in his Alice books; in particular through 
+his exploration of one of the earliest forms of optical platform: the looking-glass (see 
+López-Varela 2019). Breeze’s V[R]erses allow a reflection on how we look at the world 
+through our screens, which are also optical objects. If mezangelle “inscribes” (in Hayles’ 
+terms) human and machine languages in emergent forms of enaction, enabling a multitude 
+of voices, the “incorporation” of 3D images in Breeze’s latest creations adds layers of 
+semiotic inter-intra-actions.  
+
+V[R]erses are ambiguously described by their author both as a sequence of video-
+poems and as micro-stories. Each V[R]erse is what Breeze calls a ‘storybox’ that can be 
+                                                           
+5 http://mezbreezedesign.com/vr-literature/vrerses-xr-story-series/  
+Mez  currently  serves  as  an  Advisor  to  the  Mixed  Augmented  Reality  Art  Research  Organisation 
+https://marart.org/#/home  
+
+ 
+
+4 
+
+experienced in 3D in any WebXR device. Indeed, each V[R]erse is a Pandora box that 
+enables unexpected [en]actions. The original ancient Greek term for the container was 
+pithos, a large jar used for storage of food supplies but also used ritually as a burial urn. 
+The term is related to pathos (grief), for opening the box liberated the spirits who created 
+great suffering and distress for humans. However, opening Pandora box came to signify 
+that  making  mistakes  and  overcoming  difficulties  was  the  only  way  to  become  wise. 
+However,  as  in  Eve’s  biblical  story,  the  key  element  of  Pandora’s  narrative  was 
+establishing who was to blame. In other words, with whom lies the responsibility for the 
+actions? Breeze’s storyboxes inquire into the relocation of the blame and responsibility 
+to the reader/user. Thus, remediating the social (Biggs) and engaging the audience into 
+our global problems.  
+
+V[R]erses, which first appeared in 2020, offers a “verbovicovisual” experience, 
+to use James Joyce’s terms, enhanced with the inclusion of 3D images that “incorporate” 
+text  nodes.  These  nodes  open  up  the  different  micro-stories,  and  require  direct 
+manipulation by the reader/user in order to reconfigure the sequence in a given direction. 
+However, their numbering helps the reader build the first sequence, which [s]he can later 
+alter. Almost like an Artificial Neural Network, the nodes seem to be organized in a sort 
+of directed acyclic graph where each input creates an adjustment. Interestingly, the nodes 
+occupy the entire body of the nonhuman entities under display, signalling the semiotic 
+embodying of language and communication. In ANN systems, layers ‘talk’ to one another 
+until the ‘output’ layer is reached, serving as the network’s ‘answer’. This is what happens 
+in each of Breeze’s story-boxes. 
+
+A recent review in ‘neural’6 online journal describes V[R]erses as “virtual objects 
+of literature”. They are exactly that, skeletal objects that ooze lines from their joints. They 
+include  hybrid  human-nonhuman  entities,  cyborgs,  human-animal-plant  hybrids, 
+mythological beings like dragons, or alien and ghostly creatures from other dimensions. 
+The reading experience re-embodies these entities when they are manipulated in three-
+dimensional space. This manipulation in space offers a glimpse to life in other planes of 
+existence. Each story-box is also packed with intriguing sonic backgrounds. 
+
+At the moment there are thirteen 3D video-pieces with micro-stories authored by 
+well-known E-Lit artists. Like the Holodeck in Start Trek, all the video-stories explore 
+different aspects of the self, contemplating a sort of metamorphous [multi]verse where 
+the famous statement by Pierre Teilhard de Chardin is embodied:  “We are not human 
+beings having a spiritual experience. We are spiritual beings having a human experience.” 
+In a few words dedicated to each piece, I try to explain what it has meant for me. 
+ 
++V[R]erse 1: “Antelooper” [Author: Mark Marino] Having memories of the future helps 
+us project ourselves backwards. Happy looping! 
++V[R]erse 2: “Vinity” [Author: Davin Heckman] What looks down while we look up? 
+Are we them? ‘Vanus’; unsubstantial; empty. We fill with vanity what we cannot know. 
++V[R]erse 3: “Bracement” [Author: Scott Rettberg] The shrapnel of our scars serves in 
+the Magnus Opus that  grows a treasure-box of fractal  glassy flowers. Pain opens our 
+[uni]verse. 
++V[R]erse 4: “The Wraggied Bonemen” [Author: Annie Abrahams] “‘The question is’ 
+said Alice, ‘whether you can make words mean so many different things.’ ‘The question 
+is,’ said Humpty Dumpty, ‘which is to be master — that’s all. ’ ” (Carroll, Through the 
+Looking-Glass) 
+
+                                                           
+6 http://neural.it/2020/07/the-vrerses-virtual-objects-of-literature/  
+
+ 
+
+5 
+
++V[R]erse 5: “Curve” [Author: Jeremy Hight] “I have stared into the gaping maw of 
+death,” (Star Trek: Voyager 1995) Or was it the smiling face of the Cheshire cat? I’m 
+bound to get somewhere if I walk long enough. 
++V[R]erse 6: “Her Ribbon Flip” [Author: Andrea Phillips] Flip, Dancing Queen!. you 
+can dance you can jive having the time of your life!Light is the reverse side of darkness.  
++V[R]erse 7: “The  Inchoate Arts” [Author: David Thomas Henry Wright] Craft  your 
+dreams. Pull the tab, Pygmalion! Galatea is willing to vent her verses. 
++V[R]erse 8: “The Touch” [Author: Michael Maguire] “What is human is only one end 
+fixed,  the  other  end  wide  open,  in  terms  of  human  consciousness”  (Sadhguru  Jaggi 
+Vasudev) 
++V[R]erse 9: “Formu[E]lation” [Author: Auriea Harvey] Slings turned swing-rides. No 
+regrets, [Hum]let[s. 
++ V[R]erse 10: “Artemisianum” [Author + Audio: Anna Nacher] “I am powerless against 
+the reaping” (Katniss Everdeen) 
++V[R]erse 11: “[Power_B]Ar[k]cing” [Author: Mez Breeze] #hackactivism 
++ V[R]erse 12: “Bridall Day” [Author: Rhea Myers] Bridle Day! “I'd rather be a cyborg 
+than a goddess” (Donna Haraway) 
++ V[R]erse 13: “Two Faced|Rat-Faced|VictimHooder” [Author: Mez Breeze] Flip him 
+off, warts and all! Have you tried cursing him at the bitching hour? 
+ 
+PostHuman Agency 
+One  of  the  characteristics  of  online  E-Lit  is  the  fact  that  it  incorporates  greater 
+possibilities for interactivity. Audience participation serves to illustrate how agency is the 
+emergent product of semiotic enactivism. Material Engagement Theory considers that 
+things operate as signs and that “meaning is not the product of representation but the 
+product of a process of conceptual integration between conceptual and material domains.” 
+(Malafouris 2013: 90) Thus, MET can be seen as an attempt to decouple agency from 
+human consciousness and to modulate intentionality toward the nonhuman. I have used 
+Mez Breeze’s creations as an example that shows that things, inscribed and embodied,  
+are not inert matter. They have the power to affect others and to be affected by them. The 
+power to “remediate the social” (Biggs 2012). 
+
+Breeze’s  V[R]erses  highlight  agency  beyond  the  human  in  many  ways;  for 
+instance, by means of her disquieting hybrid bio-mechanical figures. The micro-stories 
+that accompany them also question human sense of Self.  In her 1999 book, How  We 
+Became Posthuman, N. Katherine Hayles traced the different waves of cybernetics and 
+explained  that  the  ‘posthuman’  is  made  up  of  various  forms  of  “embodiment”  and 
+“inscription”.  Breeze’s  V[R]erses  enable  these  new  forms,  where  materiality  is  not 
+relegated to a second order of things. Hayles’ “flickering signifiers characterized by their 
+tendency  toward  unexpected  metamorphoses,  attenuations,  and  dispersions”  (“Virtual 
+Bodies  and  Flickering  Signifiers,”  76)  become  XR  in  Breeze’s  V[R]erses.  Storybox-
+spaces where the signifier “exists as a flexible chain of markers bound together by the 
+arbitrary relations specified by the relevant codes […] a signifier on one level becomes a 
+signified on the next higher level” (Ibid. 77), the  “symbolic moment when the human 
+confronts the posthuman.” (Ibid. 79) 
+
+John  Cayley  (2002)  emphasizes  that  the  encounter  of  languages  ‘enacts’  an 
+unstable semiotic form that it is not merely a chain of signifiers ending up in unveiling 
+code as text. Codework, a term used for the first time by Alan Sondheim in 2001, was 
+described by Talan Memmott as an “anti-genre”. For Cayley, “code is not necessarily 
+transparent or visible in human-readable language” but if “read primarily as the language 
+displayed on a screen then its address is simplified. It is addressed to a human reader who 
+
+ 
+
+6 
+
+is implicitly asked to assimilate the code as part of natural language.” He concludes that 
+“The Code Is Not the Text (Unless It Is the Text),” as it happens in Breeze’s mezangelle. 
+Cayley also highlights the double political and aesthetic intent in codework creations, 
+making visible the agencies of inscription performed by the machine and showing the 
+“deep remixability (Manovich 2013: 46) and “dynamic heterarchy” (Hayles 2008: 47 of 
+the couplings between the biological and the technological.  
+
+Roy Ascott was prophetic when he forecasted the future of art as a synthesis of 
+different art forms, a Gesamtdatenwerk (‘the integrated data work’) which emulates the 
+19thcentury concept of the Gesamtkunstwerk. “While it is concerned with both technology 
+and  poetry,  the  virtual  and  the  immaterial  as  well  as  the  palpable  and  concrete,  the 
+telematic may be categorized as neither art nor science, while being allied in many ways 
+to the discourses of both.” (Ascott 1990: 241; emphasis added)   
+
+Indeed, Mez Breeze’s V[R]erses exemplify the new multidirectional STE[A]M 
+“topologies of knowledge” (Braidotti 2013: 165) that emerge with the posthuman. Her 
+micro-stories question “one’s locations in terms of both space (geo-political or ecological 
+dimension)  and  time  (historical  and  genealogical  dimension)”  (Braidotti  2013:  164). 
+Concrete  examples  are,  for  instance,  +V[R]erse  1:  “Antelooper”,  in  +V[R]erse  2: 
+“Vinity”, in +V[R]erse 5: “Curve”, or in +V[R]erse 8: “The Touch”; all of which stress 
+“the limited nature of all claims to knowledge” (Braidotti 2013: 164). 
+
+Reporting  on  Transmediale  2017,  Berlin’s  festival  for  art  and  digital  culture, 
+Benjamin Busch asks the question: ‘Does agency lie in the human, the machine, or the 
+mediation in between? He goes on to define machine agency in two ways: “a negative 
+freedom-from (a refusal of things as they are) and a positive freedom-to (a refusal and 
+simultaneously future-building project)” (2017: n.p.). Freedom and resistance are related 
+to will and agency, a topic that many of Breeze’s V[R]erses also pick up (see for instance, 
++V[R]erse  3:  “Bracement”,  +V[R]erse  9:  “Formu[E]lation”  or  +V[R]erse  11: 
+“[Power_B]Ar[k]cing”) 
+
+The Anthropocene shows the impact nonhuman agency upon human lives. This 
+includes  the  kind  of  Vibrant  Matter,  Jane  Bennett  has  in  mind,  where  things  have 
+“propensities, or tendencies of their own” (2010: viii). And also the couplings that Stacy 
+Alaimo describes as “transcorporeality” in Bodily Natures (2010).  Both concepts are 
+much alive in Breeze’s V[R]erses.  
+ 
+Coda 
+This paper has focused on work by Australian net.artist Mez Breeze, briefly exploring her 
+collection  of  poems/micro-stories  entitled  V[R]erses.  I  have  argued  that  her  use  of 
+mezangelle and mixed XR produces new forms of agency materialisation that contribute 
+to make visible the emergence of nonhuman actants in the Anthropocene, enabling also 
+an  inquiry  into  the  newly  emerging  multidimensional  topologies  of  knowledge.  In 
+Breeze’s creations, the languages of the machine emerge as an expression of agency. In 
+V[R]erses, this inquiry is directed towards different forms of symbiosis enacted from the 
+encounters or couplings between the human and the nonhuman.  
+ 
+References 
+Alaimo,  Stacy  (2010).  Bodily  Natures:  Science,  Environment,  and  the  Material  Self.  Indiana 
+
+University Press. 
+
+Ascott, Roy (1990). “Is There Love in the Telematic Embrace?,” Art Journal, 49, pp. 241–47 
+Barad.  Karen  (2007).  Meeting  the  Universe  Halfway:  Quantum  Physics  and  the  Entanglement  of 
+
+Matter and Meaning. Duke University Press 
+
+Barad, Karen. (2003). “Posthuman Performativity: Toward an Understanding of How Matter Comes 
+
+to Matter.” Sings: Journal of Women in Culture and Society 28.3, pp. 801-831. 
+
+Bennett, Jane (2010). Vibrant Matter: A Political Ecology of Things. Duke University Press Books 
+
+ 
+
+7 
+
+Biggs, Simon (Ed.) (2012). Remediating the Social. Insights from the project ELMCIP. 
+The  European  Community  FP7  2007-2013,  SSH  programme.UK:  Montgomery  Litho  Group 
+
+Edinburgh 
+
+Braidotti, Rosi. (2013). The Posthuman. Cambridge: Polity Press 
+Breeze. Mez (2020). V[R]erse http://mezbreezedesign.com/vr-literature/vrerses-xr-story-series/ 
+Busch,  Benjamin 
+
+“Transmediale’s  Revolution 
+
+from  Within’, 
+
+(2017). 
+
+https://www.artslant.com/ny/articles/show/47422-transmediales-revolution-from-within 
+
+Cayley, John (2002). “The Code Is Not the Text (Unless It Is the Text),” Electronic Book Review 9 
+
+(10). https://electronicbookreview.com/essay/the-code-is-not-the-text-unless-it-is-the-text/  
+
+Clark, Andy and David Chalmers (1999). “The Extended Mind.” Analysis, 58, 1, pp. 10-23. 
+Derrida,  Jacques  (1981).  “Plato's  Pharmacy,”  Dissemination,  translated  by  Barbara  Johnson, 
+
+ArtSlant, 
+
+Chicago, University of Chicago Press, pp. 63–171 
+
+Drucker, Johanna. “Theory as Praxis: The Poetics of Electronic Textuality,” Modernism/Modernity, 
+
+9.4 (2002): 683-691. 
+
+Books,  
+
+Foucault, Michel (1970). The Order of Things: An Archaeology of the Human Sciences. Pantheon 
+
+Hayles, N. Katherine (1993). “Virtual Bodies and Flickering Signifiers,” The MIT Press Vol. 66, pp. 
+
+69-91 https://www.jstor.org/stable/778755 
+
+Hayles, N. Katherine (1999). How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, 
+
+and Informatics . Chicago / London: Chicago University Press. 
+
+Hayles, N. Katherine (2002). “Deeper into the Machine: Learning to Speak Digital”, Computers and 
+
+Hayles,  N.  Katherine  (2008).  Electronic  Literature:  New  Horizons  for  the  Literary.  Indiana: 
+
+Hoffmeyer, Jesper (2008). Biosemiotics: An Examination into the Signs of Life and the Life of Signs. 
+
+Composition, 19.4, pp. 371–386  
+
+University of Notre Dame, 2008 
+
+Scranton: Scranton University Press.  
+
+López-Varela, Asun (2019). “Beyond Analogy: the Semiosis of Lewis Carroll’s Fantasy Worlds,” The 
+Reality  and  Permanence  of  Fantasy  Fiction.  The  ESSE  Messenger,  Journal  of  the  European 
+Society for the Study of English, Vol. 28.1, pp.75-97 https://essenglish.org/messenger/vol-28-1-
+summer-2019/  
+
+López-Varela,  Asun  (2017).  “Technopoïesis:  Transmedia  Mythologisation  and  the  Unity  of 
+
+Knowedge,” Icono 14. Vol. 15, Núm. 1 doi: 10.7195/ri14.v15i1.1056 
+
+López-Varela, Asun (2014). Antiabecedarian Desires: Odd Narratology and Digital Textuality, Icono 
+
+14, Vol 12, pp. 29-55.  doi: 10.7195/ri14.v12i2.727  
+
+López-Varela, Asun (2012). “Emergence.” In Favareau, Donald; Cobley, Paul; Kull, Kalevi (eds.) A 
+
+More Developed Sign: Interpreting the Work of Jesper Hoffmeyer. Tartu University Press. 
+
+McGann,  Jerome  (2001)  Radiant  Textuality.  Literature  after  the  World  Wide  Web.  New  York: 
+
+Malafouris,  Lambros.  (2013).  How  things  shape  the  mind:  A  theory  of  material  engagement. 
+
+Manovich, Lev (2013). Software Takes Command: Extending the Language of New Media. New York, 
+
+Palgrave 
+
+Cambridge: MIT Press. 
+
+London: Bloomsbury 
+
+Maturana, Hurberto & Varela, Francisco (1979). “Autopoiesis and Cognition: The Realization of the 
+Living.” In Robert S. Cohen and Marx W. Wartofsky (eds.), Boston Studies in the Philosophy of 
+Science 42. Dordecht: D. Reidel Publishing  
+
+Maturana, Hurberto & Varela, Francisco (1984). El árbol del conocimiento: las bases biológicas del 
+
+entendimiento humano. Santiago de Chile: Editorial Universitaria S.A 
+
+Memmott,  Talan  (2011).  “Codework:  Phenomenology  of  an  Anti-Genre,”  Journal  of  Writing  in 
+
+Creative Practice, 4.1, pp. 93–105 
+‘Finding 
+
+Shepard,  David 
+
+(n.d.). 
+
+http://newhorizons.eliterature.org/essay.php@id=12.html  
+
+Shklovsky, Viktor (2017). “Art as Technique.”  Viktor Shklovsky: A Reader. Ed. & Trans. Berlina, 
+
+and  Evaluating 
+
+the  Code’,  Electronic  Literature 
+
+Alexandra. Bloomsbury. 
+
+Simanowski,  Roberto  (2011).  Digital  Art  and  Meaning:  Reading  Kinetic  Poetry,  Text  Machines, 
+
+Mapping Art, and Interactive Installations. Minneapolis: University of Minnesota Press 
+
+Sondheim, Alan (2001). “Introduction: Codework,” American Book Review  
+
+https://www.litline.org/ABR/issues/Volume22/Issue6/sondheim.pdf  
+
+Varela, Francisco J.; Thompson, Evan; Rosch, Eleanor (1992). The embodied mind: Cognitive science 
+
+and human experience. MIT Press. 
+
+ 
+
+8 
+
+

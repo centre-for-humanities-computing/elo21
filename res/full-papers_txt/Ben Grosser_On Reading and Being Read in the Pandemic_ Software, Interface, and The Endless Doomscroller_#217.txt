@@ -1,0 +1,535 @@
+ 
+
+On Reading and Being Read in the Pandemic: Software, Interface, and The Endless 
+Doomscroller 
+ 
+Ben Grosser 
+School of Art + Design 
+University of Illinois at Urbana-Champaign, USA 
+https://bengrosser.com 
+ 
+ 
+Introduction 
+For years now, the modern smartphone has provided comfort and distraction during breaks 
+or interruptions in the flow of time (Mowlabocus). But perhaps no moment in modern 
+history has provided such widespread and coordinated breaks in that flow as the early 
+COVID-19 pandemic. A time marked by government-mandated shutdowns of non-essential 
+activities, many found themselves working and/or going to school from home, with travel 
+and entertainment plans indefinitely postponed. Further, the period created acute needs for 
+new knowledge, as well as additional desires for comfort and reassurance in the face of 
+global uncertainty. 
+ 
+Eagerly awaiting anyone who reached for their phones in these moments were the social 
+media sites, spaces which a majority of US adults report they are likely to get news from 
+(Shearer). But these platforms aren’t designed to inform their users with the best, most 
+accurate information. Instead, they are optimized to engage them (Levy, 301). And while 
+humans were already predisposed to react more strongly to negative news stories before 
+the pandemic arrived (Soroka)—the expression “if it bleeds, it leads” comes to mind 
+(Pooley)—then a global existential crisis around a once-in-a-century pandemic is likely to 
+have heightened that predisposition. 
+ 
+At the heart of this exchange between users seeking information and comfort and social 
+media systems providing a response is the act of reading. Users read posts from their friends 
+and follows on an infinitely-scrolling algorithmically-generated and personalized “feed.” In 
+turn, the platforms read the users, analyzing their every recordable action for clues about 
+what the system should provide next to keep that user on the platform, continuing to scroll 
+and “like” and post.  
+ 
+This combination of algorithmic social media feeds, a populace largely stuck online, new 
+gaps in the flow of time, heightened global anxiety, and an uncontrolled pandemic produced 
+a perfect storm of excessive bad news reading. This storm often left users stuck in the scroll, 
+“unable to disrupt [their] own behavior” (Lovink, 78). The activity became so pervasive that 
+it gained a new term called “doomscrolling.”  
+ 
+This paper examines the material at the heart of doomscrolling: software. Software sets the 
+“conditions of possibility” for its users, necessitating careful examination of its smallest 
+components (Fuller, 2). Software and networks compel habits that turn users into machines, 
+“neoliberal subjects … that are always searching, rarely finding” (Chun, 17). Contemporary 
+software interfaces hide user datafication that structures user action, making it important to 
+“cut up and take apart” these machines that read us as much as we read them (Andersen 
+
+ 
+
+1 
+
+and Pold, 72). This is followed by a discussion of the author’s net art / e-lit project, an 
+alternative software interface called The Endless Doomscroller. Through its distilling of social 
+media and news headlines down to their barest most generalized phrases and interface 
+conventions, The Endless Doomscroller asks viewers to consider why social media users can’t 
+look away from the scroll, who most benefits from this new compulsive behavior, and what 
+art can reveal about reading and being read in this digital and pandemic age. 
+ 
+ 
+Social Media Platforms, Interstitial Time, and the Emergence of Doomscrolling 
+
+ 
+
+“IT’S 11:37 PM and the pattern shows no signs of shifting. At 1:12 am, it’s more of the 
+same. Thumb down, thumb up. Twitter, Instagram, and—if you’re feeling particularly 
+wrought/masochistic—Facebook. Ever since the Covid-19 pandemic left a great many 
+people locked down in their homes in early March, the evening ritual has been 
+codifying: Each night ends the way the day began, with an endless scroll through 
+social media in a desperate search for clarity.” — Angela Watercutter, Wired, 25 
+June, 2020 
+
+ 
+Though the pandemic has been a monetary disaster for many, with record-setting job losses 
+and other economic indicators frequently earning it the title of “worst [downturn] since the 
+great depression” (Zumbrun), not everyone has suffered equally in this period. Alongside 
+tech sector neighbors such as Amazon and Zoom, the pandemic has been good for the social 
+media platforms. Facebook’s stock price rose by 23% in 2020 (Trefis). Twitter’s Q4 2020 
+revenue was up 28% over the previous year (Conger). And platform CEO wealth has followed 
+suit, with, for example, Mark Zuckerberg’s personal wealth increasing by $40 billion USD in 
+the last year (Kneuven).  
+ 
+In some ways the pandemic came at an opportune time for the social media giants. Facing 
+continued scrutiny ever since the 2016 US presidential election, the platforms welcomed an 
+opportunity to highlight a positive role they could play within a locked-down society. But 
+although Facebook, Twitter, and others have indeed provided opportunities for digital 
+connection during these times of social distancing, the era hasn’t sparked any significant 
+reconsideration of the platforms’ core design constraints. They are still focused on key 
+metrics such as monthly active users (MAUs) at Facebook or monetizable daily active users 
+(mDAU) at Twitter. They still optimize their feeds for engagement (Levy, 413). Their focus 
+remains on growth, as their profit continues to come not from genuine user-to-user 
+connection but from the value of data they extract from users under surveillance capitalism 
+(Zuboff). 
+ 
+One key to this growth has been the expansion of “interstitial time,” temporal breaks in the 
+normal flow when so many reached for their digital devices. These increased gaps have 
+made possible new opportunities for “mindless scrolling” that becomes “meditative” 
+(Mowlabocus) and a “distraction from uncertainty” in the face of “existential anxiety” 
+(Hassan). The combinations that arose from these factors—increases in stress, breaks in the 
+normal flow of time, social media feeds used as a source of news, feed algorithms optimized 
+to increase engagement metrics, and a hunger for information in the face of often confusing 
+government messaging (Feldman)—all gave rise to a condition that came to be called 
+“doomscrolling.” 
+
+ 
+
+2 
+
+ 
+
+ 
+Doomscrolling refers to the ways in which people have found themselves regularly—and in 
+some cases, almost involuntarily—scrolling bad news headlines on their phone, often for 
+hours each night in bed when they had meant to be sleeping. Kevin Roose, writing in the 
+New York Times in March of 2020, described the condition as “falling into deep, morbid 
+rabbit holes filled with coronavirus content, agitating myself to the point of physical 
+discomfort, erasing any hope of a good night’s sleep” (Roose). Wired characterized it as a 
+“roll toward annihilation,” where each person “watches the demise of so much, while also 
+slowly destroying themselves” (Watercutter).  
+ 
+Unquestionably the realities of the pandemic necessitated a level of vigilance for the 
+purposes of personal safety. But doomscrolling wasn’t just a natural reaction to the news of 
+the day—it was and continues to be the result of a perfect yet evil marriage between a 
+populace stuck online, social media interfaces designed to game and hold our attention, and 
+the realities of an uncontrolled crisis. Yes, it may be hard to look away from bad news in any 
+format, but it is nearly impossible to avert our eyes when that news is endlessly presented 
+via designed-to-be-addictive social media interfaces that know just what to show us next in 
+order to keep us engaged. 
+ 
+ 
+Infinite Scroll, the Doomscrolling Metainterface, and the User as WHILE Loop 
+A primary interface mechanism central to doomscrolling is the infinite scroll. An interface 
+paradigm common amongst sites with some kind of algorithmic feed (e.g., search, streaming 
+content, and social media sites), infinite scroll is an asynchronous, dynamic loading 
+mechanism that fetches new data as a user scrolls, and “reduces or eliminates page breaks 
+within the interface” (Monteiro). Key to the user experience of infinite scroll is that the page 
+they are browsing never appears to end. As they approach the bottom of the page, the site 
+detects that condition and appends new material below it. A key aim of the infinite scroll is 
+to remove interface “friction,” to transform the mindful action of page navigation “into a 
+homogenous, seamless” and repetitive behavior (Lorusso). 
+ 
+Any time a corporate software interface employs interaction techniques aimed at reducing 
+friction is a moment that warrants further study, especially when that technique obscures 
+the visibility of a vast infrastructure behind the scenes. Andersen and Pold theorize and 
+name the object produced through such obscuration (and other tactics) as a “metainterface” 
+(Andersen and Pold). To distance the user from these hidden layers of computation and 
+data, metainterfaces employ techniques such as “minimalist hiding, e.g., the hiding of the 
+datafication, monitoring and profiling going on in cloud computing infrastructures behind its 
+immediate, minimalist user-interface” (Pold). Such distancing blurs the interdependence of 
+user-directed consumption and use (e.g., reading posts on a social network feed) with 
+system-directed consumption and use (e.g., the social network’s reading of user behavior 
+and preference through surveillance-based data analysis of that user’s every action) 
+(Andersen and Pold, 71-72). This kind of “double-sided reading” is characteristic of the 
+metainterface, and a key mechanism driving not only surveillance capitalism at the heart of 
+social media (Andersen and Pold, 96), but also the habit of doomscrolling. 
+ 
+
+ 
+
+3 
+
+In other words, when we read news on a social media platform, the platform reads us back. 
+And the aim of the system’s reading is to predict what content we are most likely to 
+consume next, a prediction gained through “processes of monitoring, quantifying, and 
+calculating consumption in controlled environments that can predict general behaviors” 
+(Andersen and Pold, 72). Through its commodification of “reading, language, and the user’s 
+body” (Andersen and Pold, 125) this prediction serves the platform’s ultimate goal of 
+increased engagement.  
+ 
+A key way this double-sided reading combines with social media’s infinite scroll—and the 
+anxiety inherent to uncontrolled pandemic—is to transform the human’s act of reading 
+away from one of navigation (of concepts, paths, narratives, etc.) toward a sort of looping 
+consumption of negative headlines. Unable to stop the cycle, the doomscrolling 
+metainterface reprograms the user into habitual repetition (Chun, 69). Interestingly, this 
+habit ends up resembling a key concept from computer programming called WHILE. (Hou Je 
+Bek, 182) WHILE is a code execution loop that runs indefinitely until its stop condition 
+evaluates as true. Before the pandemic, a social media reader’s stop condition (in the face 
+of an infinitely scrolling feed) might have been when bored or has something else to 
+do. But in the early months of the pandemic, faced with an interface feeding anxious users 
+endless messages that amplified their fear, the stop condition became when no longer 
+anxious OR when nothing left to read. Infinite scroll ensured the latter option was 
+never true, while the system’s behavioral analysis ensured the former condition would never 
+be reached. Users became stuck in a never-ending loop. As a result, the practical stop 
+condition probably became something akin to a fatal exception in computing along the lines 
+of when no longer able to stay awake OR when the device runs out of power. 
+Either way, the aim of the system to keep users on the platform as long as possible was thus 
+achieved by the doomscrolling metainterface. 
+ 
+ 
+Net Art / E-Lit, Reductive Interfaces, and The Endless Doomscroller 
+The cultural effects of interfaces is an ongoing subject in net art and electronic literature. 
+Artist Joana Moll’s A Poetic Deconstruction of the Interface is a series of workshops that train 
+individuals to critically examine contemporary interfaces, using screen-taped paper cutout 
+erasure templates as a key analytical tool (Moll). Matthias Pitscher’s work Mindful Scrolling, 
+part of his Social Media Meditation project, offers nothing more than a vertical webpage of 
+empty boxes that never ends, using abstraction and simplification to critique the infinite 
+scroll (Pitscher). Winnie Soon’s Unerasable Images occludes the majority of image search 
+results for the term “六四” (“64”)—“a reference to the date of the student-led Tiananmen 
+Square Protest in Beijing in 1989”—in order to reveal how “Tank Man” images persist online 
+despite the Chinese government’s aim to scrub such images from the internet (Soon). In his 
+book Electronic Literature, Scott Rettberg describes the sub-genre of “network writing” as a 
+way to “rethink the ways we engage w/ the network,” and as a “critical mirror to help us 
+better understand the networked society” (Rettberg, 182). One example in this area would 
+be The Deletionist by Amaranth Borsuk, Jesper Juul, and Nick Montfort, a browser-
+extension-based poetry generator that hides words on a page of the user’s choosing to 
+create new poetry out of the old prose (Borsuk). Each of the example works and genres 
+above (and many not described here) takes on the interface as a site of aesthetic 
+
+ 
+
+ 
+
+4 
+
+manipulation using techniques such as erasure in order to examine and/or critique software 
+and its effects. 
+ 
+The author’s artwork The Endless Doomscroller (viewable at endlessdoomscroller.com) is a 
+net art / e-lit work that examines the cultural effects of doomscrolling, an alternative 
+interface that acts as a lens on our pandemic era software-enabled collective descent into 
+despair (Grosser). The work presents itself on screen as a simple social media and/or news 
+publication feed, with a masthead at the top and a list of feed items below (each one as text 
+contained within outlined boxes in a single vertical column) (see Figure 1).  
+ 
+
+ 
+Figure 1: The Endless Doomscroller, interface screenshot 
+
+ 
+The text of each item is a short headline, such as: 
+ 
+
+All Events Cancelled 
+Devastation Worsens 
+Lockdowns Imminent 
+Outbreak Continues 
+The Numbers Look Bad 
+Cases at Record Levels 
+No End in Sight 
+
+ 
+Each item has a hover effect when the mouse enters its area (suggesting it might be a 
+button), but none of the items are clickable. The only action afforded is scrolling. And no 
+
+ 
+
+5 
+
+matter how long one scrolls—or how fast they scroll—The Endless Doomscroller will never 
+stop presenting its bad news headlines. They just keep coming. The user not only won’t ever 
+reach the end, but also will never see a “loading” indicator typical on sites like Twitter when 
+one scrolls to the bottom fast enough. 
+ 
+The Endless Doomscroller’s primary technique could be argued as one of reduction. The work 
+distills news and social media sites down to their barest most generalized messages and 
+interface conventions. Its headlines are derived from real news headlines found on various 
+social media sites during the first months of the pandemic (with ongoing updates ever 
+since), manually composed simplifications of those negative messages into their most basic 
+form. The social media feeds discussed above are reduced down to their core interaction: 
+the infinite scroll. Through these tactics, The Endless Doomscroller deconstructs the 
+doomscrolling metainterface, revealing how it is changing what and how we read in the 
+digital and pandemic age.  
+ 
+Visitors to the work, both users and journalists, have written about experience of The 
+Endless Doomscroller on mainstream social media and in publications such as ABC News, 
+Gizmodo, Stuttgarter Zeitung, and Mic. Their responses reveal some of the effects of a 
+reductive net art interface. For example, some users of the work were compelled to respond 
+sarcastically, using a tweet or Facebook post as an opportunity to reflect on their typical 
+social media platform of choice. A few examples (source is from Twitter unless otherwise 
+indicated):  
+ 
+
+“Are we chasing/being-fed what's the worst thing that happened on the Earth today? 
+How news and social media feels like in these times.. The Endless Doomscroller” —
+@voidmonk 
+ 
+
+ 
+
+6 
+
+“the only source of news I trust” —@PonchoRebound 
+ 
+“perfectly healthy and normal” —@waxy 
+ 
+“Uplifting” —@iamDeveloper 
+ 
+“most trusted source of news” —@numberless 
+ 
+“The only news site you need any more” —@DavidKrider1 
+
+ 
+For others, the work enabled their own sort of reductive social media analysis: 
+
+ 
+“fear fear fear fear” —@save2memefolder 
+ 
+“ha ha ha sob” —@catacalypto 
+ 
+“basically twitter” —@oler 
+
+ 
+Some used their quote tweets to post more pointed critiques: 
+ 
+
+“Twitter = “ —@toutlereste 
+ 
+“This feels just like scrolling through twitter but without the pull to engage” —
+@YoavGivati 
+ 
+“For America, the road to doom is a rewarding one, abolishing the New Age 
+positivism PR machine that refuses to address inequality, racism and the destruction 
+of the public domain, infrastructure and education.” —@glovink 
+
+ 
+And for many, the work elicited some form of “oh, this is what I’ve been doing with my 
+time”: 
+ 
+
+“I FEEL SEEN” —@cstross 
+ 
+“Omg, I feel so called out. I need one of those shock collar things that knows when 
+I'm doomscrolling.” —Annie Norman on Facebook 
+ 
+“Who recorded my actual train of thought and made it into a website?” —Aaron 
+Elkins on Facebook 
+ 
+“This is what my browsing and internet has looked like today and I need to cut it 
+out.” — @ryanruppe 
+
+ 
+Gizmodo echoed these sentiments, writing: “This morning, way too early if you ask me, the 
+Gizmodo Slack channel was dosed with acid reality, momentarily shattering a cozy illusion of 
+purpose and the structure of days spent on the internet. I stared down my life, past, present, 
+and future—thanks to The Endless Doomscroller” (Kimball).  
+ 
+Jay Castello at Mic wrote about the work as “soothing my doomsday anxieties.” In particular, 
+they pointed to the work’s technique of abstraction as soothing mechanism, writing:  
+ 
+
+“…The Endless Doomscroller strips away content that could lead to a spiral of reading 
+increasingly worse things. On Twitter, for example, a tweet sharing bad news can be 
+a portal to a wall of replies full of bigotry or coronavirus denialism. Grosser’s project 
+at least takes away that additional stressor. Similarly, the [work’s] heavily abstracted 
+headlines … are a reminder that any real headline is also an abstraction of its article’s 
+contents. … By serving as a reminder that doomscrolling doesn’t provide a full picture 
+of the world, the Endless Doomscroller seems to erase some of the damage of its 
+real(er) counterpart. Later, when seeing bad news online, it’s easier to challenge the 
+snap assumptions caused by the headlines” (Castello). 
+
+ 
+By stripping away the specifics wrapped up in each headline and minimizing the mechanics 
+behind most interface patterns, The Endless Doomscroller appears to be creating an 
+opportunity for mindfulness about how one spends time online and about who most 
+benefits from these extended scroll sessions. For some, the work animates critical discussion 
+about the motivations and mechanisms behind our scroll-induced anxiety: interfaces—and 
+corporations—that always want more. More doom (bad news headlines) compels more 
+
+ 
+
+7 
+
+engagement (via continued liking/sharing/posting) which produces more personal data, thus 
+making possible ever more profit. For others, the piece enables a sort of exposure or 
+substitution therapy, a way to escape or replace what doomscrolling interfaces want from 
+and do to us.  
+ 
+ 
+Conclusion 
+Social media platforms read us while we read them. Yet neither the content provided for our 
+reading, nor the behavioral data scanned via their reading, are for the user’s benefit. They 
+both exist to produce user engagement, structuring how and what users read in this digital 
+pandemic age. One way they accomplish this is by erecting their sites as a metainterface, a 
+pretty facade that portends to be in the service of the user by hiding away the myriad code, 
+databases, advertisers, metrics, and more that prescribe what users can do, transforming 
+users into machines that iterate on lists of doom in never-ending loops. 
+ 
+Through its abstraction of social media interfaces, net art and electronic literature can 
+illuminate the structures that underlie the cultural effects of software. In particular, 
+reduction as a strategy can counter the minimalist hiding employed by the metainterface, 
+replacing it with a sort of minimalist revealing. A reduction that shows rather than hides. 
+ 
+Ultimately, what The Endless Doomscroller does is to show us how the software structures of 
+social media change not only what we read but how we read. As an aesthetic reductive 
+interface experience, it provides renewed opportunities for agency within the systems we all 
+find ourselves stuck inside. In other words, when it comes to reading social media in the age 
+of pandemic, perhaps the only way out of too much doomscrolling is endless doomscrolling. 
+ 
+ 
+Works Cited 
+ 
+Andersen, Christian Ulrik and Søren Bro Pold. The Metainterface: The Art of Platforms, Cities, 
+ 
+ 
+Borsuk, Amaranth, Jesper Juul, and Nick Montfort. The Deletionist. 
+ 
+ 
+Castello, Jay. “’The Endless Doomscroller’ is soothing my doomsday anxieties.” Mic, 1 Oct 
+ 
+ 
+Chun, Wendy. Updating to Remain the Same: Habitual New Media. Cambridge: MIT Press. 
+ 
+ 
+Conger, Kate. “Twitter revenue rises 28 percent in the fourth quarter as ad spending 
+ 
+ 
+Feldman, Nina. “In Pandemic, Green Doesn't Mean 'Go.' How Did Public Health Guidance 
+ 
+ 
+
+and Clouds. Cambridge: MIT Press, 2018. 
+
+rebounds.” New York Times, 9 Feb 2021. 
+
+Get So Muddled?” NPR, 4 Aug 2020. 
+
+ 
+
+http://thedeletionist.com/. 2018. 
+
+2020. 
+
+2016. 
+
+ 
+
+8 
+
+Cambridge: MIT Press. 2008. 
+
+interstitial time.” First Monday, 21(10). 2016.   
+
+theusercondition.computer. v. 1.0, updated 12 Feb 2021. 
+
+networked economy. New Brunswick, N.J.: Transaction Publishers. 2012. 
+
+Fuller, Matthew. Software Studies \ a lexicon. Cambridge: MIT Press, 2008. 
+ 
+Grosser, Ben. The Endless Doomscroller, endlessdoomscroller.com. 2020. 
+ 
+Hassan, Robert. The age of distraction: Reading, writing, and politics in a high-speed 
+ 
+ 
+Hou Je Bek, Wilfried. “Loop.” In Software Studies \ a lexicon, edited by Matthew Fuller. 
+ 
+ 
+Kimball, Whitney. “Presenting The Endless Doomscroller.” Gizmodo, 4 Aug 2020. 
+ 
+Knueven, Liz and Avery Hartmans. “Mark Zuckerberg's net worth has grown over $40 billion 
+in the last year alone. Here's how the 36-year-old Facebook CEO makes and spends 
+ 
+ 
+his $114 billion fortune.” Business Insider, 19 Apr 2021. 
+ 
+Levy, Steven. facebook: The Inside Story. New York: Blue Rider Press. 2020. 
+ 
+Lorusso, Silvio. The User Condition: Computer Agency and Behavior. 
+ 
+ 
+Lovink, Geert. Sad By Design. London: Pluto Press, 2019. 
+ 
+Moll, Joana. A Poetic Deconstruction of the Interface. http://www.janavirgin.com/HANGAR/. 
+ 
+ 
+Monteiro, Stephen. The Fabric of Interface: Mobile Media, Design, and Gender. Cambridge: 
+ 
+ 
+Mowlabocus, Sharif. “The ’mastery’ of the swipe: Smartphones, transitional objects and 
+ 
+ 
+Pitscher, Matthias. Mindful Scrolling, mindfulscrolling.net, 2017. Accessed 10 May, 2021. 
+ 
+Pold, Søren Bro. “New ways of hiding: towards metainterface realism.” In “After the post-
+ 
+ 
+Pooley, Eric. “Grins, Gore and Videotape.” New York Magazine, 1989. 
+ 
+Rettberg, Scott. Electronic Literature. Cambridge: Polity Press. 2019. 
+ 
+Roose, Kevin. “The Week in Tech: How to Stop Coronavirus ‘Doomsurfing’.” New York Times, 
+ 
+ 
+Shearer, Elisa. “More than eight-in-ten Americans get news from digital devices.” Pew 
+ 
+ 
+
+truth,” coordinated by Jorge Luis Marzo Pérez. Artnodes no. 24: 72-82. 2019. 
+
+2016. 
+
+MIT Press. 2017. 
+
+20 Mar 2020. 
+
+Research Center, 12 Jan, 2021. 
+
+ 
+
+9 
+
+Jan 2021. 
+
+2020. 
+
+Soon, Winnie. Unerasable Images. http://siusoon.net/unerasable-images/. 2018. 
+ 
+Stuart Soroka, Patrick Fournier, Lilach Nir. “Cross-national evidence of a negativity bias in 
+ 
+psychophysiological reactions to news.” Proceedings of the National Academy of 
+Sciences, 116 (38) 18888-18892. Sep 2019.  
+ 
+ 
+Trefis Team. “23% Rise Since End of 2019, Will Facebook’s Stock Grow Further?” Forbes. 13 
+ 
+ 
+Watercutter, Angela. “Doomscrolling Is Slowly Eroding Your Mental Health.” Wired, 25 Jun 
+ 
+ 
+Zuboff, Shoshana. The Age of Surveillance Capitalism. New York: Hachette, 2019. 
+ 
+Zumbrun, Josh. “Coronavirus Slump Is Worst Since Great Depression. Will It Be as Painful?” 
+ 
+ 
+ 
+ 
+
+The Wall Street Journal, 10 May 2020. 
+
+ 
+
+10 
+
+

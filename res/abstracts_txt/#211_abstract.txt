@@ -1,0 +1,31 @@
+:
+Since the 1960s, several Peruvian poets, insular and heirs to an experimental poetic tradition, created
+works with visual and verbal elements that advanced the presence of poetry in electronic media and
+platforms. Works such as those by Jorge Eielson, Raquel Jodorowsky, Ricardo Falla, Enrique Verástegui,
+César Toro Montalvo or Juan Ramirez Ruiz already showed in Peruvian creators an awareness of the
+existence and assimilation of electronic media to their productions based on references to circuits
+electronic (1964), computers (1973-1988) and formal and experimental games with the algorithm (1977).
+Works like these are used in key antecedents to reimagine the Peruvian poetic tradition, but, at the same
+time, they raise the need for an approach that analyzes and discusses the adoption of the media as part
+of poetic experimentation to understand, in all its dimensions, at the time of the internet boom and its
+platformization, the work carried out in later decades by José Aburto with interactive poems using Flash
+(2000); Oswaldo Chanove through the possibilities of the hyperlink in a web platform (2001); Enrique Beó
+with hypertext poems in binary language through Wix and Issuu (2010); and Rafael García Godos with
+MVX0 a video game poem programmed in Unity (2017). Therefore, the objective of this panel is to show
+how, since the 2000s, Peruvian poets have inhabited digital platforms with works that used different
+technologies in trend, as practices related to what was previously developed by their peers in the
+materiality of paper. For this, our research will focus on this problem from a media archeology with two
+areas that must necessarily dialogue: discursive and digital. In the first case, to trace the insularity of
+these authors, we start from Michel Foucault's concept of genealogy as the study of a non-linear and
+heterogeneous history of knowledge, contextualized by power relations. In the second case, to show the
+jobs that were hosted on the Internet, we will use various rescue platforms such as wayback machine, for
+old websites; Ruffle, for work done in flash; and videos of the experience in the case of wix. The result of
+this work will be exposed in a data visualization on what we have called the origins of electronic poetry in
+Peru. In this way, we consider that a genealogical work must combine the apparatus of symbolic
+evaluation and the consequent use of platforms to counteract the absence of a critical and theoretical
+approach to this complex field, but also the obsolescence of technology.
+
+96
+
+ELO 2021 - abstracts
+

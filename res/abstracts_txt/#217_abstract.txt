@@ -1,0 +1,36 @@
+:
+A primary interface pattern of contemporary software platforms is the infinite scroll. Often used to deliver
+algorithmically-selected personalized content, infinitely scrolling feeds are one of many design decisions
+seen as responsible for compulsive use of social media platforms and other information-rich sites and
+apps. During the COVID-19 pandemic, a time marked by a substantive increase in time spent online, the
+infinitely scrolling feed has been implicated in a new negative pattern: “doomscrolling.” Doomscrolling
+refers to the ways in which people find themselves regularly--and in some cases, almost
+involuntarily--scrolling bad news headlines on their phone, often for hours each night in bed when they
+had meant to be sleeping. While the realities of the pandemic have necessitated a level of vigilance for
+the purposes of personal safety, doomscrolling isn’t just a natural reaction to the news of the day—it’s the
+result of a perfect yet evil marriage between a populace stuck online, social media interfaces designed to
+game and hold our attention, and the realities of an existential global crisis. It may be hard to look away
+from bad news in any format, but it’s nearly impossible to avert our eyes when that news is endlessly
+
+19
+
+ELO 2021 - abstracts
+
+presented via designed-to-be-addictive social media interfaces that know just what to show us next in
+order to keep us “engaged.” As an alternative interface, the author’s artwork, titled The Endless
+Doomscroller, acts as a lens on our software-enabled collective descent into despair. By distilling the
+news and social media sites down to their barest most generalized phrases and interface conventions,
+The Endless Doomscroller shows us the mechanism that’s behind our scroll-induced anxiety:
+interfaces—and corporations—that always want more. More doom (bad news headlines) compels more
+engagement (via continued liking/sharing/posting) which produces more personal data, thus making
+possible ever more profit. Using concepts from Christian Ulrik Andersen’s and Søren Pold’s
+Metainterface, Taina Bucher’s analyses of algorithmic politics, Geert Lovink’s theories of how sadness
+gets coded into platforms, and Matthew Fuller’s software studies guidance to perform deep analyses of
+small computational things, this paper will examine how the infinite scroll has intersected with
+pandemic-era platforms to create a world full of unhappy and unrelenting doomscrollers. Why don’t users
+look away from the scroll? Who most benefits when they can’t stop? And how might text-focused digital
+artworks intervene? Can an artwork that asks users to read *more* bad news headlines create an
+opportunity for mindfulness or enable a sort of exposure or substitution therapy, a way to escape or
+replace what platform interfaces want from and do to us? What if, in this age of pandemic platforms, the
+only way out of too much doomscrolling is endless doomscrolling?
+

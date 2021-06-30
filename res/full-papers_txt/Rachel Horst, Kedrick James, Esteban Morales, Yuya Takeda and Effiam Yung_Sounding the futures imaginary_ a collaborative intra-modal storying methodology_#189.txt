@@ -1,0 +1,772 @@
+  
+
+  
+  
+
+Sounding the futures imaginary: a collaborative intra-modal storying methodology 
+
+By Rachel Horst, Kedrick James, Esteban Morales, Yuya Takeda, and Effiam Yung 
+
+ 
+
+We speak by sound 
+vacillating between a collective consensus filled 
+with old disks and CDs, 
+archived pieces of pasts in his storage 
+carefully catalogued, in the soft, moist soil 
+are plants that have lived long lives and are as 
+healthy he speaks, only when he has to, 
+in a garbled way The skunk nudged a pile of shimmering 
+circuitry and surface 
+we are imagining the future1. 
+  
+                        
+
+While Covid-19 may have fractured our public, private, and professional narratives of 
+
+normalcy, out of this slow-moving and surreal catastrophe, new images of the future imaginary 
+
+begin to emerge as well as new creative practices for collaboratively (re)imagining the future. 
+
+The Digital Literacy Centre (DLC) is an arts-based research collective exploring innovative 
+
+approaches to literacy, digital media, and experimental methodologies for technologically 
+
+enriched meaning-making practices. Like everyone in the world, each of us experienced the 
+
+pandemic as a diffracted and intensely intimate individual encounter with the future’s 
+
+unpredictability, and yet also collectively, as a shared story, one that we narrated together in real 
+
+time, however virtually. We decided to take up this evolving pandemic moment as a 
+
+ 
+
+1  This text is a poetic representation of an online digital composite. We used Jim Anderson’s ( ) stir fry template to 
+further diffract and algorithmically recombine our narrative strands, thus creating an ever-shifting digital story-
+creature who lives in chapter two of Skunk Tales (https://dlsn.lled.educ.ubc.ca/wordpress/skunktales/). Ideally, 
+this creature would be connected to a Singling interface that would allow readers to hear the sonified words as 
+they roll over the text, digitally stroking the skunk to listen to it purr. As we continue to elaborate upon the Singling 
+platform and eventually create an online application of the interface, this virtual sonic affordance will become 
+possible. For now, the sounding skunk lives in the future. 
+
+technological and creative research challenge to engage with the digital platforms at our disposal 
+
+towards collaborative futures writing and imagining during a time of crisis. In this paper, we 
+
+describe our arts-based research methodology, which was a bricolage of technologically-
+
+mediated futures imagining, writing, and sounding that enacts “diffraction patterns … aris[ing] 
+
+when specific aural experiences are rubbed against specific narrations of human-technological 
+
+coupling” (Cecchetto 3). Through a series of collaborative creation sessions over the course of 
+
+14 months during the global pandemic, we wrote, composed and remixed an evolving futures 
+
+narrative, Skunk Tales, part of which now resides online, available (here). We think of this 
+
+academic article in which we will describe our storying methodology, as an additional chapter in 
+
+the generative and ongoing Skunk Tales. In particular, we focus on four writing events: 1) The 
+
+initial face-to-face meeting; 2) rehearsal and performance for the Arts-Integrated Research 
+
+Group symposium; 3) virtual collaborative writing session; 4) remixing the text using a Stir Fry 
+
+and the Patch process with graduate student participants. 
+
+Context and research questions 
+
+You are in an old room, filled with old disks and CDs where screens with slow 
+logos move from one side to the other while people talk and talk. The screens, 
+ancient as the room itself, are dusty and pixelated – nothing like what we can see 
+these days. You smell the dusty screens and you know the smell I am trying to 
+describe but you feel yourself, even before you walk into this holy room of 
+classical music, that you are in a space that transcends time itself. 
+
+  
+
+In Vancouver, British Columbia, on a mild afternoon in early March of 2020, members of 
+
+the DLC research group gathered together in person—by foot, bicycle, and bus—in the basement 
+
+of Dr. Kedrick James’ house, to write together about the future. The setting of this first storying 
+
+jam is important: Dr. James is a musician, audiophile, and avid collector of vinyl records and 
+
+sound-making and sounding equipment of all sorts—both analogue and digital. Along the walls 
+
+and down the hallways of the basement are shelves and shelves, floor to ceiling, of meticulously 
+
+organized records that are arranged by geographic location, genre, time period, and artist, from 
+
+historic field recordings to urban jazz and rock and roll. The place and time of this writing event 
+
+is essential for it infused the storying process. The virtual and actual sonic environment, the 
+
+visual environment, our togetherness in that subterranean Borgesian library of music—these 
+
+provided the imaginative landscape and anchor points from which we each diffracted outwards 
+
+into imaginative and literal space, time, and geography.  
+
+That afternoon, we gathered around the small table, our laptops open in front of us. The 
+
+eery tension of a global pandemic moment of uncertainty provided narrative propulsion, along 
+
+with whatever record was playing on the stereo chosen at a whim by one or the other of us. The 
+
+story became a form of time travel. Together we turned the basement into a bathyscaphe and 
+
+submerged ourselves in an unspecified future unknown. We were ourselves, but in the future: a 
+
+research collective studying language, sound, literacy, modalities of communication, and 
+
+meaning. Among the questions we wrote with were: What will sounds sound like in an 
+
+increasingly digitized future? How will meaning and technology evolve together and apart? How 
+
+can we collaboratively write the future in a way that allows for multiple perspectives and 
+
+temporalities?  
+
+  
+
+We wrote simultaneously, allowing the thoughts to come freely. We wrote for a set 
+
+amount of time, and then read what we had written aloud to each other around the table. In this 
+
+way elements and ideas and characters began to circulate among us. At one point in this first 
+
+analogue session, a skunk passed by the basement window and into our storied universe, 
+
+becoming the central cyborgian posthuman figure of our further imaginings.       
+
+The humans sit around the table vacillating between a collective consensus and 
+individuating trajectories of fancy: they are imagining the future. There is a low hum of 
+
+dread and the concern that the future is shrinking – that there is less and less of it 
+available. But also the concern that thinking in this way will enact the shrinkage. The 
+skunk moves along the sharp blades and rocks…  
+ 
+Days after this first writing session, social distancing became a reality and our 
+
+ 
+
+collaborative futures storying necessarily transitioned into virtual platforms and digital spaces. 
+
+However, this first face-to-face gathering in Kedrick’s basement, writing and listening to vinyl 
+
+records provided an embodied, analogue, and thematic tether to the physical world; it was a 
+
+place that we returned to again and again throughout our futures imaginings. 
+
+ 
+
+Methodologies: The creation of narrative atmospheres 
+
+The skunk nudged a pile of shimmering circuitry and surface, pushed at it with its 
+nose and saw that it was wet-seeming in the afternoon light. Pressed a paw upon 
+the coils and felt within its own digital enclaves an affinity and it opened its mouth 
+while the students in the house leaned back to take in the sound of a single record. 
+ 
+Our experimental writing process is a nesting of arts-based methodologies and digitally-
+
+mediated creative practices: narrative futuring (Horst), collaborative writing in digital interfaces 
+
+(Emerson), textual sonification using the Singling platform (James et al.), Zoom and Padlet as 
+
+both collaborative interfaces and performance venues, and the Patch, a collaborative writing and 
+
+performance workshop (James et al.). The resulting text/s, Skunk Tales, provides more of an 
+
+unbounded futures atmosphere that does “atmospheric things” (McCormack) than an enclosed 
+
+and representative short story with a beginning, middle, and end. This bricolage of arts-based, 
+
+digitally enriched methods has much to offer the qualitative researcher interested in engaging 
+
+with the unquantifiable realms of the imaginary, and finding/creating emergent and entangled 
+
+meaning and insight there. Below, we describe this gathering of methodologies that allowed us to 
+
+create the narrative atmosphere of Skunk Tales.  
+
+Narrative Diffraction 
+
+Skunk Tales in both form and composition, problematizes temporality, linearity, 
+
+authorship, cause and effect, and takes narrative to its Roche limit where it disintegrates and 
+
+commingles with poetry, music, noise, and nonsense. We take up story in an expansive sense as 
+
+“any account of a series of related events or experiences”2 (“Narrative”): Our account(s) are 
+
+collaborative not only between the human authors involved in this project, but also with the 
+
+interfaces, technologies, and spacetime contexts that constitute and co-instantiate production of 
+
+the texts and sounds of Skunk Tales. The events or experiences are related in terms of our 
+
+togetherness and various simultaneities— first our physical togetherness around a table, 
+
+breathing in the same air and listening to the same vinyl records, and then later “together-apart” 
+
+(Barad) at five different tables in five different geographical locations, patchworked together in 
+
+virtual space. Like Alexander and Wyatt ours was a kind of virtual “kitchen research practice” in 
+
+which: 
+
+We wrote. We wrote in response to what we heard, or what we imagined we 
+heard. We made coffee. We talked. We read aloud our written responses to each 
+other and wrote again, writing ourselves into each other’s words, and read aloud 
+again. More coffee. More talking. Repeat. (101). 
+
+  
+
+This methodology is a writing-as-exploration into the future imaginary (i.e. Beier; Gough; Adsit-
+
+Morris) that is not an attempt at prediction or representation of a unified vision of the future; 
+
+Rather, this writing intentionally diffracts the very idea of representation. Van der Tuin’s 
+
+description of diffraction is particularly helpful here: 
+
+Diffraction is said to shift a restrictive linguisticism. Diffraction is meant to disrupt 
+linear and fixed causalities, and to work toward ‘more promising interference 
+patterns’ both between words and things [and here we include sounds] (allowing for 
+
+ 
+
+2 Definitions of narrative are innumerable, conflicting, and often complicated by academic terminology and 
+abstraction. Because narrative, like the future, belongs to everyone who lives in time, we have chosen 
+wikipedia as a resource for our definition, as it is widely understandable, vetted, and accessible to anyone 
+with internet access. 
+
+things and bodies [and frequencies] to be active in processes of signification)…(26-
+27). 
+
+   
+
+Collaborative Writing          
+
+In many collaborative writing practices, especially in the scholarly context, the 
+
+collaboration act is a kind of negotiation of meaning, a braiding together of individual 
+
+perspectives into a unified voice, even if that voice is admittedly multiplicitous. Taking up the 
+
+first person plural perspective, we become an authorial multitude, like those of Deleuze and 
+
+Guattari: “The two of us wrote Anti-Oedipus together. Since each of us was several, there was 
+
+already quite a crowd….” (3). Collaboration can be in the form of a dialogue in which the 
+
+individual voice/characters are distinct and attributable, as in the Jonathan and Dagmar 
+
+researcher voices in their re-conceptualization of the interview process (Alexandar & Wyatt), or 
+
+the dialogue format of Gale and Wyatt’s Working at the Wonder. The text, once written and 
+
+especially once published, does not change – the first sentence is composed of the same series of 
+
+words though they be read yesterday, today, or tomorrow. For the purposes of this paper and this 
+
+context, we cohere into a concretized form and adopt the pronoun we—but in our collaborative 
+
+storying, the pronouns were more complex and various, the texts more mutable and changing, 
+
+the sounds and meanings “coupled with the environmental contingencies that are constitutive of 
+
+any wave behaviour” and therefore “can never be perfectly reverse engineered from its 
+
+constituent frequencies” (Cecchetto, 3). Our we was voluminous, undefined, and encompassed 
+
+many quiet rooms of private thinking made audible. Indeed, it was a kind of chaotic assemblage, 
+
+a gathering of subjectivities. 
+
+They are hear together. Here. Together. And the books, and the discs, and old 
+boxes with armatures and moving parts. 
+Individualized fragments of datasets that are deliberately encrypted and 
+differentiated from a collective pool of quantum data collected via BMIs (brain 
+
+machine interfaces). You are we, but humans decided to keep the illusion of 
+individuality to an extent that they do not allow conflicts to arise – the world cannot 
+afford such human stupidity anymore, anyway.    
+Music moves in your hand, and technology still can’t catch up with the feeling. 
+Everybody moves around the professor’s museum of old music, walking with 
+respect 
+On a full stomach and with nothing better to do and driven by curiosity the skunk 
+makes his way slowly, cautiously, meticulously towards it. 
+         
+
+Polyphonic Padlet  
+
+In our virtual writing sessions, as well as our storying performance for the Arts Integrated 
+
+Research Group (AIRG) symposium, we used Padlet (https://padlet.com/) to allow each of us to 
+
+simultaneously write within the same environment while retaining our individual voices and 
+
+styles in separate columns. This is a polyphonic writing and reading space without the uniform 
+
+linearity of most word processors. With Padlet, the reader can choose to navigate the page in any 
+
+number of ways. One can read down each column from left to right, or flit across the gutters 
+
+between columns and between utterances. Each utterance within a single column stands apart, 
+
+and the most recent posts are placed on top of the columns so that in reading down the virtual 
+
+page, one discovers the narrative consequence before the cause. In a live performance context, 
+
+each new post seems like breaking news. When the Padlet environment is output into a document 
+
+file, the columns are automatically collapsed into the single logic of a letter-sized page and a 
+
+navigation of left to right, top to bottom. While we found this output interesting, we were more 
+
+excited by the narrative possibilities inherent in the virtual environment rather than in the 
+
+traditional page format. 
+
+The Sounds of Singling 
+
+The needle as the punctum of time taking you back to before the noise cancelling began, 
+before we rode the filters to a place of calm. To a noisy world, filled with strange and 
+unpleasant sounds. Exploding motors, waterfalls, garbage doors, insects and air ducts, 
+blenders and coffee grinders, rubber tire friction, office chit chat, clanking bottles, an old 
+
+green house creaking in the typhoons of the catastrophic present tense. Tense, but quiet. 
+Not a sound except for these four voices quietly vibing. 
+ 
+
+ 
+
+Sound plays a crucial role in our creative process. During our virtual storying sessions, 
+
+we simultaneously sonified the emergent narrative data using Singling, a Text-to-MIDI (Musical 
+
+Instrument Digital Interface) linguistic data sonification software developed by the DLC for 
+
+qualitative research and textual data analysis. The Singling interface allows users to listen to 
+
+specific syntactic features and general semantic characteristics of the input text. Singling 
+
+transmediates discrete characters, symbols, and punctuation, as well as more complex word 
+
+attributes such as class (noun, verb, adjective, etc.), length, sentiment, or lexicogrammatical 
+
+category (LGC) (e.g. verbs indicating feeling, nouns indicating weather, and so on). Singling 
+
+thus transforms texts into user-determined soundscapes that highlight particular forms and 
+
+meanings. As we wrote Skunk Tales, we invited the emergent Singling soundings to permeate 
+
+our imaginations and become entangled with the movements of the narrative. As Cecchetto 
+
+argued, “It is precisely the forceful quality of sound that makes it an agent of modulation that can 
+
+help to amplify certain elements of narratives of human-technological coupling, making them 
+
+audible” (4).  
+
+Singling enables a different sonic encounter with a text, one that accesses “the invisible 
+
+dynamics that are hidden beneath a visual perception and its linguistic organization” (Salome, 
+
+10). This program provides the qualitative researcher and analyst many analytic affordances (see 
+
+James et al., in press). Here, however, we take up the platform in a more visceral, 
+
+improvisational, and arts-based approach to sounding language. Each of us had the program open 
+
+on our laptops and had prepared a unique set of text-to-sound transformations. The possible 
+
+combinations of transformations in Singling are virtually endless. The same text can produce 
+
+radically different sounds when played with different settings, just as the same sounded text can 
+
+produce radically different visceral experiences within different listeners. To illustrate the 
+
+evocative generativity of a Singling composition, we recorded our storying performance for the 
+
+AIRG virtual conference in October of 2020. For this conference, we performed our futuring 
+
+method live - writing and sounding a chapter of Skunk Tales in the Zoom conference room with 
+
+the audience present and allowing their presence to permeate the narrative. We now have this 
+
+performance housed within the Skunk Tales webpage as a soundtrack to the story, and have since 
+
+returned to listen again, and respond individually to the collaborative sonic composition. Our 
+
+poetic and evocative responses map a wide territory of imaginative and visceral meanings, and 
+
+have become another chapter of the story (Figure 1). As a futures oriented endeavour, we 
+
+encourage listeners of Skunk Tales to share their own emergent responses to that composition in 
+
+the webpage’s comments section. As Voegelin describes of the implications of sound: 
+
+Listening generates place, the field of listening, continually from my hearing of 
+myself within the dynamic relationship of all that sounds: the temporary 
+connections to other listeners, thing and places, as the contingent life-world of my 
+listening intersubjectivity that hears the actual, the possible, and even the 
+impossible participating in the ephemerality of the unseen (3). 
+ 
+
+Figure 1.  Sentiment analysis of the Skunk Tales performance at the AIRG virtual 
+conference. The analysis is focused on the perceived activity and pleasantness of the 
+visceral response and is marked with a timestamp of the auditory product. Online version 
+available of the visualization is available here: 
+
+https://public.tableau.com/views/SkunkTales/SkunkTales_SentimentAnalysis?:language=en
+&:display_count=y&publish=yes&:origin=viz_share_link 
+
+ 
+
+Zoom 
+
+After the COVID lock-down started and we transitioned our weekly meetings and story-
+
+jams into Zoom. Suddenly we were faced with the psychic and physical demands created by the 
+
+minute temporal delays and disturbances that are characteristic of the Zoom platform. As 
+
+Wiederhold explains in an article exploring what is commonly described as ‘Zoom Fatigue’: 
+
+Humans use a range of precisely timed vocalization, gestures, and movements to 
+communicate, and they rely on precise responses from others to determine if 
+they are being understood. Scientists call this synchrony. If a delay is introduced 
+to this system, even if this delay is only milliseconds, subconsciously, our brains 
+still register the issue and work harder to try to overcome it and restore 
+synchrony (437). 
+  
+This impossibility of achieving true simultaneity (humorously performed by a clapping 
+
+experiment conducted by musicians attempting to jam together in Zoom 
+
+(https://www.youtube.com/watch?v=OV69lX28SU0)—became co-productive of the sounds and 
+
+narratives of Skunk Tales. As researcher/musicians interested in the meanings and materialities 
+
+of sound, understanding and working to subvert the stilted sonic environment of Zoom 
+
+conferencing became our first challenge. In addition to the minute delays that cause fatigue, the 
+
+Zoom platform’s automatic settings have built in features that suppress or cancel out background 
+
+noises and automatically adjust the speaker’s voice and volume for clarity. In this way Zoom 
+
+effectively erases the speaker’s environment. While Hubert argues that, “[l]istening can be 
+
+understood as a mutable and immediate encounter that reaches through acoustic space towards 
+
+encounter”(72), Zoom simultaneously enables and prevents intimacy in the auditory encounter 
+
+by suppressing the ambient and physical embodiment of the speaker. While this can be useful in 
+
+allowing the speaker’s words to be audible, the richness of their physical and embodied presence 
+
+in the world is cut off from the sound of the voice. This filtering, which is an automated 
+
+boundary-making distinction between voice and environment, is artificial and arbitrary: where 
+
+does the sound of the voice end and the environment begin? Indeed, as Haraway writes, 
+
+“[b]oundaries are drawn by mapping practices; ‘objects’ do not preexist as such. Objects are 
+
+boundary projects. But boundaries shift from within; boundaries are very tricky. What 
+
+boundaries provisionally contain remains generative, productive of meaning and bodies” (595). 
+
+In a similar fashion to the virtual background option of Zoom in which one’s actual environment 
+
+can be replaced with any image, causing the speaker to resemble a moving simulacra, the 
+
+objectified cut-out of the voice becomes a dis-located and dis-embodied signal. Silence, in this 
+
+transformed auditory space, is a strange virtual deadness, a void-like emptiness that is 
+
+compressed rather than spacious. Virtual silence is diametrically opposite the richness of 
+
+embodied silence – which is full of sound – as Voegelin describes here: 
+
+The quiet creaks, trickles and gurgles of the house pierce through me. This is not 
+really hearing but sensing sound. Sounds are tangible in this dense quietness. I 
+am feeling through my body whole clumps of sense material. The quietness 
+enhances my perception; I take notice of every whisper, hum and buzz. I feel 
+them as phenomena filling the room and me, defining our contours as one 
+without knowing what we are (85). 
+  
+Interestingly, these virtual silences are so striking because they are heard always from 
+
+within the embodied silence of a quiet room. In the advanced Zoom audio settings, however, we 
+
+were able to mitigate against the noise cancellation effect by disabling the suppression options 
+
+and instead selecting the ‘original sound’ feature. Interestingly, ‘original sound’ is described by 
+
+Cecchetto as inherently multiplicitous in its existence “among other sounds rather than as a unity 
+
+of its various overtones” (3). While ‘original sound’ in Zoom is never quite original, it does 
+
+produce secondary and tertiary environments with their own original sonic spacetime in the form 
+
+of a composite. With the settings, what we lost in verbal coherency we gained in visceral 
+
+intimacy- we were able to play, sound, and speak together in a slightly more entangled way. 
+
+Latency and delay however still prevented any illusion of synchrony. These settings became 
+
+powerful thematic considerations in our future narrative, in which space and time play such a 
+
+central role.  
+
+Mutating representations: The Patch and StirFry  
+
+The professor indulged them in a decadence of listening to the last revolution, 
+watching as the vinyl turned to dust before their eyes and the sound unravelled 
+into their ears. It would last in their memory alone. To play it was to destroy it 
+ 
+
+Gathering together the sounds and texts of Skunk Tales into a finalized output was 
+
+ 
+
+ 
+
+contrary to the methodological processes of the storying. We desired to facilitate generative 
+
+engagements with our narrative imaginings. The Patch (James et al.) is a writing and data 
+
+analysis workshop in which participants are led through a series of creative collaborative 
+
+engagements with textual data. Due to lack of space here, we cannot explain the rich digital and 
+
+analogue processes of the Patch Workshop (available on the website). We wish to briefly 
+
+mention the creative students in a graduate course, Digital Methods in Literacy Research, who 
+
+contributed their poetic interpretations of the textual data of Skunk Tales. In a virtual workshop 
+
+with these students, we took up the text of Skunk Tales, scrambled, mixed, and remixed the 
+
+narrative thus obliterating any semblance of linearity, and facilitated collaborative poetic 
+
+interpretations of the data. The resulting collaborative poems and collaborative performances are 
+
+another chapter of Skunk Tales, thus extending the nexus of our compositional intent. 
+
+ 
+
+To continue confounding static representation, we took the words of our original 
+
+composition and entered them into recombinant format called a Stir-Fry text, authored by 
+
+poet/programmer Jim Andrews. In this hyperscript, the reader’s cursor triggers the replacement 
+
+of one selection of text with another. This seemed like the perfect solution for nonlinear and non-
+
+hierarchical text compositions, providing a nuanced assemblage of text fragments that vary for 
+
+each reader depending on their individual interactions with the text, adding a “liveness” to the 
+
+reading reflecting the synchronous simultaneity of its composition. Naturally, this became 
+
+another chapter of Skunk tales, one in which the individuality of the reader becomes a 
+
+compositional agent in the recounting of the tale. The Skunk Tales webpage is an attempt to 
+
+gather together our various lines of flight into one representational space. However, our desire 
+
+was to create an unbounded space that might allow for further creative engagements as well as 
+
+visitor participation in the Skunk Tales atmosphere of futures imagining.  
+
+Conclusions 
+
+Covid-19 provided a productive strangeness and temporality from which to 
+
+imagine ourselves into the future. The protracted and profoundly alienating experience of 
+
+this moment has been described by many as having a science fictional quality. Infusing 
+
+the texts of the story is this non-fictional fictionality and the real uncertainty of what will 
+
+happen in the days ahead, let alone the years and decades. Skunk Tales is therefore a 
+
+pandemic tale, sounding a future that is quickly receding into the past, while 
+
+simultaneously signifying new possibilities for dynamic arts-based conversations 
+
+between subjectivities, technologies, sounds, and meanings. Our diffracted writing was a 
+
+performance of theory, fear, yearning, and creation in crisis and has implications for 21st 
+
+century writing pedagogy and research, arts-based research, futures studies, and digital 
+
+literacy research. We agree with Skains who makes an argument for engaging students 
+
+with all of the “sign systems available” in digital contexts. She continues, the “future of 
+
+writing is multiplicative: multimodal, collaborative, participatory, and distributed” (2). 
+
+Our bricolage of methodologies gestures towards this multiplicative future of writing, a 
+
+future that may be up to the task of producing what Stengers suggests are “other kinds of 
+
+narratives, narratives that populate our worlds and imaginations in a different way” (5); 
+
+Skunk Tales is our contribution of one such difference. 
+
+ 
+
+  
+ 
+  
+  
+
+References 
+ 
+Andrews, Jim. “Material Combinatorium Supremum.” Vispo, 
+
+http://vispo.com/StirFryTexts/combinatorium.html. Accessed 6 May, 2021. 
+
+ 
+Barad, Karen. Troubling Time/s and Ecologies of Nothingness: Re-turning, Re-membering, and 
+
+Facing the Incalculable. New Formations, 92, 1, 2018, pp. 56-86. 
+
+ 
+Barad, Karen. Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter 
+
+https:/doi.org/10.2307/778755. 
+
+ 
+
+and Meaning. Durham, Duke University Press, 2007, 
+https:/doi.org/10.1215/9780822388128. 
+
+ 
+Bergson, Henry. Creative evolution. Translated by Arthur Mitchell. New York: Camelot Press. 
+1911, https://www.gutenberg.org/files/26163/26163-h/26163-h.htm. Accessed 6 May, 
+2021. 
+
+ 
+Cecchetto, David. Humanesis: Sound and Technological Posthumanism. vol. 25, University of 
+
+Minnesota Press, Minneapolis, 2013. 
+
+ 
+Deleuze, Gilles, and Félix Guattari. A Thousand Plateaus: Capitalism and Schizophrenia. 
+
+University of Minnesota Press, Minneapolis, 1987. 
+
+ 
+Emerson, Lori. Reading Writing Interfaces: From the Digital to the Bookbound. vol. 44, 
+
+University of Minnesota Press, Minneapolis, 2014, https://doi.org/10.5749/j.ctt6wr7dw. 
+
+ 
+Gale, Ken, and Jonathan Wyatt. "Working at the Wonder: Collaborative Writing as Method of 
+
+Inquiry." Qualitative Inquiry, vol. 23, no. 5, 2017, pp. 355-364, 
+https://doi.org/10.1177/1077800416659086 
+
+ 
+Galloway, Alexander R. "The Unworkable Interface." New Literary History, vol. 39, no. 4, 2009, 
+
+pp. 931-955, https://doi.org/10.1353/nlh.0.0062. 
+
+ 
+Haraway, Donna. "Situated Knowledges: The Science Question in Feminism and the Privilege of 
+
+Partial Perspective." Feminist Studies, vol. 14, no. 3, 1988, pp. 575-599, 
+https://doi.org/10.2307/3178066. 
+
+ 
+Hayles, N. K. "Virtual Bodies and Flickering Signifiers." October, vol. 66, 1993, pp. 69-91, 
+
+Horst, Rachel. “Narrative Futuring: An Experimental Writing Inquiry into the Future 
+
+Imaginaries. Art/Research International: A Transdisciplinary Journal, vol. 6, no. 1, 2021, 
+https://doi.org/10.18432/ari29554. 
+
+ 
+James, Kedrick, Esteban Morales, Rachel Horst, and Effiam Yung. “Singling: Text Sonification 
+
+and the Literacoustics of Language-to-MIDI Transformations.” Community and the 
+algorithm: A Digital Interactive Poetics, edited by Andrew Klobucar, Vernon Press. (in 
+press). 
+
+ 
+James, Kedrick, Rachel Horst, Yuya Takeda, and Esteban Morales. “A Patch-Work of 
+Pedagogical Potential: A Syn(aes)thetic Approach to Technologically Enhanced 
+Multimedia Text Production. McGill Journal of Education. (in press). 
+
+ 
+McCormack, Derek. “Devices for Doing Atmospheric Things.” Non-Representational 
+
+Methodologies: Re-Envisioning Research, Edited by Phillip Vannini. Routledge, 2015. 
+
+ 
+McKnight, Lucinda, Owen Bullock, and Ruby Todd. "Whiteout: Writing Collaborative Online 
+
+Poetry as Inquiry." Qualitative Inquiry, vol. 23, no. 4, 2017, pp. 313-315, 
+https://doi.org/10.1177/1077800416673664. 
+
+ 
+“Narrative.” Wikipedia, Wikimedia Foundation, 25 Apr. 2021, 
+
+https://en.wikipedia.org/wiki/Narrative. 
+
+ 
+Hulbert, Adam. “Uneasy Intimacies.” Reimagining Communication: Mediation. Edited by 
+
+Michael Filimowicz and Veronika Tzankova. New York, Routledge, 2020, 
+https://doi.org/10.4324/9781351015431. 
+
+ 
+Shulz, Jim.”Living in a Science Fiction Movie: Covid-19’s Preview of Climate Change.” 
+
+Medium. 21 Sept. 2020, https://jimshultz716.medium.com/living-in-a-science-fiction-
+movie-covid-19s-preview-of-climate-change-be0f7818314e. Access 6 May, 2021. 
+
+ 
+Skains, R. L. "Teaching Digital Fiction: Integrating Experimental Writing and Current 
+
+Technologies." Palgrave Communications, vol. 5, no. 1, 2019. 
+https://www.nature.com/articles/s41599-019-0223-z. 
+
+ 
+Stengers, Isabelle. “Wondering About Materialism.” The Speculative Turn: Continental 
+
+Materialism and Realism, Edited by Levi Bryant, Nick Srnicek, and Graham Harman, 
+Melbourne, Australia, 2011, pp. 368-380. 
+
+Voegelin, Salomé. Listening to Noise and Silence: Towards a Philosophy of Sound Art. 
+
+Continuum, New York, 2010. 
+
+ 
+Voegelin, Salomé. Sonic Possible Worlds: Hearing the Continuum of Sound. Bloomsbury 
+
+Academic, New York, NY, 2021. 
+
+ 
+Wiederhold, Brenda K. "Connecting through Technology during the Coronavirus Disease 2019 
+
+Pandemic: Avoiding “Zoom Fatigue”." Cyberpsychology, Behavior and Social 
+Networking, vol. 23, no. 7, 2020, pp. 437-438, 
+https://doi.org/10.1089/cyber.2020.29188.bkw. 
+
+ 
+
+ 
+
+

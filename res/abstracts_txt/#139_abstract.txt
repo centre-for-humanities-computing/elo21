@@ -1,0 +1,44 @@
+:
+In this workshop, attendees will learn to create "story instruments," a genre of performative e-lit with a
+very simple interaction model. In a story instrument, the author decides *what* happens, and the user,
+through a one-button interface, determines *when* it happens. This form, with its inherent connections to
+music, video games, interactive comics, and slide presentations, has been used to collaboratively remix
+the works of noted California poets, sonify the history of Mars exploration, create multi-vocal lyric videos
+for Hamilton, and visualize samples of martial arts films in hip-hop tracks — to name just a few
+applications.
+
+The software attendees will use to create their story instruments is Stepworks 2, a new version of the
+web-based tool I first introduced in 2017. Stepworks (http://step.works) has been described as "an ideal
+
+49
+
+ELO 2021 - abstracts
+
+platform for teaching e-literature through feminist critical making pedagogies" (Sarah Whitcomb Laiola,
+"Back in a Flash: Critical Making Pedagogies to Counter Technological Obsolescence" [The Journal of
+Interactive Technology and Pedagogy, December 10, 2020]). It can be used to create interactive works,
+live-streamed presentations, or linear videos (one example being last year's popular ELO talk "Temporal
+Aesthetics in Digital Comics: An Introduction for Makers and Researchers").
+
+Stepworks standardizes multimodal interactive media in a way that simplifies authoring, while collapsing
+the boundaries between text, visual, audio, and musical content. Instead of tracks or layers, Stepworks
+features "characters" who take actions in discrete steps. Each character appears as a rectangular panel
+that can be rendered anywhere on screen. When a character "speaks" a word, that word appears in its
+panel. When they "show" a video, that video fills the panel's area. Put another way, Stepworks takes the
+visual logic of Zoom we've been living with during the pandemic — in which each box equals a person —
+and allows authors to build on it in creative ways.
+
+Stepworks 2 introduces a web-based authoring environment to augment the Google Sheets model
+launched with Stepworks 1, making possible more sophisticated compositions (even including the user's
+webcam) while maintaining ease of use. Attendees will come away from the workshop with basic
+knowledge of the tool, and free accounts which they can continue to use afterward (while Stepworks will
+ultimately include a paid tier to support continued development, the essential set of authoring features will
+continue to be free, and its file format is open and JSON-based).
+
+The workshop will be held over Zoom, and participants (up to 15) will be required to use the Chrome web
+browser. Each attendee will use Stepworks to follow along with workshop activities, creating their own
+experiments using media they possess locally or find online. Attendees will be encouraged to show
+progress via screen sharing, and will save their work locally, while also learning how to publish projects
+online (a secondary account like a GitHub account may be required for this). Finally, participants will
+receive tips for using Stepworks to expose students to basic e-lit creation in a classroom setting.
+

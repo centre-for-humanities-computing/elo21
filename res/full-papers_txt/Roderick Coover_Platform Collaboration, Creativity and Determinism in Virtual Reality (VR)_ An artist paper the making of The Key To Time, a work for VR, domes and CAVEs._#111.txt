@@ -1,0 +1,363 @@
+Platform Constructs And Imaginaries: On the making of The Key To Time, a work for 360 
+degree cinema, VR, domes and CAVEs. 
+Roderick Coover 
+ 
+Introduction 
+
+This paper discusses ways that concepts of time, space and narrative in The Key To Time 
+https://unknownterritories.org/keytotime/ and the short musical extract Meet Me At The Station 
+are  expressed  through  a  mixing  of  technologies.  Particular  attention  given  to  the  impact  of 
+differing platforms upon language, story, genre and user experience.  
+
+ 
+
+Figure 1. Tanek inside a clock. The spherical image design in equirectangular form  
+
+ 
+The Key To Time is a surreal and lyrical work for group immersive environments such as 
+ 
+domes (Figure 12) and 360 degree cinemas as well as for individual viewing on head-mounted 
+virtual reality head-mounted displays (VR HMDs). Bridging 1920's silent film and virtual reality, 
+the surface story draws viewers into a playful exploration of genre, identity and desire. In doing 
+so, the work unravels narrative underpinnings of myths, genres, and technological constructs of 
+time.  
+
+ 
+Created as a collaboration between media artist/filmmaker Roderick Coover (FR/US) and 
+composer Krzysztof Wołek (PL), The Key To Time was part of a program designed to build cross-
+cultural, composer-artist collaborations. The dreamlike story follows a scientist who is trapped in 
+the future due to a time-travel experiment gone wrong. His only hope to escape his predicament 
+is to travel through dreams. His dreams, however, are troubled by anxieties, fears and anger. As 
+the scientist travels through time, aesthetics shift from those of silent film of the early 20th 
+century to those of VR and a future cinema. There is also slippage between these times periods 
+and their technologically determined forms of presentation. For example, figures from black and 
+white  memories  walk  into  color  settings  as  black  and  white  figures  or  cartoon  ones.  Visual 
+references reframe iconic images of early cinematic works like Louis Lumiere's Arrival of a Train 
+at Ciotat (1895) and Fritz Lang's Metropolis (1927) using temporal and perspectival distortions. 
+
+ 
+Figure 2.Two dome images: Anna calling to Tanek and Anna in a clock. The full dome format is 
+designed for 180 degree projection, with a 37 degree tilt optimized for planetarium seating. 
+
+ 
+
+ 
+The  Key  To  Time  is  one  of  three  projects  sponsored  by  the  IAM  Mickiewicz  Institute 
+ 
+project +100: Three Works That Envision The Emerging Avant-Garde, which was designed to bring 
+together artists and composers from differing countries who were working on the cutting edge 
+of  art,  sound  and  technology.  Marek  Chołoniewski  (PL)  and  Chris  Cutler  (UK)  created  music 
+
+performances in which brain activity of the performers, registered live through EEG sensors, is 
+projected as a virtual model of a floating brain in a collage of graphic forms, photos, videos and 
+microscopic  scans  of  tissues,  including  human  tissues.  Piotr  Wyrzykowski  (PL)  and  Echo  Ho's 
+(DE/CN)  project  Temporary  Nation  turned  smartphones  into  sound-  and  light-emitting 
+instruments; using phones, audience members become participants in a collectively-generated 
+performance. In The Key To Time, cinematic production in VR combines with electronic sound 
+composition and algorithmic methods of creative production. 
+
+ 
+
+Figure 3. Anna in the zoetrope. 
+
+ 
+ 
+The action for Th Key To Time was filmed at the Audio Visual Technology Center (CeTA) in 
+Wroclaw, which stands on the site of the historic film studio, Wroclaw Feature Film Studio. A 
+major center of vanguard film production in Poland, Wroclaw Feature Film Studio was home to 
+the  production  of  works  such  as  Wojciech  Jerzy  Has'  Saragossa  Manuscript  (1964),  Andrzej 
+Wajda's Ashes and Diamonds (1958) and Roman Polanski's Knife in the Water (1962). In 2011, 
+the studios were revitalized as the Audiovisual Technology Center. The center covers over 8500 
+square meters of space including the largest universal greenbox studio in Poland with the surface 
+
+of 330 square meters as well as an impressive bluebox studio. The history of the studio as well as 
+the production conditions made it ideal for this project about cinema and its evolving forms.  
+ 
+Platform Creation 
+
+The images are created using a range of technologies with live-action super-imposed on 
+natural and created settings. Many of the settings and many images used in montage sequences 
+were filmed using the 8K 3D 360 degree Instapro VR camera and others 4K VR images were filmed 
+using the waterproof Garmin Virb. Virtual settings were created on computer using the open 
+source 3D creation Blender, and most of the live-action occurs in the Blender-created settings. 
+The live-action  filmed in the green studio  was filmed using 4k Sony FS7 video cameras. Two 
+cameras were aligned side by side to create 3D images to be superimposed upon the settings. 
+Images recorded using panoramic photography devices were adapted and animated. Many other 
+images were created from non-VR imagery using post-production tools and animation.  
+
+Figure 4. Travel through a wormhole. 
+
+ 
+Images  filmed  and  photographed  on  digital  single-lens  reflex  cameras  (DSLRS)  were 
+geometrically  contorted  to  be  recognizable  as  components  in  equirectangular  images  that 
+
+ 
+
+contain a full 360 degree data in a 2:1 ratio flat image. Post-production software was used not 
+only to create, alter, blend, animate and edit these images, but also to introduce perspectival 
+distortions that might illuminate ways differing technologies like video and VR construct time and 
+space.  
+
+Each of the technologies shaped how the work was imagined and made. For example, 
+Blender’s design elements led us to veer toward aesthetics of animation and graphic novel for 
+several of the action scenes which then encouraged the introduction of other graphic elements 
+such as on screen text and heightened color contrasts. As the Instapro 8k camera proved to be 
+poor in low light setting and at distance, shots using that camera needed to be quite close, while 
+other VR image was therefore mostly created though the distortion layering and composition of 
+non-VR materials using a VR perspectival mesh. 
+
+Figure 5. Anna taking off her glove. 
+
+ 
+Creators  and  body  actors  met  at  TR  Theater  to  rehearse  in  Warsaw,  Poland,  then 
+convened  in  Wroclaw,  Poland,  to  film  in  the  CeTA  green  studios  during  a  6  day  period.  The 
+director, composer and voice-over actor participated in live recording sessions using Skype, with 
+the actual audio being recorded primarily in Louisville, Kentucky. Post-production then entailed 
+
+ 
+
+considerable moving back and forth between PC and Mac, with blender based imagery being 
+rendered on Amiga computers and much of the project being compiled on Mac with After Effects. 
+Due  to  the  long  renders  required  for  8k  3D  images,  often  several  computers  were  in  use 
+simultaneously.  The  use  of  pre-renders  (as  well  as  proxies)  were  essential  in  maintaining 
+workflow.  
+
+ 
+Figure  6.  Director  Roderick  Coover  with  actors  Natalia  Kalita  and  Paweł  Smagała  during 
+production in the CeTA greenbox studio. Green tape on the floor indicates doorways, passages, 
+or objects. Each must be calibrated to the choice of lens and camera placement based on initial 
+designs. 
+
+ 
+
+ 
+The choice of presentations platforms also shaped production choices. The more visually 
+detailed, longer-length work, which relies on a minimum 8K 3D resolution (7680px x 7680px) was 
+best suited for large-scale settings like, 360 cinema and dome settings. Different versions with 
+some perspectival shifts and simplification of graphics were designed for VR HMDs. For example, 
+some of the soft dissolves and light-play we were trying in 8k 3D format simply didn't provide the 
+same  effect  in  VR  for  example  and  this  altered  choices  in  how  such  imagery  or  substitute 
+materials might connect to the sound and narrative. The dream-like narrative allowed for such 
+
+substitutions and perhaps at times even benefited from them in the context of the new versions 
+that were created.  
+As an art project created on a micro-budget, The Key To Time relied on collaborations and 
+ 
+innovation to make the most of the exciting technological opportunities of the emerging media 
+forms we were using and of the facilities at CeTA without the costs normally associated with 
+studio-based film production. This was achieved through partnerships with CeTA, TR Theater and 
+others, the participation of students and interns, other kinds of support from Temple University 
+and Louisville University, and a creative approach that embraced the limitations by emphasizing 
+fragmentation,  ruptures,  aesthetic  contrasts,  and  shifts  in  representational  forms.  The  work 
+includes  performances  by  Joanna  Freszel,  Emily  Albrink,  Katherine  Calcamuggio,  Chad  Sloan, 
+Jesse Donner, Natalia Kalita and Paweł Smagała. 
+
+ 
+Figure 7. Preparing for the greenbox recording of Tanek crouching in front of a bush which is 
+actively  layered  upon  a  working  model  of  the  space.  The  conditions  of  product  lead  to  a 
+separation of action and setting – of time and place. The model for the setting will later be 
+designed  and  textured.  The  model  also  leads  one  to  explore  how  action  elements  can  be 
+transposed onto differing settings or transformed through manipulations of speed, color, etc. 
+
+ 
+
+Sound-image Design And Production 
+
+Whereas  in  many  films,  sound  composition  comes  after  the  film  is  written,  shot  and 
+edited, in this case the music was part of the process of invention rather than an afterthought. 
+The audio recording of the script preceded the action filming, which is a workflow more common 
+in animation, while the action-sequences were filmed without sound. This decision, which suited 
+the platforms were working with, allowed for lots of play between dialog, images and sounds and 
+propelled us to making connections between silent or nonsync-sound film and radio drama. It 
+also was prudent in removing limitations and costs that would be doing sound recording in the 
+green  box  studio,  as  using  microphone  in  360  degree  filming  posing  numerous  practical 
+problems.  
+
+The separation of sound and image adds to the surreality, allow for differing kinds of word 
+play and interiority. The surreal structure and narrative changes are driven by emotion, impulse 
+and concealed themes. Music is effective in evoking these impulses. Five songs were at the center 
+of design and in some cases, script elements were built around them in a fragmentary form after 
+which processes of layering and interconnection took place.  
+
+Several  experimental  approaches  were  used.  For  example,  some  of  the  songs  and 
+connecting  elements  were  imagined  as  potential  parts  of  a  combinatory  system,  driven  by 
+algorithms that might shuffle sounds, images and even whole scenes. In such systems, no two 
+versions  are  the  same.  Although,  in  the  end,  we  did  not  use  an  algorithmic  system,  the 
+combinatory concept shaped the creative approach and logic. Second, we decided to record the 
+script in advance of shooting the film. This decision enhanced a creative freedom and allowed for 
+lots of play between dialog, images and sounds. The result disconnect between voice and image 
+is  evocative  of  early  film  and  radio  drama,  and  the  approach  is  also  similar  to  a  workflow 
+frequently used in animation. 
+ 
+The  lyrical  elements  --  songs  and  poetically  constructed  vocal  sequences  --  provide 
+psychological  and  emotional  expression.  For  example,  the  opening  tone  is  partially  created 
+through  distant  marine  weather  reports  that  fade  in  and  out.  The  reports  echo  Tanek's 
+psychological state of anxiety and confusion. An early report announces:  
+
+Viking: westerly winds about 3, increasing a little, snow squalls, swell 2,5 meters 
+and rising. Skagerrak: northeast to east about 5, decreasing then rising, gales then 
+not. Quiet, shifting southeast to south, locally misty, sea 4 meters and sagging. 
+
+Soon, reports announce war, environmental contamination, floods and death:  
+
+Dover,  Wight,  Portland,  Plymouth:  West.  Cyclonic  storm  force  10.  Rough, 
+occasionally very rough in Portland and Plymouth. Rain, becoming wintry later. 
+Bombing  predicted  400  UTC  to  800  UTC.  Severe.  Shannon,  Rockall:  West  or 
+northwest  6  to  gale  8,  increasing  severe  gale  9  for  a  time  in  Rockall.  Severe 
+conditions.  Implosions,  contamination.  Risk  of  death.  Malin:  Northwest  5  or  6 
+backing west 6 to gale 8, perhaps severe gale 9 later. Severe conditions. No known 
+survivors...  Parnu,  Gdansk:  Code  Red.  Severe  contamination.  Contact  lost.  All 
+believed  dead.  Ristna,  Helsinki.  Code  Red.  Severe  Conditions.  Contact  lost. 
+Skagerrak,  Narva.  Sever  Conditions.  Contact  lost....  Malin,  Gone.  Amsterdam. 
+Gone. Hamburg. Gone. Gdansk. Gone.  
+
+ 
+This play on technology, psychology and story unfolds more elaborately in "The Time 
+Song". This music sequence focuses on the speaking clock, a 20th Century technology with which, 
+once upon a time, an individual could dial a telephone number to hear a mechanical voice telling 
+the current time. In this version, based on a text by Deb Olin Unferth, the speaking clock is a 
+technology  gone  wrong.  In  its  terrifyingly  insistent,  forward  motion,  its  language  exposes  an 
+aggression and chaos that reflect Tanek's inner anxieties. The clock implodes in its attempt to 
+fulfil the structure to which it is programed. Here is a small excerpt: 
+
+At the tone. The time will be. Now the time. Will be two. Now the time will be one. 
+Now the time will be. One now. One. Now one. Now the time will be. Exactly. At 
+the tone. One now. At the tone, and seconds. Now the time and. The ten will be. 
+Seconds. And seconds. And five. And four. And three. Stroking two. Now four. Now 
+three. Now there. The time. Will be there. And then. The time has been. And been. 
+And was. And went. It went the time. And at the tone. The time. The two. The one. 
+And  four.  The  second.  The  was.  The  will.  The  be.  The  time.  The  seconds.  The 
+
+seconds. The time will. The time will. The time. The now. And now. The time will 
+be. And now. The time will be. At the tone. Another. Another. Another. Exactly. 
+
+In the spirit of silent film, the film also includes many intertitles. These are sometimes 
+ 
+written, sometimes spoken or sometimes both written and spoken. The narrator's feminine voice 
+becomes an additional character in the narrative, teasing Tanek and egging him along. Here is a 
+sample in which Tanek makes his first attempt to travel through dreams: 
+
+Narration #9, title and voice: The only way to send a message to Anna is through 
+
+a Dream.  
+
+Narration #10, title and voice: Send a dream to Anna to meet at the station! Wasn’t 
+
+she meant to meet him there before - So hard to remember 
+
+Narration #11, voice only, no title card: Remember, Tanek, remember.  
+
+ 
+Figure 8. Observatory design in preparation for creating a virtual environment in Blend and 
+shooting action sequences in the green box studio. 
+
+ 
+While the sound was being recorded in Louisville by Krzysztof Wołek, in Philadelphia, 
+ 
+Logan Gardner worked with Coover to design the virtual environments in Blender and make the 
+measurements for the shoot in the green box studio. Having correct measurements was vital to 
+
+be able to accurately mark out the spaces on the floor of the studio using green tape so actors 
+would know where to move and so the cameras could be correctly placed to ensure the actions 
+and designed backgrounds would line up. The designs included both simple block models for 
+preparing the staging and camera angles, and, with time, more elaborate designs with texturing. 
+Several settings were made with reference to specific films and works of art. For example, the 
+bar  in  the  factory  space  references  Edward  Hopper's  1942  painting,  "Nighthawks".  These 
+references help signal genre slippage and confusions of signification, as if, in the dreamlike world, 
+the protagonist is thrown from one genre to another, causing shifts of context and interpretation.  
+ 
+Filming in the greenbox studio 
+ 
+For the action filming, the team designed a 3-D rig using two Sony FS7 video cameras 
+joined on a metal bar. The handmade rig provided stereoscopic image that could then be layered 
+upon the 360-degree image using a plane-to-sphere image conversion tool. For this to work, the 
+positions of the characters had to be calculated precisely. The calculations were based on the use 
+of prime lenses. Most scenes were shot using 35mm or 50mm prime lenses. During shooting we 
+verified the match, such as in this scene in which the doppelgänger was going to be crouching 
+near a bush. See Figure 7.  
+ 
+The project uses a mix of images recorded in natural settings and those created using 
+digital  design  tools.  The  scenes  for  human  action  that  are  created  in  Blender®  include  the 
+observatory, the station, a meeting point in the tunnels, and the interior bar and tunnels of the 
+old factory as well as the insides of the clocks (Figure 1) and zoetropes (Figure 3). Some other 
+experiences are also created in Blender® such as watching a passing train and flying through a 
+wormhole (Figure 4).  
+ 
+Other  scenes  are  layered  upon  seemingly  natural  settings  and  natural  elements  are 
+layered upon and within images. For example, Figure 5 is a frame from a scene in which Anna 
+removes her glove to reveal her strange, glass arm. The background image uses VR video filmed 
+near a military bunker, and the image is altered for color. The image of Anna, which was filmed 
+in the greenbox, and the arm, which was rendered is Blender®, are combined and placed upon 
+the background. Shadows are added to her clothes and the ground around her.  
+
+"#(!fS/0).!g2!Y11'M%!Y)3f4!-#$+#!$%!'!2$;3!-$/#$1!/#(!2$;34!022()%!'10/#()!(<'3&;(9!"#(
+%$;(1/!2$;3!'&&(')%!'%!'!%+)((1!-$/#$1!/#(!DE!(15$)013(1/!'1*!#'%!3,%$+';!'++03&'1$3(1/!'1*
+$1/()/$/;(%9!"#(!'+/$01%4!2$;3(*!$1!/#(!:)((1!P0<!%/,*$04!')(!;'.()(*!,&01!/#(!&#0/0:)'&#!02!'!;'P
+>0(123#$`$'1*!0(123#$4Gf9!N1!/#$%!%+(1(4!"'1(8!$%!#(;&$1:!#$%!%/(&2'/#()!/0!+)('/(!'!/$3(C/)'5(;
+3'+#$1(9!"#(!%/(&2'/#()!(.(%!'!P,**$1:!)03'1+(!/'8$1:!&;'+(!P(/-((1!"'1(8!'1*!#$%!*',:#/()
+Y11'!'1*!$%!2$;;(*!-$/#!)':(9!V#(1!"'1(8!$%!;'/(!20)!(<&()$3(1/4!/#(!2'/#()!,%(%!Y11'!20)!/#(
+(<&()$3(1/!$1%/('*9!"#(!)003!1((*(*!/0!P(!&#0/0:)'&#(*!2)03!%(5()';!'1:;(%!/0!3'/+#!/#(
+*$22()$1:!'1:;(%!/#'/!-0,;*!P(!,%(*!$1!/#(!'+/$01!%#00/9!"#(!$3':(!-'%!*(%'/,)'/(*9!Q;$+8()!'1*
+*,%/!-()(!'**(*!'1*!Y11'M%!P;00*!-'%!+0;0)(*!)(*9!"#(!%+(1(!(1*%!-$/#!/#(!2'/#()!$15(1/$1:!/#(
+%&(+$';!:;'%%!')3!20)!Y11'4!'1*!/#(!%+(1(!+#'1:(%!2)03!LCH!/0!@CH9!
+
+!
+0(123#$`!>;(2/?9!"'1(8!-';8%!$1/0!#$%!%/(&2'/#()M%!;'P!],%/!'2/()!Y11'M%!')3!#'%!P((1!P;0-1!0224!
+%#0-1!P0/#!/#(!:)((1!P0<!0)$:$1';!'1*!/#(!;'.()(*!'1*!&'$1/(*!2$;3!$3':(9!0(123#$4G!>)$:#/?9!
+"#(!%'3(!$3':(!-$/#!P'+8:)0,1*!'1*!+0;0)$1:9!
+
+!
+
+Y**$/$01';;.4!/#()(!')(!0,/()!%&'+(!%(d,(1+(%!/#'/!$1+0)&0)'/(!&#0/0:)'&#%!2)03!`YSY
+/#'/!#'5(!P((1!';/()(*4!+0;;':(*!'1*!'1$3'/(*9!"#()(!')(!';%0!0P](+/%!*)'-1!0)!2'P)$+'/(*!2)03
+#$%/0)$+! '1*! +$1(3'/$+! )(2()(1+(%9! Q0)! (<'3&;(4! 01(! 0P](+/! )(%(3P;(%! /#(! P0<! /#'/! &;'.%! '
+*03$1'1/! )0;(! 02! *(%$)(! '1*! 'P'1*013(1/! $1! X,$%! I,k,(;! '1*! S';5'*0)(! H';$M%! 2$;34! !"#
+,/8.:27(./$R'1$>JKLK?4!'1*!'!%10-*03(!)(2()(1+(%!/#(!2'30,%!0P](+/!02!3(30).!'1*!;0%%!$1
+g)%01!V(;;(%M!2$;34$@(+(A#/$%./#$>JKcJ?9!"#)0,:#0,/!"#(!T(.!"0!"$3(4!"'1(8!$%!($/#()!(1!)0,/(!/0
+0)!'/!'!/)'$1!%/'/$01a!'%&(+/%!02!/#(!%/'/$01!*(%$:1!')(!'*'&/(*!20)!/#(!)(&)(%(1/'/$01!02!/#(!/)'$1
+
+station in Ciotat in Louis Lumiere's famous film Arrival of a Train at Ciotat (1895) in which a train 
+appears to be coming toward the audience as it arrives at a station. 
+
+ 
+
+https://vimeo.com/438841198 
+Figure 11. Video Sample, Meet Me At The Station is an excerpt from The Key To Time featuring 
+the Time Song of a speaking clock gone wrong.  
+ 
+
+ 
+Conclusion  
+The  Key  To  Time  combines  elements  created  using  multiple  technologies  and  was 
+ 
+designed for output for differing presentation platforms. Applying questions early expressionist 
+film to VR, The Key To Time explores ways that gesture and design can express emotional tensions 
+between subject and object. In drawing upon early surrealist film, The Key To Time uses the VR 
+experience to question how the meanings of objects and actions relate to their surroundings or 
+to the surface narratives in which they are encountered. By turning attention to the apparatus of 
+cinema, The Key To Time asks how cinematic, immersive technologies and their constructs of 
+time may work upon the imagination.  
+
+ 
+The dreamlike narrative structure was well suited to allowing for a playful exploration of 
+these technologies, which propelled aesthetic shifts and both opened, and closed, differing paths 
+for  the  story.  Sifting  between  technologies  and  their  platforms  both  in  production  and 
+presentation enabled a play with genres and forms such as those of science fiction, surrealism, 
+expressionism, opera, silent film and graphic novel. The more visually detailed, longer-length 
+work, which relies on a minimum 8K 3D resolution was best suited for large-scale settings with 
+live audiences and different shorter versions with some perspectival shifts and simplification of 
+graphics were designed for VR HMDs. The play between VR and cinematic forms was enhanced 
+by movements between platforms in preproduction, production and presentation. In doing so 
+the  experience  poses  fundamental  questions  about  ways  that  differing  technologies  frame 
+expressions of narrative events.  
+
+Figure 12. The Key To Time at Rauch Planetarium, Louisville, Kentucky. 
+
+ 
+
+ 
+Author Contact 
+Roderick Coover (at) temple (dot) edu 
+https://unknownterritories.org/keytotime/ 
+
+

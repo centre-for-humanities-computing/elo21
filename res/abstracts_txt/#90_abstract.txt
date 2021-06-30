@@ -1,0 +1,17 @@
+:
+In the United States, a student in the 20th percentile reads books for 0.7 minutes per day, while a student
+in the 98th percentile reads 65 minutes per day (Cunningham & Stanovich, 1998). For the last four years,
+with 300 children from Title 1 schools and the Boys & Girls Club, we researched how to create digital
+texts that better cognitively engage struggling readers using psychophysiological sensors, eye tracking,
+and co-creation.
+
+This research led to the creation of Wonder Stories. Wonder Stories’ texts motivate students to critically
+think by immersing students in frequent, story-based questions. As a response to children’s low
+motivations during COVID-19, we added a social competition to Wonder Stories – answering questions
+correctly gave points in a trivia-like game.
+
+When struggling readers were given Wonder Stories, students mentally showed up: their participation
+increased, readers were more cognitively engaged with the material, and students were critically thinking
+about the text more often. This study suggests that interactive, question-based reading shows great
+promise to increasing children’s participation and engagement in middle-grade reading.
+

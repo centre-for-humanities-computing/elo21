@@ -1,0 +1,10 @@
+:
+This poster presents the in-house development environment used for translation and migration of Michael
+Joyce’s Twilight. A Symphony (2021) into browser/online edition. The framework has been built from
+scratch but based on translations of Joyce's hypertexts into Polish. Apart from supporting guard fields,
+outgoing link labelling and conditional links – for the first time in the history of Storyspace ports – it will
+also support mobile friendly visualisation of the Storyspace Map View.
+
+Programming tools: Java, HTML, JavaScript, Microsoft .NET MVC Framework.
+The poster will present the scheme of media translation process and visualization template.
+

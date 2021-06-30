@@ -1,0 +1,15 @@
+:
+This poster presentation summarizes the interactive narrative designs of a historical series of significant
+works of interactive cinema, from Kinoautomat (1967) to Bandersnatch (2018). It focuses on comparison
+and contrast of the graph or flowchart representation of the interactive choice structure for each work,
+whether highly constrained or expansive, highlighting points of comparison and contrast.
+
+Visualization of each works and data on their choice structure is based on upcoming contributions to the
+Transverse Reading Gallery project, which maps interactive plot structures across form and media from
+the 1920s to the present starting with the print gamebooks of the Demian Katz Archive.
+https://jeremydouglass.github.io/transverse-gallery/gallery.html
+
+63
+
+ELO 2021 - abstracts
+

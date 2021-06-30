@@ -1,0 +1,278 @@
+Dystopic plagiarized platforms: found text, corrupted code, and robotic poetics. 
+ 
+Abstract: 
+ 
+The (auto)biography of 김정은 (2020) is a conceptual ‘found’ artwork in VII parts. It 
+combines found code with found text. Multiple ‘found’ computational pieces have been 
+modified with vocabulary drawn from multiple speeches delivered by the current North 
+Korean Leader, Kim Jong-un/김정은. In addition, vocabulary and phrases from journalism 
+critical of the North Korean regime are also incorporated into these generative works. On the 
+one hand, this work is an experiment in propaganda delivery: it emulates the relentlessness of 
+the North Korean indoctrination machine and shows how born-digital writing can be stolen 
+and misused; in so doing, it reveals digital literature’s power. As part of this process, a Kim 
+Jong-un ‘poetic robot’ has been created to demonstrate how such propaganda might be 
+delivered/forced upon a populace. This work also seeks to capture the perspective of a 
+curious, intelligent yet powerless North Korean citizen and demonstrate how they might 
+(struggle to) engage with local culture. This paper reflects on this artwork in relation to 
+Critical Code Studies (Marino, 2020). Specifically, it looks at how code can be adopted and 
+exploited. Through practice-led research (Smith and Dean, 2009), this work deliberately 
+exploits the code of multiple digital poets in order to show how such works might be 
+corrupted. These subsequent works can be regarded as an example of third generation 
+electronic literature (Flores, 2019). These works can also be regarded as an example of ‘overt 
+plagiarism’ (Holland-Batt and Jeffery, 2020). If the works’ ‘fictional’ construction is 
+believed, then it would be an example of ‘covert plagiarism’. Additionally, this paper looks at 
+how this code and corrupted poetry could be reformed into robotic poetics (Winder, 2004). 
+Through this extension to robotic poetics, this paper extends the notion of Critical Code 
+Studies, by extending it to robotics, and interrogating what impact such an artefact has on 
+transforming the initial work. 
+ 
+Key words: 
+Robotic Poetics – Dystopia – Overt Plagiarism – Found Text – Code Studies 
+ 
+ 
+
+ 
+
+The (auto)biography of 김정은 is a conceptual ‘found’ artwork in VII parts. It combines 
+found code with found text. Multiple ‘found’ computational pieces have been modified with 
+vocabulary drawn from multiple speeches delivered by the current North Korean Leader, 
+Kim Jong-un/김정은. In addition, vocabulary and phrases from journalism critical of the 
+North Korean regime has also been incorporated into these generative works. This work 
+represents a ‘dystopic platform’. On the one hand, this work is an experiment in propaganda 
+delivery: it emulates the relentlessness of the North Korean indoctrination machine and 
+shows how born-digital writing can be stolen and misused; in so doing, it reveals digital 
+literature’s power. As part of this process, with the input and assistance of Canadian 
+industrial automation specialist Brett Griffin and Griffin Prototyping, a Kim Jong-un ‘poetic 
+robot’ was created to demonstrate how such propaganda might be delivered/forced upon a 
+populace. This paper reflects on this artwork, specifically in relation to how code can be 
+adopted and exploited. In addition to exploring hypothetical propaganda platforms, this 
+project also seeks to capture the perspective of a curious, intelligent, yet powerless North 
+Korean citizen and demonstrate how they might (struggle to) engage with local culture. The 
+work can be regarded as an example of ‘overt plagiarism’ (Holland-Batt and Jeffery, 2020), 
+though within the diegetic ‘world’ of the piece, the smaller works would be regarded as 
+‘covert plagiarism’. Similarly, the broader work as a whole would be regarded as an example 
+of second generation electronic literature, while the smaller works within the diegetic world 
+of the work could be regarded as examples of third generation electronic literature (Flores, 
+2019). Additionally, this paper looks at how code and corrupted poetry can be reformed into 
+robotic poetics (Winder, 2004) and possibilities. Through an examination of this extension to 
+robotics, this paper further interrogates what impact such an artefact has on transforming the 
+initial code. 
+
+The initial inspiration for this work was to corrupt existing digital literature using the 
+
+perspective and vocabulary of a totalitarian force. Six digital poetic works from the 
+publication Taper (an online literary magazine for small computational pieces) were chosen: 
+for the pool players at the Golden Shovel by Lillian-Yvonne Bertram, US by Nick Montfort, 
+If Jupiter had turned into a Star by Everest Pipkin, Thermodynamics by Sebastian Bartlett, 
+Rise by Angela Chang, and ((((0)))) by Eugenio Tisselli. Works from Taper were chosen for 
+two reasons. Firstly, the code of works published in Taper is free to use and open source. 
+Secondly, Taper’s submissions have clearly defined set parameters: works must not use any 
+external libraries or APIs, nor link to any external resources, including fonts; and the works 
+
+ 
+
+1 
+
+must not exceed more than 2KB (2048 bytes). Therefore, these works allowed for a level of 
+similarity that would allow the reader to consistently compare the impact on the various 
+individual works. The vocabulary in these computational works was replaced with 
+vocabulary taken from North Korean propaganda and works critical of the North Korean 
+regime. Part I uses text of a speech delivered by Kim Jong Un at the military parade held in 
+celebration of the 70th founding anniversary of the KPA, as reported and translated by the 
+Korean Central News Agency and North Korea: no liberty, humour, irony ... no love by 
+Christopher Hitchens. Part II uses vocabulary taken from text of a speech delivered by Kim 
+Jong Un at the grand banquet hosted by Xi Jinping at the Great Hall of the People on March 
+28, 2018, as reported and translated by the Korean Central News Agency and The Aquariums 
+of Pyongyang: Ten Years in the North Korean Gulag, by Kang Chol-hwan and Pierre 
+Rigoulot. Part III uses phrases taken from Kim Jong Un's 2019 New Year Address and North 
+Korea: Everything you need to know about the country by the BBC. Part IV uses vocabulary 
+taken from the Joint Statement of President Donald J. Trump of the United States of America 
+and Chairman Kim Jong Un of the Democratic People’s Republic of Korea at the Singapore 
+Summit and When North Korea Falls by Robert D. Kaplan. Part V uses phrases taken from 
+the Panmunjeom Declaration for Peace, Prosperity and Unification of the Korean Peninsula 
+and Tall storey? North Korea's infamous 'Hotel of Doom' to open shortly, maybe by Justin 
+McCurry. Part VI takes vocabulary from The Feats Performed by the Great Victors Will 
+Remain for Ever and Kim Jong Un has quietly built a 7,000-man cyber army that gives North 
+Korea an edge nuclear weapons don't by Ellen Ioanes.  
+
+This paper/project is an example of practice-led research. Practice-led research is 
+
+defined by Smith and Dean (2009) as: 
+
+ 
+an activity which can appear in a variety of guises across the spectrum of practice and 
+research. It can be basic research carried out independent of creative work (though it 
+may be subsequently applied to it); research conducted in the process of shaping an 
+artwork; or research which is the documentation, theorisation and contextualisation of 
+an artwork – and the process of making it – by its creator. (3) 
+
+ 
+This research, then, is a combination of all three of Smith and Dean’s definitions. Smith and 
+Dean continue to argue that the term ‘practice-led research and its affiliates (practice-based 
+research, practice as research)’ (5) are used to make two arguments about practice. First, ‘the 
+creative work in itself is a form of research and generates detectable research outputs’ (5). 
+
+ 
+
+2 
+
+The work can also be regarded as a work of ‘overt plagiarism’ (Holland-Batt and 
+
+The second argument suggests that creative practice can lead to specialised research insights 
+(6). This paper, then, is an example of Smith and Dean’s second argument in that it 
+‘highlights the insights, conceptualisation and theorisation which can arise when artists 
+reflect on and document their own creative practice’ (6). 
+ 
+Jeffery, 2020). The concept of found poetry – such as the cento as explored by the Dadaists 
+and surrealists and more recently in works by American conceptual poet Kenneth Goldsmith, 
+who regards poetry as an act of ‘uncreative writing’ or ‘curation and transcription’ – could be 
+applied to this work. Within the diegetic world of the broader work, however, the code 
+utilised could be regarded as ‘covert plagiarism’. Covert plagiarism is defined as works that 
+attempt to conceal theft. For example, Graham Nunn’s ‘Platypus’ uses scaffolded plagiarism 
+to ‘covertly’ plagiarise Helen Dunmore’s ‘Heron’ (Passmore, 2013). Though Nunn later 
+argued that he was performing a work of overt plagiarism, the lack of acknowledgement in 
+the initial publication suggests otherwise. Similarly, the use of code by the fictional North 
+Korean propagandists the work imagines would most certainly go unacknowledged. 
+ 
+The (auto)biography of 김정은can also be regarded as an example of second 
+generation electronic literature that contains third generation work. The second generation of 
+electronic literature, Flores (2019) argues, begins in 1995 with the Web. This generation 
+consists of ‘innovative works created with custom interfaces and forms’. This generation 
+continues into the present. The third generation, Flores proposes, starts around 2005. These 
+digital works use ‘established platforms with massive user bases, such as social media 
+networks, apps, mobile and touchscreen devices, and Web API services’. This generation 
+coexists with the second. The (auto)biography of 김정은 as a whole should be regarded as a 
+second generation work of electronic literature. Contained within the work, however, are 
+numerous shorter works that repurpose digital works from Taper. In and of themselves, these 
+works would be regarded as third generation electronic literature. 
+ 
+‘in digital literary practices code should be regarded as a meta-authority that denotes 
+authority to specific components of the work’. The (auto)biography of 김정은 confirms this 
+proposal. While the code of any work of electronic literature has the authority to denote 
+power to the media fragments within the work, it does not have authority in and of itself. In 
+Critical Code Studies (2020), Marino writes: 
+ 
+
+In my paper, Collaboration and authority in electronic literature (2020), I argued that 
+
+ 
+
+3 
+
+But the code is not enough in itself. It is crucial to explore context. Who wrote the 
+code? When and why? In what language was the code written? What programming 
+paradigm was used? Was it written for a particular platform (hardware or software)? 
+How did the code change over time? What material or social constraints impacted the 
+creation of this code? How does this code respond to the context in which it was 
+created? How was the code received by others? [my italics] (28) 
+
+ 
+These latter italicised questions are of interest. In this work, I have proposed that a fictional 
+North Korean propagandist has, within the social constraints of DPRK, appropriated this 
+code. Through this work, which filters critical works of the DPRK into DPRK propaganda, I 
+have also attempted to create what the experience may be like for an intelligent yet powerless 
+North Korean citizen, and show how they might (fail to) engage with local culture. Firstly, 
+the vocabulary is made up predominantly of propaganda, but it also contains comparatively 
+smaller amounts of vocabulary drawn from works critical of North Korea. The final digital 
+products therefore contain traces of criticism, but it is never potent enough to be persuasive. 
+Yet beyond this vocabulary, there is also the retained code of the Taper works. Part of this 
+practice-led research’s purpose is to develop a work to test whether or not the poetics of the 
+code itself communicated something fundamental that is perhaps in conflict with the 
+intentions of the North Korean propaganda. Certainly, none of the creators of the original 
+Taper works are North Korean propagandists. 
+
+It is therefore perhaps also important to disclose my own relationship to the DPRK. 
+
+On a personal level, I have some experience with North Korea: as a lecturer at Tsinghua 
+University in Beijing, China, I taught a handful of privileged North Korean students; I have 
+journeyed to Pyongyang, North Korea with a British filmmaking company, where I engaged 
+with a number of very privileged North Koreans; and have (cautiously) discussed these topics 
+with North Koreans working in Beijing. The penultimate question posed by Marino (How 
+does this code respond to the context in which it was created?), however, indicates that in 
+creating and engaging with The (auto)biography of 김정은, one must also read it as a product 
+of neoliberalism. The ‘freedom’ to create the work, in and of itself as a ‘faux-propaganda’ 
+piece, is as much a product of contemporary neoliberalist culture, and as such provides 
+insights into “my” culture as much if not more so than the DPRK’s propaganda network and 
+its impact on its citizenry. Propaganda is by no means exclusively practiced by totalitarian 
+
+ 
+
+4 
+
+Beyond these generational works, a robotic Kim Jong-Un was created to read the 
+
+regimes. This project therefore encourages readers to reflect on how any platform can be co-
+opted and exploited for propagandistic means. 
+ 
+generational works. This emulated a potential propaganda device, similar to the radios 
+installed in North Korean homes whose volume can be turned down but never off. Robotic 
+poetics theorist Winder (2004) writes: 
+ 
+
+There is a fundamental link between language and robots. Whatever material 
+constitution they may have – arms and legs, cogs and wheels, and engines – the 
+crucial ingredients, the ones that separate robots from wrenches, are their instructions. 
+Instructions are perhaps inscribed in some concrete medium, but they are 
+quintessentially abstract, existing more in the netherworld of code than in concrete 
+form. That code netherworld is where humans and robots inevitably meet. It is where 
+humans are most robotic and where robots are most human. 
+
+ 
+Winder defines robotic poetics as ‘the study of robotic authors and the automatic generation 
+of creative texts.’ Going further, Winder defines future ‘interwoven problematics’ that 
+concern robotic poetics: ‘mechanization, combinatory, virtualization, and abstraction towards 
+metastructures.’ These generative works produce ‘new’ content. At the same time, they are 
+very much delimited. And it is this delimitation that is ‘exploited’ by the fictional North 
+Korean creator of The (auto)biography of 김정은. 
+Practice-led research is such that the creative interrogation often raises more questions 
+ 
+than it answers. For now, it appears that on the question of whether or not works of electronic 
+literature offer a perfect propaganda platform waiting to be exploited (dystopic) or a 
+fundamental artistic impulse that is retained despite potentially nefarious amendments 
+(utopic), it is likely not an either/or but a spectrum. I am left feeling much like a curious yet 
+powerless North Korean citizen, unsure of what the future of such platforms will be, yet I 
+remain alert, constantly listening for the feint traces of truth. 
+
+ 
+
+ 
+
+5 
+
+WORKS CITED 
+
+ 
+Flores, L. (2019) ‘Third Generation Electronic Literature’, Electronic Book Review, 7 April, 
+at https://electronicbookreview.com/essay/third-generation-electronic-literature/ (accessed 4 
+May 2021). 
+ 
+Holland-Batt, S. & Jeffrey, E. (2020) ‘Covert and Overt Plagiarism: On Poetry and Theft’, at 
+https://www.youtube.com/watch?v=dejfmNxfSMM (accessed 4 May 2021). 
+ 
+Marino, M. (2020) Critical Code Studies, Cambridge: MIT Press. 
+Winder, W. (2004) ‘Robotic Poetics’, A Companion to Digital Humanities [ed: Schreilbman, 
+S., Siemens, R. & Unsworth, J.], Oxford: Blackwell. 
+http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/978140
+5103213.xml&chunk.id=ss1-4-11&toc.id=0&brand=9781405103213_brand (accessed 4 May 
+2021). 
+ 
+Passmore, D. (2013) ‘“Mr Poetry” Graham Nunn is facing fresh allegations of plagiarism’, 
+Courier Mail, at https://www.couriermail.com.au/news/queensland/mr-poetry82178217-
+graham-nunn-is-facing-fresh-allegations-of-plagiarism/news-
+story/aad784362f863be3ba2144e2e097a862 (accessed 4 May 2021). 
+ 
+Smith, H. and Dean, R.T. (2009) Practice-led Research, Research-led Practice in the 
+Creative Arts. Edinburgh: Edinburgh University Press. 
+ 
+Wright, D.T.H. (2020) ‘Collaboration and authority in electronic literature’, TEXT, s.i. 59, 
+p.1–11, at http://www.textjournal.com.au/speciss/issue59/Wright.pdf (accessed 4 May 2021). 
+ 
+Wright, D.T.H. & Griffin, B. (2020) The (auto)biography of 김정은. http://autokju.net 
+(accessed 4 May 2021). 
+ 
+
+ 
+
+6 
+
+

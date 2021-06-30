@@ -1,0 +1,35 @@
+:
+The paper is devoted to the reading and critical reflection of the generated electronic literary texts. From
+the structural point of view all textones of generated texts can be divided into standard schemes or
+patterns (word combinations or the whole sentences that are switched according to the software
+algorithms). Authors use these schemes to make generated texts close to the natural human language. If
+we look closer, for example, at elit twitter bots, most of their twits look like meaningful expressions. But
+what makes them meaningful and what kind of meaning can readers get from these patterns? Is it
+
+116
+
+ELO 2021 - abstracts
+
+possible to catch the esthetic idea of the whole generated work analyzing these verbal patterns? One of
+the strategies to reveal the author’s aesthetic concept of the generated work is to identify the key words
+grid of the separate textone as well as of the whole work. The key words grid allows to catch the thematic
+dominant and then move to the interpretive strategies of the whole literary work.
+
+For example, the “Sea and Spar between” by N. Montfort, S. Strickland contains the following verbal
+patterns: [noun] / [noun + less – verb Past Simple – verb Past Simple] / [noun] / [nailed] to the [noun] and
+[How to withstand the jay pink course] / [nailed to the – noun / object] / [verb + preposition / on] / [noun!
+noun!]. The refrains in these verbal patterns signify the thematic grid of the work. The lexemes that form
+the thematic grid include groups of nouns with the meaning of a large space (e. g. time; sky; eternity). The
+second group includes both nouns and verbs with the semantics of space restriction (e. g. coffin; nailed
+to). The third group is formed by predicates with the meaning of an incentive to an action aimed at getting
+out of a closed space (e. g. wheel on; plunge on; loop on). The first two lines in the first scheme contain
+calls for action directed outside (e. g. Costumeless turn and climb). The lines in the second scheme
+implement the semantics of attachment, inability to leave a particular place (e. g. nailed to a coffin). To my
+mind, these verbal patterns correlate with an idea of contrast in general. The vast space (it is compared in
+the work with the infinity of the sea, sky, the virtual space of the WWW) is contrasted with the isolation of
+a particular person. Interpretive tactic in this case is like the haiku interpretation, when the first line is used
+as a keyword (a seasonal word in haiku). The next two lines are deployed within a single sentence. The
+last line is a metaphor. The textones generated in "Sea and Spar between" are easy to be structured that
+allows readers to identify the set of meanings. The readers involvement in the interpretational process is
+one of the immutable conditions of electronic generative art.
+

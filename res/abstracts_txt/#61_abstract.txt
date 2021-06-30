@@ -1,0 +1,27 @@
+:
+The Algorithm of Donated Dreams is a sociotechnical artifact and a piece of computational poetry.
+
+It is the product of a speculative design experience for the blockchain community DAOstack and the
+Reshaping Work Barcelona conference in 2019.
+
+It is also published in Taper 04 and is live here: https://taper.badquar.to/4/
+
+Guests who participated in its making went through a game of futures to speculate "What if we lived in a
+society where we donated dreams like we donate blood? And what if those dreams were inserted in an
+algorithm that made us see we can build that society?".
+
+Through our game, guests found challenges in that future society and prototyped solutions first with
+objects around them and then with language.
+
+There were two experiences to arrive to the algorithm:
+IRL: https://thetimetravel.agency/The-Laboratory-of-Donated-Dreams
+Online: https://thetimetravel.agency/The-Algorithm-of-Donated-Dreams
+
+The code for the algorithm was taken from a tiny computational poem at Taper.
+
+Direct link to the algorithm: https://taper.badquar.to/4/algorithm_of_donated_dreams.html
+
+65
+
+ELO 2021 - abstracts
+

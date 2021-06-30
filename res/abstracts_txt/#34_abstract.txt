@@ -1,0 +1,42 @@
+:
+Visual artists, writers, and other cultural producers have long leveraged networked technologies to
+establish platforms that circulate cultural products in participatory contexts intentionally distinct from
+cultural institutions. As technologies change over time—including deprecated plug-ins, changes to HTML,
+and linkrot—these platforms fall into various states of decay. In this paper, I examine an example of a
+platform, the Net Art Latino Database (1999-2004), an effort to document net-based artworks vulnerable
+to obsolescence that overall stands as a precarious monument to an earlier era of digital culture. As the
+platform slowly falls out of joint with current web technologies, the Database illustrates practices of
+cultural production that respond to the decay of the very technologies being used.
+
+32
+
+ELO 2021 - abstracts
+
+The Net Art Latino Database was initiated by the Uruguayan digital artist Brian Mackern to compile
+examples of net art activity by Latinx artists, working at the periphery of English-language dominant net
+art communities. The Database functions as an art platform in the sense offered by Olga Goriunova: a
+dynamic configuration of people and technologies amplifying new kinds of creative activities that push
+beyond the boundaries of existing categories of cultural production. As Goriunova’s theorization of art
+platforms suggests, the lines between categories like ‘net art’ and ‘electronic literature’ are often blurry, as
+artists and writers deploy the same technologies and pursue similar aesthetic strategies to circulate digital
+cultural production online.
+
+While the Database catalogs principally digital visual artworks, it is instructive to think about this platform
+in the context of electronic literature specifically. First, the Database documents works that function
+expressly as electronic literature, including listings for e-zines. More fundamentally, though, the Database
+can be read as a work of electronic literature. Coded by hand in HTML, Mackern’s work exemplifies the
+scribal practices that were the foundation of early Web culture. The text-based work consists entirely of
+descriptions of other artworks and links to other projects. These sites are frequently located under the
+top-level domains of Central or South American countries, though many are no longer active, and these
+defunct sites are rarely captured in public web archives. As such, the Database serves an ekphrastic
+function, evoking multimedia artworks that no longer readily circulate online—and may no longer
+materially exist beyond this description.
+
+I approach this analysis from the discipline of library and information science (LIS). A deeper
+understanding of Mackern’s artistic and curatorial practices can help to shape professional perspectives
+on the preservation of net art, electronic literature, and digital cultural production more generally. Unlike a
+traditional institutional repository, the diverse artworks included in the database are documented as part of
+a living, interconnected media ecology. Rather than adaptively preserving individual works through
+migration to new technological environments, Mackern’s Database enacts a poetics of obsolescence,
+carefully stewarding works on a platform built with the recognition of its own fragility.
+

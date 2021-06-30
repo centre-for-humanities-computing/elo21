@@ -1,0 +1,42 @@
+:
+This work presents an artistic process based on a dream that took place in the capital of Czechoslovakia,
+a region unknown to the dreamer, which happened at the beginning of the quarantine period due to the
+Coronavirus pandemic. The first stage of this creative process started with the confirmation of
+coincidences between real-life Prague and the dreamed Prague. The similarities, discovered mainly
+through the search algorithms that led to Google maps, touristic blogs, Wikipedia, and other websites
+allowed the collection of data for the memories would not be lost and could be used as tools for the
+creative process. That fact so unique and different from other experienced dream phenomena aroused a
+series of sensations and reflections on the possibility of incorporating the unforeseen and irrational
+element as a means of promoting academic inquiry and artistic research. It was also an encouragement
+at the critical moment of confinement and pessimism.
+
+In Antiquity, as the work of Artemidoro confirms, the dream had a cosmic dimension related to the
+mystical tradition and the collectivity. However, the psychoanalytic conception, influential in Western
+society since the first decades of the twentieth century, contributed to fixing the perception of dreaming as
+a private event that concerns only the individual dimension. On the other hand, neuroscience favors a
+biological approach to dreaming, even though Sidarta Ribeiro is a dissonant voice in this environment.
+
+13
+
+ELO 2021 - abstracts
+
+The Brazilian neuroscientist relates dreams and memory since we dream as a way of remembering what
+we are and what we do. According to him, we also dream to prepare ourselves for the future.
+
+The conceptual project started from a dream and proceeded, at first, with the help of Internet search
+engines. The dream experience allowed a deviation in the search algorithms using private intuition. This
+methodology contradicts the rational tendency behind the “improvement” of the artificial intelligence of
+these mechanisms. This effort included bibliographic research and the construction of a web page that
+will contain more information about the work in development. The process also allowed the idealization of
+Oneirographia, which is a 3D interactive online environment that is under construction. In this work, the
+interactor can build or simulate his digital dreams with data input that´ll randomly create a sensory
+ambiance. First, the user will fill a form and, then it will be possible to choose between a dream or a
+nightmare to define the atmosphere of the digital experience. After that, the user will navigate between
+images, words, and sounds, and, at any moment, he can choose to capture photographs of the digital
+dream to download or share them on the social media networks.
+
+Dreams hold relevant messages and memories that we cannot access otherwise. However, its encrypted
+language makes it difficult to understand, and usually, during the wake, we quickly forget what we have
+dreamed of. Oneirographia aims to facilitate the remembering, reimagining, and sharing of this important
+aspect of our lives.
+

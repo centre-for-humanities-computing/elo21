@@ -1,0 +1,31 @@
+:
+The paper describes the procedure of porting of one of the first known poetry generators in Russian from
+a description of a program algorithm published as an article in the USSR Academy of Sciences:
+Automatics and Telemechanics in 1978. Boris Katz, a computer linguist at MIT in the moment, and at that
+moment mathematical mechanical faculty of Moscow university graduate was working on the generator in
+1972 - 1975. The generator is based on Stone, 1916, the collected poems by Osip Mandelstam. This
+work was inspired by his elder colleague, a professor of Moscow University, E.M.Landis. Katz started his
+research on machine poetry and was asking colleagues if they knew anyone working on the theme in the
+Soviet Union, and they failed to point him to similar work.
+
+After several years of developing the program on BECM - 4 (Big Electronic Calculating Machine) he
+noticed Michael Gasparov’s book Contemporary Russian verse. Metrics and rhythmics. 1974, that
+analysed contemporary and traditional poetic verse and general laws of organization of Russian verse.
+This made a considerable contribution to the work.
+
+In order to understand the context in which On Program Composing Verse was produced we have to note
+that unlike in other language contexts the first generated poems in Russian appeared later than musical
+compositions, even though the beginnings of statistical analysis of literary texts dates back to the end of
+the nineteenth century. Another component that proved necessary for the computational poetics in the
+Soviet context was the study of structural properties of literary texts such as metrical analysis of Russian
+verse undertaken by Vladislav Kholshevnikov, Boris Tomashevsky and Michael Gasparov. So it was
+important to gain both qualitative and quantitative knowledge in regards of the properties of the poetic text
+in Russian.
+
+Porting or recreating this generator involved creation of a database in which every word of the
+Mandelstam’s Stone has been classified and included into a database. The program was created by a
+computer scientist Boris Katz in 1978 for BECM. A poet and computer programmer Anna Tolkacheva
+used java script for porting the original program. The paper will report on the principles and choices made
+during the process, as well as the mistakes made at the first iteration of the project and methods
+implemented for correcting them.
+

@@ -1,0 +1,49 @@
+:
+Beyond Maximalism: Resolving the Novelistic Incompatibilities of Realism, Paranoia, Omniscience, and
+Encyclopedism through Electronic Literature.
+
+In The Maximalist Novel, Ercolino defines a type of novel that displays multiform maximizing and
+hypertrophic tension. He lists Pynchon’s Gravity’s Rainbow (1973) and Mason & Dixon (1997), Wallace’s
+Infinite Jest (1996), DeLillo’s Underworld (1997), Smith’s White Teeth (2000), Franzen’s The Corrections
+(2001), and Bolaño’s 2666 (2004) as examples of the term, and classifies the maximalist novel using ten
+elements: length, encyclopedic mode, dissonant chorality, diegetic exuberance, completeness, narratorial
+omniscience, paranoid imagination, intersemioticity, ethical commitment, and hybrid realism. While
+Ercolino’s ten elements accurately identify and classify a significant novel form that has emerged, I argue
+that these elements are incompatible with one another, which has resulted in criticisms of maximalist
+novels, as well as a number of maximalist novelists to abandon the form. While Ercolino argues that these
+incompatibilities represent an ‘internal dialectic’ of the genre, I argue that this is too conflicting to be stable
+as a novelistic form. These incompatibilities include the incompatibility of multiple (hybrid) realisms, the
+incompatibility of paranoid imagination with ethical commitment, and the incompatibilities of narratorial
+omniscience and an encyclopedic mode with a persuasive realism. By examining contemporary fictional
+works written by previously maximalist novelists, I reassess Ercolino’s ten elements in order to identify the
+reasons why certain authors have moved beyond the limits of his definition. In so doing, I compare and
+contrast Ercolino’s ‘maximalist novel’ with Woods’s ‘hysterical realism,’ and Johnston’s ‘novel of
+information multiplicity.’ Using the Franzen and Smith corpuses as examples, this paper speculates on the
+future form of the novel as it progresses into the 21st Century. From this literary interrogation, I apply
+these conclusions to my digital creative practice by developing the digital novel The Perfect Democracy
+(funded by the Australia Council for the Arts). This work takes as its subject the entire population of
+contemporary Australia. Such a vast subject is impossible to represent in a work of fiction. The whole
+work is presented as a 3D frame-like artefact, that can be navigated as a whole, allowing readers to be
+presented with a multivalent, broad-canvas novel, while resolving the paradoxical issues identified in my
+interrogation of Ercolino. I propose that this will be achieved by utilising Calvino’s Six Memos. Images of
+Australian currency will be used as a structural device to remove weight by representing the whole society
+from the richest to the poorest in the quickest way possible, and a multitude of simultaneous digital writing
+formats and voices will be used to precisely depict characterisation.
+
+41
+
+ELO 2021 - abstracts
+
+Works Cited
+
+Calvino, I. (1988) Six Memos For The Next Millennium, trans. P. Creagh, London: Vintage, 1988.
+
+Johnston, J. (1998) Information Multiplicity: American Fiction in the Age of Media Saturation, Baltimore:
+The Johns Hopkins University Press.
+
+Smith, Z. (2001) ‘This is how it feels to me’, The Guardian. Retrieved from
+https://www.theguardian.com/books/2001/oct/13/fiction.afghanistan (accessed 18 November, 2018).
+
+Wood, J. (2001) ‘Human, All Too Inhuman’, The New Republic Online. Retrieved from
+https://newrepublic.com/article/61361/human-inhuman (accessed 18 November, 2018).
+

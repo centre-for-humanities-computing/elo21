@@ -1,0 +1,37 @@
+:
+I propose to share with the ELO community, the story of the rise and fall of The Adventure Game Toolkit
+(AGT), a Pascal-based design system written in 1987 by David Malmberg, based on Mark J. Welch's
+1985 Generic Adventure Game System (GAGS). It was the leading platform for parser-based interactive
+fiction in the late 1980s and early 1990s, with Text Adventure Development System (TADS) as its upstart
+competitor. The use of these early pre-Graham Nelson’s Inform design system, parser-based interactive
+fiction platforms was supported by an annual AGT contest, and a design community that stayed in touch
+through BBS-communities, the largest of which was Compuserve’s Gamer’s Forum. Malmberg ceased to
+support AGT in 1992, (the final release was AGT 1.7) but the contest continued until 1994, after which it
+
+66
+
+ELO 2021 - abstracts
+
+was rebranded and continued on as the Interactive Fiction Competition, (which has been run since 2016
+by the Interactive Fiction Technology Foundation). A game that I wrote for the AGT contest in 1992,
+CosmoServe, featured a simulated DOS environment, featuring the frustrating use of dial-up software and
+the aesthetic of CompuServe screens from that era, as well as the more visceral experience of BBS
+communication -- wailing modems, paying by the minute, long download times and corrupt files,
+hard-drive destroying viruses etc…). Ironically, this game is now all that appears to be left of
+CompuServe's rich gamers’ and game designers’ lifeworld. A collaborative work that I organized, Shades
+of Gray: an adventure in Black and White, written in AGT, was designed and coordinated in a
+CompuServe Gamer’s Forum private room, and represents the heyday of bulletin board IF collaboration.
+Ironically, when CompuServe died in the mid-1990s, after having been assimilated in a borg-like way by
+its longstanding and hated rival, AOL, nothing of CompuServe remained to be archived digitally, except
+what individual users might have downloaded to their own computers and backed up on floppy disks. I will
+soon be launching, through IFTF, a crowdsourced “Digital Archeology” project asking old users of
+CompuServe Forums (chiefly Gamers and Science Fiction forums, the two places that gamers and game
+designers hung out), to go into their own basements and see what they can find of media they might have
+downloaded from CompuServe in its final years. This includes transcripts of conferences, listings and files
+from libraries, public postings and private email. I will share the history of AGT as a e-lit platform, its code,
+games, contest, and disappearance from the scene. I’ll also give an update on the CompuServe Gamer’s
+Forum Digital Archeology project, particularly as our finds shed light on the life and times of writers of
+e-literature and interactive fiction who used early platforms, like GAGS, AGT, and TADS to write and
+share their work, uploading and downloading it to and from BBS-services. It is a world that has vanished
+from the digital record – in my paper, and presentation, I’ll try to bring some of it back.
+

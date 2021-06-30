@@ -1,0 +1,465 @@
+Gastropoetics 
+By Davin Heckman 
+May 7, 2021 [updated May 25,2021] 
+ 
+Abstract: This paper will explore Memmott and Rettberg's Gastropoetics as a humanistic 
+challenge to the grammar of language, platform, and text generation. The impulse is to 
+situate such works within the tradition of dada and futurist performance, where obvious 
+antecedents can be found. However, in the age of platform dominance, the meaning of 
+experiments in absurdity and embodiment take on new meaning, as platform spaces do the 
+work of aestheticizing the absurd conditions produced by the Taylorization of social life. 
+Where industrial processes once disturbed the lifeworld of human craft and technique in 
+the process of industrialization, the cultural world at the most minute level is subject to the 
+proletarianizing process, and its reassembly into an economic model is now the work of the 
+platform spaces. In other words, Platforms do the ideological work of normalizing social 
+collapse as progress towards the rationalized reorganization of body politic into "taste 
+communities" and other post-digital demographies. While Gastropoetics is a marginal 
+practice, these culinary experiments explore the relational dynamics of cooking, hospitality, 
+and eating as persistent humanistic practices, even as such practices are increasingly 
+mediated by emergent practices like "food selfies" and other performative taste practices. 
+Key to understanding the appeal of gastropoetics is the ad hoc nature of human production 
+and consumption (see de Certeau's "everyday life") performed under the constraints of the 
+generated menu, of the platform, and of the mnemotechnical system itself. 
+ 
+---- 
+Intro: This paper will be my least-paper-like presentation to an ELO conference. In the past, 
+I felt the responsibility to treat my conference presentations like papers, packing them with 
+critical references and laboring to establish the illusion credibility against the reality of my 
+own idiocy (Latin, idiota, “ordinary person”; Greek, idios, “personal, one’s own”). But 2021 
+finds me totally defeated as a scholar. Instead of thinking I should labor in vain against the 
+hegemony of media industries, social networks, and the inertia of clique-bait (not a typo), I 
+have decided, at least for today, to give up on scholarly writing. Instead, I write a love letter 
+stuffed into a bottle and tossed into the sea. (Apologies for the accidental Police reference.) 
+ 
+In an effort to dispense with the formalities that I have grown accustomed to, I will offer 
+some ideas to frame what follows by pulling out key concepts from the abstract that I am 
+obligated to fulfill: 
+ 
+1. Futurist and Dadaist antecedents: F.T. Marinetti’s La Cucina Futurista (1932), Barbara 
+Turner’s Artists’ and Writers’ Cookbook (1961) which feature’s Man Ray’s “Menu for a 
+Dadaist Day,” Salvador Dali’s Les Diners de Gala (1973) are notable antecedents that 
+foreground avant-garde recipes (rather than merely recipes by artists). Fluxus artist, Rikrit 
+Tiravanija has developed an entire body of work based around cooking and eating together. 
+Literary references to food are intrinsically weird, in that food itself is a richly affective 
+cultural metaphor. Like music and other sensuous forms, it is non-representational, whereas 
+the Modern literary arts are largely semiotic. Food is corporeal, often “sculptural,” and can 
+be formed into symbolic objects, though the physical form must be destroyed to be 
+consumed and the primary sensual experience is non-figural. On the other hand, foods can 
+
+remind us of other tastes, smells, and feelings (and their associated contexts). It is the 
+liminality of food—transformed from living matter to a meal, ingested in the passage from 
+plate to body, its symbolic character shifting from form to experience, etc.—that make it an 
+ideal subject for avant-garde consideration (I’d argue that these same qualities make food a 
+rather consistent ritual object in human history, as well). While there is a temptation in 
+scholarly writing to create some lineage of influence, I wish to argue that food has a primal 
+resonance that precedes the pull of culture. Yes, we can cultivate culinary practice and 
+taste, but in the end, what’s good is good, and this goodness is singular, changing from 
+person to person, from year to year, from one moment to the next. What one needs or 
+what one has just tasted can determine what one wants next. On the other hand, food 
+might ask us to consider whether or not conceptual work is avant-garde at all—it could be 
+less about what happens next and more about what is not happening now. At least this is 
+the case with Fluxus, moreso than Futurism and Dada. Eating reminds us (as Latour likes to 
+say) that “we have never been modern” (nor have we transcended it). 
+ 
+2. Taylorization of social life: Frederick Winslow Taylor introduces “scientific management” 
+to the process of human labor. Rather than working at holistically at craft production, Taylor 
+argues, labor should be streamlined to remove all unnecessary movements. An engineer 
+must examine all aspects of the production process, reducing productivity to a series of 
+iterable processes that can be broken apart, rationalized, and then reorganized to remove 
+all unnecessary motions. This innovation, in addition to transforming the way human bodies 
+labor, makes automation simpler, allowing greater coordination of the machine and human 
+in the industrial assemblage.  At first blush, the idea of social life might seem antithetical to 
+such a process, as the social carries connotations of informality and excess. But, as with all 
+things, it is possible to frame the sociopolitical as an assemblage of psychological and 
+biological needs (see: biopolitics), which can be streamlined and optimized through 
+therapeutic interventions. In this way, various sensual experiences are essentialized as 
+entertainment experiences that can be recorded, formalized and transmitted via 
+commercial media products (movies, games, theme parks, meals, etc.). Even fairly singular 
+experiences like grief, love, despair, seduction, joy, relaxation seek to be captured and 
+transformed into various kinds of labor (sex work, emotional labor, counseling, self-care, 
+etc.). Under the microscope of social media, even formerly idiosyncratic events like 
+interpersonal conversation, arguments, condolences, flirtations, illness, triumphs are placed 
+under the panoptic gaze of data-mining industries—our every move analyzed and enhanced 
+through predictive optimization, customized reciprocity, and further analysis. The singular 
+stuff of life that was once sheltered under the umbrella of political power has become the 
+umbrella itself, underneath it, power is protected (see: neoliberalism and governmentality). 
+As a result, nothing escapes the ever-seeing eye of the automatic engineer.  
+ 
+3. The grammar of language and platform:  Language, which is a symbolic representation, is 
+subject to grammar. Historically, many types of mimetic representation have escaped from 
+the prescriptive character of grammaticization. While descriptive grammar is considered as 
+a less repressive approach to language than its prescriptive cousin, it is merely a waystation 
+on the road to grammatizing everyday life, which heretofore, had been largely resistant to 
+normalization. While human behavior is loosely organized by norms and expectations, social 
+life tends to reward deviation and surprise in inverse proportion to the degree to which 
+normative expectations dominate. In other words, manners and customs enable tactical 
+
+play, and these subversions are the spice of life. However, the advent of digital platforms as 
+spaces for everyday life present a challenge to these kinds of tactical subversions. The 
+common notion that if you can think of it, you can find it on the internet is more of a curse 
+than a blessing. Those who are obsessed with normality have no trouble finding it. Those of 
+us (and we all do so in our own ways) who struggle against conformity must now drive 
+further to find it. This might create some interesting possibilities for subculture, but it has a 
+way of accelerating anti-social tendencies by requiring more from would-be deviants than 
+they would otherwise require in a metastable locality. The coupling of extreme normativity 
+with ever-radicalizing notions of resistance provides excellent fodder for machine learning 
+while wreaking havoc on livable communities. Platforms have accelerated conflict and while 
+strip-mining the pleasure of the everyday.  
+
+ 
+
+4. Aestheticizing politics. We often think of “the aestheticization of politics” in relation to 
+the way in which fascist regimes wrap themselves in aesthetic packaging to fabricate a 
+picture of social unity. To this, Benjamin introduces an oppositional tendency, the 
+“politicization of art.” Debord does a better job in the Society of the Spectacle, by pointing 
+to the collective formation itself as that which has been “aestheticized.” In other words, the 
+masses themselves cease to be “political” in the sense that they are no longer a site of 
+conflict in which the actions of the state are produced. Instead, the masses exist as a proxy 
+for the expression of the will of the state, they are a spectacular form used to legitimate the 
+actions of power, rather than the participants in a more Arendtian vision of the public 
+sphere in which the demos negotiates the production of power. This distinction works very 
+well with the contemporary American conception of politics—two parties representing 
+competing styles of governance, with policy produced by leadership, mediated through the 
+elite pluralist model.  Here, politics is something we subscribe to, like Netflix streaming into 
+our lives, without access to the means of its production (though we are told that in 
+subscribing and selecting with streams to view, we provide the necessary input for the 
+creation of the content we wish to access). In this respect, our political system is thoroughly 
+aestheticized following the advent of social media, where a tight feedback loop is created 
+between the public sphere as an object of consumption. Thus, when we think of the 
+aestheticization of politics, we might do well to go deeper than the casual understanding of 
+American electoral politics and, even, Benjamin’s prescient discussion in “The Work of Art in 
+the Age of Mechanical Reproduction.” Stiegler’s notion of “adoption,” which is discussed in 
+Symbolic Misery, performs the necessary reframing of this question in the contemporary 
+moment. It is the public itself that has become aestheticized, and thus politics along with it, 
+a process which may not be possible without the enormous apparatus of social networks, 
+which make the surveillance, organization, and grammaticization of the everyday possible. 
+Downstream from this, we see the pathological performances of symbolic misery itself as 
+the political gesture par excellence of American consciousness—the collapse of community, 
+the thorough commodification of the self, the fungibility of everything, punctuated by 
+desperate attempts to reclaim the singularity—through ever broadening regimes of 
+sousveillance, through hyperbolic performances of affect, through customized modifications 
+of a self that we no longer believe in, through competitive taste cultures, through works of 
+art entangled in absurd cryptographic schemes, etc. In other words, platforms do the 
+ideological work of normalizing social collapse as progress towards the rationalized 
+reorganization of body politic into "taste communities" and other post-digital 
+demographies. This is the upheaval phase of what the Davos crowd calls the “Fourth 
+
+Industrial Revolution,” and the proletarianization process proceeds with culture as its 
+terrain. Your hopes and dreams are tropes and memes. 
+ 
+6. Gastropoetics: In spite of the great wave of rationalism that we are living through, there 
+are plenty of moments and places where people still live human lives. Even in Amazon 
+warehouses and the new plantations of global manufacturing, people continue to live, in 
+spite of the totalizing aspirations of their expert managers (and their machine intelligence). 
+People still break laws, violate norms, and flout received opinions, so the situation is not 
+hopeless. For though there are traitors who are seduced into imitating the logic of 
+surveillance and control (typically, who imagine that they will share in the monitoring and 
+administration of order and that compliance will protect them from their own deficiencies), 
+the nature of such a control society is not to eliminate pirates, rather it is to make pirates of 
+us all. If the panoptic gaze teaches us the virtue of self-regulation at the service of the cop in 
+the tower, then the extrapolation of panopticism towards a universal accountability to the 
+massive digital apparatus also places us all in a universal default. The always-on, eternally-
+archived, pseudo-omniscience of the network makes us all vulnerable to it (not necessarily 
+for what it knows, but for what it claims to know). And every bit of ourselves we obscure or 
+reserve is a crime against the empire. We are all guilty. We are all fugitives from the law. We 
+are all pirates. The choice we face each day is whether to become privateers or be free. The 
+sooner we accept this is the ethical terrain of the 21st Century, the sooner we reclaim our 
+vita activa from the prescribed, performative pseudopopulism of platform spaces. The 
+aporia in meaning is not an artifact of language belched into existence by grammatical 
+dysfunction. It is not an engineering problem to be solved by a sociopathic wunderkind with 
+a quantum computer. It is your différance which makes a difference. And, so, the emerging 
+control society forces us to take sides—do we anoint ourselves with the authority of 
+illegitimate power and use our vulnerability to negotiate a decoding strategy that papers 
+over its brutal errors? Or do we live lives of lawless imagination, in a constant state of 
+dissemblance against our own aestheticization? The aporia is in your belly. 
+ 
+Eater-Response Theory: Gastropoetics is not the last pirate ship sailing the seas of 
+consciousness. I only wish to hold it up as one practice that does something difficult but 
+necessary, something between a “moveable feast” and a “last meal,” that defers definition 
+and achieves a kind of poetic resistance to the rapacious instrumental drive of platform 
+spaces. While Gastropoetics is a marginal practice, these culinary experiments explore the 
+relational dynamics of cooking, hospitality, and eating as persistent humanistic practices, 
+even as such practices are increasingly mediated by emergent practices like "food selfies" 
+and other performative taste practices. Instead, this is a call for a hundred thousand billion 
+such marginal practices, with many more being hatched in the imagination. Such a world is 
+closer than we think, as this practice is already in progress, the only thing it lacks is our will 
+to think it. The possible world is not one we are burdened with bringing into being, the 
+possible world is the unrealized world that we desire.  
+ 
+Key to understanding the appeal of gastropoetics is the ad hoc nature of human production 
+and consumption (see de Certeau's "everyday life") performed under the constraints of the 
+generated menu, of the platform, and of the mnemotechnical system itself. Over the past 
+few years, I have been lucky to be a guest Talan Memmott’s test kitchen for The Limerick 
+Diet in March 2019 (joined by guest diners Carrie Heckman and Joseph Tabbi) and 
+
+Quarantine Quatrains at ELO 2020. And while these events are documented and it is 
+possible to replay these events in various capacities. Memmott and Rettberg’s The Limerick 
+Diet was performed on July 15, 2019 at the ELO Conference in Cork, Ireland. Randomly 
+selected guests were invited to sit for an evening of dinner and drinks at an off-site house, 
+while the “audience” watched via livestream. The instigating element of the event is the 
+text generated menu (http://retts.net/limerickdiet/go.html). For those who wish to look at 
+the constituent parts of the text generator, that can be most easily found here: 
+http://retts.net/limerickdiet/. The specific menus from the July 2019 event are published on 
+the Gastropoetics Facebook site 
+(https://www.facebook.com/permalink.php?story_fbid=2080708585556671&id=20142652
+78867669). At this point, we can marvel at the skill with which the javascript generators that 
+combine ingredients, culinary techniques, and thematic elements to create Limericks which 
+function as menu items for the guests. Complicating things a bit are the local, seasonal, 
+thematic, and technical constraints that undoubtedly informed the content of the arrays—
+as whatever is generated must, in turn, be prepared by Memmott and Rettberg. 
+Furthermore, there is also the hope that the combinations also provide pleasure to the 
+guests. Hence, the writing/programming task of building a text generator like this requires 
+an attention to what will ultimately be possible (and, more importantly, to what will be 
+good).   
+ 
+As is the case for much of electronic literature, the outcome for this project is not a static 
+published text. But further than that, there is no artifact that encapsulates the work, either. 
+In the case of a work like Montfort and Strickland’s Sea and Spar Between (2010), the work 
+contains a staggering array of possible reading experiences, but all exist as a finite (and 
+quite specifically coordinated) range of combinations that are bound within the artifact that 
+is the code base.  Similarly, the initial iteration of Montfort’s Taroko Gorge (2009), while it 
+builds stanzas randomly in real time as the work runs in your browser, is also a bounded 
+object whose entirety can be understood by examining its code. 
+ 
+Or can it? A work like Taroko Gorge, as elegant as it is as a standalone work, has achieved 
+widespread attention thanks to the wave of remixes that it has inspired. The ever-growing 
+list includes works of varied quality, some of which could stand alone as unique 
+achievements, but all of which are enriched through the discursive space opened up by the 
+originating work. This highlights an interesting fact of the literary—while professors and 
+their students are often trained to collect works of art as artifacts to be subjected to a 
+hermeneutic process—the pleasure of the literary contains its own gratifications. And while 
+I am not going to provide a complete taxonomy of these gratifications, I will describe a 
+particular kind of gratification that this work illustrates—that of an instigating moment. For 
+many readers, a work like Taroko Gorge initiates a process of decoding, translation, and 
+experimentation. The pleasure such an experience provides can be as simple as a moment 
+of “realization” when one peers at the source code and understands the ingredients to the 
+recipe, when one analyzes competing versions and enjoys the detournements of the text, 
+when one copies the work into a text editor and creates a new page that runs from their 
+desktop, when one creates a semantic system that works with Montfort’s engine, when one 
+creates a compelling text generator of their own, and/or when one enters into a community 
+with other hijackers. José Aburto’s Grita (2005), which requires readers to scream the poem 
+into their browser; Judd Morrissey’s LAMENT (2017), which is a live performance informed 
+
+by a generated substrate; or ALIS’s Typomatic (2015), which is platform that creates visual 
+poems using words furnished by guests, are just a few works that are best understood as 
+machines created to initiate processes.  Viewed in this context, Memmott and Rettberg’s 
+experiments in gastropoetics represent an extended instance of literature as an instigating 
+process (rather than a bound text that itself is a performance of distinction as erudition, the 
+extreme example being something like Norton Anthology). Instead of adding a dead text to 
+one’s cultural repertoire (as we do when preparing for exams or cultivating a social media 
+profile), a gastropoetic menu is a pinpoint on a long arc of practice, preceded by countless 
+hours of noodling in the kitchen, tasting, sipping, giving, receiving, hacking, and repeating. 
+The menu is succeeded by a meandering evening, beginning with a game by which the 
+guests create and name a cocktail from randomly selected cards, continuing with chefs in 
+the kitchen, guests at the table, beverages and plates passing in and out of spaces, dynamic 
+conversations—the meal itself is the scaffolding for an elaborate and unpredictable social 
+interaction. 
+ 
+While I did not dine at the July 2019 Limerick Diet (I only tuned in and out of the video 
+stream), the March 31, 2019 test kitchen at Memmott’s home offered an opportunity to 
+experience the experience more fully. Joined by Carrie Heckman and Joe Tabbi, Memmott 
+invited us to sit for an evening of machine generated meals. We begin the evening with a 
+card game, and though I do not remember all the particulars, I felt fairly lucky to be dealt a 
+hand of cards which I parlayed into something called “Cayley’s Regret,” a kind of modified 
+Mesoamerican Manhattan, made from mezcal, sweet vermouth, a splash of bitters and 
+black pepper, with maraschino cherries. Talan, on the other hand, enjoyed the now 
+infamous “Patchwork Mule”—whiskey and sweet vermouth garnished with black pepper 
+and sardine coated in candy sprinkles. Aided by a bit of alcohol, the evening progressed via 
+the following menu: 
+ 
+
+The Winona Test Kitchen Menu March 30, 2019 
+(https://www.facebook.com/permalink.php?story_fbid=2016833898610807&id=201
+4265278867669) 
+ 
+*AMUSE BOUCHE* 
+ 
+INISHBOFIN COD LIBERTINE 
+In Inishbofin they serve up some Cod 
+Made with Courgettes a very fine scrod 
+        Broiled with White Wine and garlic 
+        Sure to get a like click 
+Oh, that toothsome Inishbofin Cod 
+ 
+TIPPERARY PRAWN OBSCENE 
+In Tipperary they have the best Prawns 
+Served with Local Greens to turn diners to swans 
+        Broiled with White Wine, Capers, and garlic 
+        Will not make you sick 
+You'll die for those Killarney Prawns 
+ 
+
+KILKENNY PRAWN ANTHROPOCENE 
+In Kilkenny they serve up some Prawns 
+Served with Heirloom Tomatoes that soon will be gone 
+        Sauteed with White Wine, Sesame, and thyme 
+        Made for primetime 
+You'll die for those Kilkenny Prawns 
+ 
+DUNDALK COD SERPENTINE 
+In Dundalk they serve up some Cod 
+Made with Heirloom Tomatoes fit for a God 
+        Steamed with Butter, Dill, and thyme 
+        In a brocade of lime 
+Nothing better than Dundalk Cod 
+ 
+*MAIN COURSE* 
+ 
+DINGLE FOWL DU MONDE 
+The Broiled Fowl and Edamame of Dingle 
+With Garlic-Mustard Sauce makes you tingle 
+        With enough Mushrooms 
+        For sure to crush gloom 
+Don't miss the Broiled Fowl in Dingle  
+ 
+GALWAY FOWL ZAMBONI 
+There was a Oulipian from Galway 
+Whose Cayenne-Red Wine Sauce is made in the French way 
+        Topped with Pop Rocks 
+        Like wearing clown socks 
+Oh! the Broccoli and Cayenne of Galway 
+ 
+CORK BEEF NAPOLEON 
+There was a Beef-Monger from Cork 
+Whose Garlic-Vodka Sauce was historic 
+        Add Some Mushrooms 
+       Whizbang and zoom zoom 
+Oh! the Beef is fantastic in Cork  
+ 
+DUBLIN BEEF DE RIGEUR 
+There is a Beef dish known in Dublin  
+Pan-Roasted with Au Jus is quite humblin' 
+        So many Hot Peppers 
+        Spliced in like striped zebras 
+Oh! the Onions and Cinnamon of Dublin 
+
+ 
+I remember my meal (Kilkenny Prawn Anthropocene and the Cork Beef Napoleon), but 
+more importantly I remember the evening (as if through my own eyes). As it pertains to the 
+specifics of the meal, I remember being excited and curious to see how the meal would 
+
+progress from menu to table. Joe had made a trip to Winona to visit in advance of an 
+international move to Bergen, Norway. Talan had offered up the opportunity of an 
+experimental meal, and invited Carrie to join us. But we all knew that we were being treated 
+to test-run of a project that had been in the works for months. So, we sat down at the table, 
+dealt us the cards with which we played out our cocktails. The winner would select the first 
+machine-generated menu. And so the evening began. 
+ 
+A menu exists as a kind of contractual space, between which a restaurant and a diner agree 
+upon a set of expectations. The kitchen agrees to provide what is described on the menu 
+and the diner agrees to pay for this meal, in between there is the work of preparation and 
+consumption, both of which exist beyond the instrumental contractual obligation between 
+the two parties. Here, the chef has knowledge, skill, and varying degrees of latitude to 
+interpret the meal as it is prepared. The guest has expectations and tastes that ultimately 
+test the activity of the chef.  Apart from the “agreement,” the experience is a social 
+interaction mediated by service, ambience, conviviality at table, and the meal itself. In this, 
+the guest and chef play their part, but there are many variables at play. In a perfect world, 
+meals provide the pretext for a kind of radical hospitality and conviviality.  
+ 
+However, we are also accustomed to purely instrumental and industrialized forms of eating. 
+Famine and hunger at one end dictate a purely expedient form of eating, in which getting 
+food into an empty belly takes priority over all other considerations.  Similarly, cultures of 
+efficiency provide us with constrained moments of consumption—the grab and go meal, the 
+fastfood kitchen, convenience cooking—all of which provide a kind of relief from stress and 
+mark a kind of material abundance that masks a kind of spiritual poverty at the core of 
+prosperous societies.  Finally, there is a kind of pathological eating, which can be excessive 
+or constrained, that provides a kind hypernourishment or hyponourishment, which is 
+characterized by a kind of carelessness. When I say carelessness, I do not mean to say that 
+the act itself is entirely devoid of care, indeed many kinds of careless activities are driven by 
+an excess of a kind of care at the expense of another. For instance, neoliberal rhetorics of 
+self-care co-opt the necessary affirmations of desire that encourage the improverished or 
+enfeebled to access sustenance that is routinely denied to the underclass by puritanical 
+cultures. Nevertheless, such discourses have been adopted to rationalize a host of 
+indulgences within privileged social segments as a form of moral preening meant to mask 
+basic hedonic drives. There is nothing wrong with pursuing pleasure in many cases, but 
+there is something uniquely perverse to appropriate the suffering of others to legitimate 
+indulgence as it reaffirms the notion that one must enjoy oneself only with permission to do 
+so. And, in neoliberal society, this kind of self-care exists alongside a corresponding 
+discourse about transactionalizing hedonic interactions, which has the ironic effect of 
+further stigmatizing working class pleasure by claiming “self-care” for those who can afford 
+it and marginalizing free and collaborative conviviality as a source of restoration. 
+ 
+Without getting lost in close reading, there are larger observations about the experience of 
+The Limerick Diet. The first is an appreciation for the challenge that exists at the heart of the 
+project—the chefs set out a kind challenge for themselves that they must meet in the 
+context of a live performance for real guests. While the stakes might not be “life or death,” 
+success or failure are real possibilities, as the guests may not enjoy the meal. On the other 
+hand, the guests are caught up in the fun of witnessing the chef’s challenge, making the 
+
+gastropoetic experience a game about “making do,” about the triumph of skill over 
+uncertainty, and a significant portion of the time of waiting at the table concerned with 
+seeing what will happen. Too often, we tend to eat without thinking, reserving this kind of 
+anticipation for special occasions (and even then, probably spending less time wondering 
+what our meal will be like). The spectacle of human vs. machine is significant here, and the 
+skill of execution rests heavily on the shoulders of the chefs, as the techniques, ingredients, 
+tastes, and skills all present meaningful constraints on execution. (The Quarantine 
+Quatrains, which was based on a remote event in which viewers were invited to participate 
+from home using ingredients on hand, tested this dimension of gastropoetics further.) 
+ 
+Now, it is possible, of course that in the future, machine generated menus will become a 
+commonplace in fastfood kitchens. Similarly, directly machine generated foodstuffs may 
+attempt to obviate chefs altogether. As it is, the Taco Bell menu is a permutational project 
+that creates novel menu items based on a fairly constrained pantry of items and Burger King 
+has already begun exploring the possibility of using AI to generate orders for identifiable 
+customers. As a scholar of digital and mass media, I fully expect that it is inevitable that 
+some will declare the machine generated meal delivered without human contact to be 
+equal to or better than any human culinary accomplishment. We are cursed with a twofold 
+tendency to: 1) embrace a kind of pseudopopulism that declares all mass market 
+commodities to be of superlative aesthetic merit on account of their market share (millions 
+of fans can’t be wrong); and 2) to embrace a posthuman attitude towards intelligence which 
+prefers technological achievement over human handiwork (or reserves the enjoyment of 
+the hand-made as a kind of “artisanal” excess for elite consumers). In the end, who am I to 
+say that AI generated music or art or food is better than what I can make with my own 
+hands?  Who do you trust?  A capricious idiot using cultural concepts inherited from 
+geriatric nobodies? Or a multibillion dollar corporation with supercomputers, a massive 
+surveillance database, and an army of engineers? We know the answer to that question, 
+because we answer it every day when we privilege platform capitalism over people. 
+ 
+So, these kinds of procedural experiments that employ machine processes to initiate human 
+fecundity are critical to life in the 21st Century. Or, the signatories of Ars Industrialis’ 
+“Manifesto” declare, we must “struggle against carelessness [incurie], against the 
+destruction of attention” (the Latin root, cura, gives us our words care, concern, healing, 
+curing, and curiosity). And where we cease to attend to the value of human consciousness, 
+we resign ourselves to inhuman existence. In thinking of the literary as something akin to 
+eating a meal, something we do with others, that is nourishing and transient, that cannot be 
+easily written down, that negotiates a variety of constraints, abilities, and desires in a 
+moment of conviviality, we reclaim the popular from the mass. We take back this notion of 
+popular as something we participate in (as something that belongs to the common people 
+and to common experience that can be at once commonplace and singular) rather than 
+something we merely consume (a mass commodity or a platform that is packaged in a 
+prescribed affective relation).   
+ 
+I am not confident that we will win (by we, I am not talking about the leadership class, I am 
+talking about everyone else). It is always possible, and increasingly likely, that we will be 
+overtaken by machine intelligence, not because it will serve us perfectly, but it might be 
+decided that such intelligence adequate for our needs. Nor do I think that a kooky machine 
+
+generated poetic menu prepared by a friend for the enjoyment of a small group of people 
+will alter the course of human history. Rather, I think billions of such practices must occur 
+(as they surely do), and that we must be here as scholars to receive those paradigital 
+occasions with an emphasis and curiosity about their social dimensions against the 
+relentless prioritization of the machine processes that may or may not provoke them. 
+ 
+References 
+ 
+Arendt, Hannah. The Human Condition. University of Chicago Press: 1956. 
+ 
+Ars Industrialis.  “Manifesto.” 2010. http://arsindustrialis.org/manifesto-2010 
+ 
+Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” Trans. Harry 
+Zohn.  Marxists.org. 1998 [1936]. 
+https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm 
+ 
+Debord, Guy. The Society of the Spectacle. Trans. Greg Adargo. Marxists.org: 1977 (1967). 
+https://www.marxists.org/reference/archive/debord/society.htm 
+ 
+de Certeau, Michel.  The Practice of Everyday Life. Trans. Steven Rendall, University of 
+California Press: 1984. 
+ 
+Stiegler, Bernard. Symbolic Misery, vol. 2. Trans. Barnaby Norman. Polity: 2015. 
+ 
+ 
+ 
+ 
+
+
