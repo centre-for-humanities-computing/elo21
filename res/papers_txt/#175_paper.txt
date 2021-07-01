@@ -1,0 +1,353 @@
+Distributed Memories: CompuServe’s Gamer’s Forum  
+and the Halcyon Days of the Adventure Game Toolkit 
+
+ 
+
+Judith Pintar 
+
+ 
+
+University of Illinois at Urbana-Champaign 
+
+A few years ago, I took my children, then young teenagers, to the Strong Museum of Play in 
+Rochester, New York, a wonderland of interactive exhibits and games. In one room, dozens 
+of brightly lit and flashing Pinball Machines invited us to play our fill, but my son soon 
+wandered away. I found him in an unflashy corner of the next room over, sitting in front of 
+a boxy computer monitor, playing a late 1990s version of the largely text-based Oregon 
+Trail. He sat at that computer far longer than the time he spent on anything else in the whole 
+museum, which perplexed me. It is a game that he had many times played as a child, both at 
+school and at home. The museum seemed to have triggered in him an experience of 
+nostalgic immersion, as can happens when we read a book we associate with an earlier 
+period in our lives. The emotions don’t necessarily arise from a sentimental attachment to 
+the trigger itself (Oregon Trail was never his favorite game), so what was going on?  
+
+Virtual worlds emerge from (and occur inside of) what gamers prosaically refer to as Real 
+Life (RL). Affective attachments to virtual communities or game worlds are never fully 
+disconnected from RL professional, personal, cultural, social, and sociotechnical experiences, 
+pleasures, and anxieties. When my son re-entered the virtual world of Oregon Trail, it wasn’t 
+just that fictional/digital world he was revisiting; he had also been connected with his past 
+self, who he was in our family, in school, and in his own, younger, game-playing skin. Maybe 
+he was recalling past mishaps and errors and trying to evade them with benefit of hindsight 
+and his new, intellectually mature gamer’s vantage, but maybe he was just having fun and the 
+rest was unconscious. Whatever the case, I’m glad I didn’t wreck his flow experience just 
+because I was curious about his choice. 
+
+In the research report following the multi-institution study, “Preserving Virtual Worlds,” 
+Jerome McDonough and his colleagues at the University of Illinois, Maryland Institute of 
+Technology, Rochester Institute of Technology and Stanford University, made the argument 
+that what we must preserve when we set out to collect, archive, and curate games, is not just 
+the software and the hardware necessary to play them, but the worlds that they create. They 
+understand virtual game worlds to be simultaneously artifacts, commodities, and 
+communities. As such, the problem of preservation necessitates attention to sociotechnical, 
+legal, and relational issues simultaneously (McDonough 5.) As artifacts, for example, the 
+issue of hardware and software obsolescence makes it difficult to ensure that collected games 
+can continue to be played. As commodities, games constitute intellectual property protected 
+by copyright law, though it can be difficult to determine ownership in order to acquire 
+permission; the Digital Millennium Copyright Act prohibits attempts to circumvent the anti-
+copying measures that games instituted in their original form, as well as the development of 
+emulation technology (6). How does one preserve and curate a game that is one is not legally 
+entitled to play? Legal and illegal emulations, as well as ROM hacking (editing) produce new 
+game worlds which may be close copies, distortions, parodies or completely unique works 
+that rest upon the framework of an old one. Some employ intellectual property in ways that 
+
+fall into areas of fair use, but some don’t; which such versions of any game should be 
+collected, preserved, and curated? Copying that can’t be done legally frequently proceeds 
+illegally, and not all such activities will end up in court (57). Institutional archives have to 
+step carefully when they enter the fray. 
+
+Preserving the third aspect of virtual worlds, the community part, may appear less 
+problematic. Generations of ethnographic work has demonstrated how relationally rich 
+virtual worlds can be (see for example, Taylor 2006, Boellsdorff et all 2012,  Pellicone & Ahn 
+2020). Loss is inevitable; game worlds do die –one of the sections in the Virtual Worlds 
+report is called “Virtual Worlds that Died During the Grant.” Once a virtual world is gone, 
+studies of its artifacts, commodities, and communities necessarily become forensic 
+(Kirschenbaum 2008). Eschewing the crime scene metaphor, digital artifacts can be 
+understood as objects turned up archeological sites; they need to be studied in relationship 
+to the stratum in which they were found (see Huhtamo and Parikka 2019). Context is needed 
+to understand what the lived experience of a lost world once was. I think about such tasks as 
+restorative – first of provenance and then of meaning.  
+
+I will soon be launching a restorative project related to the virtual world of the pre-internet 
+era BBS, CompuServe (CIS). CIS Gamer’s Forum was a virtual community within that 
+virtual world. In the late 1980s and early 1990s, writers and players of interactive fiction, 
+text-based and other types of games, and to a lesser extent experimental and electronic 
+literatures, all paid by the minute for the privilege of spending time together in CIS Gamer’s 
+forum. CIS did little, if any, archiving of its forums in the period before 1997 when it was 
+sold to America Online (AOL), its chief market rival, which was experienced as a bitter 
+betrayal by some of its users. The user-generated digital content of the CIS forums during 
+the BBS era, the collective memories of those communities, have been lost in time, like tears 
+in rain, one might be tempted to say. But--not completely. 
+
+In pre-internet dial-up era, users had to pay twice – first for the cost of the phone call, and 
+then in a fee to the BBS service for time spent online. It cost a significant amount of money 
+to “hang out” on CompuServe, and users found a variety of strategies to reduce the cost. 
+Chief among these was the tactic of fetching online content and reading it offline. Software 
+add-on product emerged to automate the retrieval of new mail and messages. This can be 
+understood as a kind of sociotechnical drift. The most popular of such applications was 
+“The Access Program for the CompuServe Information Service,” known as  TapCIS. 
+Written in Borland’s Turbo Pascal by Howard Banner, TapCIS allowed CIS users not only 
+to quickly download content, but also to peruse the indexes of forum libraries and the 
+transcripts of private chats and public conferences offline. TapCIS was the user-experience 
+tool of choice of CompuServe system operators (SysOps), both paid staff and volunteer 
+moderators, who received “free flags” that allowed them to spend long periods of time 
+online without cost. Surviving the takeover by AOL, TapCIS lingered, almost unbelievably 
+long, as a beloved interface until 2004. Its farewell announcement is sweet and was clearly 
+penned with tears: “We all knew, long ago, when the online world started moving away from 
+proprietary systems to the web, that our TapCIS days were numbered. Nobody then ever 
+could have dreamed that we would have lasted even as long as we have. It's been a 
+wonderful, wacky, marvelous run and we have loved every minute of it.”1 
+
+The use of apps like TapCIS and other time-saving strategies users employed to defy the 
+fiduciary realities of virtual worlds-as-commodity provided a serendipitous benefit. They 
+inadvertently produced a distributed archive of digital artifacts. They are significantly 
+endangered, stored in thousands of wet basements, in boxes of sorted and unsorted floppy 
+disks or, somewhat more securely but just as obscurely, on the backup tapes and CDs upon 
+which the contents of floppy disks were copied. If such digital artifacts can be found and 
+collected, they could restore much of the digital architecture of CIS Gamer’s Forum.  
+
+The failure of CompuServe to archive its content was not only sad for its users, but it was 
+also self-defeating in a historical sense. In his blog dedicated to the pre-internet era, The 
+Digital Antiquarian, Jimmy Maher, points out that CompuServe remains largely unrecognized 
+as the influence it was in the development of the Internet: “In histories of these things the 
+focus always goes to the early ARPANET, the invention of TCP/IP, etc. Which is important 
+— incredibly important — but a huge part of contemporary online culture can’t actually be 
+traced back to the ARPANET and early Internet. It was CompuServe that invented and/or 
+popularized real-time chat, e-commerce, online travel reservations, online newspapers, 
+online encyclopedias, much of online gaming, etc., etc. Few people seem to remember 
+that.”2 
+
+My goal in restoring CIS Gamer’s Forum is not to restore CIS to its rightful place in history 
+(I’m still mad about the AOL thing); I’m interested in preserving the digital artifacts of the 
+post-Infocom, pre-Inform 7 era of interactive faction, the period in which The Adventure 
+Game Toolkit (AGT) was at center stage. Written in Pascal by David Malmberg, AGT was 
+inspired by, and a significant revision and extension of, the Generic Adventure Game 
+System (GAGS), created by Mark J. Welch in the mid 1980s. I wrote my first interactive 
+fiction in GAGS, which was installed on a used computer that I bought in Boulder, 
+Colorado in the late 1980s, a PC’s Unlimited 386 XT (which chugged along at a blisteringly 
+fast 6 MHz, its “turbo-mode which could be turned off at need).” I used GAGS so 
+continuously that honesty compelled me to register it. I sent off the suggested fee to Welch 
+and received back a letter from Malmberg, with disks of AGT software, documentation, and 
+games. I was blown away by what I could create using these new tools.  
+
+During the early 1990s as I worked was a children’s theater director and artist-in-residence in 
+various Santa Cruz, California public schools, staging students’ original plays, and teaching 
+them to write text adventures using AGT. The development system requires no coding, so it 
+was a wonderful tool to teach the kids to write interactive stories. AGT does not require any 
+coding per se, though it teaches logical, procedural, and ontological thinking. Designers 
+create three text files which the AGT compiler processes into a game or other type of 
+interactive story. The first, a .DAT file, contains a long list of rooms, objects, and creatures 
+(including humans), indexed with a number. The location of an object at start of play, for 
+example, will reference the number of a particular room. Attributes of these game items (like 
+what room is to the north, or whether an object is edible) are also recorded in this file. The 
+second, a .MSG file, is a long list of texts, also indexed with a number, including everything 
+that might be printed to the screen in response to player action or error. The 
+correspondence between the .DAT entries and the .MSG entries was always easy for the 
+students to grasp. The description of an object contained in the .DAT file is referenced by 
+the number of the appropriate text in the .MSG file. They are essentially two linked 
+
+databases. More challenging for kids was the .CMD file, in which the initial values of all 
+variables used in the game (both number and boolean variables) are set, and additional verbs 
+(the commands that the player can use during play) are defined. The rest of the .CMD file is 
+given over to what Malmberg called “meta-commands.” These define what will happen, 
+depending on what a player types under a variety of conditions (what room the player is in, 
+what the player is carrying, the value of certain variables in various combinations, whether an 
+item is edible and so on).  
+ 
+The system is simple and intuitive, and no programming experience or perceived aptitude or 
+cultural capital or computer savvy was necessary to make interactive stories using AGT for 
+my young students. Likely for this reason, in part, during the late eighties and early nineties it 
+was the system of choice for non-programmers wanting to create parser-based interactive 
+stories. Welch held an interactive fiction competition in 1986, for games written in GAGS. 
+After his acquisition and revision of GAGS, Malmberg re-launched the competition in 1989, 
+as an AGT competition. One of my games, CosmoServe: An Adventure Game for the BBS-
+Enslaved, won the 1991 AGT contest. It was both a parody and a simulation of CIS. The 
+work’s player character is a hapless programmer named A.J. Wright (whose program written 
+in “Turborf” Pascal, (a software product created by “Orfland,” a nod to Borland’s Turbo 
+Pascal) is not compiling. This is a problem since delivery is expected the next day.  
+ 
+The scenes that take place in the R.J. Wright’s house read and play like traditional text 
+adventures. The player has to GO SOUTH, OPEN FRIDGE, PUT TV DINNER IN 
+MICROWAVE and so on. But once the player turns on the computer, the screen is taken 
+over by what looks like a DOS environment and only DOS commands are recognized by the 
+game. There are a couple of programs that (appear to) run from DOS, including a Pascal 
+compiler that crashes and throws an error message, a word processing program loosely 
+based on WordStar, and a working draft of a GAGS game being developed by the player 
+character, a game inside the game. The player will need to evade such distractions, however, 
+and log on to a simulated CompuServe BBS, called CosmoServe, via a DOS dial-up 
+program, in order to really get started with the game.  
+ 
+Once the player logs on, CosmoServe looks much as CIS did in the early 1990s, with 
+forums, libraries, message boards, live conferences. The player must download a patch for 
+the misbehaving Pascal to finish their program. This won’t be so easy, since every download 
+contains a virus, and the Orfland rep will deny that the problem is on their end. Meanwhile 
+the player’s attention wanders due to rumors of a ghost in the machine. The majority of the 
+game is played by doing the ordinary tasks of the old CompuServe virtual world –attempting 
+to download files from forum libraries without transmission errors, being spammed by 
+strangers, resisting invitations for “hot” chat and trying not to run up too high of a credit 
+card bill trying to your programming job done.  
+ 
+The illusion that players logged into CosmoServe were somehow actually online was often 
+reported to me. I used the computer speaker to simulate the classic modem noise, and I 
+incorporated the familiar system beeps. Sometimes people who registered the game would 
+tell me that when a virus attacked their simulated computer and they ran CHKDSK in the 
+simulated DOS environment and it reported file corruption, they felt heart-pounding fear 
+that my game had destroyed their actual computer. Player distress was never my intent, but I 
+am pleased, in retrospect. CosmoServe is a simulacrum, a kind of preservation, that allows its 
+
+players to glimpse a world that is gone. I’m not referring only to the online experience of 
+CIS, but the RL world of dial up modems, money worries over spending too much time 
+online, and the fear of downloading viruses, as well as the silly and stereotypical, but not 
+completely inaccurate experiences of pizza-eating, sleep-deprived programmers during the 
+era when DOS was boss and Borland ruled the programming world. I certainly never 
+anticipated what would thirty years on be the hardest puzzle in the game – how to change a 
+directory at a DOS prompt. 
+ 
+Maher has noted, regarding AGT and other early games in the post-Infocom world, that 
+have been derided as “hobbyist” games, that “to a much greater degree than the games of 
+Infocom and other commercial publishers, AGT games feel like particularly personal 
+expressions of their creators. In later years, jokes and no small amount of scoffing would be 
+attached to Everyone’s First Game, which inevitably begins in said person’s bedroom and 
+proceeds to play out in an environment interesting and meaningful to absolutely no one 
+beyond the author’s friends and family. Yet the same tendency that spawns that 
+phenomenon constitutes, I think, an important part of the text adventure’s ongoing 
+fascination.”3 The fact that the first impulse of someone being given the ability to create an 
+interactive narrative is to simulate their own lives is intriguing to me. It is true that every 
+semester a hefty percentage of my students, upon being given the power to create any 
+narrative world they can think of, do painstaking recreate their path from their own bed to 
+their bathroom.  
+ 
+I don’t think that’s what’s going on in the early AGT games, however.. Consider two 
+winners of the AGT contest. A Dudley Dilemma, which told a story about a PhD student at 
+Harvard was written by Lane Barrow, when he was a PhD student at Harvard. Son of 
+Stagefright, a story set in a community theater, was written by Mike McCauley who was well 
+acquainted with that small culture. Rather than being a sign of the narrative weakness of 
+early games, Maher sees something else in those autobiographic-esque works: “When we 
+look back today to the AGT games of decades ago, they take on an additional layer of 
+interest as historical documents in their own right of the times and places that spawned 
+them.”4 
+ 
+I agree with Maher that what is valuable about these early AGT games (and the half-written 
+beginnings of games that early AGT users also have buried in their basements) that I will 
+invite them to unearth, is that many of these early games recorded the RL context in which they 
+were writing. CosmoServe was intentionally not game-like in many ways because I was trying 
+to point out that CIS users “played it” like a game. Just as A Dudley Dilemma allows players to 
+experience Harvard in the late eighties and early nineties, and Son of Stagefright lets players 
+glimpse community theater in that era, CosmoServe allows players to experience what it felt 
+like to dial up and spend time in CIS, within a decent degree of accuracy, given the technical 
+limits of AGT.  
+
+A certain amount of trolling of AGT happened, much of it coming from partisans of its 
+competitors, centered on the limitations of the system, which was not meant to be a 
+programming language. When CosmoServe came out, a rumor went ‘round that I had 
+hacked AGT to accomplish it. It is true that I tweaked the Pascal source code and 
+recompiled it, but most of what I did was to accommodate the size of my games, which were 
+
+Infocom length. I penned a defense of AGT that ran in XYZZY, the interactive fiction rag 
+of the day, in which I attributed the perceived limitations to developer laziness. I largely 
+stand by that defense – which arises from my love of constrained art forms. Nobody hates 
+on a haiku because they only have 17 syllables. When I teach interactive narrative design, 
+constraint of various kinds is presented as an essential source of inspiration.   
+
+The year after I wrote CosmoServe I organized the seven-person team of CIS Gamer’s 
+Forum members who together wrote the AGT game, Shades of Gray: An Adventure in Black 
+and White, (SOGGY) which won the 1992 AGT competition in a special co-authored 
+category. It was a game about moral ambiguity, and I can’t say more without spoilers. I 
+mention it here because both of my games are surviving artifacts of the creative and 
+generative virtual world of the CIS Gamer’s Forum. The SOGGY team was given a free flag 
+to use when we were working on the game. This was an unprecedented privilege in the 
+forum, a decision made by some higher CIS powers, which engendered some resentment, 
+but which made the endeavor possible.   
+
+In 1993 and 1994 I served as a judge for those last two years of the AGT competition, which 
+by then had begun to accept games written in platforms other than AGT, like Text 
+Adventure Development System (TADS) written by Michael J. Roberts, which had its own 
+fiercely loyal community, and is still in active use today.  
+
+In the mid-90s, Malmberg announced that he would no longer be maintaining AGT. 
+Because it didn’t grow with the needs of its users, it was left behind by other tools which 
+were responsive to the community. I don’t blame Malmberg for this. His company Softworks, 
+which he created to support AGT was never a commercial success, and the work of 
+supporting it was largely solo and thankless. For years I felt guilty that I didn’t take 
+responsibility for AGT at that point, since I was more publicly associated with it than anyone 
+but Malmberg. But the RL world was changing around AGT. In 1995 the charismatic CEO 
+of Borland, Philippe Kahn resigned, and missteps in its choices shifted it out of the 
+spotlight, and in 1997 CIS sold itself to AOL. The RL and virtual world gestalt that 
+CosmoServe had simulated was gone.   
+
+Of course CIS Gamers Forum was far from being the only interactive narrative community 
+of the era. If my IF world was disappearing around me, others flowed together and 
+coalesced around the Interactive Fiction Competition (IFCOMP). It began in 1995, picking 
+up the torch as the AGT competition let it fall. This was the time that Inform 6, a language 
+written by Graham Nelson, began its rise. In its current incarnation as Inform 7, is the most 
+important development language in the parser-based interactive fiction world, and IFCOMP 
+is the longest running interactive narrative design competition. The competition and the 
+IFDB, an archive of interactive fiction created and maintained by TADS creator Michael 
+Roberts, are both now supported by volunteers in the non-profit Interactive Fiction 
+Technology Foundation (IFTF). 
+
+I write IF and other interactive narratives in Inform 7 now, having learned it by translating 
+CosmoServe into its natural language code. Through that process I came to understand that 
+the narrative of the game exists separately from its coded instructions. It is neither/both an 
+AGT game and an Inform game. But it remains tied to the history of AGT as a creative 
+
+agent in the BBS era, to Borland before its fall, and to the RL world from which CIS 
+Gamer’s Forum emerged.  
+
+That virtual world does still breathe or at least appears to breathe through CosmoServe. But 
+simulation is not really preservation. By calling for a gathering of the distributed memories of 
+Gamer’s Forum (including, particularly, people’s unfinished AGT games) I hope to 
+crowdsource the collecting of the digital artifacts of those entwined virtual worlds, now lost. 
+I went hunting for my TapCIS files which I knew had to be in my cache of floppy disks (that 
+I could somehow never bring myself throw away even after I no longer had a machine that 
+could access them). Such is the liminal state in which CIS Gamer’s Forum and AGT artifacts 
+everywhere exist. I discovered that I possess digital records holding the memories of my 
+conversations with people who knew me on Gamer’s Forum as Teela Brown, the luckiest 
+woman in the world. Heh. I don’t know most of their RL names either. I have found 
+transcripts of private chats and public conferences, giving testimony to our experiences as 
+readers and writers of interactive fiction, of gamers and game designers in that brief BBS era. 
+Some of what I have found speaks to the gaming and game-writing lives of women in what 
+was a conspicuously male-dominated game world. Treasures. I thought that CIS Gamer’s 
+Forum was lost when CIS failed to preserve its digital history. It turns out that it 
+miraculously survives, in bits of digital text, distributed and hidden across thousands of RL 
+basements, including my own.  
+
+ 
+
+References Cited 
+
+McDonough, J.P., Olendorf, R., Kirschenbaum, M., Kraus, K., Reside, D., Donahue, R., 
+Phelps, A., Egert, C., Lowood, H. and Rojo, S., Preserving virtual worlds final report, 2010. 
+ 
+Boellstorf ,T.,Nardi, B.,Pearce, C.,& Taylor,T.L. Ethnography and virtual worlds: A handbook of 
+method. Princeton, NJ: Princeton University Press, 2012. 
+ 
+Taylor, T.L. Play between Worlds: Exploring Online Game Culture. Cambridge, MA: MIT Press, 
+2006. 
+ 
+Kirschenbaum, Matthew. Mechanisms: New Media and the Forensic Imagination Cambridge, MA 
+and London, UK: MIT University Press, 2008. 
+ 
+Huhtamo, Erkki, and Jussi Parikka, eds. Media archaeology: Approaches, applications, and 
+implications. University of California Press, 2019. 
+ 
+
+1 "TapcisForum - CS Farewell". tapcis.com. Archived from the original on July 8, 2019. 
+Retrieved May 8th, 2020.  
+2 Maher made this comment during a lengthy interview that he conducted with me regarding 
+CosmoServe and the history of CIS Gamer’s Forum. It is recorded on his blog: 
+https://www.filfre.net/tag/cosmoserve/. For Maher’s discussion of the significance of CIS, see 
+https://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-
+magnificent-rogue/; For a discussion of AGT: https://www.filfre.net/2016/08/agt/; For a 
+
+ 
+
+discussion of CosmoServe, see The Text Adventures of 1991: https://www.filfre.net/2017/12/the-
+text-adventures-of-1991/; and for Shades of Gray (with spoilers): 
+https://www.filfre.net/2018/09/shades-of-gray/ all accessed 5/8/2021.  
+3https://www.filfre.net/tag/son-of-stagefright/, accessed 5/8/2021. 
+ 
+4 Ibid. 
+
+ 
+
+

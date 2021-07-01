@@ -7,6 +7,8 @@ from pdfminer.pdfpage import PDFPage
 from pdfminer.converter import XMLConverter, HTMLConverter, TextConverter
 from pdfminer.layout import LAParams
 import io
+import re
+from tqdm import tqdm
 
 def pdfparser(data):
 
@@ -28,14 +30,22 @@ def pdfparser(data):
 
 
 def main(inpath, outpath):
-    for filename in Path(inpath).glob("*.pdf"):
+    for filename in tqdm(Path(inpath).glob("*.pdf")):
 
         base=os.path.splitext(os.path.basename(filename))[0]
+        ID = re.search(r'#[0-9]+', base)
 
-        text = pdfparser(os.path.join(f"{filename}"))
+        # some of them do not have an ID
+        try: 
+            paperID = ID.group() + "_paper.txt"
+        
+            text = pdfparser(os.path.join(f"{filename}"))
 
-        with open(os.path.join(outpath, f"{base}.txt"), "w") as text_file:
-            text_file.write(text)
+            with open(os.path.join(outpath, paperID), "w") as text_file:
+                text_file.write(text)
+        
+        except AttributeError: 
+            pass
 
 
 if __name__ == '__main__':

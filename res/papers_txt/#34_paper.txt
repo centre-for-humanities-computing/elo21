@@ -1,0 +1,477 @@
+Colin Post 
+Assistant Professor in Library and Information Science 
+University of North Carolina at Greensboro 
+ELO 2021 Conference Paper 
+ 
+
+On the Platform’s Ruins: Practicing a Poetics of Obsolescence 
+
+ 
+Abstract 
+ 
+Visual artists, writers, and other cultural producers have long leveraged networked 
+technologies to establish platforms that circulate cultural products in participatory contexts 
+intentionally distinct from cultural institutions. As technologies change over time—including 
+deprecated plug-ins and linkrot—these platforms fall into various states of decay. In this 
+paper, I examine an example of a platform, the Net Art Latino Database (2000-2005), an 
+effort to document net-based artworks vulnerable to obsolescence that stands as a precarious 
+monument to an earlier era of digital culture. The Database was initiated by the Uruguayan 
+artist Brian Mackern to compile examples of net art activity by Latinx artists, working at the 
+periphery of English-language dominant net art communities. 
+ 
+The Database functions as an art platform in the sense offered by Olga Goriunova: a dynamic 
+configuration of people and technologies amplifying new kinds of creative activities that push 
+beyond the boundaries of existing categories of cultural production. The lines between 
+categories like ‘net art’ and ‘electronic literature’ are often blurry, as artists and writers deploy 
+the same technologies and pursue similar aesthetic strategies to circulate digital cultural 
+production online. Coded by hand in HTML, Mackern’s work exemplifies the scribal 
+practices that were the foundation of early Web culture. The text-based work consists entirely 
+of descriptions of other artworks and links to other projects, which can now be read as a work 
+of ekphrastic hypertext, evoking multimedia artworks that no longer readily circulate 
+online—and may no longer materially exist beyond this description.  
+ 
+A deeper understanding of Mackern’s artistic and curatorial practices can help to shape 
+professional perspectives on the preservation of net art, electronic literature, and digital 
+cultural production more generally. Unlike a traditional cultural heritage institution, the 
+diverse artworks included in the database are documented as part of a living, interconnected 
+media ecology. Rather than adaptively preserving individual works through migration to new 
+technological environments, Mackern’s Database enacts a poetics of obsolescence, carefully 
+stewarding works on a platform built with the recognition of its own fragility. 
+ 
+Platforms are built crumbling 
+ 
+
+Visual artists, writers, and other cultural producers have long leveraged networked 
+technologies to establish platforms that circulate cultural products in participatory contexts 
+intentionally distinct from cultural institutions. In part, these platforms promise cultural 
+producers the potential to distribute works broadly and on their own terms, beyond the reach 
+of a museum and beyond the purview of a publisher. For instance, Carl Loeffler frames the 
+Art Com Electronic Network, a pre-Web example of an “electronic gathering place” for 
+artists to share digital art projects, as “an alternative to exclusivity in the arts, by inviting 
+collaboration among individuals from all walks of life” (321). But along with the promises of 
+working at the periphery come the risks of exclusion and obscurity. These conditions have 
+long been the norm for cultural producers engaged with digital technologies, with work 
+
+ 
+
+1 
+
+This tide is perhaps finally shifting, or rather has been unavoidably and 
+
+featured in specialized ‘new media’ spheres largely ignored by mainstream art worlds. 
+Writing in 2012, Claire Bishop describes this paradoxical situation, in which digital and 
+networked technologies have radically reshaped social and cultural life in countless ways, 
+and yet artworks thematizing these issues remain on the outskirts (436). 
+ 
+apocalyptically overcome by the tsunami of the Covid-19 pandemic that has forced all sectors 
+of society to confront the realities of the immanently networked world. As arts institutions 
+scramble to contrive their own online arts platforms that maintain a virtual veneer of prestige, 
+Artie Vierkant reminds us that there is a long history of artist-driven platforms to inform a 
+radical refashioning of the art world. Here, though, is another risk of working at the 
+periphery: obsolescence. As hyperlinks rot and plug-ins deprecate, the history of artist-driven 
+platforms resides in memories and screenshots. Verena Kuni notes that while arts institutions 
+have (occasionally) paid attention to ‘new media’ art, they have largely not paid the ongoing 
+costs needed to maintain this body of artistic heritage over the long-term: “that many early 
+works were not documented in time with the available art-historical tools turns out to be an 
+existential problem, primarily for an art history that aspires to be worthy of its name” (194-5). 
+The archives of digital culture are inherently lossy. 
+
+Artists have learned not to rely on these institutions for the preservation of their 
+
+cultural memory, lessons gleaned from working on the periphery. Annet Dekker considers 
+how “networks of care,” formed by audiences, other artists, and small organizations, can be 
+crucial for stewarding works over time (89). However, these cooperative efforts require 
+resources—time, technical expertise, labor, and money—to work against the fast onset of 
+obsolescence. Artists exploring novel creative possibilities of the latest digital technologies 
+are often quickly forced onto the ‘upgrade path.’ Terry Harpold discusses the many 
+challenges of accessing older works of electronic literature from a scholar’s perspective (4-7), 
+and artists and cultural producers negotiate similar challenges as they struggle to preserve 
+personal digital archives documenting their careers. For online art platforms, which function 
+only through the careful coordination of technological dependencies, the infrastructure is 
+crumbling from the start. 
+ 
+Preservation immanent to creation 
+ 
+ 
+outside the walls of traditional institutions makes it imperative to understand how cultural 
+producers themselves approach preservation. Given the rapid rate of technological 
+obsolescence, preservation can become immanent to creation, an integral part of staging 
+platforms from the first. The Netart Latino Database (2000-2005),1 a platform created by 
+Uruguayan artist Brian Mackern to document net-based artworks by Latinx artists, provides 
+an illustrative example (see figs. 1 and 2). Over the course of a half-decade, Mackern 
+amassed numerous examples of Latin American net art and e-lit and compiled them into a 
+public-facing website. Essentially a descriptive list of these creative projects coded in 
+straightforward Hypertext Markup Language (HTML), the Database now stands as a 
+precarious monument to an earlier era of digital culture—many of the links to these projects 
+have since rotted, though Mackern’s curation-as-creative practice has left a record of these 
+defunct artworks. 
+
+The significance of online art platforms in the creation and curation of digital culture 
+
+In an artist’s book and accompanying collection of essays, curator Nilo Casares 
+
+narrates a tour of the Database guided by Mackern. Browsing in 2009, just four years after 
+Mackern stopped actively updating the Database, the pair encounter many dead-ends: 404 
+
+ 
+1 http://netart.org.uy/latino/index.html 
+
+ 
+
+2 
+
+error messages or projects that no longer function on current browsers. For instance, 
+Influenza’s Skin (2002) by Rafael Marchetti required a deprecated Quicktime plug-in and did 
+not work in 2009; today, the server hosting the work is no longer located at the URL listed in 
+the Database. This particular work has left other traces on the Web—a catalog record in the 
+runme.org software art registry,2 a blurb and blurry screenshot from an online exhibition 
+featuring the work3—but all point back to the same aimless link. Putting these pieces 
+together, we can arrive at an effaced ekphrasis: an experience of “contaminacón 
+communicativa,” an entropic system that causes layers of noisy interference to seep across 
+application windows, a browser virus that impedes the expected ‘user experience’ but instead 
+prompts altered reading practices.4 Perhaps fitting for a work that enacts a breakdown of the 
+browser interface as a kind of contamination, the virus has been thoroughly contained within 
+obsolesced technologies. 
+
+The current state of Influenza’s Skin exemplifies that of many of the other projects 
+
+included in the Database. Some URLs still successfully resolve, leading to functioning 
+artworks. In Sanctu (1999) by Brazilian artist Celso Reeks, a project that does continue to 
+work on current web browsers, viewers navigate through polychromatic collages made from 
+clip art saints in order to arrive at a disquieting error message: “Url ‘god’ not found on 
+server.”5 For the more mundane broken links, Mackern’s descriptive notes provide evocative 
+if woefully incomplete information for net-based artworks often left unmentioned in art 
+historical studies and museum exhibitions of this crucial period of web culture. 
+
+If net-based art has circulated on the periphery of the mainstream art world, Latinx net 
+
+art has been even further marginalized. Mackern describes this broad exclusion as a major 
+impetus of the project, as a response to the “very obvious northern-centralist slant” to the 
+academic and institutional discourse emerging around net-based in the late 90s (142). The 
+same handful of North American and European artists feature in conversations sustained 
+through North American and European art communities and organizations. Prompted by 
+Mackern’s documentation of Influenza’s Skin, I can place this work with other “artist’s 
+browsers,” like The Web Stalker by the British collective I/O/D, that have been more 
+thoroughly discussed in major studies of digital art (Paul, 117-120). Similar to these browser 
+artworks, Influenza’s Skin intervenes at the level of the interface, interrupting familiar 
+paradigms of interaction and pushing viewers to grapple with alternative metaphors for 
+networked information beyond the electronic page. Although the body of the artwork is no 
+longer accessible, the Database holds this shadow of metaphor, an “image of potentiality” 
+that, as Belinda Barnet argues, can inform our understanding of technology in the present and 
+future (5). 
+
+ 
+
+ 
+
+2 http://runme.org/project/+influenzaskin/  
+3 http://netescopio.meiac.es/muestras/intrusiones-e/04.htm  
+4 This description is stitched together from the cited sources, and the quoted “contaminacón communicativa,” or 
+communicative contamination, is taken directly from Mackern’s entry for the work on the Database. 
+5 https://distopia.com/sanctu/index.html  
+
+ 
+
+3 
+
+Figure 1 Brian Mackern. netart latino database, 2000-2005. Website. Available from: 
+http://netart.org.uy/latino/index.html (accessed April 21, 2021). Used with permission of the 
+artist. 
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+Figure 2 Brian Mackern. netart latino database, 2000-2005. Website. Available from: 
+http://netart.org.uy/latino/index.html (accessed April 21, 2021). Used with permission of the 
+artist. 
+
+In addition to creating a record of net-based artworks that have not been thoroughly 
+
+documented or discussed otherwise, Mackern’s Database importantly places these works in a 
+broader geopolitical and cultural context of Latin America. Mackern signals this intent to 
+represent a distinctly Latinx web culture both in the name of the project as well as the 
+organizational principle of grouping artworks together by country of origin. As Lila Pagola 
+observes, Mackern’s ASCII rendition of Joaquín Torres García’s inverted map of America 
+(1943) serves as an immediate visual indication of the driving motivation to center Latinx 
+artists (see fig. 1) (36). Viewers begin their journey through the Database with a map on 
+which country-code top-level domains name the nation-states. Clicking on the URL .AR, for 
+example, takes the viewer to the list of artworks by Argentinian artists. The viewer sees 
+Influenza’s Skin, for instance, placed among other Argentinian net-based artworks, and from 
+Mackern’s ‘travel notes,’ the viewer learns that Marchetti was actually living in Brazil at the 
+
+ 
+
+5 
+
+time of making the work. These contextual details, while scant, build out the shadow of 
+metaphor, adding depth—in short, a history—and offering details that current viewers can 
+pursue in their media archaeological excavation of this net-based artwork. 
+
+Still, Pagola questions what it means for net art of any kind to be ‘from’ a place. The 
+global promise of the World Wide Web is in its name, and this goal of the Web is an aim of 
+networked technologies more generally: to circulate information broadly rather than situate it 
+specifically. In her study of locality in Latin American net art, Claire Taylor points out that 
+networked technologies may challenge and transform our understandings of geography and 
+place, but “this does not mean that place is erased altogether” (4). Taylor argues that offline 
+places feature prominently in Latin American digital culture in particular, with Latinx net 
+artists often taking up digital technologies to tactically counter dominant representations of 
+contested spaces using the very tools deployed by imperial and capitalist forces (11-12). 
+While not explicitly political in its intent, the Database does undertake this kind of 
+reterritorialization, mapping the social relationships of a network of artists with shared 
+geopolitical affinities on top of a network of webpages and servers (Mackern and Baigorri 
+80). Just as many of the webpages have moved to new URLs or ceased to exist altogether, the 
+Database is a map of these social relations at a particular time, although the contours of the 
+networked terrain may have since changed beyond recognition. 
+ 
+Platform of scribal practices 
+ 
+ 
+As well as a map, we can also think about Mackern’s Database as a platform. In the 
+popular lexicon, this term brings to mind social media services like Twitter and Instagram: 
+online spaces that provide users with tools for creating and sharing content. Ian Bogost and 
+Nick Montfort, leading scholars in platform studies, adopt a broader view of computational 
+platforms as systems that provide bases for creativity and cultural production. The Database 
+does not fit especially well with either of these definitions, as it is an effort of a single creator 
+and was not built for a particular piece of hardware or software; but I would argue that we 
+can understand this artwork as a platform in that it brings together diverse strains of cultural 
+production into a shared space, generating new resonances across the works the process. In a 
+word, Mackern’s curation constitutes this as a platform. 
+
+This emphasis on curation is also found in Olga Goriunova’s description of online art 
+platforms as “experiments in the aesthetics of organization” (9). For Goriunova, art platforms 
+are not necessarily defined by any specific piece of hardware or software (though they can 
+take these forms), but rather by an organizational aesthetics that emerges from living, 
+fluctuating assemblages of human and machine elements, all working together to amplify 
+creative efforts to point of “brilliance” (20). More than a definition, Goriunova provides a 
+theoretical framework for understanding platforms as participating in processes of cultural 
+production. As with the Database, examples that Goriunova uses to illustrate her theory, like 
+the runme.org software repository,6 cull together and classify digital cultural products that 
+skirt traditional fine arts genres and occupy the margins (if recognized at all) of mainstream 
+art worlds. Devising such an organizational scheme is itself creative, and this scheme, in turn, 
+helps to shape the aesthetic experience of the constituent works. Describing the Database as 
+an art platform serves to highlight the curatorial effort driving the project, which is to 
+legitimize Latinx digital culture by preserving it from precarity. 
+
+The Database reflects an attention to the fragility of digital technology that is 
+apparent across Mackern’s body of work. For instance, in a contemporaneous work La 
+Máquina Podrida (The Rotten Machine) (1999-2004), Mackern preserves his aging laptop 
+
+6 http://runme.org/  
+
+ 
+
+ 
+
+6 
+
+In part, the ‘low-tech’ aesthetic of a hand-coded HTML page reflects disparities in 
+
+containing a vast archives of his own digital output interleaved with numerous files from 
+projects by artistic friends and collaborators.7 The Database is outward-facing corollary to La 
+Máquina, curating a public rather than private directory of digital artworks, though both 
+foreground the extensive labor required to maintain creative work in digital formats against 
+technological obsolescence. A visitor to the Database need pause for only a moment to 
+recognize the scope of this work as they browse entry after entry in a long-scrolling list of 
+Latinx net art projects that Mackern has personally encountered on the Web and then 
+documented, with details of each artwork encoded with care in HTML. 
+ 
+technological access between the Global North and South, which Mackern himself describes 
+as encouraging a “craftsman-like way of handling things to find the best possible solution 
+with the resources at hand” (Mackern and Baigorri 76). A simple HTML page of text and 
+links would have loaded quickly and cheaply in Latin American Internet Cafes or on low-
+bandwidth home connections. But this “manual personalization” of “prehistoric resource 
+spaces” evident in the Database evokes an earlier era of web culture more broadly (Mackern 
+159), recalling the late 90s homepages and other experiments in HTML that net artist Olia 
+Lialina describes as a “vernacular web.” Like a scribe constructing a manuscript page, these 
+early web users crafted their sites from a hard-won, intimate knowledge of technologies of 
+production. Both in its own making and in the projects documented, the Database is a 
+platform of scribal practices. 
+ 
+approach to curating the Database has also helped the platform to withstand 20 years of 
+technological obsolescence. As discussed above, many of the featured artworks projects have 
+succumbed to this erosive force even as the overall platform persists in essentially the same 
+form on current browsers as it would have appeared on Netscape Navigator. For instance, a 
+version of the Database rendered in a Netscape Navigator 4 emulator betrays no significant 
+differences in structure, user interaction, or content (see fig. 3).8 As the platform is 
+fundamentally a descriptive list, its contents can be readily un-digitized as well, translated 
+into a more stable paper format. Mackern collaborated with the Museo Extremeño e 
+Iberoamericano de Arte Contemporáneo in Badajoz, Spain to produce such an artist’s book 
+documenting the project. 
+ 
+
+Perhaps adopted out of necessity, as the best use of the tools at hand, this ‘low-tech’ 
+
+ 
+
+7 http://podrida.netart.org.uy/. This laptop has been collected by the Museo Extremeño e Iberoamericano de Arte 
+Contemporáneo in Badajoz, Spain, which also maintains a mirror of the Database. 
+8 I used oldweb.today for this emulation. OldWeb.Today is part of a suite of free and open-source web archiving 
+tools made available by Webrecorder. OldWeb.Today emulates a range of classic web browsers directly inside a 
+current browser environment. 
+
+ 
+
+7 
+
+Figure 3 Screenshot of the Database on a Netscape Navigator 4 emulator. 
+
+ 
+
+I have consulted a re-digitized PDF copy of this book, and I have cited the 
+
+accompanying essays frequently throughout the present paper, though this has been an 
+imperfect experience of the analog object. Josephine Bosma notes from her interactions with 
+a physical copy how a dot-matrix print-out of the Database spills out as a manifest scroll 
+from the cardboard binding of the book (121). An interested viewer could perform their own 
+printing at home: the entirety of the Database fills 42 8½x11-inch pages. These paper 
+versions convey distinct and valuable experiences of the artwork, but they do put the 
+Database at an even further remove from the network of artists the platform serves to 
+document. Attempting to tap a link on a print-out will not even get as far as a 404 error, I 
+must sadly report. These retrograde preservation approaches are illustrations of the platform’s 
+resilience, though not (as of yet) necessary to maintain immediate access to the project, which 
+can still be visited at its original URL by essentially any Internet-connected device anywhere 
+in the world. 
+ 
+To study disrepair 
+ 
+
+The scribal practices fundamental to the platform’s construction make possible this 
+versatile translation across print and digital media. Though Mackern’s Database has often 
+been discussed in terms of the visual arts, the writerly activities driving the platform—
+ekphrastic description, history, elegy—suggest connections between net art and e-lit of the 
+early Web era that have not been thoroughly explored. The Database can itself be read now 
+as a work of hypertext, a parable of the Garden of Dead-Ends. A critical concern shared by 
+both net art and web-based e-lit is that it all faces serious threats to preservation, dependent as 
+it is on a dynamic Internet infrastructure that becomes increasingly alien to the networked 
+ecosystem of this earlier era with each passing year. For much of this era of web culture, we 
+confront what Stuart Moulthrop and Dene Grigar call the “Sappho Syndrome,” grasping 
+toward more holistic experiences of past works through fragments and secondary references 
+(230). 
+
+ 
+
+8 
+
+This “Sappho Syndrome” is not just a future threat—nor is it even an especially novel 
+
+condition afflicting web culture—as we can see Mackern himself was battling against this 
+loss of Latinx net art even while he was constructing the Database some twenty years ago. 
+That the platform persists today even as many of the featured works have decayed speaks to 
+the immense effort Mackern exerted in its curation and construction. In fact, the amount of 
+(volunteered and unremunerated) labor required to update and maintain the Database became 
+untenable and contributed to Mackern’s decision to abandon the project (Mackern and 
+Baigoirri 80). Scholars and professional memory workers concerned with digital culture are 
+well served to study disrepair, first understanding how artists often undertake difficult 
+preservation labor to maintain artworks in varying states of dilapidation as part of the creative 
+process. 
+
+The Database embodies such a poetics of obsolescence as Mackern weaves already-
+
+deteriorating technologies into the foundation of the platform. Though the work falls apart, it 
+was built crumbling. Despite its digital nature, the Database does not adhere to the particular 
+binary logic of inactive/active. Instead, it crumbles to pieces over time, without any single 
+technological shift precipitating utter collapse. Though I am not advocating that, in all cases, 
+we should simply step back and appreciate the ruins, this poetics of obsolescence can inform 
+preservation approaches more generally. Given that online art platforms like the Database 
+exist in networked ecologies that cut across or totally outside traditional cultural heritage 
+institutions, professional memory workers will need to adapt conservation strategies that 
+resemble the constructive curation practices employed by artists like Mackern. The Netart 
+Latino Database is a handbook for just this purpose.  
+ 
+Works Cited 
+ 
+Barnet, Belinda. Memory Machines: The Evolution of Hypertext. Anthem Press, 2013. 
+ 
+Bishop, Claire. “Digital Divide.” Artforum, vol. 51, no. 1, Sept. 2012, pp. 435–41. 
+ 
+Bogost, Ian, and Nick Montfort. “Platform Studies: Frequently Questioned Answers.” Digital  
+
+Arts and Culture, 2009. 
+
+ 
+Bosma, Josephine. Nettitudes: Let’s Talk Net Art. NAi Publishers, 2011. 
+ 
+Casares, Nilo “el siete de enero de dos mil nueve.” Netart Latino Database, edited by Nilo  
+Casares, Museo Extremeño e Iberoamericano de Arte Contemporáneo, 2010, pp. 15-
+66. 
+
+ 
+Dekker, Annet. Collecting and Conserving Net Art: Moving beyond Conventional Methods.  
+
+Taylor and Francis, 2018. 
+
+ 
+Goriunova, Olga. Art Platforms and Cultural Production on the Internet. Routledge, 2012. 
+ 
+Harpold, Terry. Ex-Foliations: Reading Machines and the Upgrade Path. University of  
+
+Minnesota Press, 2009. 
+
+ 
+Kuni, Verena. “Why I Never Became a Net Art Historian.” Net Pioneers 1.0: Contextualizing  
+Early Net-based Art, edited by Dieter Daniels and Gunther Reisinger, Sternberg Press, 
+2010, pp. 181-197. 
+
+ 
+
+ 
+
+9 
+
+Lialina, Olia. A Vernacular Web. Indigenous and Barbarians. 2005,  
+
+http://art.teleportacia.org/observation/vernacular/. 
+
+ 
+Loeffler, Carl. “The Art Com Electronic Network.” Leonardo, vol. 21, no. 3, June 1988, pp.  
+
+320–21. 
+
+ 
+Mackern, Brian “Netart Latino ‘Database.’” Netart Latino Database, edited by Nilo Casares,  
+
+Museo Extremeño e Iberoamericano de Arte Contemporáneo, 2010, pp. 141-161. 
+
+ 
+Mackern, Brian and Laura Baigorri “netart latino database: El Mapeo Emocional de la Red.”  
+Netart Latino Database, edited by Nilo Casares, Museo Extremeño e Iberoamericano  
+de Arte Contemporáneo, 2010, pp. 69-83. 
+
+ 
+Moulthrop, Stuart, and Dene Grigar. Traversals: The Use of Preservation for Early Electronic  
+
+Writing. MIT Press, 2017. 
+
+ 
+Pagola, Lila. “netart latino database: El Mapa Invertido del net.art latinoamericano.” Netart  
+Latino Database, edited by Nilo Casares, Museo Extremeño e Iberoamericano de Arte 
+Contemporáneo, 2010, pp. 33-65. 
+
+ 
+Paul, Christiane. Digital Art. Third edition., Thames and Hudson, 2015. 
+ 
+Taylor, Claire. Place and Politics in Latin American Digital Culture: Location and Latin  
+
+American Net Art. Routledge, 2014.  
+
+ 
+Vierkant, Artie. “Flatten the Cube: Post-Internet Art’s Lessons for Our Current Crisis and  
+
+What Comes After.” Art in America, Apr. 2020. https://www.artnews.com/art-in-
+america/features/flatten-the-cube-post-internet-arts-lessons-for-our-current-crisis-and-
+what-comes-after-1202685356/. 
+
+ 
+ 
+
+ 
+
+10 
+
+

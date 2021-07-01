@@ -1,0 +1,1066 @@
+Roy 1
+
+Writing the Self-e: Making a case for Intentionality, Emancipation and Gender in Indian
+
+Electronic Literature.
+
+And
+
+Indian Electronic Writing and its Modernist anxiety with Print
+
+Samya Brata Roy
+
+Student
+
+Department of English Literature, The English and Foreign Languages University, Hyderabad
+
+Author Note
+
+Samya Brata Roy is currently in the 4th Semester of his M.A in English Literature from The
+English and Foreign Languages University, Hyderabad.
+
+I have no conflicts of interest to disclose. I am indebted to all my respondents and mentors. In
+Spite of one big paper, my entry is divided into two short papers because it is a work in progress
+written initially as two separate papers and will be featured as chapters in my MA dissertation.
+
+Correspondence concerning this articles should be addressed to samyabrataroy@gmail.com
+
+Roy 2
+
+Writing the Self-e: Making a case for Intentionality, Emancipation and Gender in Indian
+
+Electronic Literature.
+
+Online Narratives or Electronic Literature, in this context, has been used interchangeably
+
+because historically, the point of difference between the later and the former is connected to the
+
+creative production that took place before the advent of the Internet (Hayles 2007). But, in the
+
+context of my research, I am concerned primarily with the production in the age of the internet
+
+and the public sphere that it has brought forth. So, what is this thing called Electronic Literature
+
+or E-Lit? For me, the definition is very simple. Electronic or Online Literature is something that
+
+uses the electronic or the online mode for producing narratives. The definition however can be
+
+interrogated in different cultural contexts as all things are. If one looks at the ELO collections,
+
+there is an overbearing presence of computational aesthetics (Heckman & O’Sullivan, 2018), and
+
+not
+
+to mention a distinct
+
+lack of
+
+Indian presence (Shanmugapriya & Menon, 2019).
+
+Computational aesthetics can mean varied things from inserting an image to using VR to convey
+
+something. What
+
+I mean here is the abundant use of code and other software-based
+
+enhancements which help in making it more immersive in nature. Is that the case everywhere?
+
+Can this centrality of computational aesthetics be assumed across all spaces? I do not think so.
+
+On coming across the ELO collection, the first thing that struck me was how fundamentally
+
+different things were in India. From what I have experienced in India, I do not see that much of a
+
+use of computer-generated aesthetics and therefore, it can arguably be said that it resembles print
+
+in some shape or form. The Internet is known to be a great democratizer, but the recent reality
+
+has shown that it is not really the case (Beniwal 2020). If people do not have paper, how will
+
+they write stories in it? Similarly, if people do not have a constant flow of the internet, how will
+
+they create there? It is important to note that my relationship with Electronic Literature or Online
+
+Roy 3
+Narratives is not a new one and is not limited to theoretical postulations. It goes way back to
+
+2015, when I was in school and decided to open a blog of my own. One of the major driving
+
+forces behind this act was me being denied the opportunity to publish in print. A deep sense of
+
+angst took over and my younger self wanted an outlet where I could share my works with people
+
+without being at the mercy of anyone else. It is also to be noted that writing for many is private
+
+activity but for me it was, and still is, not the case. I write to be read; it is a public activity since
+
+the first day.
+
+Now that I have given the context of the question at hand, let me arrive at the question itself.
+
+Until I had the idea about the discourse surrounding E-Lit, I treated it as a hobby. But, when I
+
+came to know, I had other questions in my mind which needed answers. I knew why I wrote and
+
+what my motivation for writing was. Now, I wanted to discover why do others write? When
+
+people write online, do they write just because they want to? or, is there something more to it? I
+
+wanted to go to the roots of it and uncover this question of intentionality. Since I cannot possibly
+
+investigate every single demographic aspect in a single paper, I had to limit my search to two
+
+areas: a) gender identity b) writing in English. The latter is an important consideration because,
+
+to feature the multilingual ethos of the country, it would require much greater range and support.
+
+It cannot be undertaken in this paper and thus this concerns itself only with the online writings in
+
+English. So, the central question becomes something like this: do people who identify as ‘Male’,
+
+‘Female’ etc. differ in their intentionality of writing in the online space or is it similar?  Is my
+
+drive of being denied in print and thus wanting to ‘share’- a ‘universal’ driving factor? Or is
+
+directly connected to the gendered lived experience?
+
+Methodology
+
+Roy 4
+
+To go about my search, I launched a survey on the 15th of March and accepted responses
+
+till the 15th next month. The question in focus, in relation to this paper, were two: ‘How would
+
+you describe your gender and/or sexuality?’ and ‘Why did you start telling stories/sharing
+
+creative work online?’. Purposefully, I left the questions open ended so that the respondents
+
+could be free while answering it, knowing that analysing the data might be difficult and it was so
+
+indeed. My sampling method was that of snowball sampling where I had to repeatedly amplify
+
+the survey along my personal contacts as well as in the public spaces. After collecting the data,
+
+the immediate thing to do was to clean the same. I had a total of 80 valid responses and had to
+
+further divide my question on gender/sexuality in three more sub-columns to help quantify the
+
+data at hand. The categorization, for the clarity of analysis, in the sub-column called Gender was
+
+broadly based on people who explicitly identified themselves as ‘Male’ (two respondents who
+
+identified as Male declared that one of them were not sure about it, the other had non-binary
+
+leanings and one clearly declared being ‘Cis-Male’), ‘Female’ (one respondent had identified as
+
+‘Womxn’ and another declared being ‘Cis-Female’ which has been included here for the sake of
+
+clarity-for which this disclaimer becomes crucial), and Other (people who did not explicitly
+
+identify with anything, were not sure, or identified as ‘Cis-Gender’). With the categorisation in
+
+the place, the data (within a total of 80 valid responses) came to be as follows: 56 were Female,
+
+18 were Male and 6 belonged to the Other spectrum. It is also important to be noted that while
+
+many Female respondents declared being heterosexual, bisexual, queer etc., most of the Male
+
+respondents were only heterosexual in nature apart from the handful mentioned of course. The
+
+data regarding Sexuality, which has been obtained is not enough to carry out further analysis and
+
+Roy 5
+
+demands separate attention. That is why I would like to stick to the question of Gender identity
+
+for the time being. This survey does not claim to make sweeping remarks regarding the nature of
+
+online writing in the country simply because the sample size is too small to say something like
+
+that. To even get close to saying something like that, the sample size must be exponentially more
+
+which requires a bigger research project, better collaborations and funding and is well beyond
+
+the scope of a solo paper. The data about Gender was one strand which I intend to highlight, but
+
+it cannot be read in isolation. The next strand is that of understanding the intentionality behind
+
+writing online and to see if it is related to the Gendered lived experience. As mentioned earlier,
+
+my question was ‘Why did you start telling stories/sharing creative work online?’. Once again,
+
+this was also an open-ended question as I wanted my respondents to answer freely without any
+
+constrains. So, one can say that the survey was more like a text-based interview of sorts. From
+
+the 80 valid responses, which were all in sentence and/or paragraph formats, I had to then lump
+
+and split the data (Saldana 2013) according to the prevalence of themes in the responses. Once I
+
+had quantified the responses in terms of the dominant themes present in them, then it became
+
+easier for me to carry out the data analysis in this regard. It is to be mentioned that this analysis
+
+was done in a different way as compared to the last question on Gender. I did not treat one
+
+response as a singular entity but split them in sub parts as the themes were found in them. For
+
+example, if one response talked about how they wrote because they needed to share and it made
+
+them good, I split the response up into two units: ‘share’ and ‘feel good’. Like this I found many
+
+sub-units and tried to see how many of these sub-units were present in the Male, Female and
+
+Other responses which might throw some light on the intentionality behind their acts of writing.
+
+While studying and keeping track of the sub-units present in these responses, I had also
+
+Roy 6
+maintained a track of which response (and the corresponding subunit) belonged to which Gender
+
+category.
+
+Analysis
+
+First, let’s look at the responses which explicitly identified as ‘Male’. Within the total 16
+
+Male responses that I studied; I found a constancy of responses without much variation. The
+
+sub-units which related to the aspects of sharing, creating a community feeling, pursuing a
+
+hobby, and just feeling good in general occupied a massive 87.5% of the responses. The rest
+
+12.5% was shared equally within the emotions of self-improvement and to tackle boredom, each
+
+having a 6.25% representation. The first thing to note here is how less the Male responses are in
+
+number in comparison to the Female responses, which covers almost 80% of the data set. If we
+
+investigate whatever data we have for the Male responses, it is evident that the main drive behind
+
+them writing is to have a sense of community and feel good about doing so.
+
+But the equation changes when we study the female responses. Similarly, here also the
+
+respondents are talking about building a community and sharing amongst each other which
+
+ultimately brings in some needed validation. This aspect of community building figures 42.62%
+
+percent of the data set as compared to the 87.5% in Males. But the other part is where things start
+
+to get interesting. The respondents talk about healing, venting and how writing online also has a
+
+therapeutic side to it. I find this cathartic functionality to be vital and it features with a good
+
+24.59%. Adding to the question of healing via venting, the most important discovery in this part
+
+comes in the aspect of freedom, oppression, inferiority complex and a desire to bring about
+
+change. Respondents speak about how the online space provides them with a much-needed space
+
+where no one will oppress them and in turn they can inspire change. Not only that, but people
+
+Roy 7
+
+also say how this space helps them overcome fear of public writing and the fear of not being
+
+good enough. This common theme of emancipation and solidarity features a good 14.86% of the
+
+dataset. It might seem insignificant as compared to other responses, but it is important to note
+
+how the act of defiance and speaking up against the gaze of the patriarchal forces can inspire a
+
+chain reaction and that is why conversations must be amplified regarding the use of this mode as
+
+a weapon for emancipation. It does not end here, the data also shows 18.03% here are using the
+
+online spaces to build an archive, or a portfolio for that matter, which might help them personally
+
+or in professional spaces. If we talk about writing the body or expressing lived experiences, we
+
+can see directly via the data how it is being done in the online space where people who identify
+
+as women or female are taking up the metaphorical pen to write their selves. The Other 6
+
+responses have too less data for commentary but 66.67% here talks about venting and feeling
+
+better like the last two while the remaining 33.34% is split equally into having fun and getting a
+
+certain amount of reach.
+
+Conclusion
+
+Studying the personal narratives thus, we can arrive at a better societal understanding
+
+regarding the online public sphere (Laslett 1999). On the more, because we are talking about
+
+online culture and writing in the online space, I think it is even more important to write about the
+
+same. Writing about writing, i.e., theorizing about the same, helps in starting a discourse or
+
+conversations regarding the same and bring it into the fold of the Humanities departments in
+
+general. It is important because the Humanities itself, in the educational curricula and otherwise
+
+does not always seem to acknowledge the online or pay much heed to the Digital method
+
+(Brennan 2017). These conversations help amplify, not only academic output, but also creative
+
+Roy 8
+output which can help promote the notion of Digital Literacy (PTI 2020). We have been taught to
+
+read and write in the online space, but we have not been given any training to traverse the
+
+internet along the same. If this is taken care of, I believe people might have greater confidence of
+
+being able to move around the Internet without unnecessary anxieties of weird pop-ups.
+
+Therefore, as the paper tries to understand the Gendered Intentionality of Online Writing, two
+
+things emerge very clearly from the data at hand. Self-identified females populate the space
+
+more, when it comes to their creative output, in the online space. In my understanding this
+
+presence has deep connections to the oppressive power politics that women face in a regular day
+
+to day basis even today where writing emerges as an act of defiance and emancipation (Foster,
+
+and Hager 2014). That is why the online space emerges as a medium bereft of the judgemental
+
+eyes. One can ask then, does that mean that we do not have censorship online? Are they preying
+
+eyes absent there? Absolutely not! A photoshoot still attracts unnecessary eyeballs and women
+
+are harassed regularly much more so online than in regular spaces. But what happens in case of
+
+art or creativity in general? My understanding in this regard is that people still view social media
+
+only through the lens of media and not the social. The attention or the look out, for most people,
+
+is what can be observed briefly without the act of reading. Whatever involves the act of the
+
+reading, especially if it is creative or textual in nature, can get overlooked. However, this will not
+
+be the norm once the country learns to traverse the internet better. I believe that there is a
+
+fundamental generational gap in accessing art in the online space. People are taking advantage of
+
+that and very rightly so. I have seen my elder generation quickly access YouTube and Facebook
+
+but struggle with platforms which also involve media. This idea matches with my data, as most
+
+of the writers present in the analysis have their platforms in blogging sites or Instagram which
+
+remains a little less accessible to the older demographic (Sehl 2021). As time passes when digital
+
+literacy does not remain an afterthought, I believe this thing will change and then it would be
+
+interesting to see how the nature of writing changes and where it moves from there on in. But, as
+
+of this moment, the materiality of space and its fortunate inaccessibility of the textual remains a
+
+determining factor for people, especially people who identify as Females to express themselves
+
+Roy 9
+
+better.
+
+References
+
+Roy 10
+
+Aarseth, E. J. (1997). Cybertext: Perspectives on Ergodic Literature (UK ed. edition). Johns
+
+Hopkins University Press.
+
+Beniwal, V. (2020). As digital divide widens, India risks losing a generation to pandemic
+
+disruption. ThePrint.
+
+https://theprint.in/india/education/as-digital-divide-widens-india-risks-losing-a-generation-t
+
+o-pandemic-disruption/568394/
+
+Bouchardon, S. (2011). Digital Literature and the Digital. Journal of Writing in Creative Practice
+
+(JWCP), 4(1), 65–78. https://doi.org/10.1386/jwcp.4.1.65_1
+
+Brennan, T. (2017, October 15). The Digital-Humanities Bust. The Chronicle of Higher
+
+Education. https://www.chronicle.com/article/the-digital-humanities-bust/
+
+Foster, T. M., & Hager, C. (2014). Review of Word by Word: Emancipation and the Act of
+
+Writing, HagerChristopher. Journal of the Civil War Era, 4(1), 124–126.
+
+Girgar, D. (2008). Electronic literature: Where is it? Electronic Book Review.
+
+https://doi.org/10.4324/9781315707860-25
+
+Hayles, N. K. (1999). How We Became Posthuman: Virtual Bodies in Cybernetics, Literature,
+
+and Informatics. University of Chicago Press.
+
+Hayles, N. K. (2004). Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis.
+
+Poetics Today, 25(1), 67–90. https://doi.org/10.1215/03335372-25-1-67
+
+Hayles, N. K. (2007). Electronic Literature: What is it? Electronic Literature Organisation.
+
+https://eliterature.org/pad/elp.html
+
+Roy 11
+
+Hayles, N. K. (2008). Electronic Literature: New Horizons for the Literary (1st edition).
+
+University of Notre Dame Press.
+
+Laslett, B. (1999). Personal Narratives as Sociology. Contemporary Sociology, 28(4), 391–401.
+
+https://doi.org/10.2307/2655287
+
+Morais, S. (2013). Archive Practice and Digital Humanities—The Centre for Internet and
+
+Society. The Centre for Internet and Society.
+
+https://cis-india.org/raw/digital-humanities/archive-practice-and-digital-humanities
+
+Mukherjee, S. (2017). “No Country for E-Lit?” – India and Electronic Literature. Hyperrhiz:
+
+New Media Cultures, 16. https://doi.org/10.20415/hyp/016.e08
+
+O’Sullivan, J. (Ed.). (2021). Electronic Literature as Digital Humanities: Contexts, Forms, &
+
+Practices. Bloomsbury Academic. https://doi.org/10.5040/9781501363474
+
+PTI. (2020). Vice President Naidu calls for mass movement to promote digital literacy—Times of
+
+India. The Times of India.
+
+https://timesofindia.indiatimes.com/home/education/news/vice-president-naidu-calls-for-ma
+
+ss-movement-to-promote-digital-literacy/articleshow/79448071.cms
+
+Rettberg, S. (2018). Electronic Literature (1st edition). Polity.
+
+Saldana, J. (2013). The Coding Manual for Qualitative Researchers. Sage.
+
+https://uk.sagepub.com/en-gb/eur/the-coding-manual-for-qualitative-researchers/book24361
+
+Roy 12
+
+6
+
+Schreibman, S., Siemens, R., & Unsworth, J. (Eds.). (2016). A New Companion to Digital
+
+Humanities (2nd ed.). Wiley Blackwell.
+
+https://www.wiley.com/en-in/A+New+Companion+to+Digital+Humanities%2C+2nd+Editi
+
+on-p-9781118680599
+
+Sehl, K. (2021, January 27). Instagram Demographics in 2021: Important User Stats for
+
+Marketers. Social Media Marketing & Management Dashboard.
+
+https://blog.hootsuite.com/instagram-demographics/
+
+Shanmugapriya, T., Menon, N., & Campbell, A. (2019). An introduction to the functioning
+
+process of embedded paratext of digital literature: Technoeikon of digital poetry. Digital
+
+Scholarship in the Humanities, 34(3), 646–660. https://doi.org/10.1093/llc/fqy064
+
+Singh, R. (2016). Based on Brevity: Fiction in 140 Characters or Less. Journal of Literature,
+
+Culture and Literary Translation, No. 1(Year 7), 1–19. https://doi.org/10.15291/sic/1.7.lc.7
+
+Shanmugapriya, T., & Menon, N. (2018). Locating New Literary Practices in Indian Digital
+
+Spaces. Matlit, 6, 159–174. https://doi.org/10.14195/2182-8830_6-1_11
+
+Shanmugapriya, T., & Menon, N. (2019). First and Second Waves of Indian Electronic
+
+Literature. Journal of Comparative Literature and Aesthetics, 42(4), 63–71.
+
+Tabbi, J. (Ed.). (2017). The Bloomsbury Handbook of Electronic Literature. Bloomsbury
+
+Roy 13
+
+Academic.
+
+https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-electronic-literature-978147
+
+4230254/
+
+Indian Electronic Writing and its Modernist anxiety with Print
+
+Roy 14
+
+INTRODUCTION
+
+If the internet is treated like a material just like paper, then how does the act of writing in
+
+these two modes differ? Even if they do, how does it differ in the Indian context? Does it bear a
+
+relationship with print? If so why? This paper tries to understand these questions by primarily
+
+using the works of Jessica Pressman, Shanmugapriya T and Nirmala Menon. The first part tries
+
+to understand how the anxiety of print or the book can be a determining factor while writing
+
+online. In the second part, I try to contextualise the discussion by rooting it in the Indian context.
+
+And in the final, I use some samples from my data to show how the act of writing is and what we
+
+can read from it. The conclusion that I arrive at is that, because the Internet, as a mode of writing
+
+is still new, the influence of the print can be seen very vividly hence the Modernist angst of the
+
+past is tangibly seen. But, as we move forward and naturalise the digital, in the Indian context,
+
+we could see more experimentations akin to our understanding of the Postmodern.
+
+THE ANXIETY OF PRINT
+
+CS Lewis, in his Preface to Paradise Lost (1942) talks in detail about Milton’s pursuit to
+
+recreate the oral tradition in a piece of paper. The greatest challenge for Milton, according to
+
+Lewis, was to give a sense of the performative of the bygone tradition while reading a piece of
+
+paper in an armchair. Here we get to see Lewis explore what I call a modal anxiety. During the
+
+ancient times, the mode of transmission used to be oral: people spoke, sang or chanted. But,
+
+when we come to the literary culture, and especially that of writing the Epic (something that used
+
+to be sung), we see people like Milton trying to recreate the same when that idea does not exist
+
+anymore. Now, when we have the digital mode alongwith the print, I believe the same anxiety
+
+comes into the picture. This anxiety can be traced in two ways: as a fetish of the commodity
+
+Roy 15
+called ‘the book’ and a constant desire to recreate the print aesthetic while writing in the digital
+
+mode. Jessica Pressman deals with these strands of thought in two of her works: Bookishness and
+
+Digital Modernism.
+
+This is what I describe as “bookishness”: creative acts that engage the physicality of the
+book within a digital culture, in modes that may be sentimental, fetishistic, radical.
+Cell-phone covers crafted to look like old books; decorative pillows printed with beloved
+book covers; earrings, rings, and necklaces made of minia-ture codices; store windows
+that use books as props; altered book sculptures exhibited in prestigious collections; and
+bookbound novels that revolve around a book as a central character. (Pressman 1)
+
+Pressman directly connects the Marxist notion of Commodity Fetishism to the idea of the Book
+
+and shows how the object has been commodified in itself. In a milieu, where the Book does not
+
+enjoy the centrality as it used to, this fetish is a desperate attempt to cling on to a bygone era.
+
+This aspect becomes crucial when we see that Insta quotations resemble the fonts made by a
+
+typewriter or the background resembles that of the page of an old book. This is the realm of
+
+resembling physically, apart from making the post have a perfect page like alignment. Also, The
+
+crucial point of digital culture is the aspect of interactivity where the content is not static and it is
+
+flowing through the media platforms and various spaces of culture. Hayles (2004) terms a unit of
+
+this cultural form as the flickering signifier where she says, extending the Lacanian notion of the
+
+floating signifier, that neither the signifier nor the signified stays static and it’s constantly
+
+flickering in and out of existence. Hence, if interactivity or fluidity is the ethos of the digital
+
+space then it places itself in the counterposition of the print culture which is static in nature i.e it
+
+does not move after it has been printed. In the internet or the digital space, the artefacts might not
+
+remain the same: links might die, advertisements might pop up, the interface might change and
+
+the entire tech can go obsolete (Fitzpatrick 2011). Hence, if meaning making is relied upon by
+
+this many factors, then it cannot remain static at all, it will visually change at every reading.
+
+Roy 16
+Once again, like the schism between orality and print, the same can be observed in the case of
+
+print and the digital. Therefore, when people create in the digital space, this modal anxiety can
+
+be traced just like Lewis did in the case of Milton. In the Modernist condition as well, we find an
+
+attachment towards the past and a lamentation to what society has come down to. The work of
+
+Eliot, Pound and Owen, albeit in a more specific context, bears reflection of the same. One can
+
+ruminate that the modernist is someone in the present with their heads turned towards the past.
+
+Therefore...
+
+What’s true of modernism more generally is true of digital modernism as well: it is “a
+strategy of innovation that intentionally employs the media of its time to reform and
+refashion older literary practices in ways that produce new art.” Just as Joyce returned to
+Homer,
+about an
+eighteenth-century B.C.E.  (Wollaeger, Dettmar and Pressman xi)
+
+and Pound borrowed “make
+
+it new”
+
+from an anecdote
+
+Thus when we see the print traces in digital writing now, it can be said that it uses the bedrock of
+
+tradition to create something new. Yes, a new mode comes with the tantalizing possibility of
+
+making something new or totally re-inventing everything that comes along with it. But, as
+
+Pressman argues, digital or electronic literature (used interchangeably here) does not just scratch
+
+everything out and start afresh but it uses the old and mixes to form a hybrid which might pave
+
+the way for a new artefact altogether. Hence, we can see this as a precursor to Digital
+
+Postmodernism. One can attribute the digital very simply to the Postmodern condition just
+
+because it
+
+is digital, but,
+
+if we look at
+
+the cultural dialectic of anxiety and then slowly
+
+progressing to acceptance,
+
+then we can take the phase we are in as the phase of Digital
+
+Modernism. If now, people are only typing texts on the web without using a lot of media, that
+
+means the effect of the print is very visible though it is in a different modal context. In Spite of
+
+writing in the digital mode, the authors are looking back at print.This is decidedly the Modern
+
+anxiety. I believe, with naturalising of the digital, we will finally be able to embrace the mode in
+
+Roy 17
+all its glory and then we can say to be in the realm of the Postmodern. Electronic Literature or
+
+E-Lit, by definition,
+
+is born-digital and its aesthetics depends on computational elements.
+
+Pressman sums the above by stating that
+
+Electronic literature has been celebrated as a postmodern literary form that grows out of
+technologies, subjectivities, and poetics from the middle of the twentieth century, but this
+book provides an alternative genealogy. Across diverse genres and programming
+platforms, I examine a subset of contemporary online electronic literature that remixes
+literary modernism … Writers involved in digital modernism assess the state of electronic
+literature, and of literature in general in our digital age, and they decide to raze and
+rebuild. (Pressman 2)
+
+The first generation of E-Lit according to K Hayles was primarily hypertextual narratives with
+
+multiple, often non-linear, reading paths. However, these texts can definitely have non electronic
+
+predecessors as
+
+Vladimir Nabokov’s Pale Fire, David Foster Wallace’s Infinite Jest, Julio Cortazar’s
+Hopscotch, and the Choose Your Own Adventure young adult book series, all of which
+use footnotes or other textual devices to connect chunks of text and enable navigation of
+the narrative as a network rather than a linear path. (Pressman 6)
+
+Apart from these examples, as we are talking about Modernism, one can also look at Eliot’s The
+
+Wasteland also as a hypertext poem which keeps referring to other works or concepts and
+
+depends on them severely for the meaning making to take place. Curiously enough, such work
+
+has actually taken place where projects have been dedicated to creating online variorum editions.
+
+One of the most important uses of hypertextuality can be seen in Richard A Parker’s Exploring
+
+“The Waste Land” as there is a website dedicated to the poem which traces all the references as
+
+concepts sprinkled through the poem as hypertexts. Whenever there is a reference, that area is
+
+embedded with a URL which either pops up or takes the reader to the dedicated area to provide
+
+the much needed context. Not only should one read the digital artefact with equal attention, but
+
+Roy 18
+the readers also must take into account the question of materiality or materialities in the context
+
+of the digital. That is to say that the online mode is a collection of platforms or materials which
+
+one can use for their creative output, i.e to say that an Instagram is not the same as Wordpress.
+
+The digital makes the text nebulous and it becomes difficult to recognise where it begins or ends;
+
+it has no clear demarcation like what Genette (1997) suggests in his idea of the paratex. This
+
+problem can be understood if we look at what Shanmugapriya and Menon calls as the
+
+technoeikon:
+
+We propose technoeikon to analyze the literary and digital artifacts of digital
+literary texts:
+images, kinetic texts and images, videos, graphic designs, and
+acoustic, the threads of which are either a component or reinforce digital literary
+texts that make the reader/ viewer to be more focused than in print text. The
+elements of technoeikon saturate digital literature like the cosmos filled with
+natural objects. Hence, digital literary works emulate ‘the nature of the world’ to
+present the text with wholesomeness. We use technoeikon to represent ‘skill of
+weaving images’—the images instantiate the motion images of the real world in
+digital literature. Weaving skeuomorph images embody the ideology of natural
+systems which offers a realistic perspective to the reader. This is a unique
+disposition of digital literary works. The creator’s aesthetic experience of the
+world and his/her message manifested through both technoeikon and text are
+inextricable to the theme of the work. (Shanmugapriya, Menon and Campbell
+651)
+
+Thus it is clear that the text cannot be demarcated in the digital space as to what is the text and
+
+what
+
+is not. Everything contributes to the process of meaning making. Now that I have
+
+contextualised the concept of Digital Modernism and meaning making through the idea of the
+
+text and how it can be traced in Electronic Literature, i.e through the anxiety of the print culture,
+
+the next step would be to understand how the same applies in the Indian context.
+
+THE INDIAN CONTEXT
+
+Roy 19
+It is necessary to understand the Indian context separately because the nature of Indian
+
+E-Lit is not the same as in most of the Western countries, which is where the discourse emerges
+
+from. In order to understand the nature of E-Lit in India, it is important to consider them
+
+separately. Souvik Mukherjee (2017) traces E-Lit in India back to the ancient forms of oral
+
+storytelling and states that it is rather rhizomatic in nature and the awareness of the same is not
+
+there yet echoing Rettberg (2009) where he also says many “people have no idea that electronic
+
+literature exists”. Consequently, Shanmugapriya and Menon (2018) builds on Mukherjee’s idea
+
+and finds emergent elements of the multimodal E-Lit in the Gita Govinda, Patta Chitra and
+
+Chitra Kavi. Their 2019 paper, attempts at historicizing the E-Lit tradition in India.
+
+Cloak Room presumably marked the birth of Indian digital literature. Subsequently, few
+SMS novels such as Neelakannukal (2006) and Deaf Heaven (2009) are also published.
+(Shanmugapriya and Menon 65)
+
+Therefore,
+
+the first generation of E-Lit
+
+is here ascribed to the SMS novels. The second
+
+generation of the same is however attributed to the works generated by social media, i.e
+
+Facebook, Twitter, Instagram etc. While there can be some elements of similarity with Twitter
+
+fiction and SMS novels due to the constrictions of characters in one SMS/Tweet, the space
+
+thrown open by other social media profiles remains something to be reckoned with. Before going
+
+into that,
+
+it
+
+is also important
+
+to consider blogging and story sharing sites like Blogger,
+
+Wordpress, Wattpad and the newly popular Medium. Wattpad can be seen as a user generated
+
+storytelling site with not much scope to innovate whereas Blogger, though it is a bit outdated
+
+now, and Wordpress are spaces where one can truly experiment with and implement media.
+
+Medium is a much cleaner and simpler space where one can surely add images but there are
+
+limitations. Facebook was the initial space of sharing snippets of creativity from spaces like
+
+Roy 20
+TerriblyTinyTales etc. but with the advent of Instagram, one can say that most of the aesthetics
+
+which is directly linked to the act of writing can be found there.
+
+THE ACT OF WRITING
+
+In order to find the spaces of creative production, I launched a survey on the 15th of March
+
+where I wanted to find how solo creators shared narratives in the online space. The aspect of the
+
+creators being solo is very important because I wanted to also see how much could people
+
+produce without the aspect of outside support. I collected open ended text based interview
+
+responses till the 15th of April, exactly for a month to have a sense of symmetry. I received 89
+
+responses and the next step was to clean the data so it would be easy for me to carry out the
+
+analysis. I asked my respondents to leave a link to their site of creative production and from that
+
+data I will attempt to closely read a handful of those to show how the print anxiety contributes to
+
+the aspect of Digital Modernism. The first case that I will try to deal with is the bite sized
+
+quotation-ish content of Instagram and this new platform called YourQuote. Both platforms
+
+heavily rely on texts within pictures. While Instagram has the role of the caption as well,
+
+YourQuote, as the name suggests, functions like a community which shares quotations based on
+
+prompts given by each other.
+
+The Instagram pages function on three levels: the outline, the post and then the caption along
+
+with it. Some pages go for a dedicated aesthetic where they upload content one in three posts and
+
+purposefully include fillers in the remaining two. When someone opens the profile,
+
+the
+
+chessboard-like aesthetic plays a crucial role in the perception of meaning. In this case, I would
+
+go so far as to say that the way the text looks is more important than the text in itself. The
+
+technoeikon, thus, operates in the realm of beautification mostly. The comes the singular (or
+
+double/triple panelled) post with its caption and the comments. Because of the limitations of the
+
+Roy 21
+picture, many authors use the caption to flesh out the content which they could not in the main
+
+post. Therefore, it serves as an extension to the main post at hand. Then comes hashtags or
+
+metadata integration wherein author try to latch the posts on by tagging other profiles or themes
+
+by @ing them or #ing them. Last but not the least comes the uploaded picture in itself. More
+
+often than not, they are presented in two ways: text with something that adds to the beauty of the
+
+picture or the text presented such a way that it resembles the phenomenon of bookishness. The
+
+first page that I will be looking at in this context is midnightpoetryandchai. Looking at the profile
+
+from the outset, it is clear that the focus here is in the amalgamation of art and text. Paintings and
+
+pretty objects are used as backdrops to house the text which makes it even prettier to look at.
+
+Roses, clouds, paintings and any Instagrammable photo has been used here to create a backdrop
+
+to house the text. The text is more like a quotation which lures in the reader to open the singular
+
+post, which then takes you to the longer caption which is present like the normal format of the
+
+print text. Therefore, the aspect of the digital is limited to aesthetics and does not use coding or
+
+other means of computation. One might argue that the comment section is also important but I
+
+would not consider it here as those are reflections and do not add to the text proper. I can go so
+
+far as to say that the visuality of the text here becomes more important than the text in itself. Can
+
+we call this to be hypertext? Technically yes as it leads the reader from one point to the other
+
+where the picture acts as a lure or trailer to the text. But, once you reach the main text, more
+
+often than not there is no visible difference from the print format. The next case would be that of
+
+tinta.poetry. Mostly the structure of this page is similar to the last one. But, there is one
+
+fundamental difference. The aesthetic quality that the author has chosen here directly resembles
+
+that of an old book or a manuscript. Aside from the fact that the profile picture is that of Eliot
+
+himself, the reference to the book or the manuscript via the use of the visual can be seen as an
+
+Roy 22
+example of bookishness in the virtual mode. This mode strikes a sense of familiarity and I would
+
+say that it adds to the perception of the reader as well. YourQuote is another similar platform
+
+which relies on the aspect of quotations and images to bring in a sense of visuality. But, the
+
+platform is dedicated to that activity only while Instagram is used for many other things as well.
+
+Coming to the more longform side of things, we have the good old blogs. The concept of
+
+blogging is almost as old as the internet in itself. In my responses most of the blogs were from
+
+Blogger and Wordpress and only a few from Medium. The Blogger sites mostly resemble an
+
+older internet interface with not much dynamic activity going on. But, two Wordpress accounts
+
+are what interests me here. An Unstable Extravert has a very curious web page design. The
+
+webpage in itself resembles what I could call a school notice board where all the posts seem to
+
+be stuck with sellotape. Some of these posts are separated by pencils and the posts in itself
+
+mostly do not use any other form of media and are mostly short poems. The about page of the
+
+author is designed like a notebook with lines in between to write the text. These extra-textual
+
+signifiers of the pencil, sellotape and the notebook gives the vibe of a school goer and hence the
+
+nostalgia factor influences the meaning making. The posts in itself, however do not use any
+
+media elements. Therefore, these signifiers though not directly bookish in nature hint at the
+
+things related to it in a roundabout way. Next up, I would like to look at Soham Deb. The blog
+
+page appears simple in itself but the possibilities it throws open is what I want to talk about here.
+
+Mostly, what we see here is a collection of photographs and descriptions that accompany these
+
+photographs. It is pretty simple but the possibilities are something that can be explored. One can
+
+use these images on a space to tell stories about things that may or may not be related to the
+
+space in itself. Therefore, it opens up interesting questions of meaning making.This strand is
+
+taken up Sen Sanchari who not only creates an archive/ portfolio of her works in her website but
+
+Roy 23
+also manages to weave a sense of narrative through the pictures. The narrative serves as a mood
+
+builder which helps in understanding the authorial intention.
+
+CONCLUSION
+
+All the things that I have looked at, in the Indian context, have limited the incorporation
+
+of media to the realm of images and images only. Not even does URLs feature as a part of the
+
+narrative which might open up the possibilities of a branched and non linear narrative. I believe
+
+that is due to our training of reading and writing in print which limits the experimentation to the
+
+images. That is why, even in the digital mode we try to replicate the features of the print. This
+
+phenomenon can be very well looked at as a Digital Modernist anxiety which fails to treat the
+
+digital mode as a mode of its own. But, while the authorial intention can be that, because the
+
+medium is different, the meaning making changes and it does not serve the same function as it
+
+would have in print. That is to say that a picture in a book does not serve the same function as it
+
+does in a web article or in an Instagram post simply because we interact with the same in a
+
+different way. Once, we learn to create in the digital space and accept the nuances of this mode,
+
+only then can we say to be in the zone of Digital Postmodernism.
+
+“An Unstable Extravert.” An Unstable Extravert,
+
+Works Cited
+
+https://anunstableextravert.wordpress.com/. Accessed 7 May 2021.
+
+Roy 24
+
+Exploring “The Waste Land” - The Poem by T.S. Eliot. 7 June 2010,
+
+https://web.archive.org/web/20100607104653/http://world.std.com/~raparker/exploring
+
+/thewasteland/explore.html.
+
+Genette, Gerard, and Richard Macksey. Paratexts: Thresholds of Interpretation: 20.
+
+Translated by Jane E. Lewin, Cambridge University Press, 1997.
+
+Girgar, Dene. “Electronic Literature: Where Is It?” Electronic Book Review, 2008, pp.
+
+263–76, doi:10.4324/9781315707860-25.
+
+Hayles, N. Katherine. Electronic Literature: New Horizons for the Literary. 1st edition,
+
+University of Notre Dame Press, 2008.
+
+---. “Electronic Literature: What Is It?” Electronic Literature Organisation, 2007,
+
+https://eliterature.org/pad/elp.html.
+
+---. How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics.
+
+University of Chicago Press, 1999.
+
+Lewis, C. S. A Preface to Paradise Lost: Being the Ballard Matthews Lectures Delivered at
+
+University College, North Wales, 1941. OUP USA, 2007.
+
+Midnightpoetryandchai’s (@midnightpoetryandchai) Profile on Instagram • 164 Posts.
+
+https://www.instagram.com/midnightpoetryandchai/. Accessed 7 May 2021.
+
+Roy 25
+Mukherjee, Souvik. “‘No Country for E-Lit?’ – India and Electronic Literature.” Hyperrhiz:
+
+New Media Cultures, no. 16, 2017. hyperrhiz.io, doi:10.20415/hyp/016.e08.
+
+Kathleen Fitzpatrick Planned Obsolescence. NYU Press. 2011,
+
+https://nyupress.org/9780814727881/planned-obsolescence. Accessed 7 May 2021.
+
+Pressman, Jessica. Bookishness: Loving Books in a Digital Age. Columbia University Press,
+
+2020.
+
+---. Digital Modernism: Making It New in New Media. Oxford University Press, 2014.
+
+Rettberg, Scott. Electronic Literature. 1st edition, Polity, 2018.
+
+“Sanchari Sen.” Sanchari Sen, https://sensanchari.com/. Accessed 7 May 2021.
+
+Schreibman, Susan, et al., editors. A New Companion to Digital Humanities. 2nd ed., Wiley
+
+Blackwell, 2016,
+
+https://www.wiley.com/en-in/A+New+Companion+to+Digital+Humanities%2C+2nd+
+
+Edition-p-9781118680599.
+
+Shanmugapriya, T., et al. “An Introduction to the Functioning Process of Embedded Paratext
+
+of Digital Literature: Technoeikon of Digital Poetry.” Digital Scholarship in the
+
+Humanities, vol. 34, no. 3, Sept. 2019, pp. 646–60. Silverchair, doi:10.1093/llc/fqy064.
+
+“Soham Deb.” Soham Deb, https://sohamdeb.wordpress.com/. Accessed 7 May 2021.
+
+T, Shanmugapriya, and Nirmala Menon. “First and Second Waves of Indian Electronic
+
+Literature.” Journal of Comparative Literature and Aesthetics, vol. 42, no. 4, 2019, pp.
+
+63–71.
+
+---. “Locating New Literary Practices in Indian Digital Spaces.” Matlit, vol. 6, Aug. 2018,
+
+pp. 159–74. ResearchGate, doi:10.14195/2182-8830_6-1_11.
+
+Roy 26
+
+TINTA Poetry (@tinta.Poetry) • Instagram Photos and Videos.
+
+https://www.instagram.com/tinta.poetry/. Accessed 7 May 2021.
+
+

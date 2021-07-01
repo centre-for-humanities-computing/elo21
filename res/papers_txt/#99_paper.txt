@@ -1,0 +1,680 @@
+Angeliki Malakasioti 
+Assistant Professor 
+Department of Audio and Visual Arts, Ionian University   
+https://avarts.ionio.gr/en/department/people/559-malakasioti/ 
+ 
+www.angelikimalakasioti.com/ 
+amalakasioti@ionio.gr 
+ 
+
+ 
+
+ 
+
+ 
+
+ABSTRACT 
+
+Digital Selfhood and its Mental Spatialities: 
+
+Abstracts of Textual Constructs 
+
+Early cyberspatial theories reflected on the qualities of computer mediated experience by 
+
+introducing  aspects  of  immateriality,  incorporeality,  symbolism,  abstraction,  as  well  as 
+
+exploring  the  mental,  perceptual,  and  psychological  dimensions  of  digital  experience 
+
+itself.  Electronic  interactions  have  been  described  as  platonically  erotic,  transcendental, 
+
+allegorical,  even  ecstatic  conditions,  that  still  seem  timely  and  compelling  nowadays, 
+
+even since the pre-pandemic era. Human mind appeared as an inherent ingredient of the 
+
+digital  phenomenon  since  its  birth.  On  the  other  side,  ideas  such  as  ‘body  amnesia’  or 
+
+‘fleshworld’, emerged denoting the rigidity of the physical body to reach the other side of 
+
+the screen. 
+
+These  days,  the  superfluous,  excessive,  sometimes  obsessive  use  of  digital  technology, 
+
+pervasive  software  as  well  as  the  internet  of  things  have  surpassed  the  Cartesian 
+
+mind-body dualism and have given rise to novel hybrid approaches of our contemporary 
+
+relation  to  technology.  Hybridity  has  created  space  for  intertextual  interpretations  of 
+
+experience, that do not divide the notion of mind and body, but comment on the complex 
+
+interactions  of  self  with  digital  culture,  through  numerous  differentiated  contexts, 
+
+evolving  cyborg  ontologies,  alternate  bodies,  human-nonhuman  systems,  transformative 
+
+personas, neuroarchaeological readings of cultural plasticity, all rendered through a daily 
+
+mediated reality. 
+
+The study attempts to look at this ever-present conundrum, through an architectural point 
+
+of view, venturing a theoretical quest on digital spatiality. Digital experience has always 
+
+been inseparable from the metaphoric use of spatial concepts. At the same time, textual 
+
+space  constitutes  an  allegorical  or  symbolic  construction  with  its  own  architecture, 
+
+ambience, and other characteristics. Space is not only relating to the strict conception of 
+
+geometry, physics, or mathematics, but also to an anthropological reading of existence, a 
+
+quality  that  is  often  elusive  and  immeasurable,  thus  it  helps  define  abstract, 
+
+psychological,  experiential  phenomena,  or  in  other  words,  that,  which  is  in  fact 
+
+indefinable.   
+
+In  this  context,  self  takes  the  role  of  a  mental  dynamic,  while  space  is  interpreted  as  a 
+
+metaphoric,  volatile  construction  whose  literary  aesthetics  emerge  from  digital  culture. 
+
+The  idea  of  digital  experience  is  approached  though  a  series  of  textual-spatial  concepts 
+
+and projects that reflect on the space that is constructed in the interstitial area between the 
+
+digitally platformed self and the mediated environment. This exploration takes the form 
+
+of creative writings, chatbot interviews, exercises of verbal configurations, visual poetics, 
+
+interactive  game-poems  and  other  abstracts  of  writing  in  both  artistic  and  educational 
+
+contexts.  The  overall  idea  of  the  digital  mind-body  interpretation  takes  the  form  of  a 
+
+series of mental spatialities that comment on our contemporary way of being in the digital 
+
+world.  In  architecture,  to  read  means  to  uniquely  understand  and  thoroughly  grasp  the 
+
+phenomena of the surrounding environment - in this case, space is translated in an altered 
+
+vocabulary  that  helps  us  understand  what  it  means  to  ‘read’  the  contemporary  self  in  a 
+
+platformed culture. 
+
+ 
+
+Introduction 
+
+ 
+
+I am the space where I am. 
+
+Noël Arnaud, L´état d´ébauche1 
+
+ 
+
+Contemporary  digital  platforms  are  not  a  novel  phenomenon.  Technological  integration 
+
+in many aspects of life has already been present since the onset of computers, gaming, or 
+
+the  use  of  web.  Innovative  digital  systems,  smart  devices  and  applications, 
+
+fast-developing  social  media  and  the  Internet-of-Things  have  already  formed  a  fertile 
+
+1  Arnaud, Noël, L´état d´ébauche, Le Messager Boîteaux, Paris, 1950, as quoted in Bachelard, Gaston, The 
+Poetics of Space, Orion Press, 1968, p.137 
+
+ 
+
+ground for the platformization of everyday life. The ongoing pandemic though, has raised 
+
+this  phenomenon  to  an  excessive  degree.  We  do  not  talk  nowadays  about  the 
+
+platformization  of  services  or  activities,  but  rather  about  the  platformization  of 
+
+experiences  and  culture.  Additionally,  all  connotations  of  the  ‘platform’  concept  have 
+
+given 
+
+rise 
+
+to 
+
+relative  discussions  around  notions  of 
+
+‘staging’, 
+
+‘proposing’, 
+
+‘programming’,  ‘planning’,  or  ‘showcasing’.  To  set  a  platform  for  an  experience  to 
+
+happen,  presupposes  the  adoption  of  a  common  language,  a  commonly  shared  acting 
+
+consensus though which users may be expressed during their online presence or consume 
+
+digital content in a specifically designed manner.   
+
+An  important  question  arises  at  these  critical  times  of  the  pandemic  phenomenon.  If 
+
+digital  platformization  of  multiple  aspects  of  life  is  more  relevant  than  ever  nowadays, 
+
+then how are we to understand the ways in which ourselves are experienced through this 
+
+constantly  mediated  condition?  And  how  can  this  form  the  onset  for  rethinking  the 
+
+already  established  digital  norms  or  our  potential  future  online  presence(s)  which  lie(s) 
+
+ahead?   
+
+ 
+
+Spatial delineation 
+
+ 
+
+As an  architect,  spatial  education has played  an important  role in the delineation of my 
+
+selfhood  through  spatial  mechanisms.  Self  and  body  are  interlinked  through  multiple 
+
+spatial correlations of definitions, metaphoric expressions or even personal practices that 
+
+make  this  notional  diptych  a  fluctuating  ontological  model.  Digital  connection, 
+
+projection, manifestation, all demonstrate a shifting state of its parts: space is revaluated, 
+
+redefined  and  reprogrammed  –  domestic  space  is  broadcasted,  and  working  spaces  are 
+
+interiorized, bringing up modes of hybrid spatial constructs  - aspects  of life are moving 
+
+online,  privacy  and  intimacy  are  questioned  -  human  interaction  is  adapting  to  new 
+
+formats of communication and action. 
+
+Encounters with technology since their onset has made explicit use of spatial concepts to 
+
+describe  novel,  partially  unknown  experiences.  Early  interpretations  of  cyberspace 
+
+reflected  on  the  ideas  of  mediation  through  ideas  of  immateriality,  incorporeality, 
+
+abstraction  of  space.  The  mental  dimension  is  present  in  almost  all  former  cyberspatial 
+
+definitions:  the  “consesual  hallucination”  by  William  Gibson 2   or  “the  `place`  where 
+
+a telephone conversation appears to occur.” by Bruce Sterling3  are only a few of the old 
+
+and  well-known  metaphors  and  definitions.  Electronic  interactions  have  been  described 
+
+as platonically erotic, transcendental, allegorical, even ecstatic conditions, that still seem 
+
+timely  and  compelling  nowadays,  even  since  the  pre-pandemic  era.  On  the  other  hand, 
+
+contemporary  approaches  surpass  the  dualistic  view  and  give  rise  to  hybrid  readings  of 
+
+the mind-body relation in digital environments. John Perry Barlow’s world which “is not 
+
+where  bodies  live”4,  is  now  moving  towards  new  ways  of  understanding  space  in  the 
+
+digital world. Performance artist Stelarc has already commented though his work on the 
+
+developing  necessities  of  our  obsolete  bodies5.  Chris  Hables  Gray,  when  talking  about 
+
+human-machine  cyborgian  interaction,  characteristically  mentioned  the  idea  of  a 
+
+“pseudo-biosystem”6, an organism or entity that seeks ways of digital ‘corporealization’, 
+
+though  living  and  acting  in  a  novel  space.  These  issues  of  computer  mediated  state  of 
+
+being are reinterpreted in this context, posing questions about spatial concepts that arise 
+
+during online individual experience. Foucault7, talking about the technologies of the self, 
+
+introduced a series of practices that to the self and its performativity. In this venture, text 
+
+plays  an  important  role,  manifesting  not  only  forms  of  linguistic  syntax  but  rather 
+
+organizational, expressional, or systematic syntax that transcends its original content and 
+
+explores the mediated or platformed habits, memories or intimacies as a creative tool. 
+
+ 
+
+Fragments 
+
+ 
+
+The imagination and daydreaming are stimulated by dim light and shadow. In order to 
+
+think clearly, the sharpness of vision, has to be suppressed, for thoughts travel with an 
+
+ 
+
+2  Gibson, William, Burning Chrome, Harper Voyager, Reprint edition, 2003, p.179 and Gibson, William, 
+Neuromancer, Ace, 1st edition, New York, 1986, p.51 
+3  Sterling, Βruce, The Hacker Crackdown, Bantam, New York, 1992, pp.xi-xii 
+4  John Perry Barlow, A Declaration of the Independence of Cyberspace, Switzerland, February 8, 1996, 
+https://projects.eff.org/~barlow/Declaration-Final.html, accessed 6/5/2011 
+5  Marquard Smith, Stelarc: The Monograph (Electronic Culture: History, Theory, and Practice), The MIT 
+Press, 2005, 2007, p.160 
+6  Gray, Chris Hables, Cyborg Citizen: Politics in the Posthuman Age, Routledge, New York, 2002, p.48 
+7  Foucault, Michel, Technologies of the Self: A Seminar with Michel Foucault, University of 
+Massachusetts Press, 1988, Amherst, MA 
+
+absent-minded and unfocused gaze.   
+
+Juhani Pallasmaa, The eyes of the skin8 
+
+ 
+
+The  present  paper  explores  these  questions  through  an  architectural  point  of  view, 
+
+venturing a theoretical quest on digital spatiality. Initially, abstracts of creative or artistic 
+
+responses  that  make  use  of  non-visual,  textual  mechanisms  are  presented  as  an 
+
+experimentation or research tool. The abstracts presented are pieces of the author’s larger 
+
+body  of  work 9   that  also  expands  to  the  use  of  audiovisual  material,  animation, 
+
+photography,  or  digital 
+
+image  composition.  Additionally, 
+
+these  reflections  are 
+
+supplemented  by  a  series  of  relative  creative  experiments  in  an  educational  context.  In 
+
+some  cases,  a  rough  outline  of  undergraduate  or  postgraduate  course  activities  in  the 
+
+context of digital design media, digital culture, art and architecture are presented. A brief 
+
+overview is provided introducing quotes of works or ideas that have proven fruitful in the 
+
+classroom and which can stimulate a broader discussion.   
+
+Neil Spiller characteristically mentioned a kind of laboratory that encompasses “the real 
+
+city,  the  unreal  city,  and  the  visceral  and  mental  spaces  of  the  body  --  and  the  blurred 
+
+spaces in between”10. Similarly, in the following abstracts, the idea of the spatial quality 
+
+is  investigated,  not  as  a  strictly  geometric  form,  but  rather  as  an  “atmosphere” 
+
+encompassing  digital  environments  that  can  help  us  define  the  fluctuating  (either 
+
+personal, or collective) notion of space in the contemporary platformed worlds. 
+
+ 
+
+SPACES 
+
+ 
+
+The obsessive space 
+
+ 
+
+In 2018 in the undergraduate course Digital Totem: Transcendental Representations and 
+
+Digital  Media,  which  took  place  in  the  Department  of  Architecture  at  the  University  of 
+
+ 
+
+8  Pallasmaa, Juhani, The eyes of the skin: Architecture and the Senses, John Wiley & Sons, 2005, p.50. 
+9  See Angeliki Malakasioti’s website, angelikimalakasioti.com 
+10  Spiller, Neil, Digital dreams, Digital Dreams: Architecture and the New Alchemical Technologies, 
+Watson-Guptill Publications, New York, 1998, (from the back cover of the book) 
+
+Thessaly11,  students  were  asked  to  move  from  a  personal  to  a  collective  perspective,  or 
+
+from a personal context to a social critique. They were not only asked to use a medium, 
+
+but they were asked to think about the culture that gave birth to it and of which they are 
+
+also  an  important  part.  Before  designing  they  initiated  a  process  of  short  textual 
+
+‘confessions’ as digital online users, manifesting in this way various spaces of repetitions, 
+
+echoes,  or  other  obsessive  characteristics  that  relate  to  their  online  presence:  “I  am  on 
+
+‘search’”, “Eye bath”, “I will drown in my unread emails”, “Necessary evil”12. 
+
+ 
+
+The dialogic space 
+
+ 
+
+In  the  context  of  Doctoral  research  on  the  theme  of  “The  anatomy  of  the  digital  body: 
+
+spatial  aspects  of  the  self  and  immaterial  on  the  web” 13 ,  a  series  of  experimental 
+
+dialogues were stimulated with the use of AI chatbots14. This idea was developed further 
+
+in the context of the aforementioned course during which students were asked to take an 
+
+interview of an artificial intelligence entity of their choice and generally interact, perhaps 
+
+train  it,  and  produce  free  and  heretical  dialogues.  Students  were  free  to  guide  the 
+
+dialogue,  to  reorder  reactions,  to  repeat  questions,  in  a  context  of  creative  writing,  in 
+
+which  half  of  the  text  manifests  randomness  and  is  placing  agency  of  response 
+
+somewhere else. The process  rather  focuses on the creative  cut-up methods than on  the 
+
+precise recording of the process. The process of writing within a dialogic state, sets up a 
+
+human-nonhuman system through which knowledge is not only born but also performed. 
+
+The content of the dialogue leaves space for open translation and open-ended concepts to 
+
+develop,  manifesting  the  partially  subjective  quality  of  the  whole  interaction  process.   
+
+Neil Spiller, talking about randomness in the context of new technologies, talks about a 
+
+ 
+
+11  Course website: https://digitalitycourses.wixsite.com/digitaltotem 
+12  Abstracts of student quotes. 
+13  Malakasioti, A. 2015. Anatomy of a Digital Body: Spatial Aspects of the self and the 
+intangible on the web. Doctoral Thesis. Department of Architecture, University of Thessaly, 
+https://www.didaktorika.gr/eadd/handle/10442/36641 
+
+14  In this context, free online AI chatbots were used. 
+
+choreography  of  digitally  enabled  chance  which  “allows  us  to  create  architecture  of 
+
+blossoming possibility where events are fleeting, exceptional and particular.”15 
+
+The  outcome  was  quite  provocative:  most  dialogues  moved  towards  the  limits  of  the 
+
+machine's knowledge - most of the times they ended up talking about those things that the 
+
+machine  does  not  know experientially,  for  example  the  idea  of  the  body  and  its  senses, 
+
+family, life and death, or love and morality: 
+
+ 
+
+“User: Do you exist? -   
+
+Bot: No. Do you?” 
+
+ 
+
+“User: Can you describe where ‘here’ is? 
+
+Bot: I am in the land of wind and shade.”16 
+
+ 
+
+“User: Describe me a beautiful body 
+
+Bot: The part of a human that is flesh and blood”17 
+
+ 
+
+The metaphoric space   
+
+ 
+
+Digital  experience  has  always  been  inseparable  from  the  metaphoric  use  of  spatial 
+
+concepts. Spatiality seems to ‘haunt’ digitality from the past to the present. At the same 
+
+time,  textual  space  constitutes  an  allegorical  or  symbolic  construction  with  its  own 
+
+architecture,  ambience,  and  other  characteristics.  Space  is  not  only  relating  to  the  strict 
+
+conception of geometry, physics, or mathematics, but also to an anthropological reading 
+
+of  existence,  a  quality  that  is  often  elusive  and  immeasurable,  thus  it  helps  define 
+
+abstract, psychological,  experiential phenomena, or in other words, that which is in fact 
+
+indefinable.  In  this  context,  during  the  course  students  practice  their  metaphorical 
+
+thinking,  while  at  the  same  time  producing  a  collective  manifesto  for  digital  space  - 
+
+ 
+
+15  Spiller, Neil, AVATAR, Advanced Virtual and Technological Architecture Research, Haecceity Papers, 
+2 (2), Introduction, 2007 
+16  Quoting dialogue annexes of the author. See Malakasioti, A. 2015. Anatomy of a Digital Body: Spatial 
+Aspects of the self and the intangible on the web. Doctoral Thesis. Department of Architecture, University 
+of Thessaly, https://www.didaktorika.gr/eadd/handle/10442/36641 
+17  Quoting Kopelia Stavroula, Nathilde Charbonier - abstracts of students’ dialogues. 
+
+which also functions as a hypothetical "scenario" of the course: “Digital space is a tiger 
+
+with proboscis and wings. […] A static choreography. […] A perfectly constructed loop. 
+
+A chocolate for my hypoglycemia.”18 
+
+ 
+
+The appropriated space 
+
+ 
+
+Conceptually driven, the poem Thirteen Ways, after Wallace Stevens (1954)19, constitutes 
+
+a piece of textual work which reinterprets the famous poem ‘Thirteen Ways of Looking at 
+
+a  Blackbird’20  by  Wallace  Stevens  (1954)  in  an  iterative  process  of  thirteen  successive 
+
+translations  of  the  text  through  the  unconventional  use  of  Google  translate  system  in 
+
+different  languages.  Through  this  digital  appropriation  process,  manifold  flaws  and 
+
+imperfections  of  the  electronic  medium  emerge,  such  as  misconceptions,  cultural 
+
+differences, language particularities and diversities from one language to the other, which 
+
+are deliberately used by the writer in the creative writing process as a tool for structuring 
+
+a  new  poetic  form,  embedding  all  these  qualities  and  multiplicities  of  textual  layers, 
+
+concepts and meanings that arise. 
+
+Being initially a poem expressing the different ways of seeing and perceiving the world, 
+
+the metamorphosis of the text in this context adopts a new form which is permeated by 
+
+the  ‘spell’  of  technology.  ‘Thirteen  Ways’  becomes  a  metaphor  for  the  contemporary 
+
+ways of ‘being’ in a digital world. 
+
+ 
+
+The fallen space 
+
+ 
+
+The interactive game-poem Ode to a Fallen Dialogue21  is a piece of work born during the 
+
+pandemic  period.  It  constitutes  an  ‘ode’  to  the  struggles  of  human  communication.  It 
+
+ 
+
+18  A collective student manifesto on digital space, online at 
+https://digitalitycourses.wixsite.com/digitaltotem/manifesto 
+19  Poem by Angeliki Malakasioti, published in Backslash Lit - online magazine for electronic literature., 
+https://backslashlit.com/issues/2/angeliki-malakasioti-thirteen-ways, Issue 2. 
+20  Thirteen Ways of Looking at a Blackbird’ by Wallace Stevens (1954), in Poetry Foundation, 
+https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird, accessed 
+6/5/2021 
+21  Poem ‘Ode to a Fallen Dialogue’ by Angeliki Malakasioti, sound design by Apostolos Loufopoulos, 
+accessed at https://www.fallendialogue.com/, launching trailer: 
+
+reflects  on the hardships of unfortunate dialogues, the splendor of reaching to  the other 
+
+side, the rise and fall of human connectedness, the agonies of stray meanings and words. 
+
+Expressed through the poetics of weather phenomena, this conceptually driven interactive 
+
+work represents the mental landscape between two lovers, sometimes violent, sometimes 
+
+resonating, a parallel metaphor for the contemporary digitally mediated condition. 
+
+Early  cyberspace  theories  referred  to  an  erotic  ontology  of  digital  experience.  Michael 
+
+Heim described the platonic dimensions of an augmented Eros22. Roland Barthes on the 
+
+other  hand  described  language  as  the  skin  with  which  we  struggle  to  touch  the  'other'. 
+
+“Language is a skin: I rub my language against the other. It is as if I had words instead of 
+
+fingers, or fingers at the tip of my words. My language trembles with desire.”23. 
+
+In this game-poem, senses, meanings and ideas appear to be all permeated by the ‘spell’ 
+
+of technology, a rhetorical as well as an erotic act of mediation through different worlds. 
+
+The reader/player is asked to become part of the dipole, to meander through poetic texts 
+
+and  tormented  emotions,  at  times  linear,  other  times  bifurcating,  while  exploring  a 
+
+dialogue  ‘atmosphere’  inspired  by  visual  poetry.  The  dialogue  becomes  a  space  of 
+
+interaction  itself.  Endeavoring  to  reach  the  'other  side'  through  the  use  of  spoken 
+
+language, this piece of work is an affective journey to the tempests of a fallen dialogue.   
+
+ 
+
+The simultaneous space   
+
+ 
+
+In  2021,  in  the  postgraduate  course  ‘Art  of  the  Moving  Image’,  in  the  program 
+
+Audiovisual Arts in the Digital Age at the Department of Audio and Visual Arts, Ionian 
+
+University 24 ,  students  are  asked  to  use  creative  kinetic  text  as  a  research  tool.  The 
+
+research  question  which  is  based  on  space-time  relationships,  transforms  in  an 
+
+audiovisual  format  taking  the  form  of  a  writing-construction  which  draws  from 
+
+https://www.youtube.com/watch?v=bwopdAmxG1I, part of the exhibition ‘Platforming Utopias (and 
+Platformed Dystopias)’, in the context of ELO 2021 Conference and Festival: Platform (Post?) Pandemic 
+22  Heim, Michael, “The erotic ontology of cyberspace”, Cyberspace: First steps, MIT Press, Cambridge, 
+1991, p.59 
+23  Roland Barthes, A Lover’s Discourse: Fragments, Farrar, Straus and Giroux, 2010 
+24  Postgraduate program https://avarts.ionio.gr/ada/v2/en/. Course co-teaching: Nikos Kokkalis, Angeliki 
+Malakasioti, Fotis Raftopoulos, Konstantinos Tiligadis. Abstracts of student works will be showcased in 
+the AudioVisual Arts Festival 2021-2021, taking place in May 2021 virtually: 
+https://avarts.ionio.gr/festival2/2020/en// 
+
+ 
+
+metaphoric schemata in order to explore further concepts and ideas. In this context, each 
+
+spatial-textual  gesture 
+
+implies 
+
+the  externalization  of  a  non-visual 
+
+thought, 
+
+its 
+
+demystification, its juxtaposition with other concepts and thoughts, and finally, its further 
+
+correlation with real space experiences as well as design issues. Text is not only seen as a 
+
+system of representation but also a method of reading and being read simultaneously.   
+
+ 
+
+Conclusion   
+
+ 
+
+In  all  cases,  the  text  acts  as  mechanism  with  an  inherent  motive  force  –  paraphrasing 
+
+Peter  Cooks  expression  that  drawing  is  the  motive  force  of  architecture25,  text  becomes 
+
+the  drawing  itself,  it  is  explored  as  a  medium  the  strength  of  which,  either  poetic,  or 
+
+literal, may outline, draw or shape the way self and space is understood or consumed in 
+
+digital culture. Parallel to that, in architecture, the act of reading relates to perceiving and 
+
+interpreting 
+
+the  phenomena  of 
+
+the  surrounding  environment.  Correspondingly, 
+
+architecture introduces here a new contextual vocabulary which helps us understand what 
+
+it  means  to  ‘read’  the  contemporary  self  in  a  platformed  culture,  encompassing  at  the 
+
+same the pleasure of ongoing discovery in a changing world.   
+
+ 
+
+References 
+
+ 
+
+Bachelard, Gaston, The Poetics of Space, Orion Press, 1968 
+Benedikt, Michael (ed.). Cyberspace: First Steps, The MIT Press, 1991, Cambridge 
+Cook, Peter, Drawing: The Motive Force of Architecture, Second Edition, 
+John Wiley & Sons Ltd, 2014 
+Foucault, Michel, “Of Other Spaces: Utopias and Heterotopias.”, Architecture 
+/Mouvement/ Continuité, Trans. Jay Miskowiec, October 1984 
+Foucault, Michel, Technologies of the Self: A Seminar with Michel Foucault, 
+University of Massachusetts Press, 1988, Amherst, MA 
+Gibson, William, Burning Chrome, Harper Voyager, Reprint edition, 2003 
+Gibson, William, Neuromancer, Ace, 1st edition, New York, 1986 
+Gray, Chris Hables, Cyborg Citizen: Politics in the Posthuman Age, Routledge, 2002, 
+New York 
+
+25  Cook, Peter, Drawing: The Motive Force of Architecture, Second Edition, 2014, John Wiley & Sons Ltd. 
+
+ 
+
+Gray, Chris Hables, Figueroa-Sarriera, Heidi, Mentor, Steven (eds.) Modified: 
+Living as a Cyborg, Routledge, 2020 
+Grosz, Elisabeth. Architecture from the Outside - Essays on Virtual and Real Space, 
+Cambridge: The MIT Press, 2001 
+Gunther Kress, Theo van Leeuwen, Reading Images: The Grammar of Visual Design, 
+Routledge, 2020 
+Heim, Michael, “The erotic ontology of cyberspace”, Cyberspace: First steps, MIT Press, 
+Cambridge, 1991 
+Jennifer Bloomer, Architecture and the Text: The (S)crypts of Joyce and Piranesi, Yale 
+University Press, 1993 
+John Perry Barlow, A Declaration of the Independence of Cyberspace, Switzerland, 
+February 8, 1996, https://projects.eff.org/~barlow/Declaration-Final.html, accessed 
+6/5/21 
+Malakasioti Angeliki, Papadopoulos Spiros, “Symptomatic Architectures - 
+Spatial aspects of digital experience”. ISEA Conference 2011, Istanbul 
+conference proceedings, 2011 
+Malakasioti, Angeliki, Anatomy of a Digital Body: Spatial Aspects of the self 
+and the intangible on the web. Doctoral Thesis. Department of Architecture, 
+University of Thessaly. 2015. 
+Marquard Smith, Stelarc: The Monograph (Electronic Culture: History, Theory, and 
+Practice), The MIT Press, 2007 
+Pallasmaa, Juhani, The eyes of the skin: Architecture and the Senses, John Wiley & Sons, 
+2005 
+Rettberg, Scott and Rettberg, Jill Walker, “Text machines, Narrative and Digital Media”, 
+online at 
+https://elmcip.net/sites/default/files/media/critical_writing/attachments/digital_narrative.p
+df, accessed 5/5/2021 
+Roland Barthes, A Lover’s Discourse: Fragments, Farrar, Straus and Giroux, 2010 
+Spiller, Neil, AVATAR, Advanced Virtual and Technological Architecture Research, 
+Haecceity Papers, 2 (2), Introduction, 2007 
+Spiller, Neil, Digital dreams, Digital Dreams: Architecture and the New Alchemical 
+Technologies, Watson-Guptill Publications, 1998, New York 
+Sterling, Βruce, The Hacker Crackdown, Bantam, 1992, New York 
+ 
+
+ 
+
+ 
+
+ 
+
+

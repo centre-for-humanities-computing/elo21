@@ -1,0 +1,437 @@
+Platforms for Multilingual Tele-Immersive
+
+Storytelling and Improvisation
+
+Boyd Branch∗
+University of Kent
+United Kingdom
+
+Kory W. Mathewson*
+
+Improbotics
+
+Canada
+
+Piotr Mirowski*
+
+Improbotics
+
+United Kingdom
+
+boyd@improvmedialab.com
+
+korymath@gmail.com
+
+piotr.mirowski@computer.org
+
+Abstract
+
+In 2020-2021, a pandemic caused a global shut down of the performance of live theatre. This led to many artists without
+creative outlets, many companies having to modify their programming, and, in an unfortunately large number of cases,
+the complete shutdown of theatres and companies. This circumscription led to a burst of technological innovation to
+support new ways to connect performers and audiences. In this work, we present two such innovations: Rosetta Code and
+Virtual Director. Rosetta Code is a tool for improvisation, live or online, which allows for simultaneous translation, enabled
+by artiﬁcial intelligence. The Virtual Director is a platform for tele-immersive performance. In the hands of multilingual
+cast members, the Virtual Director augments Rosetta Code to create online multilingual improv shows. We describe these
+platforms and provide descriptions and reﬂections on two performances of Improbotics Online which used the Virtual
+Director to bring together audience members and performers from around the world. These performances were part of
+the 2020 Paris Fringe and Improbotics Online received positive reviews and an award for the Most Innovative Show of the
+festival. We conclude this work by discussing the potential for mixed-presence international shows as we emerge from
+physical and social distancing requirements and how our tools will continue to support online and on-site performances.
+We have sparked a creative ratcheting effect: performers are enabled to tell new and interesting stories, and are inspired
+to suggest innovations which improve the tools with which they perform. These innovations are deployed in future
+performances. This positive feedback loop is a metaphor for the fundamental theory of improvisational: Accept and
+Expand.
+
+Keywords:
+
+theatre, improvisation, immersive, multilingual, interactive, per-
+formance
+
+Acknowledgements
+
+We would like to thank the global members of the Improbotics theatre company, in particular the performers in the
+November 2019 performances of Rosetta Code and June 2020 performances of Improbotics Online: Chlo´e dall’Olio, Harry
+Turnbull, Holly Mallett, Jenny Elfving, Julie Flower, Kieran Stallard, Marouen Mraihi, Paul Little, Rhiannon Jenkins, Roel
+Fox and Sarah Davies. We also thank the improv duo teams who participated in the early testing of the system: Jessica
+Keith, Jessamyn Fairﬁeld, Desislava Krsteva, Johan Somers, Lela Stepgood, and Josh Hards. We would also like to thank
+Sharlit Deyzac and Amy Clare Tasker from Voila Europe Festival of European Theatre, Anton Bonnici from Paris Fringe
+Festival, as well as Christos Efstratio, Paul Allain, Mats Eldøen, Alice Major, Adam Meggido, Julian Faid, Matthew
+Schuurman, Thomas Winters, and Ben Verhoeven for helpful discussions.
+
+∗Equal contribution, alphabetic order of authors.
+
+1 Introduction
+
+Live theatre is a casualty of the current COVID-19 pandemic. Social and physical distancing requirements preclude
+assemblies necessary for participatory theatre. These restrictions have signiﬁcantly reduced public performances, pres-
+sured many performing arts institutions to modify their programming, and in many cases forced the complete shut-down
+of arts organizations. Many of the world’s most popular stages, including all Broadway theatres in New York, USA and
+West End theatres in London, United Kingdom, have plans to remain closed until at least the middle of 2021.1 Early
+studies on the impact of social distancing restrictions on live arts professionals report substantial reductions in income
+for artists and increases in anxiety, depression and overall mental health (Spiro et al. 2020). The long term impact of shut-
+tering theatres and the effects of social isolation on creativity in the performing arts industry remains to be seen. While
+some performing artists have been able to shift to digital mediums to somewhat mitigate the impact on their creativity,
+artists that rely heavily on the live presence of not only an audience, but their fellow performers have had little recourse
+to maintain their craft. Improvisational art forms in particular have struggled to ﬁnd footing in digital mediums.
+Theatrical improvisation relies on performers and audiences gathering in the same space and using that shared phys-
+ical proximity to collaboratively build stories. The pandemic caused a global creative constipation through social and
+physical distancing requirements. Virtual gatherings using video-conferencing platforms are, at best, an ersatz solu-
+tion for audiences longing for connection in an ever more disconnected world. These technologies have been linked
+to a phenomenon labelled ‘Zoom-gloom’ or ‘Zoom fatigue’, which has been studied in several recent works (Bailen-
+son 2021; Fauville et al. 2021). Some improvisational theatre groups have embraced tele-conferencing and streaming
+for workshops, practice, and performance. But, due to how demanding it is to set these sorts of systems up, and the
+aforementioned Zoom-gloom which both performers and audiences are all too accustomed to, many are preferring to
+temporarily pause while waiting for the conditions of performance to resume (Berger 2020). The live performance lim-
+itation is a global issue; the world-wide community has been brought together online to share stories of adversity and
+challenge. A list of ‘Improv Theatres That Shut Down in 2020’ has been circulated and updated over the last year has
+over 60 theatres that have closed in the United States and Canada alone (Johnson 2020).2 We believe that live theatre
+cannot wait for the pandemic to wane. Instead of re-streaming previously recorded live performances, we advocate for
+embracing technology, and speciﬁcally innovative platforms for tele-immersive storytelling and improvisation.
+
+2 Virtual Director
+
+Many live performers struggle with the desire to be as live and in the moment as possible while dealing with the physical
+impossibilities introduced by virtual improvisation. The laws of physics, that is, the speed of light, deﬁnes a theoretical
+maximum for the speed of information transfer. This is the maximum rate at which information from one performer
+can reach another performer or an audience observer. When audience and performer are co-located in a theatre, this
+information can happen at the speed of sound for jokes, laughter, and applause, and at the speed of light for body
+language and scenic painting. When performers are not co-located with audience members, it takes a non-insigniﬁcant
+amount of time for the information round trip to occur. While this is generally under a half-second, it can feel like a
+lifetime. Thus, platforms must be designed in such a way to handle issues of latency and lag introduced by these delays.
+And, as the number one rule in comedy is timing, handling these issues effectively is paramount for translating the
+comedy from the performers to the observers.
+Theatres around the world have tried countless ways to incorporate live and prerecorded content for performance, host-
+ing, and audience interaction. But, the platforms often stand in the way rather than uplift. These tools need to be easy
+enough for performers to use and improve audience enjoyment.
+To handle these requirements, we built a platform for online performance. Our system, called the Virtual Director3,
+enables actors to simulate feelings of presence with stage partners while performing and storytelling remotely (Branch
+et al. 2021). Our research combines cinematic and video communication technologies with the theatrical practice of
+improvisational and scripted theatre, and aims at recreating presence, virtually. Virtual Director relies on commodity
+software (i.e. TouchDesigner4 and web browsers such as Google Chrome), widely adopted video conferencing tools
+(e.g. Zoom, Microsoft Teams), and popular streaming platforms (e.g. YouTube, Twitch). Our solution ‘piggy-backs’ on
+these digital platforms for streaming and video conferencing for participatory online performances. This makes using
+the tools as easy as using common consumer software. These technologies have evolved signiﬁcantly with a year of
+development and global dependence for tele-work and remote education. Software such as Open Broadcaster Software
+(OBS), OBS.Ninja5, and even Zoom’s and Google Meet’s capabilities have improved signiﬁcantly through 2020 and 2021.
+
+1https://broadway.com/announcement/covid-19-update/
+2Thank you to Noah Johnson & Levity Theatre (https://levitytheatre.com/) for compiling this grim list.
+3‘Tele-Immersive Improv’: https://youtube.com/watch?v=LkqfRWH3iKU
+4https://derivative.ca/
+5https://obsproject.com/, https://obs.ninja/
+
+1
+
+Figure 1: Examples of the immersive multi-performer virtual stage. In these images, one can see multiple performers–
+who are not physically co-located, and who are connecting from different countries–composed together in a virtual scene.
+The real-time masking and composition is done by the Virtual Director software.
+
+While a full system description is out of the scope for this particular work, we encourage readers to see (Branch et
+al. 2021) for complete details. Next, we discuss how the Virtual Director system was tested with 2 small ’live’ public
+performances featuring a variety of improvisational teams and 2 performances with Improbotics Online at the 2020 Paris
+Fringe festival.
+
+2.1 Early public trials
+
+While developing Virtual Director we conducted two trials of the platform in front of live audiences with short per-
+formances from four different improv theatre teams. The teams were solicited from an open call for two-person improv
+teams who had been working together for at least a year and were interested in trying out new tools for streaming perfor-
+mance. Each team trained with the software for two weeks prior to performing for small audiences who watched the live
+shows from within a Zoom conference call. Twinprov 6 and the Jess’s’s’s 7 performed for the show Double Incidentally
+May 31, 2020 for 15 audience members. Sudden Knot and Assimilate performed for Digital Improv Presents June 14th the
+following month for 21 audience members. Each team performed for approximately 20 minutes. We conducted surveys
+after each performance and received 13 responses. Twelve of the thirteen respondents ’agreed’ or ’strongly agreed’ to
+feeling present with the performers as well as agreeing they could ’easily visualize the world created by the performers,’
+demonstrating that the platform was successful in bringing a sense of cohesion and shared presence between remote
+participants. Answers to our open ended questions yielded a more nuanced appreciation of the impact of the technology
+on the potential of live streamed performance. We include the following quotes from audience members (A1-A7) for
+discussion answering ‘How did you feel about the presence of the technology in the show?’:
+
+It was certainly interesting, and the visuals helped to create an extra dimension for us as the audience. (A1)
+
+Really engaging, and the connections between performers particularly stood out! (A2)
+
+6https://www.facebook.com/twinprovimprov
+7https://www.facebook.com/jesssssimprov
+
+2
+
+It was terriﬁc, the second part with the ﬁlter was super cool and I loved seeing them on green screen as well as in
+the virtual environment - it was distracting but not detracting if that makes sense (and really the distraction pulled
+me in deeper).(A3)
+
+I felt I was a part of it - especially at the top and end, there is something powerful for an audience member to share
+the screen with the performers. (A4)
+
+Felt great - would be awesome to have ongoing cues or coordination where artists knew the bounds of the technology
+and explored it more. (A5)
+
+I would like to see actors working more in different levels of the virtual space. Playing with their size inside the
+screen could be really engaging for the audience and both challenging and exciting for actors. (A6)
+
+It was something I was aware of, but it added to the feel and vibe of the show - even when things didn’t work as
+well as you might have hoped, it all just added to the fun. (A7)
+
+The range of responses we share capture both the sense of pleasure audience members expressed in being part of a
+visually co-located performance, as well how the presence of technology stimulated their imaginations about what might
+be possible with a platform that could immerse audiences and performers inside a shared visual space.
+
+2.2 Performances at the Paris Fringe Festival
+
+We deployed Virtual Director within the context of an Improbotics Online show as part of the community-based per-
+formances at the 2020 online Paris Fringe festival. Improbotics8 started as a research and performance project exploring
+Turing’s imitation game using machine intelligence in improvised theatre (Turing 2009; Mathewson and Mirowski 2018;
+Mirowski and Mathewson 2019). To ensure that the audience understood the context for the performance, the descrip-
+tion of the show was as follows: Improbotics Online is a fully online, live improvised performance in an immersive virtual reality
+stage where human improvisers interact with artiﬁcial intelligence.
+We performed the show twice, on the 6th and 21st of June 2020. The show won a ‘Ballsy Award’, and was also awarded
+the ‘Most Innovative Show’ at the 2020 Paris Fringe.9 The performance received a four-out-of-ﬁve star review on June 7,
+2020 and the complete text of the review is included for context as an appendix to this work. We include a quote from
+the review here for discussion:
+
+The translation of the stage show into an online performance was not entirely seamless – however I do
+not feel it is important to mark Improbotics Online down for this, as a lot of the witty and interesting
+moments occurred during the slight awkward panic of being live and online. –Jake Mace
+
+This review acknowledges that even the unique moments when the performance was not seamless were still interesting.
+This delightful balance between ‘everything is under control’ and ‘potential panic’ is delight inducing from an audience
+point of view. In a way, this risk is analogous to the ‘ring-of-ﬁre’ that a trapezist would leap through in the big tent at a
+circus (Johnstone 2012).
+To see the show, we have posted a short trailer and a full performance, accessible at https://improbotics.org/
+online/. In the next section, we brieﬂy describe several interesting qualitative observations that we synthesized from
+the audience members and performers during and after these performances.
+
+2.3 Performer-Audience Interaction
+
+We now examine the perception of the performance by audiences and their participation in collective storytelling. Our
+audience was interested in the new interaction formats and performance modalities presented as part of Improbotics On-
+line. Our streamed performances redeﬁned the nature of live performance, and we identiﬁed 4 levels of participation: (1)
+participating as a performer, (2) privileged audience member, (3) general audience member, (4) onlookers watching
+the show recording, post-performance.
+We brieﬂy summarize each of these modes of participation, comparing and contrasting the qualitative experiences. First,
+our tool enabled visual collocation and presence among performers. These are the professional improvisors who perform
+the show, they represent the cast of performers. Second, Virtual Director enabled visual collocation and audio interaction
+between selected privileged audience member and the performers, or recreated visual presence if we placed them in
+a virtual “amphitheatre”. Third, general audience members audiences could interact indirectly via synchronous chat.
+
+8https://improbotics.org
+9https://twitter.com/leparisfringe/status/1279062282723622915
+
+3
+
+Finally, onlookers can watch, or re-watch the performance, as we post the recording of the performance to the internet
+for asynchronous enjoyment.
+Our initial study on the impact of visual co-location on remote improvised demonstrated how being visually co-located
+enhanced the sense of presence with remote scene partners in a way that traditional ‘grid’ arrangements of popular
+conference tools did not. Subjects of the study reported how this sense of presence with each other contributed to their
+ability to enter into a state of ‘ﬂow’ during performance that in turn led to enhanced feelings of creativity and the idea
+that online improvisation could be an entirely new medium distinct from physically staged improvisation (Branch et al.
+2021).
+We noted a similar idea emerging from our audience feedback about how online performance could be considered a new
+medium with different rules and expectations from physically staged performance. The ’extra dimension’ of a shared
+visual environment for one audience member that added to their enjoyment was the same dimension leading another
+to imagine how the addition of dynamic visual environments could be better exploited with actors ‘working more in
+different levels of the virtual space.’ Traditional improvisation is bound by physical laws that digital improvisers are not
+inherently bound to meaning ’space’ now has additional expressive potential as performers can appear bigger or smaller
+taking up space in new ways that impact storytelling.
+During our initial audience study we experimented with keeping the audience visually present throughout different
+moments of the show by instructing them to keep their cameras and microphones on. The feeling that ‘there is something
+powerful for an audience member to share the screen with the performers’ was echoed by another who reported ‘My
+attention felt more present and necessary’. Co-locating all audience members with performers during shows streamed to
+larger audiences on social media platforms such as Youtube however cannot take advantage of webcams the way video
+conferencing tools can, so require different methods for engaging with audiences.
+For our Paris Fringe shows we instead explored how live chat could be incorporated into performances. We added
+functionality to Virtual Director that could display the results from a web-server that audience members could send
+suggestions to in addition to commenting with each other during performances via the built in chat functions of Youtube.
+Curated suggestions from both sources would then appear inside the virtual environment inhabited by the performers
+between scenes.
+These different modes of interaction are all complimentary to the performance experience. They all contributed to a sense
+of collaborative collective storytelling in a shared ‘space’. As a performer, you need to consider the performance from
+each of these perspectives, and understand how to engage with these perspectives in the moment. Additional analyses
+of the performers’ experience of presence in tele-immersive virtual spaces is covered in work by Branch et al. (2021).
+Having tools such as the Virtual Director accessible to us, and rehearsing and performing with them led to a creative
+ratcheting effect. The more that we shared these tools with brilliant performers and professional improvisors, the more
+interesting and innovative ideas they had to tune and modify them and use them in interesting ways. For instance,
+the shared virtual environments of online rehearsals and performances with Virtual Director resemble cinema much
+more than theatre and led to the novel adoption of cinematic techniques for improvised storytelling. During rehearsals
+improvisers began exploring how they could move props on and off screen, make their heads disappear by placing green
+fabric in front of their faces, and composite their bodies onto each other by overlapping their images on screen.
+With Virtual Director performers can not only enter and exit the playing space by moving off camera, but they can
+also reference and incorporate physical props and costumes dynamically into scenes as they develop. Our platform
+also provided the addition of a ’virtual camera’ as another scene partner that could interact with the performance. The
+environments of Virtual Director are built inside a 3D environment where performers are placed on transparent digital
+planes sandwiched between foreground and background elements which can subsequently be viewed from different
+angles. This allowed us to incorporate virtual camera controls to our platform so that an operator could ’pan’ and ’zoom’
+into different areas of the screen like a sitcom or movie.
+In addition to new cinematic techniques, virtual performance also led to novel incorporation of communication tools that
+bridged not only physical distance, but language barriers. Prior to the pandemic, Improbotics had long been adapting
+technology from state-of-the-art language models, to digital avatars, to translation systems to explore how humans can
+improvise with technology (Mathewson and Mirowski 2017). In physically co-located shows, the role of these technolo-
+gies could often be difﬁcult for audiences to distinguish. With online performances however, we discovered not only
+how we could make these novel tools more visually present, but how we could incorporate them more meaningfully
+into performance.
+
+4
+
+Figure 2: Examples of the immersive multi-performer virtual stage combined with real-time translation for two perform-
+ers who are not physically co-located and who are speaking in two different languages (Dutch and Polish) with live
+transation into English. The real-time masking and composition is done by the Virtual Director software, combined with
+the Google Speech Recognition and Translation APIs.
+
+3 Multilingual Performance and Actor Interaction
+
+As an international theatre troupe, Improbotics has cast members representing multiple nationalities and languages. In
+2019 we began exploring novel multilingual improvisational formats by exploiting live translation and speech recogni-
+tion technology in a show called Rosetta Code.
+Using Google’s API for speech recognition, for real-time translation, and for text-to-speech generation, we built a pro-
+gram to listen to improvisers speaking in a language foreign to their scene partner’s and to send them the near real-time
+translation via headset, as well as to display the result of speech recognition and of real-time translation on a screen. In
+this way we enabled actors to improvise in multiple languages while being understood by cast members and audiences.
+The show was performed on stage in November 2019 at the Rich Mix Theatre10 in London, as part of the Voila Festival
+of European Theatre (Mirowski, Mathewson, et al. 2020).
+While we had some successes with this format it could at times be difﬁcult for audiences to track how the translations
+were taking place as we relied on projections that did not always sync smoothly with the performance. Moreover, captur-
+ing the speech of individual performers, without cross-talk from their stage partners, proved challenging and required
+them to hold a dynamic microphone with an on-off switch in their hand. Moving to an online platform with Virtual
+Director not only began to solve many of these challenges (for example, speech recognition could be run independently
+on each performer’s computer), but also introduced new ways to incorporate translations into the show.
+Our original system which enabled a low-latency, multilingual experience for performers and audiences alike, chal-
+lenged contemporary theatre which is often performed and enjoyed in a single language. Building up on an existing
+multilingual improv stage show (Mirowski, Mathewson, et al. 2020), we combined tele-immersion with translation to
+create a multilingual performance that transcends typical physical limitations of the stage. As the performers spoke in
+different languages, real-time translation of their lines was displayed on the screen, like the subtitles in a foreign ﬁlm.
+The cohesive environment of the virtual stage enabled us to use subtitling more effectively so that audiences could see
+the translations and the performance simultaneously, in a way that projections alone could not do.
+Moreover, the addition of virtual environments meant we could provide a more cohesive narrative experience and con-
+text for multilingual improv with performers appearing to be in the same physical location. When performing in phys-
+ically co-located shows, the stage is empty and requires improvisers to not only spontaneously generate meaningful
+dialogue, but also verbally ’paint’ the visual environment of the scene through that dialogue. With multilingual per-
+formance it there is a signiﬁcant cognitive demand on both performers and audiences to keep track of physical details
+being described throughout the scene, and there is subsequently little agreement about the physical reality of the space.
+Performing tele-presently with Virtual Director meant performers and audiences could immediately understand where
+the scene was taking place, alleviating much of that cognitive burden.
+
+10https://richmix.org.uk/events/rosetta-code/
+
+5
+
+4 Discussion and Conclusions
+
+One consideration is that our system de-centers the place of the actors on the digital stage. No longer is there a human
+front-and-center, but rather, there is a window (sometimes quite literally a digital window) within which performers are
+co-located. This has a potential to shift the audiences focus from the acting and emotion of the live performer to the
+technological choices that are supporting the experience. While this risk is real, we have found that the balance enables
+us to explore mixed human-machine storytelling in a way that would otherwise not be possible. That is, we are able
+to have humans and machines perform scenes together and it ‘looks and feels’ similar to having two humans perform
+together. This delicate balance on the cusp of the uncanny valley is a fun and playful experience for performers, and it
+allows us to tell stories that are otherwise more demanding on the audiences’ suspension of disbelief.
+Once we assemble again in a post-pandemic world, we will keep the tele-immersion and translation tools to create
+mixed-presence connected international shows. What we aimed to do with our Virtual Director work was not to repeat
+or replicate the experience the interactive and embodied experience in a shared theatre setting. Rather, we aimed to
+augment the creativity and storytelling capabilities of human performers with technology that can be used in multiple
+settings (Mirowski and Mathewson 2019).
+These tools will enable the next generation of on-site improvisational theatre as well. Performers will be able to build
+immersive lighting, visual, and audio experiences in the moment, and from the stage. Audiences will be empowered to
+immerse themselves in the collective creation of the show through textual interaction, through their voices, or even by
+moving around the space. These platforms are built in such a way that they can easily be adopted by improvisational
+theatres anywhere on earth. We are already sharing this technology with other performers around the world. These
+groups have engaged with out platforms to enable their shows. This global impact is a testament to the impact of
+platform development. Finally, as we slowly and cautiously migrate back into the theatres, our technologies will continue
+to enable live theatre experiences in novel and immersive ways.
+
+References
+Bailenson, Jeremy N. (Feb. 23, 2021). “Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue”. In:
+Technology, Mind, and Behavior 2.1. https://tmb.apaopen.org/pub/nonverbal-overload. DOI: 10.1037/tmb0000030.
+URL: https://tmb.apaopen.org/pub/nonverbal-overload.
+
+Berger, Nicholas (Apr. 2020). The Forgotten Art of Assembly. URL: https://medium.com/@nicholasberger/the-
+
+forgotten-art-of-assembly-a94e164edf0f.
+
+Branch, Boyd, Christos Efstratiou, Piotr Mirowski, Kory W. Mathewson, and Paul Allain (2021). “Tele-Immersive Improv:
+
+Effects of Immersive Visualisations on Rehearsing and Performing Theatre Online”. In:
+
+Fauville, Geraldine, Mufan Luo, Anna Carolina Muller Queiroz, Jeremy N Bailenson, and Jeff Hancock (2021). “Zoom
+
+Exhaustion & Fatigue Scale”. In: Available at SSRN 3786329.
+
+Johnson, Noah (2020). Improv Theaters That Shut Down in 2020. URL: https://docs.google.com/spreadsheets/
+
+u/1/d/1l5zmaMOfBZKpxINnfWH9wekYGdsl7bpJb5GlK-7Y_hg/htmlview.
+
+Johnstone, Keith (2012). Impro: Improvisation and the theatre. Routledge.
+Mathewson, Kory W. and Piotr Mirowski (2017). “Improvised theatre alongside artiﬁcial intelligences”. In: Proceedings of
+
+the AAAI Conference on Artiﬁcial Intelligence and Interactive Digital Entertainment. Vol. 13. 1.
+
+– (2018). “Improbotics: Exploring the imitation game using machine intelligence in improvised theatre”. In: Proceedings
+
+of the AAAI Conference on Artiﬁcial Intelligence and Interactive Digital Entertainment. Vol. 14. 1.
+
+Mirowski, Piotr and Kory W. Mathewson (2019). “Human improvised theatre augmented with artiﬁcial intelligence”. In:
+
+Proceedings of the 2019 on Creativity and Cognition, pp. 527–530.
+
+Mirowski, Piotr, Kory W. Mathewson, Boyd Branch, Thomas Winters, Ben Verhoeven, and Jenny Elfving (2020). “Rosetta
+Code: Improv in Any Language”. In: Proceedings of the 11th International Conference on Computational Creativity. Associ-
+ation for Computational Creativity, pp. 115–122.
+
+Spiro, Neta, Rosie Perkins, Sasha Kaye, Urszula Tymoszuk, Adele Mason-Bertrand, Isabelle Cossette, Solange Glasser,
+and Aaron Williamon (2020). “The effects of COVID-19 lockdown 1.0 on working patterns, income, and wellbeing
+among performing arts professionals in the United Kingdom (April–June 2020)”. In: Frontiers in psychology 11.
+Turing, Alan M (2009). “Computing machinery and intelligence”. In: Parsing the turing test. Springer, pp. 23–65.
+
+5 Appendix 1: REVIEW: Improbotics Online, Paris Fringe 2020, 4/5 Stars
+
+This review was posted to BingeFringe.com June 7, 2020 and is authored by Jake Mace.11
+In events reminiscent of a mix between a Franz Kafka novel and an episode of Black Mirror written on an acid trip,
+Alex the Artiﬁcially Intelligent Avatar has joined an improv troupe. Alex’s automatically generated lines are slotted
+
+11https://bingefringe.com/2020/06/07/review-improbotics-online-paris-fringe-2020/
+
+6
+
+into the architecture of stories created by audience suggestions through a website. These suggestions are then beamed
+back to YouTube in the style of a Raoul Hausmann collage as the bodies of the improvisers are inserted into different
+backgrounds by virtual director Boyd Branch.
+Improbotics Online was split into 3 sections. In the ﬁrst, Alex is inserted directly into the scene, creating some incredibly
+surreal interaction between a photorealistic AI cat and a man who just wants to swim. In the second section two-hander
+scenes are played out by the improvisers but one’s body is inhabited by Alex, becoming a “Cyborg” and only speaking
+lines generated by the robot.
+Possibly the most entertaining section of the show took the form of a narrative across many scenes where one of the
+improvisers was a “Cyborg” and the audience has to guess which. This led to a hysterical moment where in the middle
+of an intense scene about a woman who suspects her boyfriend has been cheating on her while he’s at the gym, improviser
+Harry Turnbull (seemingly inhabited by Alex) blurts out the line “The number of troops in Afghanistan in the past three
+years has risen directly in tandem with President Obama’s strategy.”
+Other standout lines from the AI include “I’m your Mum, you’re my Brother, what do you think of my Dad?” and “I’m
+an alcoholic, so I don’t mind.” Alex, either intentionally or unintentionally, seems hellbent on disrupting any scene that
+they are dropped into the middle of.
+The translation of the stage show into an online performance was not entirely seamless – however I do not feel it is
+important to mark Improbotics Online down for this, as a lot of the witty and interesting moments occurred during the
+slight awkward panic of being live and online. If anything, the online show seemed to thrive on the anarchy that the
+format provided. All of the performers showed excellent form to carry the show through despite being scattered all over
+the world.
+Live suggestions from the audience were integrated into the show’s last segment and the performers seem to feed per-
+fectly off of these as well as bouncing around Alex’s chaos-bringing presence. The narrative of this ﬁnal segment took
+many surprising turns. It eventually landed on the story of a grunt being sent by a wizard to ﬁnd him a Scandinavian
+wife as he had turned his previous girlfriend into a Pumpkin Spiced Latte while in the Starbucks queue.
+His quest leads us to a woman who still bathes with her forty one year old adult son. On their ﬁrst date, the wizard
+gets cold feet and turns himself into a cat, before through a number of tangential encounters lead us back to some sort of
+conclusion.
+The implementation of the AI into these traditional Improv troupe games is genius and the pace of the event doesn’t skip
+a beat, even in between the monumental technical efforts undertaken to splice each player into a scene. This is exactly
+the kind of response that the creative world will have to look towards as we continue to learn to live with the current
+tricky situation regarding lockdowns and restrictions on how readily artists can perform together and in front of live
+audiences.
+Overall, the show was raucous fun, pure anarchy and a dystopian vision of an Artiﬁcially Intelligent future where the
+Turing Test might be decided by how readily you can hold back your views about the deployment of US troops into the
+Middle East.
+Improbotics Online is not to be missed this Paris Fringe. A second performance will be held on the Paris Fringe Youtube
+Channel on the 21st June 2020 at 21.30 Paris Time, for absolutely free. You can read more about future Improbotics
+performances on their website.
+
+7
+
+

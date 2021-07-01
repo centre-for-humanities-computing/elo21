@@ -1,0 +1,815 @@
+	
+
+	
+
+Beyond Maximalism: Resolving the Novelistic Incompatibilities of Realism, Paranoia, 
+
+Omniscience, and Encyclopedism through Electronic Literature. 
+
+ 
+
+Abstract: 
+
+In The Maximalist Novel, Ercolino defines a type of novel that displays multiform maximizing and 
+
+hypertrophic tension. He lists Pynchon’s Gravity’s Rainbow (1973) and Mason & Dixon (1997), 
+
+Wallace’s Infinite Jest (1996), DeLillo’s Underworld (1997), Smith’s White Teeth (2000), Franzen’s 
+
+The Corrections (2001), and Bolaño’s 2666 (2004) as examples of the term, and classifies the 
+
+maximalist novel using ten elements: length, encyclopedic mode, dissonant chorality, diegetic 
+
+exuberance, completeness, narratorial omniscience, paranoid imagination, intersemioticity, ethical 
+
+commitment, and hybrid realism. While Ercolino’s ten elements accurately identify and classify a 
+
+significant novel form that has emerged, I argue that these elements are incompatible with one 
+
+another, which has resulted in criticisms of maximalist novels, as well as a number of maximalist 
+
+novelists to abandon the form. While Ercolino argues that these incompatibilities represent an 
+
+‘internal dialectic’ of the genre, I argue that this is too conflicting to be stable as a novelistic form. 
+
+These incompatibilities include the incompatibility of multiple (hybrid) realisms, the incompatibility 
+
+of paranoid imagination with ethical commitment, and the incompatibilities of narratorial omniscience 
+
+and an encyclopedic mode with a persuasive realism. By examining contemporary fictional works 
+
+written by previously maximalist novelists, I reassess Ercolino’s ten elements in order to identify the 
+
+reasons why certain authors have moved beyond the limits of his definition. In so doing, I compare 
+
+and contrast Ercolino’s ‘maximalist novel’ with Woods’s ‘hysterical realism,’ and Johnston’s ‘novel 
+
+of information multiplicity.’ Using the Franzen and Smith corpuses as examples, this paper speculates 
+
+on the future form of the novel as it progresses into the 21st Century. From this literary interrogation, 
+
+I apply these conclusions to my digital creative practice by developing the digital novel The Perfect 
+
+Democracy (funded by the Australia Council for the Arts). This work takes as its subject the entire 
+
+population of contemporary Australia. Such a vast subject is impossible to represent in a work of 
+
+	
+
+1	
+
+	
+
+	
+
+fiction. The whole work is presented as a 3D frame-like artefact, that can be navigated as a whole, 
+
+allowing readers to be presented with a multivalent, broad-canvas novel, while resolving the 
+
+paradoxical issues identified in my interrogation of Ercolino. I propose that this will be achieved by 
+
+utilizing Calvino’s Six Memos. Images of Australian currency will be used as a structural device to 
+
+remove weight by representing the whole society from the richest to the poorest in the quickest way 
+
+possible, and a multitude of simultaneous digital writing formats and voices will be used to precisely 
+
+depict characterization. 
+
+Keywords:  
+
+ 
+
+maximalist novel – realism – relatedness – paranoia – narratorial omniscience 
+
+ 
+
+	
+
+2	
+
+	
+
+Introduction 
+
+	
+
+Stefano Ercolino defines the maximalist novel as ‘an aesthetically hybrid genre of the contemporary 
+
+novel that develops in the second half of the twentieth century… “Maximalist,” for the multiform 
+
+maximizing and hypertrophic tension of the narrative; “novel,” because the texts… are indeed novels’ 
+
+(xi). He lists Thomas Pynchon’s Gravity’s Rainbow (1973) and Mason & Dixon (1997), David Foster 
+
+Wallace’s Infinite Jest (1996), Don DeLillo’s Underworld (1997), Zadie Smith’s White Teeth (2000), 
+
+Jonathan Franzen’s The Corrections (2001), and Roberto Bolaño’s 2666 (2004) as examples of the 
+
+term, and classifies the maximalist novel using ten elements: length, encyclopedic mode, dissonant 
+
+chorality, diegetic exuberance, completeness, narratorial omniscience, paranoid imagination, 
+
+intersemioticity, ethical commitment, and hybrid realism. While Ercolino’s ten elements accurately 
+
+identify and classify a significant novel form that has emerged, I argue that these elements are 
+
+incompatible with one another, which has resulted in criticisms of maximalist novels, as well as a 
+
+number of maximalist novelists to abandon the form. While Ercolino argues that these 
+
+incompatibilities represent an ‘internal dialectic’ of the genre, I argue that this is too conflicting to be 
+
+stable as a novelistic form. These incompatibilities include the incompatibility of multiple (hybrid) 
+
+realisms, the incompatibility of paranoid imagination with ethical commitment, and the 
+
+incompatibilities of narratorial omniscience and an encyclopedic mode with a persuasive realism. By 
+
+examining contemporary fictional works written by previously maximalist novelists, I reassess 
+
+Ercolino’s ten elements in order to identify the reasons why certain authors have moved beyond the 
+
+limits of his definition, and how this may impact the novel form as it progresses into the 21st Century. 
+
+In so doing, I compare and contrast Ercolino’s ‘maximalist novel’ with James Woods’s ‘hysterical 
+
+realism’ and John Johnston’s ‘novel of information multiplicity.’ Finally, I propose that these issues 
+
+can be resolved through born-digital works, such as the Australia Council for the Arts-funded 
+
+practice-led research project The Perfect Democracy.  
+
+ 
+
+Hybrid and Hysterical Realism 
+
+	
+
+3	
+
+	
+
+	
+
+Ercolino claims that in maximalist novels the reader is faced with a unique form of realism, one which 
+
+is ‘heavily conditioned by the powerful antireferential and tautological friction of the artistic act 
+
+running throughout the entire system of the arts in the twentieth century’ (158). He defines this as 
+
+‘hybrid realism.’ This is Ercolino’s final and most important element. 
+
+ 
+
+Similar to Ercolino’s ‘maximalist novel,’ literary critic James Wood, in his review of Zadie 
+
+Smith’s White Teeth (“Human, All Too Inhuman”), defines the ‘hysterical realist’ genre, which he 
+
+also classifies with texts similar to those Ercolino uses to define the ‘maximalist novel’. Wood is 
+
+critical of these ‘big, ambitious social novels’ for their conceptual, inhuman characters, which he 
+
+argues result from their insistence on relatedness. He uses the term ‘hysterical’ to denote the 
+
+perpetual-motion of the above-mentioned novels’ plots.  
+
+The Oxford Companion to English Literature states that, as a literary term, ‘realism’ is so 
+
+widely used it is more or less meaningless except ‘when used in contradistinction to some other 
+
+movement.’ In How Fiction Works, Wood argues that literary realism is the origin from which all 
+
+other literature emanates: 
+
+[Realism] teaches everyone else; it schools its own truants: it is what allows magical realism, 
+
+hysterical realism, […] to exist[…] Chekhov’s challenge—“Ibsen just doesn’t know life. In 
+
+life it simply isn’t like that”—is as radical now as it was a century ago, because forms must 
+
+continually be broken. The true writer[…] is one who must always be acting as if life were a 
+
+category beyond anything the novel had yet grasped; as if life itself were always on the verge 
+
+of becoming conventional. (247–8) 
+
+Chekhov’s revolution, Wood argues, is that his characters have the ability to forget that they are 
+
+characters, by wriggling out of the story given them into the ‘bottomless freedom of disappointment,’ 
+
+(90) allowing their inner lives to run at their own speed. It is this form of Chekhovian realism that 
+
+Wood argues is not possible in maximalist/hysterical realist novels.  
+
+Examining Chekhov’s stories, his style, form, and preoccupations are far removed from those 
+
+values Ercolino uses to define the maximalist novel. Not only is Chekhov not a maximalist writer, he 
+
+	
+
+4	
+
+	
+
+	
+
+is also not a novelist. It would therefore come as no surprise that the Chekhovian realism Wood 
+
+endorses is incompatible with the maximalist novel, as it is essentially its antithesis.  
+
+Yet both Ercolino and Wood use the same term: realism. Esty argues that debates over 
+
+literary realism, what he calls ‘realism wars,’ have been ongoing since the late Victorian era. 
+
+Ercolino’s description of ‘hybrid realism’ suggests that the maximalist novels attempt to resolve the 
+
+realism wars by representing multiple ‘realisms’ within a single work. In response to Wood’s 
+
+criticism, Ercolino argues that ‘realism’ and ‘postmodern’ are not incompatible. Wood’s position, 
+
+however, is that such hybridity is not possible, as the interrelatedness necessary for the hybridity to 
+
+exist ultimately taints the Chekhovian realist aesthetic, even if isolated moments within the novel 
+
+successfully depict it. In Information Multiplicity, similar to the maximalist/hysterical realist genre, 
+
+Johnston proposes the ‘novel of information multiplicity’, arguing that this form emerges in an 
+
+environment created by information and web technologies. Johnston and Wood concur that in these 
+
+works the antirealist impulse ultimately defines the novels’ realism. In either case, Ercolino’s element 
+
+‘hybrid realism’ does not resolve the realism wars, but is merely another example of it. 
+
+Wood’s position regarding the incompatibility of ‘realism’ and the ‘postmodern’ can be noted 
+
+in his review of Jonathan Franzen’s The Corrections. Though the ‘maximalist novel’ and ‘hysterical 
+
+realism’ had yet to be defined when Franzen wrote The Corrections, Franzen was aware of the 
+
+predicament Wood articulates, i.e., that excessive relatedness can result in an unpersuasive realism:  
+
+I was torturing the story, stretching it to accommodate ever more of those things-in-the-world 
+
+that impinge on the enterprise of fiction writing. The work of transparency and beauty and 
+
+obliqueness that I wanted to write was getting bloated with issues… The novelist has more 
+
+and more to say to readers who have less and less time to read: Where to find the energy to 
+
+engage with a culture in crisis when the crisis consists in the impossibility of engaging with 
+
+the culture? (66)  
+
+In discussing his writing process, he claims that the dehumanizing quality of contemporary character 
+
+is a reflection of reality, as in contemporary society our lives have become inhumanly interconnected. 
+
+	
+
+5	
+
+	
+
+	
+
+Franzen is therefore arguing against writing a ‘novel of information multiplicity,’ stressing a desire to 
+
+move away from the antirealist impulse that Johnston and Wood argue characterizes the work of 
+
+Pynchon, DeLillo, etc. As a novelist, Franzen wishes to inform and report to the reader on the state of 
+
+the culture. He concedes, however, that the novel no longer serves a function as social instruction. 
+
+Even if the novel serves no role as reportage or social instruction, Franzen maintains that such a novel 
+
+should strive to be all-encompassing (82). In other words, Franzen champions maximalism as an ideal 
+
+in and of itself. Franzen’s solution, then, is to create a ‘broad-canvas novel’ that attempts to make 
+
+interconnectedness human, what Wood calls a ‘softened DeLilloism’. In The Corrections, Franzen 
+
+retains the core ambitions of the maximalist novel, while moving beyond Ercolino’s definition. Wood 
+
+praises this ‘softened DeLillo’ approach, but believes the artistic success of Franzen’s novel is not 
+
+because of its extreme interconnectedness, but in spite of it. Even if the ambitions of the 
+
+maximalist/hysterical realist novelist can coexist with Chekhovian realism, Wood argues that they are 
+
+not comparable. The connection between a ‘malaise in ourselves and in our culture’ is purely 
+
+conceptual and muddies the Chekhovian realism that centers the novel. This suggests that it has 
+
+become impossible for the contemporary novel form to ‘pin down an entire writhing culture.’ 
+
+ 
+
+Paranoid Imagination, Ethical Commitment, and the Influence of Kafka 
+
+Ercolino argues that ‘paranoia is one of the most characteristic elements of the postmodern narrative 
+
+universe’ (105). He continues: ‘Everything is linked: this is the unshakeable conviction of the 
+
+paranoid, a conviction that finds its structural equivalent in the direct or indirect interconnection of all 
+
+the stories, of all the characters, and of all the events that proliferate in maximalist novels’ (111). 
+
+Paranoia, then, can be regarded as one of the ‘antirealist impulses’ Ercolino notes in describing 
+
+‘hybrid realism.’ Likewise, Johnston argues that Pynchon and DeLillo’s works are characterized by 
+
+paranoia. In Gravity’s Rainbow, he writes that paranoia is ‘no longer designated a mental disorder but 
+
+rather a critical method of information retrieval’ (62). The paranoid imagination Ercolino defines can 
+
+be observed not only in the novels described, but also in Franz Kafka’s Amerika (1927). Pynchon (in 
+
+	
+
+6	
+
+	
+
+	
+
+Bloom), DeLillo (in DePietro)), Wallace, Rushdie, Smith (in Changing My Mind), and Bolaño (in 
+
+Klenemeier) have all cited the importance of Kafka in relation to their work. For the contemporary 
+
+maximalist novelist, Kafka’s influence appears, fittingly, inescapable. 
+
+Amerika evokes the dreamlike claustrophobia and agoraphobia typical of Kafka’s novels, 
+
+which is due to the novel’s paranoid imagination. The narrative relies on coincidence and excessive 
+
+relatedness. The difference between Kafka’s novel and the novels described, however, is its relation 
+
+to ‘real’ phenomena. While informed by research of the present (Hofmann (in Kafka, Amerika, 1996) 
+
+claims Kafka’s book is ‘up to the minute, with its telephones and gramophones, electric bells and 
+
+electric torches, lifts, the Brooklyn Bridge… [and] an early reference to Coca-Cola’ (xiii)), from the 
+
+opening paragraph in which the Statue of Liberty is seen holding a sword, it becomes clear that 
+
+Kafka’s Amerika bears little resemblance to a ‘real’ experience of a European immigrant in the United 
+
+States. The interconnectedness is persuasive as Kafka establishes a dream-like quality and logic. 
+
+Unlike the hysterical realists, whose close examination of real-world issues creates immediate, 
+
+enclosed context, Kafka’s novels elude such readings. Given contemporary widespread information 
+
+and global awareness, however, writing of other countries, institutions, or cultural groups with such 
+
+disconnect from ‘real’ phenomena presents ethical representational issues.  
+
+In her review of The Maximalist Novel, Hayles notes that Ercolino does not make reference to 
+
+the influence of information technologies, databases, computational media:  
+
+much of the impetus toward the massive information flows apparent in the examples derive 
+
+from the creation and dissemination of the personal computer, the emergence of the web, the 
+
+spread of social media, and the pervasiveness of Internet search engines. (521)  
+
+Hayles continues that these developments undoubtedly explain why the maximalist novel differs from 
+
+other big encyclopedic modernist novels (e.g., Melville’s Moby-Dick and Joyce’s Ulysses). Similarly, 
+
+these developments (i.e., emergence of the web, spread of social media, etc.) highlight a significant 
+
+difference between the paranoid imagination displayed in the works of Kafka and in the contemporary 
+
+	
+
+7	
+
+	
+
+	
+
+maximalist novelists. In other words, one cannot write (or indeed read) as Kafka did in the 
+
+contemporary digital age.  
+
+In the information/networked age, a novel that is structured by paranoia yet aspires towards 
+
+ethical commitment (as Ercolino claims the maximalist novel does) is ultimately at odds with itself. In 
+
+Bolaño’s 2666, for example, the heavy interrelatedness of the novel’s structure draws a comparison 
+
+between the female homicides of Ciudad Juárez and World War II and the Holocaust. It is difficult, 
+
+however, to determine in what capacity one atrocity can or should illuminate another, and how a 
+
+reader should make this comparison. Indeed, 2666’s structure explicitly segregates these components. 
+
+Ercolino posits that his elements can be split into two camps, playing ‘different roles in the internal 
+
+dialectic of the genre’ and that a ‘hierarchy of the materials is always presupposed which guarantees 
+
+the genre’s morphological and symbolic hold’ (114). This he labels the chaos/cosmos function: 
+
+‘anarchy versus order, centrifugal forces versus centripetal forces, chaos versus cosmos’ (115). In 
+
+2666, then, the relationship between female homicides of Ciudad Juárez and the Holocaust could 
+
+either be ‘meaningful’ (cosmos) or simply two independent events that have no correlation (chaos). 
+
+The novel’s ‘paranoid imagination’ that informs the novel’s interrelated structure, however, both 
+
+allows and encourages parallels between the female homicides and the Holocaust. Not only the 
+
+structure, but the meaning of the work is defined by its paranoia. 
+
+The very notion of a ‘cosmos’ function is at odds with maximalist novels’ social realism; in 
+
+the case of 2666, the social realism of the very relentless, specific, almost journalistic approach to the 
+
+female homicides is at odds with a parallel to the Holocaust. Despite the fact that maximalist novels 
+
+are ‘monopolized by themes of great historical, political, and social relevance,’ addressing themes 
+
+such as history, war, drugs, capitalism, and technology (Ercolino, 136–7), the use of paranoid 
+
+imagination to draw connections between these themes lacks ‘ethical commitment’ as it draws 
+
+immoral parallels. 
+
+ 
+
+Narratorial Omniscience and Cliché 
+
+	
+
+8	
+
+	
+
+	
+
+Since Wood’s review of Zadie Smith’s White Teeth in which he defines and criticizes ‘hysterical 
+
+realism,’ Smith has written of her shifting approach towards the contemporary novel. Smith argues 
+
+that such ‘hysteria’ is necessary, as in contemporary culture the immediacy of news, political 
+
+commentary, and satire means that the fiction writer who addresses contemporary issues or 
+
+institutions risks cliché: ‘Even if you find [Pynchon, DeLillo, Foster Wallace, etc.] obtuse, they can 
+
+rarely be accused of cliché, and that… is the place where everything dies.’  
+
+ 
+
+Smith further explores her desire to make connections in her essay “Rereading Barthes and 
+
+Nabokov.” She finds Barthes’s notion of reader authority appealing as a reader, but paralyzing when 
+
+applied to the act of writing itself. White Teeth, for example, is constructed in such a way as to 
+
+represent a vast multiplicity of voices within the culture. The text stretches itself to accommodate and 
+
+engage with a profusion of public and private issues. To avoid plot immobility, coincidence, 
+
+Dickensian caricature and paranoid imagination are utilized, which has resulted in Wood’s criticisms. 
+
+In her essay, Smith contrasts Barthes’s approach with Nabokov’s assertion of authorial privilege:  
+
+Barthes spoke of the pleasure of the text, Nabokov of asking his students to read “with your 
+
+brain and spine… the tingle in the spine really tells you what the author felt and wishes you to 
+
+feel.” Barthes, though, had no interest in what the author felt or wished you to feel, which is 
+
+where my trouble starts. (43)  
+
+This trouble is the desire to create an authorial text that accounts for the birth of the reader(s) without 
+
+resorting to excessive interrelatedness or the potential cliché of twenty-first-century bourgeois 
+
+political apathy.  
+
+ 
+
+Smith attempts to resolve this trouble in her fourth novel NW (2012).  Stylistically, it marks a 
+
+departure from her other work, utilizing a combination of first- and third-person perspective, 
+
+numbered fragments, and typographical arrangements. NW does not display ‘paranoid imagination,’ 
+
+as connected events become tangential, having quiddity in and of themselves. Particularity is based 
+
+primarily on class, rather than ethnicity. Similar to Irie Jones at the conclusion of White Teeth, at the 
+
+conclusion of NW Natalie Blake, feeling decentered and fraudulent, sets up anonymous sex 
+
+	
+
+9	
+
+	
+
+	
+
+encounters via the Internet. Unlike Irie in White Teeth, however, the ‘decentered’ form that reflects 
+
+Keisha/Natalie’s decentered sense of identity makes this choice human and persuasive, rather than 
+
+conceptual or hysterical. At the novel’s conclusion, after Natalie’s affairs have been exposed and she 
+
+loses track of her children in a pet store, Smith writes: ‘She raised her head from her newspaper. She 
+
+called out. Nothing. She walked to the fish, the lizards, the dogs and the cats. Nowhere. She reassured 
+
+herself she wasn’t the hysterical [emphasis mine] type’ (288). 
+
+A significant difference between White Teeth and NW is the novel’s use of omniscient 
+
+narration. Paul Dawson argues that twenty-first century fiction has seen a revival of omniscient 
+
+narration and that this emerges from an ‘encounter with some of the technical experiments of 
+
+postmodern fiction’ (4). In the case of White Teeth, Dawson argues that there are 
+
+substantial passages of digressive and garrulous commentary throughout the novel which 
+
+directly address the reader. …the narrator employs the editorial “we” to rhetorically invoke a 
+
+general consciousness. (128)  
+
+In NW, however, such an authorial voice is absent. Though the novel fluctuates between four different 
+
+characters’ perspectives, the points of view themselves remain that of the characters. NW, therefore, 
+
+has more in common with the Modernist novels than the omniscient perspective of White Teeth. NW 
+
+would not be classified as a maximalist novel. As a result, any intersemioticity or diegetic exuberance 
+
+is justified as being the voice of the character. Smith’s reduced omniscience and interconnectedness in 
+
+NW suggests a stylistic return to the Modernist novel in order to both account for the birth of the 
+
+reader(s) without resorting to excess or cliché. While a text such as NW rejects Johnston’s assertion 
+
+that the literary form must be ‘machinic’, it contains characters who are capable of interacting with 
+
+such information systems. It therefore remains both contemporary (i.e., of the networked/digital age) 
+
+and human. 
+
+ 
+
+A Light Encyclopedic Mode 
+
+	
+
+10	
+
+	
+
+	
+
+Ercolino argues that a key element in defining the maximalist novel is an ‘encyclopedic mode.’ 
+
+Encyclopedism is not the ambition of the maximalist novelist, rather it is a tool in ‘attempting to 
+
+satisfy its synthetic ambition’ (40). Ercolino cites Italo Calvino, crediting him with pointing out that 
+
+the desire to write encyclopedic works was one of the strongest aspirations of modernism (27). In Six 
+
+Memos for the Next Millennium, Calvino (1988) addresses the encyclopedic under his lecture on 
+
+multiplicity. Calvino’s own later novels reflect this value. What is not present in the later novels of 
+
+Calvino, however, is a sense of Chekhovian/lyrical realism. Even in a novel such as If on a winter’s 
+
+night a traveler, where particular chapters display a sense of realism, it is framed and presented as a 
+
+construct.  
+
+ 
+
+As well as a less forced interconnectedness, Smith expresses a predilection for ‘controlled 
+
+little gasps of prose, as opposed to the baggy novel’ and an admiration for these qualities in the works 
+
+of Kafka, Borges, and Cortázar. Smith goes on to ask, if it is ‘this reverence, this care, this 
+
+suppression of ego that Wood wants to see from us?’ This reverence is shown in NW, but is taken a 
+
+step further in Smith’s The Embassy of Cambodia (2013). Smith still interweaves particularities, but 
+
+reduces this density so as to lighten the amount of reality imposed on her characters and the text. In 
+
+other words, The Embassy of Cambodia depicts Chekhovian realism. 
+
+This opposes Ercolino’s first element: length. Smith’s rejection of length, however, does not 
+
+necessarily reject the core ambitions of the maximalist novel, as it does not necessitate a reversion to 
+
+literary minimalism. Smith still interweaves particularities, but reduces this density so as to lighten the 
+
+amount of reality imposed on her characters and the text. Plots do not converge at a central apex; 
+
+rather, the plot leaves the protagonist unemployed with a wholly unclear future. Smith’s predilection 
+
+could therefore be regarded as a desire for what Calvino labels lightness. For Calvino, lightness is 
+
+understood in terms of its binary opposite, weight. His reason for treasuring lightness is a desire to 
+
+write in such a way as to represent his own time, to identify himself with the collective and individual 
+
+energies propelling the events of the century. The weight of all these issues, however, becomes 
+
+problematic when attempting to write cohesive, dramatic, engaging fiction. As Ercolino points out, 
+
+the problem with the encyclopedic project in the postmodern is that it ‘explodes, crushed by its own 
+
+	
+
+11	
+
+	
+
+	
+
+weight’ (29). Borrowing from Greek mythology, Calvino compares this type of weighty text to the 
+
+stare of the Medusa in that it paralyses language and narrative. This, however, is not to suggest that a 
+
+writer should ignore the weight of the world. Though binary opposites enable Calvino to define his 
+
+values, this does not necessitate the negation of the binary opposite. Like Perseus, who decapitated the 
+
+Medusa and carried its head, the writer should be light without negating or neglecting weight.  
+
+Miller (in Dawson) argues that the rise of the maximalist/hysterical realist movement was in 
+
+fact a shift in American fiction away from minimalism, ‘exemplified in the tradition from Hemingway 
+
+to Carver’ (162), to maximalism. Smith’s The Embassy of Cambodia therefore is not simply a return 
+
+to literary minimalism, but a move beyond maximalism in that it retains the ambition of the 
+
+maximalist novel while shedding length/weight.  
+
+Smith’s NW and The Embassy of Cambodia suggest that while depicting interconnectivity is 
+
+possible and even potentially persuasive, it is not a vital revelation. In the case of NW, while the 
+
+stories are interconnected, this is primarily to justify its structure as a novel. In fact, The Embassy of 
+
+Cambodia, with its Willesden setting, reads almost as an NW offcut. This brings into question the 
+
+necessity for the ‘lyrical realist’ novel as an appropriate form to depict contemporary culture, and 
+
+whether or not it will persist for reasons other than tradition or money.  
+
+ 
+
+The Perfect Democracy 
+
+This practice-led research takes as its subject the entire population of contemporary Australia. It is 
+
+also about the impossibility of representing this in a work of fiction. Visible images of Australian 
+
+currency have therefore been used as a requisite structural device to remove weight by representing 
+
+the whole society from the richest to the poorest in the quickest way possible. A multitude of 
+
+simultaneous writing formats (palimpsestic writing, columns, 3D shapes, etc.) and voices (wills, 
+
+business plans, legal transcripts, stream-of-consciousness, etc.) are used to precisely depict 
+
+characterisation. The whole work forms a ‘border-like’ shape that interconnects everything literally, 
+
+persuasively, and diegetically.  
+
+	
+
+12	
+
+	
+
+	
+
+In the contemporary hyper-interconnected pandemic context, it would appear that we need the 
+
+maximalist novel more than ever. At the same time, the incompatibilities articulated above are all the 
+
+more prominent. Through this practice-led research project, I hope to show how the incompatibilities 
+
+of the contemporary novel can be resolved in new electronic literary forms that push beyond literary 
+
+maximalism. 
+
+ 
+
+	
+
+13	
+
+	
+
+	
+
+Works Cited 
+
+Bolaño, Roberto. 2666, translated by Natasha Wimmer. London: Picador, 2009. 
+
+Bloom, Harold. Thomas Pynchon. New York: Chelsea House Publishers, 1986. 
+
+Calvino, Italo. If on a winter’s night a traveler. New York: Harcourt Brace Jovanovich, 1981. 
+
+--. Invisible Cities. London: Pan Books, 1979. 
+
+--. Six Memos for The Next Millennium. London: Vintage, 1988. 
+
+Dawson, Paul. The Return of the Omniscient Narrator: Authorship and Authority in Twenty-First 
+
+Century Fiction. Columbus: The Ohio State Univ. Press, 2013. 
+
+DeLillo, Don. Underworld. New York: Scribner, 1997. 
+
+DePietro, Thomas. Conversations with Don DeLillo. Jackson: Univ. of Mississippi, 2005. 
+
+Ercolino, Stefano. The Maximalist Novel: From Thomas Pynchon’s Gravity’s Rainbow to Roberto 
+
+Bolaño’s 2666. New York: Bloomsbury, 2014. 
+
+Esty, Jed. “Realism Wars.” Novel 49, no.2 (2016): 316-342. 
+
+Franzen, Jonathan. The Corrections. New York: Farrar, Straus and Giroux, 2001. 
+
+--. How to Be Alone. New York: HarperCollins, 2002. 
+
+Hayles, N. Katharine. “Maxing Out the Novel”. Novel 49, no.3 (2016): 519-522. 
+
+Johnston, John. Information Multiplicity: American Fiction in the Age of Media Saturation. The Johns 
+
+Hopkins University Press: Baltimore, 1998. 
+
+Kafka, Franz. Amerika, translated by Edwain Muir. New York: Shocken Books, 1974. 
+
+--. Amerika (The Man Who Disappeared), translated by Michael Hofmann. London: Penguin Books, 
+
+1996. 
+
+	
+
+14	
+
+	
+
+	
+
+Klenemeier, M. ‘Unser Teil der Traurigkeit’. Neue Zürcher Zeitung, 27 April. 
+
+https://www.nzz.ch/article7ZAC8-1.388933, 2002. 
+
+Rushdie, Salman. Step Across This Line: Collected Nonfiction 1992-2002. New York: Modern 
+
+Library, 2003. 
+
+Smith, Zadie. “This is how it feels to me.” The Guardian, 2001. 
+
+https://www.theguardian.com/books/2001/oct/13/fiction.afghanistan. 
+
+--. White Teeth. New York: Vintage International, 2001. 
+
+--. Changing My Mind: Occasional Essays. London: Hamish Hamilton, 2009. 
+
+--. NW. London: Hamish Hamilton, 2012. 
+
+--. The Embassy of Cambodia. London: Hamish Hamilton, 2013. 
+
+The Concise Oxford Companion to English Literature, edited by Margaret Drabble, Jenny Stringer, 
+
+and Daniel Hahn. Oxford: Oxford Univ. Press, 2007. 
+
+Wallace, David Foster. (2007) Consider the Lobster and other essays, New York: Back Bay 
+
+Books/Little Brown and Co.  
+
+Wood, James. “Human, All Too Inhuman.” The New Republic Online, 2000. 
+
+https://newrepublic.com/article/61361/human-inhuman. 
+
+--. The Broken Estate: Essays on Literature and Belief. New York: Picador, 2000. 
+
+--. “What the Dickens” The Guardian, 2001. 
+
+https://www.theguardian.com/books/2001/nov/09/fiction.reviews. 
+
+--. How Fiction Works. New York: Picador, 2008. 
+
+	
+
+15	
+
+

@@ -1,0 +1,557 @@
+María Mencía 
+ 
+Digital Methodologies for Analysing and Disseminating Community Research. 
+(A reflection on practice by the artist/researcher) 
+ 
+Keywords: methodology, co-creation, collaboration, multimodality, community research, community building, 
+digital platforms/tools, creative practices, storytelling, healing, societal issues, COVID 19.  
+ 
+The global COVID-19 pandemic has made me further address the value that artistic practice 
+can have on our mental and psychological health and its significance in community healing. 
+According to Gloster AT. et al. the main impact of the virus was uncertainty and of the 
+lockdowns were stress, depression, affect and wellbeing (2020, p. 3). COVID 19 has affected 
+our mental health, raising feelings of uncertainty, isolation, hopelessness, fear, and anxiety; 
+it has challenged us to change our lifestyles and rebalance our commitments to work, 
+family, education, and recreation. This global disaster has also hit people from 
+disadvantaged backgrounds much harder, particularly those in challenging financial 
+situations; suffering from pre-existing health conditions or living with violent and abusive 
+partners. It has shown us just how imbalanced our societies are, in terms of race and gender 
+for example. Online platforms have taken a major role serving to make this situation more 
+bearable. We are learning to do what we did before, at a distance and in some cases even in 
+isolation. 
+ 
+As an artist and researcher in creative practices, I have, for a while now, used such online 
+platforms to create spaces to share personal stories. I have been able to connect narratives 
+to bring up issues of power, territory, displacement, personal and historical memory, 
+gender, and violence. The COVID pandemic has forced us to live, work, socialise at a 
+distance using such digital platforms and it has highlighted the importance of finding ways 
+to engage global communities to share their healing stories, even if it is done in isolation 
+and at a distance, through electronic literature and art.  
+ 
+Consequently, in this paper I would like to explore the use of methodologies and digital 
+tools which can help to conduct and disseminate interdisciplinary research projects 
+alongside artists and communities. I have experience of working in community groups in 
+galleries, museums and schools, and my research and practice draws from these. However, 
+the two projects discussed in this paper, Invisible Voices and Share to Heal workshop, are 
+more focused on societal issues which occurred due to specific social or political 
+circumstances of a period in time. They address questions in connection to community 
+histories; the value that creative storytelling and artistic approaches can have in sharing 
+personal stories; and the value of working directly with participants. The paper also 
+highlights the impact these projects can have not only to these specific communities, but 
+also to society in general. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+1 
+
+Project One - Invisible Voices: Women Victims of the Colombian Conflict 
+ 
+The first case study in this context is titled Invisible Voices: Women Victims of the Colombian 
+Conflict, funded by the Arts and Humanities Research council (AHRC) of England 1 and 
+addresses the issue of the representation of the conflict and victims in Colombia’s 60-year-
+long conflict.  
+ 
+We have been aware of the use of the Internet as a medium and as a platform for 
+communication and dissemination for a long time now. In the early 1990’s many artists took 
+advantages of this medium to produce work outside the confinements of the gallery and 
+even geographical and national barriers with works of “netart”2.  
+ 
+Mark Tribe and Reena Jana, in their condensed and comprehensive book New Media Art, 
+look at art practices in the age of digital communication and distribution. They present 
+examples representatives of how artists have always engaged with emerging media 
+technologies (the Internet one of them) as it made a global movement of Art, to explore 
+cultural, social and aesthetics possibilities. This global characteristic is now a leading aspect 
+in the way we experience the everyday in connection to the use of online platforms for 
+more creative practices.  
+ 
+Tribe and Jana (2006, p. 6) highlight how the Internet has meant different things for 
+different people, whether a way to get rich, a place for political grassroots, a place for 
+publishing, for distributing information and for advertising. As they mention, as early as 
+1994, new terms started to appear such as web, the net, cyberspace and <dot com.> which 
+now are so familiar. It was around this time that the first commercial web browsers enabled 
+everyone to become a digital artist and made the World Wide Web a source of inspiration 
+and dissemination.  
+ 
+Up till now artists have used the Internet as a medium and a way to create and distribute 
+digital art-literature. However, separation between the medium and the artist still existed, 
+the physical and the virtual spaces were still apparent and although virtual reality has 
+brought them closer, it is arguably only through the current global pandemic, that media-
+technologies have become engrained in our lives, accentuating our dependence on online 
+communication.  The way we experience our everyday life, communicate, interact, and 
+understand the social, the cultural, the self, through the digital medium, has changed.  
+ 
+In this age of pandemic, separation and isolation geographical boundaries have become 
+closer through online platforms. Poignant issues of neglect from many governments in 
+tackling COVID 19 make it even more imperative to think of new ways to build applications 
+where users can share personal stories, concerns, mental health problems, challenges or 
+social issues through narrative methods and media art practices. We need to connect the 
+
+ 
+
+1 It was undertaken in conjunction with an interdisciplinary team of experts working in different fields of 
+research: Modern Languages, Media Arts, Computer Sciences and Human Rights Law. See website: 
+https://www.voces-invisibles.com/  (Accessed 12/05/2021) 
+2 net.art also known as Internet art due to the use of the Internet as its medium and place from which to draw 
+material to create artwork. 
+
+ 
+
+2 
+
+community of electronic literature-art with such communities in our new local-globalised 
+spaces with the primary aim of healing. 
+  
+Community Research  
+ 
+This interest in building communities and sharing stories had already started to emerge 
+from my art and came into realisation through my artistic practice-based research project 
+The Winnipeg: The Poem that Crossed the Atlantic, where (through digital humanities 
+research and the use of digital methodologies) international communities came together to 
+heal. Issues of cultural identity, heritage, memory, homeland, migration, exile, refugees, 
+disaggregation, and displacement were addressed. And, more recently through the project 
+Invisible Voices created alongside a community of women who have suffered violence and 
+trauma.  
+ 
+Invisible Voices: Women Victims of the Colombian Conflict is a practice-based research 
+project part of the bigger research investigation Memory, Victims, and Representation of the 
+Colombian Conflict3. Above all, it focuses on exploring and incentivising new means of 
+awareness with regards to the self-representation of women victims of the Colombian 
+conflict through different creative practices. 
+ 
+We invited members of the Ruta Pacífica de las Mujeres4 with women from across 
+Colombia, and from the corporation of Zoscua in Boyacá5; to take part in a week of co-
+creation workshops in Bogota, to discuss through storytelling and creative practices, their 
+experience as victims of the Colombian armed conflict. As co-investigator, my role was 
+leading the workshops with the aim to collect materials to create a documentary website 
+and create an online digital artwork.  
+ 
+The aim of the workshops was to give voice to the women victims who were participating 
+and construct a collective memory, a memory where they felt represented. It involved 
+collecting materials for the website, an interactive digital artwork and producing 
+suggestions for alternative forms of representation of victimhood which are victim-centric, 
+primarily through storytelling and the digital art. 
+ 
+The digital art explored the potential of digital technologies through multimodality, non-
+linear representations, non-classic narratives and in a way the women could understand and 
+interact with their different literacies. I posed a series of research enquires starting with 
+
+ 
+
+3 For more information see https://www.liverpool.ac.uk/humanities-and-social-sciences/research/research-
+themes/transforming-conflict/representation-of-colombian-conflict/ 
+4 La Ruta Pacifica is a feminist movement with national political action, which works for the negotiated 
+processing of the armed conflict in Colombia and to make visible the impact of the war on the lives and bodies 
+of women; it is pacifist, antimilitarist and builder of an ethic of nonviolence in which justice, peace, equity, 
+autonomy, freedom and the recognition of otherness are fundamental principles.  Source: 
+https://rutapacifica.org.co/wp/quienes-somos/ (Accessed 9/05/2021) 
+5 The Corporation of Zoscua is based in the city of Tunja, in Boyacá, Colombia. It contributes to the 
+construction of democracy based on social justice and works for the strengthening and consolidation of 
+democratic forms of civic and social participation, with the goal to improve the living conditions of their 
+communities. See http://zoscua.blogspot.com/ (Accessed 9/05/2021) 
+ 
+
+ 
+
+3 
+
+how digital technologies could help to make visible the voices of the women victims; I 
+explored the opportunities co-creative practices could provide as methodology for 
+collaboration between artist and community with the aim of making the participants agents 
+of change, as well as a co-creation as a method for healing through sharing. I explored how 
+hybrid artistic practices including physical/analogue and digital could facilitate new forms of 
+audio-visual representations. 
+ 
+Our documentary website resulted in a detailed research project which allowed its 
+participants to voice their experience through a clear set of goals and research questions; to 
+showreel the creative process of the workshops, methods, participation, and media used; 
+and to thereby create a work of digital art which also allowed for the addition of comments 
+in the mobile application.   
+ 
+Physical: Face to Face Workshops 
+ 
+To find more tailored methods designed in response to this specific context, I liaised with 
+the Colombian local impact coordinator who had already worked with some of the women 
+and were happy to contribute to this mixed-media and multimodal production. She 
+interviewed them before I designed the workshops and this helped me to understand how I 
+could interact with them - largely through asking the right questions in a manner they would 
+find them relevant to their experiences. It was important that these documents were 
+written for the lay person to understand the work’s aim and scope, as well as their 
+significance as agents of change. The participants needed to be aware that the sessions 
+would be recorded, and that these recordings will constitute a significant part of the final 
+artwork (they were all, of course, anonymised).  
+ 
+Integral to the nature of this work was to provide a transparent approach to create a safe 
+environment and to build trust. Thus, the next step was to involve the research group in 
+discussions to provide women with a programme of activities for them to choose from. This 
+was important due to the mixed- abilities and literacies among the group.  
+ 
+This method of co-creation was a significant part of the process because it allowed the 
+women to become more investing in the study; instead of being passive providers of 
+information to be used by an artist, they took an active role in deciding how they wanted 
+their stories to be told. Within this space of cocreation, we worked with life-stories and 
+story-based communication, as Hardy, Sumner and Lambert have significantly used in their 
+storytelling practice; as well as explored creative approaches and processes, individual and 
+in group using multimodal communication through visual, audio, writing and performance 
+practices. The participants were encouraged to bring materials and through user generated 
+processes we gathered photographic material; also, the artworks women created in the 
+workshops in the form of audio, visual and written materials became part of both the 
+artwork and the website. 
+ 
+Why storytelling? 
+ 
+In this paper I have highlighted the value of personal stories for learning and awareness. Joe 
+Lambert has been working extensively with the practice of digital storytelling, he founded 
+
+ 
+
+4 
+
+the Centre for Digital Storytelling (now StoryCentre) in 1994 and he is the author of Seven 
+Stages: Story and the Human Experience. The StoryCentre’s document on ‘Storytelling 
+Program Impacts’ describes how over the last 20 years, health, education, academia and 
+community have welcomed storytelling and participatory media production methods to 
+share life experience narratives through the production of filmmaking narratives.  
+ 
+They are interested in the first-person voice, the process, participation, and the multimedia 
+production. StoryCentre has a range of methods which they identify under the umbrella of 
+StoryWork. They write ‘We work closely with workshop participants to ensure that the 
+social and political determinants of individual “experience” are brought out, in their stories’ 
+(Storycentre, Storytelling Program Impacts, p. 2) From the studies they have carried out, 
+they believe that using storytelling to express sensitive topics that might have stigmas such 
+as discrimination, victimisation or mental health issues, help to contextualise the issue or 
+problem and this is where change happens. I can recognise this identification process in 
+Invisible Voices where for instance, the women felt unheard and by being able to identify 
+their lack of representation in the Colombian conflict and find ways to make their voice 
+heard, it made a difference to them and gave them more strength to fight for their beliefs 
+and determination to change society.  
+ 
+Storycentre’s principles highlight the following: 
+ 
+
+Sharing stories can lead to positive change. Personal narratives can touch viewers 
+deeply, moving them to reflect on their own experiences, modify their behaviour, 
+treat others with greater compassion, speak out about injustice, and become 
+involved in civic and political life. Whether online, via social media, in local 
+communities, or at the institutional/policy level, the sharing of stories has the power 
+to make a real difference. (Storycentre, Core Principles, p. 3) 
+
+ 
+Women taking part in Invisible Voices were highly active about their rights and political life 
+and spoke candidly, as well as, with passion, anger and pain about the injustice they and 
+other women had suffered during the Colombian armed conflict. In their feedback they 
+identified as one of their goals, to make a ‘real difference’, this is why they like to take part 
+in workshops to help other women, get strength and continue their fight for those they love 
+and for a change in society in general (later in the paper I have added some of their 
+feedback comments received once the project was published and exhibited online). 
+  
+Other areas where storytelling is being used very successfully is in healthcare. Pip Hardy and 
+Tony Sumner in their book Cultivating Compassion: How Digital Storytelling is Transforming 
+Healthcare explore how storytelling, as a reflective process, can cause a change in health 
+and mental issues.   
+ 
+In their preface they write:  
+ 
+
+Powerful personal stories promote reflection, prompt discussion and debate, 
+highlight opportunities for learning and improvement, encourage the cultivation of 
+empathy and compassion, and remind all those engaged in the business of 
+healthcare of our shared humanity. (Hardy & Sumner, 2018, p. XVIII) 
+
+ 
+
+5 
+
+ 
+Again, the above is resonant with Invisible Voices. We started the co-creation workshops 
+with an activity where women were invited to bring an object and express their experiences 
+of the Colombian conflict through this object. This exercise provoked extremely personal 
+testimonies loaded with overwhelming emotion and felt with empathy and group 
+discussions from which to learn and reflect. Women found sharing these first-person stories 
+and collaborative creative projects, helped them to heal, increased their self-esteem, made 
+them feel more empowered and that they were taking part in Colombia’s historical 
+memory.  
+ 
+Digital Spaces: Website, Digital Art, App 
+ 
+The digital outcomes of this project as above mentioned, consist of a documentary website, 
+digital artwork and a mobile application used to collect stories.  
+ 
+The website follows the research process through slide shows with photographs of the 
+workshops, installations, audio stories generated from the objects the participants were 
+invited to bring as a starting point. This created powerful stories which can be heard in 
+Spanish (with and English translation in a pdf), with titles such as Proud of Being Black, 
+When I was 11 Years Old, Heal and Save, Signification of the Bandana, My Little Children, 
+Deep Pain, Will carry on Flighting, Accept I Was a Victim, Displacement and Lost Son; as well 
+as videos documenting the process of the workshops with titles including Let Me Refresh 
+Your Memory, Threading Memories, Listen to Us!, Their Place Within Memory, Our Bodies 
+Were Left in Threads and A Museum for Me. 
+ 
+The interactive digital art consists of three parts:  
+
+1.  Their Place Within Memory, reflecting the memory space, personal and collective 
+
+memory, represented by the activity in the Writing on the Wall. 
+
+2.  Do You Hear Us? This represents the political activist space with photographs of 
+
+events organized by the women.  
+
+3.  Voices Constructing Memory has a variety of narrations gathered from the workshop 
+with themes including participation in political activism and culture, issues of power, 
+territory, displacement, violence, and gender representation such as A Museum for 
+Me; body politics with Our Body was Left in Shreds; historical and personal memory: 
+I Refresh your Memory, Writing on the Wall, and Threading Memories. 
+
+ 
+In addition, the two engineers, fellow co-investigators Dr. Claudia Liliana Zúñiga-Cañón from 
+Universidad Santiago de Cali, Colombia and Dr. Rafael Asorey-Cacheda from the Universidad 
+Politécnica de Cartagena, Spain, together with students from the Universidad Santiago de 
+Cali, developed a mobile application or App, called Mujeres Voces Invisibles del Conflicto 
+(MVIC).  
+ 
+Through the use of this App, women can share their stories in writing, orally or through 
+video, during and after the workshops following an anonymous system. As registration is by 
+invitation and only verified users, it always guarantees anonymity and all the testimonials 
+are confidential with texts, audios, and videos stored in encrypted form. No personal data or 
+metadata is stored. Only the author and the creators of the work can access its contents. It 
+
+ 
+
+6 
+
+was also encrypted, making the theft of useful information impossible. Any user of the 
+platform can delete their testimonials and account at any time and the deletion is 
+permanent. Both the App and the artwork are accessible through the menu in the 
+documentary website. 
+ 
+Impact: Art Practices as a Healing Methodology 
+ 
+These digital outputs from this project have helped to analyse and disseminate community 
+research in a multimodal way making it accessible for a variety of readers. Most importantly 
+the digital stories seem to have been of great help for this particular community. 
+Documenting what this group of women did in the workshops and having the stories 
+published and exhibited online, has allowed them ownership and control over their work 
+and they now see themselves represented.   
+ 
+In the feedback questionnaire, in the question about the final online project where we 
+asked what they thought about the final product in general and if they wanted to make any 
+other contributions.  These were the answers:  
+ 
+
+I found it very beautiful and interesting, it moved me to see my fellow participants 
+again, to listen to our voices, to see the museums, the map, everything is wonderful, 
+but above all the emotion and joy of seeing your work of art come to life, and I say 
+my work of art because I feel it that way. More than a contribution I have a request 
+that this does not end here, that you continue with this task of constructing memory 
+in an artistic way, that contributes to a symbolic and restorative reparation. I would 
+also like to be present when the people who contributed to this project get to see it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘A wonderful work, I hope its visibility makes an impact and that all of Colombia 
+realises that the conflict is national, and that no one can take for granted that 
+something like this won't happen to them’. 
+
+‘That it continues to be replicated and that it be one more tool for women victims to 
+continue their healing’. 
+
+The result in general for me is gratifying because I met many people that I never, 
+ever, thought I would get to know. Being there sharing with everyone and knowing 
+that there are other people who are looking for us to tell our stories is very 
+comforting; the best thing that could have happened to me was to join Zozcua 
+because along the way I have been able to strengthen myself and continue my 
+struggle to discover the truth, and I see many of these feelings reflected in the 
+results of the project. 
+
+‘My suggestion would be to continue the project to learn more and give more of 
+oneself.’ 
+
+ 
+The digital publication clearly has added to their experience as creators of the work by 
+seeing it represented online and the co-creation methodology has functioned as a great 
+participatory exercise to empower these women and heal by sharing. 
+
+ 
+
+7 
+
+ 
+Worth highlighting is a question we asked about their experience of the benefits of taking 
+part in such artistic activities (sound, weaving, drawing, creating plaster models, 
+photographs, and video); and sharing their experiences through the production of art 
+practices to transform feelings of pain and grief. These are some of their answers: 
+ 
+
+‘Yes. Because by activating and communicating with all the senses the healing aspect 
+is more intense and accurate.’ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘Of course, they are important, and they help because the victims realize in these 
+encounters that there are many families who experience similar tragedies, and this 
+helps to generate catharsis.’ 
+
+‘It seems to me to be a lovely project, for example when we were doing the hands, 
+the weaving of the sack and the map we all got together, and we were waiting to do 
+those activities and there I managed to capture my feelings of pain and understand 
+that I was not alone and that it was worth continuing.’ 
+
+‘Healing, a feeling of being accepted, when someone's testimony is followed up with 
+hugs and words of encouragement.’ 
+
+Of course, because art is transformative and in this way we can tell or relive our 
+stories in a less painful way, with a purpose, and that purpose is to contribute to 
+non-repetition. With these activities we construct not only individual memory but 
+also collective memory that strengthens us and allows us to dream of a better 
+country. 
+
+‘It was painful and at the same time good because it brings out everything one has 
+inside.’ 
+
+ 
+Finally, I pose the question, why should we work with such participants? I believe part of the 
+answer is in understanding what needed to be changed and to make them part of this 
+change. In this case, we were able to see the Colombian conflict from their unique 
+perspective. In this project, the impact of the work in the participants is right at the centre 
+and for the artist and researchers it was overwhelming and satisfying but also humbling to 
+see that the project was able to so positively touch these peoples’ lives. 
+ 
+The second case study for analysis, is the workshop Share to Heal; Creative Digital Practices: 
+Community Platform for Healing and Visualisation which is still yet to happen at the online 
+ELO 2021 platform (post?) pandemic conference and festival, in collaboration with Vinicius 
+Marquet.  It will focus on the questions about whether the digital can transform research-
+community work and facilitate healing through story sharing. We have created an online 
+Community Platform Prototype to share stories, which we will make use of at the 
+conference. 
+ 
+ 
+
+ 
+
+8 
+
+Project Two - Share to Heal Workshop; Creative Digital Practices: Community Platform for 
+Healing and Visualisation 
+ 
+The aim of this workshop is to make visible — through sharing — social, personal, or 
+collective issues/challenges which had become more apparent during the Covid 19 global 
+pandemic of 2020/2021 and to create meaningful conversations through the production of 
+creative digital proposals to heal them. The issues work as an inspiration for creative 
+practice. 
+ 
+Based on the global pandemic, the above creative projects and Marquet’s experience of the 
+workshop as a methodology for creativity and exchange of ideas and building on a common 
+interest in a community-based goal, we have put together an online platform for sharing 
+and exchanging stories. 
+ 
+We will use digital methodologies of collaboration and mapping to highlight the main 
+concerns of the community taking part in this discussion. Visualising is also an aim, which 
+we might have to look at later, after realising the workshop. Thus, for this purpose, we have 
+already provided the participants with an online platform where they will be able to share a 
+personal or collective issue/ challenge in connection to the pandemic. The shared stories 
+will be distributed amongst the participants - through the Share to Heal platform- the 
+participants will have to find inspiration in the issues to find a way to heal them by coming 
+up with a creative digital proposal (all anonymised). 
+ 
+The only prerequisite is for the participants to have the story ready in advance. We want 
+them to have time to think about the story and bring something relevant to their experience 
+of the pandemic. They should be able to write their own personal story or copy-paste a text 
+from a newspaper depending on personal preference using no more than 250 words or 
+1500 characters. To save time, this input needs to be digitally available at the beginning of 
+the workshop.  
+ 
+During the production of the Share to Heal platform, the questions we initially addressed 
+were related to the design and programming needed to implement the exchanging of 
+stories and their mapping against the digital projects suggested by the participants. As with 
+the previous project we are addressing the opportunities co-creative methodologies provide 
+for collaboration between artists and community. To highlight the main concerns of the 
+community taking part in this discussion we have a keyword section which will be visualised 
+in an upcoming platform so the issues covered in each particular workshop can be seen at a 
+glance.  
+ 
+Creative Digital Proposals to Heal 
+ 
+As previously mentioned, this is the second step of the workshop where the participants are 
+allocated an inspirational story to heal through the creation of a digital media project.  
+Participants can use interdisciplinary, collaborative and/or co-creative methodologies and 
+the proposals can suggest any modality: aural, visual, written or any digital media genre, 
+that is; animation, illustration generative, interactive, networked, narrative, performative, 
+immersive VR AR, locative. 
+
+ 
+
+9 
+
+ 
+The workshop as research methodology following Rikke Ørngree’s model will also be 
+studied to analyse the creative approaches and processes, individual and in group. 
+ 
+Experiences Gained 
+ 
+This can be an area for discussion at the conference presentation. What experiences have 
+we all gained? Who benefits from the stories? Does digital storytelling work as a healing 
+process?  
+ 
+From Invisible Voices the learning experience benefited both the facilitators and the 
+women. They communicated to us that they didn’t feel “revictimized”, on the contrary, they 
+felt that sharing the pain and transform it into something beautiful for people to see was 
+very gratifying. They felt they have been heard, they were not alone, they were empowered 
+with the creation of this work and authorship. Their feelings changed, felt stronger. They 
+became the voices of those other women who have no voices. In particular, they liked these 
+methodologies as it wasn’t just purely about their individual stories but was also about 
+creating something out of their experiences. Thus, using not only aural storytelling as life- 
+stories but the fact they had to create artwork seemed to have empowered them more. 
+ 
+For the investigators this was a learning experience like no other. The method was to listen, 
+to hear from these women. We were there as facilitators. We learnt about the Colombian 
+conflict from their experience, their resilience to pain, their power to carry on fighting 
+against injustice, their camaraderie and support for each other. As an artist I have never felt 
+so humble and for me, this has been a project not only of great importance but with a wider 
+social significance. 
+ 
+ 
+References 
+ 
+Gloster AT, Lamnisos D, Lubenko J, Presti G, Squatrito V, Constantinou M, et al. (2020) 
+‘Impact of COVID-19 pandemic on mental health: An International study’, Journal of Global 
+Public Health, PLoS ONE (Accessed 30/04/ 2021) 
+Hardy, P, & Sumner, T (eds) (2018) ‘Cultivating Compassion: How Digital Storytelling Is 
+Transforming Healthcare’, Springer International Publishing AG, Cham.  
+Lambert, J. & Brooke H. (2018) ‘Digital Storytelling: Capturing Lives, Creating Community’, 
+New York: Routledge. 
+Mencía M. (2016-17) ‘The Winnipeg: The Poem that Crossed the Atlantic’, Available: 
+http://winnipeg.mariamencia.com/?lang=en  (Accessed 9/05/2021) 
+Mencía M. (2020) ‘Voces Invisibles: Women Victims of the Colombian Conflict’, Available:  
+https://www.voces-invisibles.com/ (Accessed 9/05/2021) 
+Tribe M. & Jana R. (2006) ‘New Media Art’, Köln; London, UK: Taschen  
+Shell-Weiss, M. (2019) ‘The Power of Narrative: A critical guide to creating decolonial 
+community-based projects on Intergenerational Relations and Intergenerational Education’, 
+in B. M. Nchindila & T. Corrigan (Eds), The essence of academic performance. IntechOpen. 
+ 
+ 
+
+ 
+
+10 
+
+

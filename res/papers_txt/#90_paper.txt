@@ -1,0 +1,820 @@
+Motivating Struggling Readers to Mentally 
+
+“Show Up” with Wonder Stories
+
+ 
+  
+  
+  
+
+ 
+
+Elliott Hedman 
+
+mPath 
+
+Denver, USA 
+
+hedman@media.mit.edu 
+
+ 
+
+    
+ 
+
+ABSTRACT 
+
+In the United States, a student in the 20th percentile 
+
+reads books for 0.7 minutes per day, while a student in the 
+98th percentile reads 65 minutes per day (Cunningham & 
+Stanovich, 1998). For the last four years, with 300 children 
+from Title 1 schools and the Boys & Girls Club, we 
+researched how to create digital texts that better cognitively 
+engage struggling readers using psychophysiological 
+sensors, eye tracking, and co-creation. 
+
+This research led to the creation of Wonder Stories. 
+Wonder Stories’ texts motivate students to critically think 
+by immersing students in frequent, story-based questions. 
+As a response to children’s low motivations during COVID-
+19, we added a social competition to Wonder Stories – 
+answering questions correctly gave points in a trivia-like 
+game. 
+
+When struggling readers were given Wonder Stories, 
+students mentally showed up: their participation increased, 
+readers were more cognitively engaged with the material, 
+and students were critically thinking about the text more 
+often. This study suggests that interactive, question-based 
+reading shows great promise to increasing children’s 
+participation and engagement in middle-grade reading. 
+
+ 
+
+I.  CHALLENGE 
+
+It requires extensive practice to become skilled at an 
+activity (Allington, 2009, 2014), putting struggling readers 
+at a disadvantage with their lack of reading hours. 
+According to the National Reading Panel, “Literally 
+hundreds of correlational studies find that the best readers 
+read the most and the poor readers read the least. These 
+correlational studies suggest that the more children read, the 
+better their fluency, vocabulary, and comprehension” (2000, 
+p.12). Correspondingly, another strong predictor of reading 
+scores is a child’s engagement with reading. Reading 
+engagement is more influential than gender, income, or 
+ethnicity (Cox & Guthrie, 2001).  
+
+The Boys & Girls Club of Metro Denver faced the 
+
+challenge that many of their students were not reading at all 
+when they came back to the club in the middle of COVID-
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+19. After more than six months of not being in school, the 
+students were actively resisting reading activities. 
+
+A.  Defining “showing up” 
+
+When a student shows up to reading, they have a will 
+
+to learn (Covington, 1998). Students are excited and curious 
+to start reading. The student is open to difficult challenges. 
+A student who shows up cognitively engages with the task 
+set before them. 
+
+A student who does not “show up” chooses not to 
+
+participate if given the option. When asked to do a task, they 
+will actively resist, do nothing, or participate minimally. In 
+our reading setting, participating minimally often meant 
+skipping texts and answering questions without thinking. 
+
+ 
+
+B.  Students were not mentally showing up to read 
+
+For the last four years, Dr. Elliott Hedman has been a 
+researcher in residence at the Boys & Girls Club of Metro 
+Denver. There, 19.5% of students are African American and 
+64.5% of students are Hispanic (Omni Institute, 2015). Most 
+of these students attend Title 1 schools and are one to two 
+grade levels below reading. 
+
+With COVID-19, the Denver Public Schools closed 
+
+down, but the Boys & Girls Club was considered essential 
+and opened in August 2020. In addition to the research Dr. 
+Hedman was doing, he was invited to be the new literacy 
+teacher for the opened club. 
+
+While many teachers were struggling to motivate kids 
+to physically show up to Zoom meetings, the Boys & Girls 
+Club had a different problem – students were not mentally 
+showing up in the classroom. 
+
+“Reading sucks.” Those were the first words second-
+
+grade student Emanuel told Dr. Hedman as he came back to 
+the Vickers Boys & Girls Club. 
+
+When Dr. Hedman pulled up the first reading 
+
+assignment, third-grade student Adonis actively pushed 
+against participation. He told the class he did not want to 
+read. Others echoed Adonis’s attitude. The social worker 
+came in to help settle things down. 
+
+On that same day, Dr. Hedman worked with the fifth- 
+
+and sixth-grade students. When he told the students they 
+
+Denver and Title 1 schools, exploring how to make digital 
+reading a more engaging experience. For this year, with 
+reduced class sizes due to COVID-19, we worked with a 
+smaller set of 50 students. 
+
+We asked participating students to read digital 
+
+prototypes. We observed children’s behaviors with both 
+screen recording and digital eye tracking (Tobii Technology 
+AB, Sweden). In some cases (before COVID-19), we asked 
+readers to wear psychophysiological sensors to monitor their 
+emotional engagement (see Hedman, 2014). 
+
+After each session, we interviewed children about their 
+
+reading experience and how the experience could be 
+improved. 
+
+We used a design-based research method to improve 
+students’ motivation (Cobb et al., 2003). Based on student 
+feedback, we would make improvements to the reading app 
+and show students the updated version the following week. 
+Through the four years, this reading prototype has been 
+iterated on over 60 times, and we are still iterating on it. 
+
+With COVID-19, our research methodology was 
+
+modified. Since Dr. Hedman was teaching reading to the 
+Boys & Girls Club, interviews were done in class and 
+observations were made live. Iterations were still done to the 
+product, but changes were made primarily to help children 
+better “show up” to their reading lessons. 
+
+A.  Description of intervention 
+
+Below is a description of the most recent reading 
+
+intervention we used during most of COVID-19. 
+
+Wonder Stories are short stories that are approximately 
+
+300 words in length. Each page has one to three sentences. 
+Stories are presented as mysteries with “big problems.” The 
+major difference between typical stories and Wonder Stories 
+is that there are many questions interspersed throughout the 
+text, typically around seven questions in a 300-word story. 
+These questions are critical to the plot and require deduction 
+and inferential thinking. For example, “Dr. Llama can’t see 
+anything because she is _______ (too far away)” or “To 
+help Glomper, Dr. Llama brings back _______ 
+(binoculars).” 
+ 
+
+were going to read, their eyes drifted back to their cell 
+phones and computer games, ignoring him. Only one fifth-
+grade student read with him that first day back. 
+
+While students were physically back in the Boys & 
+
+Girls Club, they were not ready to engage with reading and 
+actively resisted reading any text. 
+
+C.  Students were removed from a culture of daily reading 
+
+Many students had likely not read a book all year. 
+
+They may not have books at home (Luo et al., 2020) and 
+spent less than 1 minute per day reading (Cunningham & 
+Stanovich, 1998).  
+
+D.  Book donatitions did not change the reading culture 
+
+While at the club, Dr. Hedman brought over 100 of his 
+
+own middle-grade books, with popular titles such as Diary 
+of a Wimpy Kid and Dog Man. Throughout the course of the 
+year, none of those books were read; all stayed in the 
+storage bin. 
+
+The Boys & Girls Club also received a large donation 
+
+of hundreds of new books with diverse main characters 
+during COVID-19. Those books sat on the pool table unread 
+as well. The high school students received a collection of 
+the first book in the Harry Potter series, which never left the 
+plastic wrapping. Access to physical books by itself did not 
+solve the “showing up” problem, as reading was not 
+motivating. 
+ 
+
+E.  Addressing the “showing up” problem 
+
+While there is literature on the importance of motivation, 
+
+research on how to motivate students in reading is still 
+lacking (Guthrie, 2004). Providing texts students are 
+interested in (Cox & Guthrie, 2001) and providing students 
+choice (Worthy & McKool, 1996) are two main strategies 
+for engaging readers. Top digital reading tools today 
+emphasize the abundance of literature students can choose 
+from: Epic’s front page announces it has 40,000 books, 
+myON has 6,000. With this many books, students are given 
+an abundance of choice and books within their interests. 
+Yet, like Harry Potter in plastic wrap, for many students, 
+having access to books of interest is not enough to motivate 
+them to “show up” and become engaged readers.  
+
+Our research and co-creation went beyond choice and 
+
+topic. How could we redesign the actual experience of 
+reading to motivate children? 
+
+In the last six months, we worked with 50 students, 
+most of them behind in reading, not wanting to show up. 
+This lack of motivation was likely due, in part, to students 
+not having exposure to physical book reading for more than 
+six months. When schools once again open in person, we 
+believe other teachers will experience our same challenge of 
+students not wanting to “show up” to reading. 
+ 
+
+II.  METHODS 
+
+Over the last four years, we have conducted research 
+
+with over 300 kids at the Boys & Girls Club of Metro 
+
+Fig. 1: Example of Wonder Story format 
+
+ 
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+ 
+
+Partway through our research during COVID-19, we 
+
+B.  Increased academic engagement 
+
+noticed that some children were resistant to reading even 
+with interactive text. We created new prototypes to add in 
+social motivators to Wonder Stories. 
+
+For our early prototypes, we integrated Wonder Stories 
+
+with Kahoot! In Kahoot!, when children answer questions 
+correctly, they receive points and are ranked against one 
+another. We tied Kahoot! points to each question as children 
+read.  
+
+You can download and view our Wonder Stories app 
+
+at www.wonderstories.app. 
+
+ 
+You can see an example of the Kahoot! and Wonder 
+
+Story prototype here: 
+
+ 
+https://create.kahoot.it/share/glomper-goes-to-the-
+
+dentist/3c213a63-8766-4d95-becb-2a4e8756c950 
+
+ 
+You can access all of our Kahoot! prototypes by 
+looking for the username “WonderStory” in Kahoot! 
+
+ 
+ 
+Throughout the year, students read 60 different 
+
+Wonder Stories. Kindergarten to third-grade students read as 
+a group, taking turns reading off of the projector. The 
+fourth-grade students alternated reading as a group and 
+individually, and the sixth- and seventh-graders read 
+individually. Reading material was at a second- to fourth-
+grade reading level.  
+
+Depending on the homeroom teacher, some classes 
+
+offered a prize for the first- and second-place students. The 
+fifth- and sixth-grade students’ performance was tied to 
+Classcraft rewards. 
+
+ 
+
+III.  RESULTS 
+
+A.  Increased academic participation 
+
+Within three weeks, all students were reading Wonder 
+Stories daily, without protest (except for two, which we will 
+discuss later). Some students began asking the teacher in the 
+hallway, “When are we going to play Wonder Stories 
+again?” Other students asked to read another story after the 
+30-minute reading period was over. Students would already 
+be logged into Kahoot! ready to play before Dr. Hedman 
+arrived at the classroom. On three separate occasions, 
+parents came to pick up students and the students asked their 
+parents to wait so they could finish Wonder Stories. 
+
+Wonder Stories worked particularly well for children 
+
+who struggled with reading in school. As the fifth-grade 
+student Davies said in class, “I don’t know what it is, but 
+normally during school I just drift off. But with Wonder 
+Stories, it is really easy for me to pay attention.” 
+
+With Wonder Stories, we started with students who 
+hated reading and created a way to encourage students to 
+mentally show up and participate. 
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+In addition to observing children participating, we 
+observed an increased level of academic engagement as 
+well. Typically during reading questions, observed students 
+do not put effort into their tasks. During the Accelerated 
+Reading STAR test that students are required to take each 
+semester, we observed most students randomly selecting 
+answers and skipping reading – the test had no meaning for 
+them, and they did not “show up.” 
+
+The competition feature added importance to each 
+
+question in Wonder Stories. Consequentially, students cared 
+about comprehension and answering correctly. Students 
+asked the teacher or one another for “hints” on questions. 
+When students answered questions correctly, there was 
+often a verbal celebration or a fist pump. Sometimes 
+students would restart the reading assignment once they 
+answered a few questions wrong. 
+
+One particularly struggling fifth-grade student, 
+
+Kaseem, asked if he could read with the teacher or the top 
+student to make sure he got every question right. 
+
+When a correct answer felt wrong, students would 
+
+point it out and argue with the teacher why they felt it was 
+correct: “There is no way you can put a costume on a fish!” 
+
+ In addition, Wonder Stories made it easier to help 
+
+students. Dr. Hedman would tell struggling students, “Let 
+me read with you. I want to make sure you get the next 
+question right.”  
+
+Similarly, some struggling readers were in the habit of 
+
+skipping past all of the text, a behavior we have observed 
+many times with eye tracking. We were able to tell these 
+fast readers, “If you skip past the text, it is going to be really 
+hard to get the question right,” making the conversation 
+more positive and helpful. 
+
+Students not only participated in reading but were 
+
+cognitively engaged with the texts they were reading, 
+working hard to comprehend the text. 
+
+C.  Increased comprehension and critical thinking skills 
+
+The goal of teaching reading is not only to help children 
+with phonics and fluency but build their higher-level skill of 
+comprehension as well (Oakhill & Cain, 2007). Wonder 
+Stories includes a comprehension question about every 40 
+words. Children are asked to make a model of what they 
+read and make an inference based off of that model. This 
+inference-making is regarded as a high-level skill (Kintsch, 
+1994) that often is not developed until third grade (Paris & 
+Lindauer, 1976; Paris, Lindauer, & Cox, 1977). But with 
+Wonder Stories, inferential questions are part of the process 
+for all grades. The ability to make inferences is a strong 
+predictor of overall reading comprehension across multiple 
+studies (Cain & Oakhill, 1999; Cain, Oakhill, & Elbro, 
+2003; Cain, Oakhill, & Lemmon, 2004). 
+
+The kindergarten to third-grade students often scored 
+as well or better on the comprehension questions than their 
+older peers, suggesting that young children were able to 
+work on higher-level comprehension skills within the 
+Wonder Stories setting. 
+
+ 
+
+Table 1: Students’ comprehension scores on select stories 
+
+Fig. 3: Skin conductance of student reading Wonder Stories 
+
+ 
+
+ 
+
+With inquiry-based reading, children across grades 
+
+were applying critical thinking skills and showing high 
+levels of comprehension. 
+
+D.  Questions motivate 
+
+During our early prototypes and testing, children often 
+
+drifted off during the reading sessions. However, when 
+questions occurred, readers would become much more 
+engaged and attentive. As an example, here is the 
+psychophysiological data of a third-grade English language 
+learner at the Boys & Girls Club reading Doctor Dolittle. 
+ 
+
+Reading Wonder Stories, there is a substantial increase 
+
+in the number of skin conductance spikes. The student 
+answered every comprehension question correctly and 
+reported that reading the story “was almost as fun as math.” 
+
+In all of our research, we noticed a similar trend that 
+
+interactive questions were a strong foundation for 
+engagement and attention. Here is a zoomed-in skin 
+conductance of another reader, reading a digital text with 
+questions interspersed:  
+
+ 
+
+Fig. 2: Skin conductance of a third-grade reader 
+
+ 
+
+The above graph shows the student’s skin 
+
+conductance, a marker of psychophysiological arousal. 
+When the graph spikes up (like at the beginning), those are 
+moments where the student is likely engaging. When there 
+are no spikes in skin conductance, these are moments where 
+the reader is likely disengaging from the text. 
+
+In this example, the student drifted off while reading 
+
+Doctor Dolittle for less than eight minutes. When the 
+researchers ended the session, they noted a big glob of drool 
+on the front page. 
+
+During this same testing session, the student read a 
+
+Wonder Story. 
+
+ 
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+Fig. 4: Skin conductance increases with questions 
+ 
+
+ 
+
+Notice how reading itself fails to engage the reader but 
+
+the question afterward increases his engagement 
+substantially on its own. 
+
+With our eye tracking glasses, we noticed a similar 
+trend. Children would skip past the reading consistently, 
+speeding to the question, but would then read the question 
+multiple times. 
+
+ 
+
+E.  Social competition enhances readers’ motivation 
+
+While questions were a strong motivator in our one-
+on-one tests, questions alone were typically not enough to 
+motivate the class.  
+
+After trying a few different modifications, children’s 
+
+reading motivations substantially increased when we 
+combined Kahoot! and Wonder Stories. When the social 
+competition was added to the questions, students cared 
+much more about answering correctly, an important factor 
+to engagement (Hedman, Zanchi, Hedman, 2018). 
+
+It was only after Kahoot! was integrated with Wonder 
+Stories that we started to see the participation behaviors of 
+asking to play more and asking for help. Previous research 
+suggests that social connections can play an important role 
+in motivation (see Cooc & Kim, 2017; Barron,2006; Olivera 
+& Strauss, 2004). 
+ 
+
+feeling like they lost. (We may be able to add better game 
+mechanics in the future to address this, like double points.) 
+Another benefit of shorter stories is that we are able to 
+
+read more of them. We now typically read two to three 
+stories in a 30-minute session. The new stories and restarted 
+competition refresh students’ attention span. Additionally, 
+having multiple stories gives more students a chance to win. 
+
+We believe this increase in motivation is in part due to 
+
+ 
+
+where children are developmentally in terms of defining 
+success. Students need support and belief in their 
+competence to gain motivation (Ryan and Deci, 200). 
+Starting as early as second grade, children begin defining 
+their skill level in comparison to others (Ruble et al., 1980). 
+Social comparison theory posits it is difficult to see oneself 
+as “good at reading” without comparing oneself to another 
+person (Festinger, 1954).  
+
+As an example, Malachi, a second-grade student, was 
+
+one of our most reluctant readers, putting up strong 
+resistance each day we taught. He refused to play Kahoot! 
+or Wonder Stories at first. A few times, he did agree to play, 
+and in one of those times he scored in the top three. At the 
+end, he exclaimed, “I got in the top three!” This pride 
+generated enthusiasm and confidence for future rounds. He 
+started asking if he could read pages, so much so that we 
+now are working with him on giving other children a chance 
+to read out loud. After his first success, Malachi is now 
+willing to read Wonder Stories with us. 
+
+A similar story occurred with the fourth-grade student 
+Athena, who often scored last in the Kahoot! game. One day 
+the teacher asked to read together with Athena and helped 
+her think through each question. Athena earned second that 
+day and was more enthusiastic to read the following days. 
+
+Adding a social competition to comprehension 
+
+questions is a strong way to make correctly answering 
+questions important and build reader confidence. 
+
+ 
+
+F.  Keeping story length short sustains motivation 
+
+Most of the Wonder Stories we read are 300 to 600 
+
+words, designed to be read in less than 15 minutes. 
+Originally, we started with longer stories that were about 
+1,200 words and took 20 or more minutes to read. For many 
+of the readers, these long stories took too long. Partway 
+through these long stories, children would start fidgeting, 
+talking with each other, or stop participating. The 
+kindergarten student James would consistently tell us after 
+about 300 words, “I’m going to stop reading now.” 
+
+We started providing texts shorter than 300 words, and 
+
+students were able to sustain attention. Readers stopped 
+asking, “How many more pages?” No student has 
+complained about the stories being too short. 
+
+Social competition also created a problem for longer 
+
+stories. Sometimes students would answer two to three 
+questions wrong and know they were not going to win. In a 
+short story, by the time they realize that, they only have one 
+or two questions left to finish up. In the long stories, they 
+may have to endure 20 or more minutes of reading, already 
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+IV.  LIMITATIONS 
+
+A.  How can we better use social competition to enhance 
+
+motivation? 
+
+At the beginning of this study, social competition was 
+
+not something we seriously considered, but it became 
+increasingly important for improving motivation. We were 
+limited by the scope of what Kahoot! could do and believe 
+that there are many more ways of bringing competition into 
+reading. 
+
+While many of the students, especially the boys, were 
+
+motivated by competing with their peers, others were 
+intimidated by the social competition aspect. Olivia, a 
+proficient first-grade reader, often asked not to play. One 
+time she hid behind a plant so the teacher would not call on 
+her to play. For Olivia, we believe she needed a way to 
+contribute without being judged. 
+
+Kaseem, in fifth grade, struggled with failure. As soon 
+as he answered a problem wrong, he would quit, sometimes 
+even acting out to the point the social worker would need to 
+intervene. One day Kaseem partnered with Asha, the top 
+performing reader. The partnership worked well, as Kaseem 
+was able to answer all of the problems right with Asha’s 
+help. 
+
+Social competition is not always better for all students. 
+Future research should look into how social competition can 
+better celebrate struggling students. How can competition be 
+across groups rather than within groups to better encourage 
+collaboration? How can students stay engaged after getting a 
+problem wrong? What other interventions work for children 
+who do not like social competition? 
+
+B.  External factors and teachers still matter 
+
+With COVID-19, things were often in flux at the Boys 
+
+& Girls Club. Multiple times, classes would have a new 
+homeroom teacher. On new teacher days, students would 
+often push boundaries more, taking out their cell phones or 
+intentionally skipping through readings.  
+
+For the fifth- and sixth-grade classes, students were 
+
+much more likely to read and participate when prizes were 
+incorporated with Classcraft. Having clear rewards and 
+structures tied to getting in the “Top 3” had a strong effect. 
+
+Future studies should take into consideration the 
+
+external factors in reading that help increase student 
+participation. While interactive reading increases 
+participation and engagement, classroom structure and 
+management still play an important role. 
+
+C.  How can interactive reading enhance longer texts? 
+
+A key strategy of our intervention was limiting reading 
+
+to five- to 10-minute short stories. As kids progress, they 
+will be expected to engage with reading for much longer 
+periods. How can questions and social competition engage 
+students for longer periods of time? How can interactive 
+reading work for a chapter book? 
+
+V.  CONCLUSION 
+
+Co-creating with over 300 students across four years, 
+
+we set out to redesign books to help readers show up to 
+reading. With psychophysiological sensors, eye tracking, 
+and ethnographic methods, we created Wonder Stories. 
+Wonder Stories provided frequent, story-based questions; 
+added social competition; and provided short stories. For 
+many students who were not normally motivated to read, 
+Wonder Stories did motivate them to show up to reading 
+and cognitively engage. Interactive, question-based reading 
+shows great promise to increase children’s participation and 
+engagement in middle-grade reading. 
+
+ 
+
+Hedman, E. (2014). Thick psychophysiology for empathic design. 
+Retrieved from https://dspace.mit.edu/handle/1721.1/91436 
+
+Hedman, E., Zanchi, C., & Hedman, G. (2018). Effective Feedback 
+
+Depends on the Emotional Weight of a Problem. In AERA 2018 
+Annual Meeting. New York CIty, NY. 
+
+Institute, O. (2015). 2014 – 2015 Evaluation of the Boys & Girls Clubs of 
+Metro Denver. Denver. Retrieved from http://www.bgcmd.org/wp-
+content/uploads/2016/10/2014-15-BGCMD-Evaluation-Report.pdf 
+
+Kintsch, W. (1994). Text comprehension, memory, and learning. American 
+
+Psychologist, 49(4), 294. 
+
+Luo, R., Tamis‐LeMonda, C. S., & Mendelsohn, A. L. (2020). Children’s 
+
+Literacy Experiences in Low‐Income Families: The Content of 
+Books Matters. Reading Research Quarterly, 55(2), 213–233. 
+
+N. R. P., Health, N. I. of C., (US), H. D., Initiative, N. R. E., (US), N. I. for 
+L., Service, U. S. P. H., & Health, U. S. D. of. (2000). Report of the 
+National Reading Panel: Teaching children to read: An evidence-
+based assessment of the scientific research literature on reading 
+and its implications for reading instruction: Reports of the 
+subgroups. National Institute of Child Health and Human 
+Development, National …. 
+
+BIBLIOGRAPHY 
+
+Oakhill, J., & Cain, K. (2007). Introduction to comprehension 
+
+development. 
+
+Barron, B. (2006). Interest and self-sustained learning as catalysts of 
+
+development: A learning ecology perspective. Human Development, 
+49(4), 193–224. 
+
+Olivera, F., & Straus, S. G. (2004). Group-to-individual transfer of 
+
+learning: Cognitive and social factors. Small Group Research, 
+35(4), 440–465. 
+
+Cain, K., & Oakhill, J. V. (1999). Inference making ability and its relation 
+to comprehension failure in young children. Reading and Writing, 
+11(5), 489–503. 
+
+Paris, S. G., & Lindauer, B. K. (1976). The role of inference in children’s 
+comprehension and memory for sentences. Cognitive Psychology, 
+8(2), 217–227. 
+
+Cain, K., Oakhill, J. V, & Elbro, C. (2003). The ability to learn new word 
+
+meanings from context by school-age children with and without 
+language comprehension difficulties. Journal of Child Language, 
+30(3), 681. 
+
+Cain, K., Oakhill, J., & Lemmon, K. (2004). Individual differences in the 
+
+inference of word meanings from context: The influence of reading 
+comprehension, vocabulary knowledge, and memory capacity. 
+Journal of Educational Psychology, 96(4), 671. 
+
+Paris, S. G., Lindauer, B. K., & Cox, G. L. (1977). The development of 
+
+inferential comprehension. Child Development, 1728–1733. 
+
+Pressley, M., & Allington, R. L. (2014). Reading instruction that works: 
+
+The case for balanced teaching. Guilford Publications. 
+
+Ruble, D. N., Boggiano, A. K., Feldman, N. S., & Loebl, J. H. (1980). 
+Developmental analysis of the role of social comparison in self-
+evaluation. Developmental Psychology, 16(2), 105. 
+
+Cobb, P., Confrey, J., DiSessa, A., Lehrer, R., & Schauble, L. (2003). 
+
+Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: 
+
+Design experiments in educational research. Educational 
+Researcher, 32(1), 9–13. 
+
+Classic definitions and new directions. Contemporary Educational 
+Psychology, 25(1), 54–67. 
+
+Cooc, N., & Kim, J. S. (2017). Peer influence on children’s reading skills: 
+
+A social network analysis of elementary school classrooms. Journal 
+of Educational Psychology, 109(5), 727. 
+
+Worthy, J., & McKool, S. S. (1996). Students who say they hate to read: 
+The importance of opportunity, choice, and access. In Yearbook-
+National Reading Conference (Vol. 45, pp. 245–256). THE 
+NATIONAL READING CONFERENCE, INC. 
+
+Covington, M. V. (1998). The will to learn: A guide for motivating young 
+
+people. Cambridge University Press. 
+
+ 
+
+Cox, K. E., & Guthrie, J. T. (2001). Motivational and cognitive 
+
+contributions to students’ amount of reading. Contemporary 
+Educational Psychology, 26(1), 116–131. 
+
+Cunningham, A. E., & Stanovich, K. E. (1998). What reading does for the 
+
+mind. American Educator, 22, 8–17. 
+
+Festinger, L. (1954). A theory of social comparison processes. Human 
+
+Relations, 7(2), 117–140. 
+
+Guthrie, J. T. (2004). Teaching for literacy engagement. Journal of Literacy 
+
+Research, 36(1), 1–30. 
+
+ELO 2021 Conference and Festival: Platform (Post?) Pandemic, May 26-28 
+ 
+
+

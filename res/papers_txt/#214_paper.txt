@@ -1,0 +1,546 @@
+Computer-Generated Books: Metonymic, 
+Metaphoric and Operationalist 
+Dr. Zach Whalen 
+University of Mary Washington 
+ 
+
+Every one knew how laborious the usual method is of attaining to arts and sciences; whereas, by his 
+contrivance, the most ignorant person, at a reasonable charge, and with a little bodily labour, might 
+write books in philosophy, poetry, politics, laws, mathematics, and theology, without the least 
+assistance from genius or study. 
+•  Gulliver’s Travels into Several Remote Nations of the World (Swift 1726)  
+
+ 
+In Gulliver’s travels, the professor quoted above has devised a mechanical means for creating speculative 
+knowledge and proposes that merely 500 or so of these stochastic frames would be necessary to complete 
+the work of the arts and sciences. With only a few folios of broken sentences to show for the work, the 
+professor is nevertheless granted an assurance from Lemuel Gulliver that he -- this unnamed professor -- 
+will retain sole intellectual property rights to this invention. Now, merely a few centuries after Jonathan 
+Swift composed this parody of intellectualism, artists and writers with knowledge engines far more 
+capable than even five hundred of the Lagodan professor’s engines are creating folios filled with 
+sentences of many kinds.  This book-generating machine -- and especially its illustration, as in Judy 
+Mollow’s recent “merged with a screen for days” -- is a frequent motif for writers interested in generative 
+literature and computing history more generally, but in this paper, I am interested more in the books 
+produced by such engines.  
+In the 20th century, artists, writers, and programmers found many different reasons to employ a computer 
+in service of creating a book, and thanks to the energy around NaNoGenMo (National Novel Generation 
+Month), now hundreds of these books have been programmed into existence in the 21st century. With 
+such diversity of motivations, methods, and means behind computer-generated books, the breadth of the 
+field makes it difficult to situate these works within the array of genres and forms typically considered to 
+constitute electronic literature, to say nothing of the fact that the material status (print) of many of these 
+books may in fact lie beyond some definitions of electronic literature where a computer is said to be 
+essential in both creation and consumption. Even for screen-essentialist conceptions of electronic 
+literature, however, the formal patterns of the codex book persist beyond the bound (in)efficiencies of the 
+paper platform. For some of these digital works, like Judd Nelson's "The Jew's Daughter" or Jason 
+Nelson's "Evidence of Everything Exploding," the printed page becomes a platform for the mutability of 
+the screen, while in other works like Amaranth Borsuk and Brad Bouse's Between Page and Screen or 
+Steve Tomosula's TOC, the intermedial space explores a tension between the printed and the projected 
+word. Still other works are conceived digitally but arrive in print form like Nick Montfort’s recent Golem 
+(Montfort 2021) and the books (ten so far) in Counterpath’s Using Electricity series (“Using Electricity 
+Series” n.d.).  
+Scholarly work on computer-generated fiction has tended to focus on narrative (Noah Wardrip-Fruin’s 
+Expressive Processing) or text (the general field of natural language processing), and or more recently 
+Leah Henrickson among others has been illuminating the ways human readers respond to and interpret 
+computer-generated text via shifting ideas about authorship (Henrickson 2019). In recent ELO conference 
+presentations, I have called for more focus on the content of the generated books, and I am pursuing that 
+
+line of inquiry in a larger study of which this present paper is a part. In this paper, I propose a framework 
+for classifying the differences among computer-generated books relative to their characteristics apparent 
+purposes. By articulating three broad genres (or perhaps heuristics) -- metonymic, metaphoric, and 
+operationalist -- I am attempting to provide more entry points into this otherwise large field that can be 
+resistant to easy summarization. Additionally, identifying the syntactic and semantic architectures of these 
+genres allows me to locate fields of practice and art typically situated outside of literary studies that 
+nevertheless provide salient precedents and audiences for computer-generated literature. 
+Taxonomy is always a fraught premise, a tentative hedge against mutability that inevitably fails to include 
+a comprehensive account of any phenomenon, so describing and fleshing out a taxonomy cannot be an 
+end unto itself. Rather, I hope it can serve as a shortcut to consonant and disparate features among sets in 
+a way that will obviate repetitive descriptions. In this way, my hope is that a discussion of these types will 
+provide a useful introduction and heuristic to the field. 
+Definitions 
+For the sake of this paper and the , I am focusing on computer-generated books that found their way into 
+print, including print on demand and artist’s books, but I will also be including several works that exist 
+only or at least primarily as PDF documents. PDFs are, of course, digital files, but I agree with Lisa 
+Gitelman’s characterization of PDFs as “near print”(Gitelman 2014) in that they replicate many of the 
+formal, economic, and bureaucratic qualities of printed documents as well as demonstrating what 
+Matthew Kirschenbaum calls “formal materiality” in Mechanisms .  Specifically, PDFs gesture toward 
+individuality and immutability, at least rhetorically, and they circulate for consumption as the endpoints 
+of processes both bookish and bureaucratic. As Gitelman writes, “PDfs are individually bounded and 
+distinct ... already authored entities, understood as distinct from the written systems in and by which they 
+are individually named and potentially manipulated or downloaded” (2014, 133). They are, therefore, 
+close enough to printed books that they merit inclusion in this analysis. Additionally, PDFs are by 
+convention the work product of a successful NaNoGenMo entry, and the hundreds of books completed for 
+this annual event provide a great many of the examples to follow. 
+Briefly, I consider books to be “computer-generated” when some form of programming or computation 
+has been necessary in the composition of a book’s contents. That composition may include aleatory or 
+deterministic algorithms, artificial intelligence, or simple regular expressions. A human’s involvement in 
+the compositional process can vary from very little to books that are best considered dialogic 
+collaborations between a computer and a human author, but since as far as I know, no computer has 
+independently decided to write a book on its own initiative, these differences are best viewed as a 
+continuum. Focusing on the nuances and limitations of that continuum is beyond the scope of this paper 
+and better suited for studies that examine the meaning of authorship in these contexts. 
+Literary genres, programming methods and programming languages provide additional classifications of 
+computer-generated books. Judith van Stegeren’s taxonomy of methods used in NaNoGenMo 2018 is an 
+excellent framework (van Stegeren and Theune 2019), and my ongoing project, NaNoGenMoCat, is an 
+attempt to curate and catalog a comprehensive archive of all NaNoGenMo books (Whalen 2019) . But I 
+believe the typology I am proposing here will build on these existing systems to help identify recurring 
+themes, influential communities of practice, and a broader range of literary and artistic antecedents. 
+Finally, the norms and features that this typology delineates can also provide a basis for appreciative 
+criticism of these works because these are, in a way, value judgments with respect to the pleasures of 
+these generated texts. 
+In focusing on the generated books themselves, I consider books to be metonymic when their most salient 
+meaning invokes what Jessica Pressman calls aesthetic bookishness or the medium of books in general. 
+These are books readers recognize via resemblance to books in general in material or graphical terms. By 
+
+contrast, books that are metaphoric ask readers to recognize contingency in the generated book -- as 
+pastiche, satire, deformation, or some other rhetorical mode -- relating it to some specific other book or 
+genre of book. While creators of metonymic and metaphoric books tend more often than not to make their 
+processes transparent, usually by making their source code available, those who produce operationalist 
+may obscure their methods or if processes are discernible these mechanizations are the focal point of the 
+book’s interest. To put it another way, operationalist books are those for which a principal interest is the 
+premise that a computer has generated this book.  
+In terms of reception, perception, and interpretation, works that emphasize their metonymic relationship 
+to books tend to be interesting to look at, books that exploit a metaphoric relationship to specific books 
+tend to be interesting to read, and books that rely on operationalist premises tend to be interesting to 
+know about.  
+Metonymic Mediation 
+Works that are metonymic are sculptural or artifactual in making an appeal to bookishness (after Jessica 
+Pressman's term) through the characteristics of their material existence. These works include Luigi Amato 
+and Roberto Arista's Volume (Amato 2017), which includes as its contents its literal self-description (in 
+terms of weight, width, height, indexicality) and Jean Keller's 2012 The Black Book, which maximizes the 
+value of a self-printed book by printing each page in solid black (Keller 2012). The role of computation in 
+the creation of these works is at least implied, and their status as metonymy for the concrete presence of 
+books draws in other works with different origins. 
+Prior to NaNoGenMo, many of the best examples of metonymic generated books could be considered 
+artist’s books, arguably the example of a book composed by a computer process is an instructive example. 
+The book, A Million Random Digits with 100,000 Normal Deviates was first published in 1955 by the 
+Rand corporation with a second edition in 2001 and an online edition is currently available on the Rand 
+Corporation’s website (Rand Corporation 1955; RAND Corporation 2001). This book originated as a 
+research tool supporting statistical and cryptographic inquiries where a supply of high-quality random 
+numbers is helpful for validation purposes, and artists such as John Cage and Jackson Mac Low used this 
+book and others like it to direct their chance-driven composition techniques (Sample 2013). To consider 
+the book itself as a literary object may strain the limits of literary genre, but the reception and reviews of 
+the book that jokingly treat it as though it is literature validate the book’s status as metonymy all books. 
+And although there are instances of books of random numbers and logarithmic tables, the continued 
+circulation of A Million Random Digits as a literary text merits its status perhaps the earliest example of 
+computer-generated literature taking the form of a book. 
+For example, on GoodReads, where the book currently enjoys a 4.39 out 5 stars, reviewers praise A 
+Million Random Digits’ unpredictability, its development of noteworthy characters like “31536,” and its 
+well-deserved status as a literary classic (“A Million Random Digits with 100,000 Normal Deviates” 
+n.d.). What these and similar reviews on Amazon depend on is the ironic distance between the book’s 
+supposed purpose and material fact of its existence. The massy, volumetric presence of the first edition is 
+recognizable as member of the set of all books, and every aspect of its design, typography, layout, 
+metadata, paratextual material, as well as its circulation as a bibliographic object confirm its status as a 
+member of that set. But the fact that it resists anything like conventional reading turns attention only to 
+those features it shares with other books.  
+Other generated books with metonymic demonstrations of their bookishness are similarly difficult or at 
+least different to read, and this includes artists' books like the aforementioned Black Book and Volume. 
+Writing about print on demand projects like Black Book, Hannes Bajohr coins a term, “auto-factography,” 
+to recognize works that make specific emphasis on “the relationship between digital file and printed book 
+... while feeding back their output into their aesthetic practices” (Bajohr 2018). As one approach to 
+
+bookish metonymy, auto-factographic experimental literature that embraces (or exploits) the accessibility 
+of print on demand services like Lulu and Blurb is often computer-generated in some way, but even those 
+with more analog origin stories are deeply involved in digital textuality. Auto-factographic books are 
+situated at the intersection between print and digital text and they interrogate that intersection through 
+their content, textuality, or form as it concresces in a physical form. For the many computer-generated 
+books that exist only as digital files, that metatextual interrogation is still key, even when that relationship 
+to print is implied instead of literal.  
+Within the corpus of books created for NaNoGenMo, many projects participate in this metonymic 
+mediation by relying on something other than readability for their message. Works like Asemic Writing 
+(2017) by John Ohno and The Cover of the Sun Also Rises (2015) by Duncan Regan are examples that 
+conceptualize an individual moment of inscription and highlight the ephemerality of that inscription, and 
+Liza Daly’s Seraphs: A Procedurally Generated Mysterious Codex (2014) uses a Voynich-like font to 
+mimic (generically) the glyphs and motifs of the mysterious Voynich manuscript. Seraphs and the 
+Voynich manuscript are approximately equal in their (il)legibility, but both perform an idea about the 
+shape and purpose of esoteric books as potentially magical objects. Allison Parrish’s Ahe Thd Yearidy Ti 
+Isa is another example of an illegible book that is additionally a metonymy for computer-generated books. 
+To produce this work, Parrish used an artificial-intelligence approach normally best-suited for image 
+classification and generation and trained it to recognize and generate images of letters and numbers.  
+The generated letters, which Parrish’s code arranges first into word-like sequences and then into 
+sentences, paragraphs, and pages, look uncannily familiar yet are never quite correct. The reason these 
+fail to resolve has to do with the learning model inherent to the AI in use -- a Generative Adversarial 
+Network -- that trains its understanding of a data set by extracting salient features of samples, locating 
+those features in an n-dimensional space containing all samples, and inferring that new members of that 
+set must exist in the latent space “between” those features. The problem for text is that, whereas for 
+bitmaps of images, modifying the color of a single pixel might make a noisy image incrementally more 
+similar to some target image, typographic glyphs are indexical and relatively sparse in terms of the 
+information required to recognize a small bitmap as an image of one letter or another. The fact that one 
+can almost read Ahe Thd Yearidy Ti Isa is its most remarkable feature. 
+The NaNoGenMo-adjacent corpus also includes several other works that present themselves as 
+metonymic statements about or for books and computer-generated literature. This includes chiefly 
+graphical works like Greg Kennedy’s graphic novel, Generated Detective, Everest Pipkins’s 2016 project 
+A thoroughfare [] beat Across the wilderness that Google Street View imagery to record a speculative 
+path for data transmissions lines, Sandra Shtabnaya’s ASCII Ocean (2019) that converts frames of video 
+into ASCII art and compiles the result as pages in a PDF, or Mark Rickerby’s Emic Automata (2017) that 
+treats words as units for a cellular automata. My An Arthrogram (2015) and VAUDn oc HORRRR (2020) 
+are also metonymic examples of computer-generated comics. 
+In discussing and characterizing metonymy as a specific genre for computer-generated books, I have 
+intentionally avoided referring to these as “concrete” because of that word’s specialized activation of 
+“concrete poetry” -- a term which has a diverse and sometimes contested status that lies beyond the scope 
+of this paper. But many of the books under consideration here can be said to validate the axiomatic 
+linking of structure to content, especially if one includes here the ways in which the apparatuses of book 
+design, production, and printing are all kinds of formal structure that can become visible as content.  
+In summary, metonymic works are formally media-specific, often unreadable, and poetically concretist in 
+their meaning, and while creators have positioned the referential status of these books to serve different 
+rhetorical agendas, the artifactual salience of these computer-generated works trope that sets these books 
+apart from other projects. 
+
+Metaphoric 
+Any computer-generated book may follow one or more existing literature genres (fiction, non-fiction, 
+poetry, or theater) and within communities of practice like NaNoGenMo, methodologies and recurring 
+themes can be analogous to genre categories in providing interpretive shortcuts between creators and their 
+audience. Unlike metonymic books where their signaled status as a book accomplishes its meaning, 
+metaphoric are those books where the meaning is contingent upon a specific other book or literary genre. 
+Rather than representing all books, these metaphoric books operate generically to satirize, remix, parody, 
+critique, or in some other way stand in place of their referents for some purpose. The methods 
+programmers use may be stochastic, deterministic, or statistical, but they each begin with a specific work 
+or works and rely for their meaning on readers recognizing the reference.  
+This includes the many methods following the tradition -- if not usually the exact process -- of Hugh 
+Kenner and Joseph O'Rourke's "Travesty Generator.” This is the method for creating a new text based on 
+one or more original texts where the distribution of n-length sequences in the generated text matches that 
+in the original (Kenner and O’Rourke 1984). Significantly, even though few (if any) generated books 
+used their exact method, Kenner and O’Rourke posit their innovation not for its programmatic novelty but 
+for its utility in producing literary “travesty,” which BYTE Magazine editor G. Michael Vose defines as, 
+“a distorted, stylistically incongruous translation or imitation of a literary or artistic endeavor” (Vose 
+1984). This disposition toward “imitation” or “incongruous translation” is the hallmark feature of works 
+that I classify as “metaphoric,” and this is also evident in the similar, though much older, method of 
+generating sequences using Andrej Markov’s algorithm.  
+So-called Markov chains have been used for text generation as far back as their original articulation. In 
+his 1913 lecture outlining the method for computing sequences within serial data, Markov demonstrated 
+the unreasonable effectiveness of his method to generate a sequence of letters in imitation of Pushkin’s 
+Eugene Onegin (Markov 2006). When Claude Shannon uses the technique in his 1948 paper, “A 
+Mathematical Theory of Communication,” he is not focused on literary critique, evaluating his results as 
+at least passable language: “... sequences of four or more words can easily be placed in sentences without 
+unusual or strained constructions. The particular sequence of ten words “attack on an English writer that 
+the character of this” is not at all unreasonable...” (Shannon 1948). Shannon does not disclose the book 
+from which these sequences are derived, but the phrase “attack on an English writer” ironically 
+anticipates Kenner and O’Rourke’s observation that their pseudo-text is “disconcertingly recognizable” 
+when trained on specific writers (Kenner and O’Rourke 1984). 
+Kenner and O’Rourke’s method and the related explorations of parodic Markov chains produce results 
+with at least momentary interest, but their status as linguistic novelties generally precluded their being 
+published as books. However, computer-generated poetry offers some examples of the metaphoric 
+disposition.  
+For example, Energy Crisis Poems a short book published in 1974 by “RJS” strikes a parodic tone in 
+stanzas like  
+
+compoundings of senile enlightenment 
+flagellate emptily 
+from elemental origins to computed complexity (2) 
+
+And the author/programmer wryly notes that, with this program, “massive quantities of mediocre poetry 
+can now be created with minimal effort from the poet” (R. J. S et al. 1974).  I consider this self-awareness 
+“metaphoric” because the poems presented by RJS as “mediocre” presumably stand in place of better 
+
+poetry by better poets, and in this way Energy Crisis Poems is reminiscent of the earlier AUTO-
+BEATNIK (circa 1962), Christopher Strachey’s love letters (1952) or even Joseph Weizenbaum’s ELIZA 
+where, for each, one level of the “joke” is essentially that a particular form of expression (avant-garde 
+poetry, epistolary affection, and psychotherapy) are evidently so far removed from actual human insight 
+that even a computer can produce plausible examples. 
+More broadly, if generated books of a metaphoric disposition are contingent upon some earlier work or 
+style and programmatically transformed into a new text, so quite a few different methods of 
+transformation beyond the travesty genre are resonant in purpose and modes of reception. Jason Huff’s 
+AutoSummarize (2010) uses “Microsoft Word 2008’s AutoSummarize 10-sentence function” to make 
+much shorter versions of classic literary works, and Huff’s 2011 collaboration with Mimi Cabell to collect 
+the “constellations” of ads that appearing in GMail after sending the full text of American Psycho 
+between two accounts.  These works are contingent on earlier literary works, but by transforming these 
+works by (mis)using corporate software, Huff and Cabell also position their work as critique those 
+software regimes and the technological infrastructure in which knowledge circulates. 
+Within NaNoGenMo, quite a few noteworthy projects operate within a metaphoric mode, including many 
+that involve Markov chains or similar travesty generator techniques. Imitating the Greats (2018) by 
+aaronfink01 and Mythology & The Slap: A Post-Geometric Futurist Manifesto (2016) by accraze are 
+typical in that they combine multiple sources into a Markov model before generating text, and 
+shamanoor’s Romeo and Juliet in WhatsApp Dialogue (2019) cleverly uses Markov chains to generate 
+text that is then passed through other filtering and formatting so that readers may view it through a 
+specific interpretive and stylistic filter, and similarly, Taphos (2020) by Nathan Mifsud begins uses 
+Markov chains to generate text hybridized from a Book of the Dead and literary criticism about the “death 
+of the novel” before degrading that resulting text in several entropic stages. 
+Computer-generated books that transform, respond to, critique, satirize or in some other metaphorically 
+relevant way are among the popular and well-known examples of NaNoGenMo books. This is owes much 
+to the fact that it is possible to convey the idea of many of these works and their interventions in a brief 
+sentence: Pride and Prejudice but with dialogue scraped from Twitter (Twide And Twejudice (2014) by 
+Michelle Fullwood), Moby-Dick but all the words are spoonerisms (Doby Mick; or, the excessively-
+Spoonerized Whale (2014) by Chris Pressey), Through the Looking Glass but with the dialogue from 
+Pride and Prejudice (Through the Prejudice Glass (2015) by Leonard Richardson), Moby-Dick but every 
+instance of words that could be a sophomoric euphemisms is followed by a parenthetical giggle (Moby-
+Dick (hehe) (2016) by Matthew Vickers). Some of these transformations can involve simple yet clever 
+character substitutions that suggest an alternative point of view for representing a classic work, as in 
+Christina Montemorano’s Paradissssse Lossssst (2019) that re-tells the epic poem in the voice of the 
+serpent by drawing out every s-sound, or HugoVK’s 50,000 Meows that transforms any text (including 
+Moby-Dick) into “meows.”  
+Others involve more elaborate transformations and transpositions that nevertheless depend on replacing 
+some earlier text with a new, yet still readable document that refracts the originals in some meaningful 
+way. The 2020 NaNoGenMo book, Ready Player N by katstasaph transforms any book to make it more 
+like Ernest Cline’s Ready Player One by inserting unnecessary pop culture references. The following 
+moment from the climactic confrontation near the end of Mary Shelley’s Frankenstein is thereby made 
+more relevant to a modern audience well-steeped in geek cultural lore: 
+
+"I have declared my resolution to you, and I am no coward to bend beneath words. Leave me; I 
+am inexorable.”  
+"It is well. I go; but remember, I shall be with you on your wedding-night, rather like Night City 
+from the Cyberpunk IP." 
+
+I started forward and exclaimed, “Villain! Before you sign my death, very much like the Death 
+Star-warrant, be sure that you are yourself safe.”  
+I would have seized him, but he eluded me and quitted the house with precipitation. In a few 
+moments I saw him in his boat, pretty much like Sonny Crocket's SCARAB in Miami Vice, but 
+not as badass, which shot across the waters with an arrowy swiftness and was soon lost amidst the 
+waves. (katstasaph [2020] 2020) 
+
+This project is more pointed in its critique and is more clearly a work of parody than some of the other 
+more conceptual or incidental works in this genre of books with a metaphoric orientation. The sample 
+above includes several different takes on Moby-Dick, and it is true that Herman Melville and Jane Austen 
+are clearly over-represented within the NaNoGenMo corpus. As I have argued elsewhere, the visibility of 
+these two authors within this community of practice that, among other things, creates new works that are 
+based on earlier works, derives from the status of Moby-Dick and Pride and Prejudice within the literary 
+canon. So much so, that these are among the books that may first come to mind when an artist with an 
+idea for remixing a book needs to find some book to plug into that algorithm. In this way, these 
+contingent books still warrant consideration as demonstrations of metaphoric computer-generated books, 
+but in many cases, their interest lies in the work accomplished by the algorithm and not as much in 
+whatever critique is implied by making Melville and Austen the source texts for these algorithms. In other 
+words, these two classic novels stand in as metonymic placeholders for literary fiction in general and less 
+as subjects of critique in their own rights. 
+In all these examples and many more, computer-generated books can be considered “metaphoric” when 
+they are clearly contingent on prior works. They are generally readable, transparent or even trivial in their 
+processes, and frequently hilarious. 
+Operationalist 
+Finally, works that I consider "operationalist" follow Neil Harris's description of P.T. Barnum's method of 
+showmanship as demonstrating an "operational aesthetic." For these computer-generated books, the 
+audience may be left with some doubt as to the origins and mechanization of the book, so this may 
+include books where readers have some reason to doubt whether it was really generated by a computer 
+program and books that have attempted to "pass" as human-authored. In other cases, the books -- specific 
+or general, readable or concrete -- are composed through processes that are more interesting than the 
+resulting novel. In all of these cases, what unites them is that the  operations of authorship are among the 
+principle signifying characteristics of these works, although many of the examples to follow are also 
+noteworthy for metonymic and metaphoric reasons as well. 
+Harris’s 1981 book one explains the success of P.T. Barnum’s showmanship -- much of which was based 
+on artful deception -- as owing in part to American audiences’ increasing scientific literacy and 
+mechanical processes, which Harris extends to include the rhetorical processes of belief, skepticism, and 
+revelation that accompany hoaxes and their unveiling (Harris 1981, 72). Shane Denson and Andreas Jahn-
+Sudmann leverage Tom Gunning’s observation of this aesthetic in film to call for similar understandings 
+of the serial and procedural logic of video games (Denson and Jahn-Sudmann 2013), and Johannah King-
+Slutzky is recognizing something by comparing overly-determined and needlessly complex Twitter bots 
+to Rube Goldberg machines (2014).  
+In my analysis, I label those books “operationalist” instead of operationally aesthetic to refer to two 
+general subtypes of projects: those which are opaque, secretive, or even deceptive about their processes, 
+and those for which a specific process is evident but it that process is more compelling (through its 
+conceptual originality, specificity, or Goldbergian complexity) than either the artifact it produces. 
+
+This operationalist set includes such classics of the computer-generated field as The Policeman’s Beard is 
+Half-Constructed by “Racter” (1984), Just This Once by Scott French (1993), Bagabone, Hem 'I Die Now 
+by “Melpomene” (1980), True Love by Alexander Prokopovich (2008) and The Day a Computer Writes a 
+Novel by “GhostWriter” and Satoshi Sato (Sato 2016).  
+Each of these books have several things in common: each received press coverage, each is at least vague 
+about its source code, and each to some extent anthropomorphizes the programming code that produced 
+it. In each of these cases and several more, a key element in the velocity of the project has to do with the 
+premise that a computer wrote a book. This premise of computer authorship may be unearned in some 
+cases, but the power of that attribution speaks to the same impulses that drive the ELIZA effect, the 
+popularized conception of the Turing test, and even the general AI of science-fiction. Writing a novel is 
+hard, and because more people, presumably, admire novel writers than have written novels, the craft or 
+process of writing of novel-writing carries a significant amount of mystique. “For a computer to write a 
+novel,” the operational aesthetic seems to say, “either novel writing is more mechanical than I realized, or 
+computers are more advanced than I realized.” Neither of these suppositions are necessarily ever true, but 
+their logic is similar to the logic that attracted P.T. Barnum’s audiences. 
+In other words, sometimes a supposed computer-generated book is a hoax. I can make no definitive 
+claims about any of the examples listed here (although I have suspicions), but the potential harmfulness of 
+computer-generated text is exemplified clearly in the case of SCIGen, a Perl script capable of generating 
+fake research papers that was used to create at least 120 papers that were accepted at scientific 
+conferences (Van Noorden 2014). These false papers’ mimicry merits consideration as a metaphorical 
+stance because the formula implicitly critiques the jargony, formulaic writing of computer science 
+research. Since these papers are nominally attributed to human authors, they are inversely related to books 
+with putatively procedural origins. 
+Other projects in this operationalist genre demonstrate that a nuanced and even ambiguous relationship 
+may persist among a human and their authoring process without committing false attribution. The Seeker 
+(thricedotted 2014) is a well-known example of a project where an implied author complicates the stakes 
+of attribution by managing to achieve something like intersubjectivity. In The Creativity Code, Marcus du 
+Sautoy writes, “The Seeker almost works as a novel, unlike many other algorithmic creations, because we 
+start to feel we are getting inside the head of the algorithm as it tries to make sense of humans” (2019, 
+265). In keeping with the norms of NaNoGenMo, thricedotted has shared the source code for the project, 
+but appreciating the novel's fictional and poetic operations are much more compelling than scrutinizing 
+the mechanics of its code. 
+A more recent NaNoGenMo book places such an emphasis on the mechanics of its operations that it 
+becomes a meditation on the intimate yet unknowable micro-mechanics of speaking. Simple Dialogues 
+(Garbier and Zhang 2020) tells the story of a man ordering coffee, but the text we read breaks each 
+spoken word into its phonetic elements and describes the physical movements necessary to create those 
+sounds. 
+
+Barista raises the back of her tongue towards the hard part of the roof of her mouth, neither too far forward 
+nor too far back. She keeps some space between her tongue and the roof of her mouth. With her vocal folds 
+tensed, she releases air through her mouth. She rounds her lips so that they create a small opening. With her 
+tongue in a relaxed position at the back of her mouth, she tightens her vocal folds and releases air through 
+her mouth.  
+
+The result is creepy and almost erotic in the context of the year 2020 when any conversation like the one 
+narrated would take place with both speakers’ mouths hidden behind masks. Like metaphoric works 
+discussed above, the concept of Simple Dialogues is relatively easy to express in a short sentence, and it is 
+
+very readable, but the operation of the process it uses to direct attention toward another process draws our 
+aesthetic attention to the logic of its processes. 
+Other notable books in this operationalist genre include 1 the Road (2018) by Ross Goodwin and Karen 
+Ann Donnachie and Andy Simionato The Library of Nonhuman Books (2019). 
+Nick Montfort has created several computer-generated books which convey operationalist interest, and in 
+most cases, Montfort has shared the source code either within the book or on his website. For some of 
+these projects, like World Clock, the code is relatively easy to follow, and even if it weren’t, the 
+operations of the code are deducible from the structure of the text as it writes its way around the world. In 
+other cases, like the poems in Montfort’s 2014 poetry collection, #!, the source code for each poem is 
+printed alongside a sample run of its output. Some of these programs -- especially those in the ppg256 
+series -- are written so compactly that much of their pleasure comes in detangling their operations to see 
+how they could produce the output ascribed to them.  
+Leonardo Flores, in a Critical Code Studies Working Group thread, appropriates the metaphorically 
+spatial interpretive strategies “close” and “distant” reading to distinguish degrees of distance between 
+programmers and the data of their programs in computer-generated writing (Flores 2020). In Flores’ 
+formulation, many of Montfort’s programs would demonstrate “short distance writing” by working with 
+the literal and phonetic elements of language, or “medium distance writing” by working with one or just a 
+few well-demarcated datasets.  But in all of these distances, the writing that Flores’ refers to encompasses 
+both the data and the operational aesthetics of the program manipulating that data into poetry or prose. I 
+argue additionally that Montfort is creating a nuanced and complex position for authorial subjectivity by, 
+in at least some cases, sharing code that expresses the operations of the program in language that is 
+difficult to read (at least for me). Of course, the first audience for a code poem is the programming 
+language that compiles and carries out its instructions, so Montfort’s minified instructions muster 
+creativity in programming to address the quotidian operations of our every day computer, not some 
+mystically sentient ghost in a machine. 
+The only computer-generated book by Montfort that plays with obscurity in a self-evident way is his 
+recent book, Golem. The novel includes novel-generating code: two Perl scripts, but as I write in my 
+“postword” to Golem, neither of these scripts are capable of generating the text on reads in the first place. 
+In this case, the distances between the implied code, the latent original code, and the inscribed code 
+diegetically “understood” by “the censor” and written by “Charlie” create a rich ambiguity around the 
+implied author of the book. Golem is not a hoax or fraud, but its mysteries challenge readers to reverse-
+engineer its operations. 
+Operational interest may be evident in any computer-generated book, but for those where an author 
+attribution is dubious or complex or where the mechanisms of generation are conceptually important to 
+the meaning of the work, referring to these works as operationalist in nature places their signifying 
+strategies into an ecosystem of textual reception. At the same time, these works that foreground their 
+process or create intrigue by obscuring it help underscore the problem with the ready availability of 
+plausible word goo from OpenAI’s GPT-2 and GPT-3 where the mechanism is proprietary and the results 
+tend to be at best locally quirky and at worst deeply problematic. 
+Fiction, or the Meanings of Computer Generated Books 
+In this paper, I have described three types of computer-generated books: metonymic books that work in 
+reference to the medium of books as a whole, metaphoric books that relate to specific other texts or 
+genres, and operationalist books that invite readers to investigate, speculate, or reflect on the processes 
+used to create the book. Each of these categories can be thought of as genres in the sense that each has 
+distinguishing features and characteristic purposes for their constituent examples. Still, these types are 
+
+rather broad, and in some cases, the subjective heuristics I use may seem normative or arbitrary. With the 
+few examples I have included in this paper, there are undoubtedly many computer-generated books 
+without a clear generic fit, (I can think of at least one more “genre” of computer generated books: 
+“instrumentalist” books like textbooks created by scraping WikiPedia) and as some of the examples 
+demonstrate any computer-generated books may have features consistent with two or more of the types I 
+have specified here. But given the wide range and long history of books authored or co-authored by 
+computational processes, this attempt at a framework for describing their purposes and audiences helps is 
+a step toward contextualizing these works of electronic literature within adjacent fields such as conceptual 
+writing, literary hoaxes, and artist's books. 
+ 
+Bibliography 
+
+ 
+
+“A Million Random Digits with 100,000 Normal Deviates.” n.d. GoodReads.Com. Accessed May 7, 2021. 
+
+Amato, Luigi. 2017. “Luigi Amato / WORKS.” September 27, 2017. 
+
+Bajohr, Hannes. 2018. “Infrathin Platforms: Print on Demand as Auto-Factography.” In Book Presence in a Digital 
+
+https://www.goodreads.com/work/best_book/283459-a-million-random-digits-with-100-000-normal-
+deviates. 
+https://web.archive.org/web/20170927100605/http://luigiamato.net/post/101345820032/volume. 
+Age, edited by Kiene Brillenburg Wurth and Kári Driscoll, 21. Bloomsbury Academic. 
+http://opentranscripts.org/transcript/bot-culture-wacky-inventor/. 
+Digital Games.” Eludamos. Journal for Computer Game Culture 7 (1): 1–32. 
+
+Denson, Shane, and Andreas Jahn-Sudmann. 2013. “Digital Seriality: On the Serial Aesthetics and Practice of 
+Dewdney, A. K. 1989. “COMPUTER RECREATIONS.” Scientific American 260 (6): 122–25. 
+Flores, Leonardo. 2020. “Distant Writing: Code Critiques from NaNoGenMo and NNNGM.” Messageboard. CCS 
+
+“Bot Culture and the Myth of the Wacky Inventor - Johannah King-Slutzky.” 2014. Open Transcripts. 2014. 
+
+Working Group 2020. February 2020. 
+http://wg20.criticalcodestudies.com/index.php?p=/discussion/85/distant-writing-code-critiques-from-
+nanogenmo-and-nnngm. 
+
+French, Scott R. 1993. Just This Once. Secaucus, N.J: Carol Pub. Group. 
+Garbier, Anna, and Lan Zhang. 2020. “Annagarbier/Simple_dialogues.” GitHub. November 30, 2020. 
+
+https://github.com/annagarbier/simple_dialogues. 
+University Press Books. 
+
+Gitelman, Lisa. 2014. Paper Knowledge: Toward a Media History of Documents. Durham ; London: Duke 
+Harris, Neil. 1981. Humbug : The Art of P.T. Barnum. Chicago: University of Chicago Press. 
+Henrickson, Leah. 2019. “Towards a New Sociology of the Text: The Hermeneutics of Algorithmic Authorship.” 
+Thesis, Loughborough University. https://doi.org/10.26174/thesis.lboro.10596404.v1. 
+katstasaph. (2020) 2020. Katstasaph/Readyplayern. HTML. https://github.com/katstasaph/readyplayern. 
+Keller, Jean. 2012. “The Black Book.” May 1, 2012. https://www.lulu.com/shop/jean-keller/the-black-
+
+Kenner, Hugh, and Joseph O’Rourke. 1984. “A Travesty Generator for Micros.” Byte Magazine, November 1984. 
+
+book/paperback/product-21008894.html?page=1&pageSize=4. 
+http://archive.org/details/byte-magazine-1984-11. 
+
+Markov, A. A. 2006. “An Example of Statistical Investigation of the Text Eugene Onegin Concerning the 
+
+Melpomene (Computer). 1980. Bagabone, Hem ’I Die Now. New York : Vantage Press. 
+
+Connection of Samples in Chains.” Science in Context 19 (4): 591–600. 
+https://doi.org/10.1017/S0269889706001074. 
+http://archive.org/details/xfoml0002. 
+Molloy, Judy. 2020. “Merged with the Screen for Days.” 2020. 
+https://www.narrabase.net/merged/merged_top2.html. 
+Montfort, Nick. 2014. #! Counterpath Press. 
+———. 2021. Golem. Portland, Oregon: Dead Alive Press. 
+Pressman, Jessica. 2020. Bookishness: Loving Books in a Digital Age. Columbia University Press. 
+
+R. J. S, T. L Kryss, Dominique, and bp Nichol Poetry Collection. 1974. Energy Crisis Poems: Poetry by Program. 
+Racter, and William Chamberlain. 1984. The Policeman’s Beard Is Half Constructed: Computer Prose and Poetry 
+by Racter- The First Book Ever Written by a Computer. 1st edition. New York, NY: Grand Central Pub. 
+Rand Corporation. 1955. A Million Random Digits with 100,000 Normal Deviates. Free Press. 
+RAND Corporation. 2001. A Million Random Digits with 100,000 Normal Deviates. Santa Monica, CA: American 
+
+Book Publishers. 
+
+Rodgers, Johannah. 2017. “The Genealogy of an Image, or, What Does Literature (Not) Have To Do with the 
+
+Sample, Mark. 2013. “An Account of Randomness in Literary Computing.” @samplereality. January 8, 2013. 
+
+History of Computing? : Tracing the Sources and Reception of Gulliver’s ‘Knowledge Engine.’” 
+Humanities 6 (4): 85. https://doi.org/10.3390/h6040085. 
+https://samplereality.com/2013/01/08/an-account-of-randomness-in-literary-computing/. 
+
+Sautoy, Marcus Du. 2019. The Creativity Code: Art and Innovation in the Age of AI. Place of publication not 
+
+Sato, Satoshi. 2016. “A Challenge to the Third Hoshi Shinichi Award.” In Proceedings of the INLG 2016 Workshop 
+on Computational Creativity in           Natural Language Generation, 31–35. Edinburgh, UK: Association 
+for Computational Linguistics. https://doi.org/10.18653/v1/W16-5505. 
+identified: Belknap Press: An Imprint of Harvard University Press. 
+379–423, 623–56. 
+
+Shannon, C E. 1948. “A Mathematical Theory of Communication.” The Bell System Technical Journal 27 (July): 
+
+Stegeren, Judith van, and Mariët Theune. 2019. “Narrative Generation in the Wild: Methods from NaNoGenMo.” In 
+
+Tomasula, Steve, Stephen Farrell, Matthew Lavoy, and Christian Jara. 2009. Toc: A New Media Novel. New edition. 
+
+thricedotted. 2014. “The Seeker · Issue #146 · Dariusk/NaNoGenMo-2014.” GitHub. November 30, 2014. 
+
+Proceedings of the Second Workshop on Storytelling, 65–74. Florence, Italy: Association for 
+Computational Linguistics. https://www.aclweb.org/anthology/W19-3407. 
+Swift, Jonathan. 1726. Gulliver’s Travels into Several Remote Nations of the World. 
+https://www.gutenberg.org/ebooks/829. 
+https://github.com/dariusk/NaNoGenMo-2014/issues/146. 
+Tuscaloosa, Ala.: Fiction Collective 2. 
+electricity. 
+https://doi.org/10.1038/nature.2014.14763. 
+
+Van Noorden, Richard. 2014. “Publishers Withdraw More than 120 Gibberish Papers.” Nature News, February. 
+Vose, G. Michael. 1984. “Features.” Byte Magazine, November 1984. 
+Whalen, Zach. 2015. “On the Poetics of ‘Haiku by a Robot.’” Blog. ZachWhalen.Net (blog). January 27, 2015. 
+
+“Using Electricity Series.” n.d. Counterpath Press. Accessed August 12, 2019. http://counterpathpress.org/using-
+
+http://www.zachwhalen.net/posts/on-the-poetics-of-haiku-by-a-robot/. 
+
+———. 2019. “NaNoGenMoCat: A Database of Computer Generated Novels.” In ELO2019: Electronic Literature 
+
+Organization Conference & Media Arts Festival, Programme and Book of Abstract. Cork, Ireland. 
+http://hdl.handle.net/10468/8128. 
+ 
+ 
+
+

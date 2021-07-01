@@ -1,0 +1,346 @@
+The Paradox of Electronic Literature in the Classroom: The
+Challenges for New Literacy Practices within the Platformized
+
+School
+
+Michael Schlauch
+
+Free University of Bolzano
+
+michael.schlauch@education.unibz.it
+
+Abstract
+
+Reviewing the history of computing, the educational potential of new ways of knowledge representa-
+tion and new literary affordances have sparked many inﬂuential ideas and reform efforts, spanning
+from “frantic systems” (Nelson, 1970) to constructionist discovery learning (Papert, 1993) to the
+reconﬁguration of literary education (Landow, 2006, ch. 7). Yet, the current usages of electronic
+literature in education arguably fall behind those early anticipations. Therefore, this paper explores
+the wider educational and social entanglements that withhold electronic literature from entering
+classrooms in the context of current technology transformations. Considering the recent pandemic-
+related global upsurge of the digitalization of educational systems, the mere lack of supply of digital
+devices and equipment will cease to be the main obstacle for the adoption of electronic literature
+in K12 classrooms. Nonetheless, the question shifts to what imaginaries and discourses shape
+(and limit) the use of new digital literary affordances. Reviewing current trends, three issues are
+identiﬁed. These concern (1) ﬁxations of technological disruption, (2) literacy learning objectives
+and (3) the marginalization of teaching. The focus on technological disruption (and solutionism)
+refers to a tendency for innovators to overly emphasize particular technological aspects and to
+become ﬁxated on their “disruptive” beneﬁts while disregarding the need for cultural and artistic
+conventions and communities of education practices to grow within the digital medium. Secondly,
+the problematization of learning objectives relates to a prioritization of basic skills and 21st century
+workforce preparation while neglecting the need to address new critical literacy practices. Rather
+than responding with a restricted, preservationist stance limited to paper-based literacy, educators
+and authors may ﬁnd ways of combining material affordances and electronic literature to introduce
+wider literacy conceptions in educational practice. In a similar vein, the marginalization of teaching
+is concerned with how technology is being used to quantify, classify and control teaching practices
+within new regimes of digital governance. In other words, teachers are being increasingly framed
+as technicians and behavioral managers in place of enhancing their role as “cyberbards” (Murray,
+2016). Given that some of the issues raised correspond to known problems in the ﬁeld of electronic
+literature, they also provide opportunities for further transdisciplinary research into the production
+and adaptation of electronic literature for educational purposes.
+
+1 Introduction: E-lit as educational media
+
+As has been remarked in a recent UN-report, a substantial part of digital educational media pro-
+posed by publishers are continuations of paper textbooks. At the same time a “plausible deﬁnition
+does not seem to exist” and digital textbooks are often just considered as “electronic versions of tra-
+ditional print textbooks” (Mahatma Gandhi Institute of Education for Peace and Sustainable Devel-
+opment [UNESCO MGIEP], 2019, p. 32). While the speciﬁc reasons for the limited use of interactive
+
+1
+
+features and affordances of the digital medium in K12 education are not sufﬁciently investigated, re-
+search on electronic literature is able to help clarify the underlying problems by conceptualizing the
+distinctions between traditional educational media and the new type of literary works made possible
+by computational media. Hayles (2008, p. 3) refers to “electronic literature” as “digital born”, i.e.
+“a ﬁrst-generation digital object created on a computer”.
+In a more extensive deﬁnition electronic
+literature is described as a “work with an important literary aspect that takes advantage of the ca-
+pabilities and contexts provided by the stand-alone or networked computer” (Hayles, 2008, p. 3).
+Hayles (2008, p. 4) acknowledges that this deﬁnition is still entangled with expectations of print
+conventions and print literary modes, but electronic literature remains distinct in that it is “performed
+by properly executed code”. A key notion expressed by this is that a work of electronic literature is
+always dependent on sociotechnical systems, commonly labeled “platforms”, that are necessary to
+afford those performances. This is especially the case with “third generation” works of electronic
+literature that circulate within well established platforms and social networks (Flores, 2019). While
+it has been noted that print literature is also contingent on particular inventions, social conventions
+and literacy (Borsuk, 2018), the platform aspect of electronic literature introduces new issues of de-
+sign, prescribed usage, compatibility, economic feasibility and equity that inﬂuence how electronic
+artifacts are developed, made and used for educational purposes.
+
+Early ideas about educational uses of digital artifacts span from feeled-effect systems (“fantics”)
+consisting of stretchtexts, hypertexts, hypergrams and other hypermedia (Nelson, 2003) to visions
+of constructionist discovery learning (Papert, 1993) and to the reconﬁguration of literary education
+(Landow, 2006, ch. 7). Yet, if we understand “genre” as something driven by cultural and tech-
+nological contexts (Rettberg, 2018), up until now no distinct “genre” has developed within or out
+of the educational realm. What is more, reading researchers such as (Mangen & van der Weel,
+2017, p. 10) take the marginal role of hypertext novels as an indicator for a “failed paradigm” which
+allegedly ignores cognitive information processing and the evolutionary need for a “hierarchical re-
+lationship between author and a receptive, passive reader”. While it is not necessary to agree with
+this statement, this type of controversy however raises the question of whether the success of a
+form of electronic literature is determined by cognitive aspects alone. Arguably, another important
+issue is connected to electronic literature being constrained by underlying sociotechnical contin-
+gencies and platforms, which leads us to the main question this article addresses. Thus, from a
+platform perspective, what are possible obstacles to the entrance of electronic literature into the mix
+of educational media used in K12 education?
+
+2 Platforms and platformization
+
+During the COVID19-related switches to emergency remote teaching on a global scale, recent de-
+bates have concentrated on the “platforms” offered by the major ed-tech players. In the context of
+this conference, however, the notion of platform also addresses the technical foundations for forms
+and communities of electronic literature to emerge. This indicates a need to deﬁne of the platform
+concept as it is interpreted by speciﬁc research strands that are different from everyday language.
+Within platform studies, Bogost and Montfort (2009) understand platform as a computational plat-
+form on which digital media work is based. They echo Marc Andreessen in deﬁning a platform as
+a:
+
+“a system that can be reprogrammed and therefore customized by outside develop-
+ers—users—and in that way, adapted to countless needs and niches that the platform’s
+original developers could not have possibly contemplated, much less had time to ac-
+commodate.”
+
+On the other side, those who study the current technological transformations of the educational
+sector from a critical and sociological perspective also have been ﬁnding ways to account for the
+
+2
+
+increasing role of code and information processing. In an editorial dedicated to these issues, De-
+cuypere et al. (2021) reintroduce the deﬁnition of platforms proposed by van Dijck et al. (2018):
+
+“An online ‘platform’ is a programmable digital architecture designed to organize interac-
+tions between users – not just end users but also corporate entities and public bodies.
+It is geared toward the systematic collection, algorithmic processing, circulation, and
+monetization of user data.”
+
+Both deﬁnitions do not necessarily contradict each other. Rather, they emphasize different as-
+pects of what platforms are. While the ﬁrst deﬁnition highlights the adaptability of platforms to count-
+less needs and niches that are unanticipated by the developers, the second deﬁnition acknowledges
+that many of those unanticipated uses are nevertheless embedded in larger socioeconomic frames
+and power dynamics. Baring this in mind, a major concern with the trend of “platformization” (Sr-
+nicek, 2017) is how the educational sector as a whole has increasingly become “programmable”
+through technological infrastructure with implications on a pedagogical and social level that are oth-
+erwise neglected. As such, educational platforms act as “as connective artifacts constitutive of, as
+well as constituted by, active socio-technical assemblages that are in the process of signiﬁcantly
+transforming the educational sector” (Decuypere et al., 2021, p. 2).
+
+With this perspective, it still not clear whether current iterations of digital educational platforms
+actually promote or continue to marginalize literary engagement with digital-born artifacts. One of
+the concerns is that platforms often reproduce the kinds of classroom conﬁgurations and pedago-
+gies that have been inscribed into traditional education for the past century. As Perrotta et al. (2020)
+observe with reference to Google Classroom, “the tried and tested mechanisms and structures of
+formal schooling (classrooms, course work, student submissions and the asymmetrical relationship
+between teachers and students) are abstracted into a predeﬁned template for participation.” Thus,
+with a differentiated look at education as a platform, platform is intended not as a monolithic struc-
+ture but as “ecologies of practices” where different forces, values and movements come together
+(Decuypere et al., 2021, p. 8). This enables us to examine resulting paradoxes and ambiguities.
+For example, efforts to “disrupt” education may also prevent practices and literacy conceptions from
+changing.
+In speciﬁc, it is useful to look at these issues from the perspective of school reform,
+literacy conceptions and the role of teaching.
+
+2.1 Disruptive ﬁxations
+
+It is easy to write off early ideas about electronic educational media and literature as examples
+of utopianism that prospected the possibility of social change simply by redeﬁning the relationship
+between the author and the reader. Yet, there is a distinction between the kind of technological
+solutionism that has been associated with various edtech products (Teräs et al., 2020) and techno-
+logical idealism connected to ideas about constructivist learning. In fact, much of original thinking
+about interactive digital narrative stems from an urge to go beyond the conception of computers as
+a “workhorse” for “drill and practice teaching” (Murray, 2016, p. 6).
+
+Ethnographic studies such as Sims (2017) provide a more nuanced insight into the drawbacks
+of visionary ideas as they are applied to real-world contexts. He argues that processes of school
+reform often traverse “cycles of disruptive ﬁxations”. Such cycles start with a phase of “problema-
+tization and rendering technical”, when experts and allies imagine and represent ﬁgured worlds
+that are particularly amenable to and controllable with envisioned remedies (Sims, 2017, p. 58).
+These processes of problematization and rendering technical, however, also produce ﬁxations that
+exclude many factors that introduce unanticipated problems in practice.
+In other words, “unantic-
+ipated forces overﬂow the project and destabilize reformers’ carefully designed activities” (Sims,
+2017, p. 55). Overﬂowing, if identiﬁed and dealt with carefully, can provide a valuable occasion
+to question underlying assumptions and stereotypes. But, as Sims (2017, p. 97) points out, it is
+then far more common to quickly search “for [conventional] resources that would stabilize the project
+
+3
+
+against the unanticipated turbulence of students’ unsanctioned behavior”. Ames (2018) identiﬁes as
+typical computer-centric assumptions in constructionism the tendency to emphasize learning as an
+individualistic process and the belief that computers and technical devices will “naturally captivate
+children”, resulting in the claim of pure discovery learning which is rarely achieved in practice.
+
+Further research questions may consider how these dilemmas can be used to question the as-
+sumptions that are made as new platforms for electronic literature are developed. A crucial issue
+at the intersection of platform studies and education, for example, concerns how prospective cre-
+ators and contributors are to be involved as participants in ways that are more open, equitable and
+inclusive without producing further idealizations or ﬁxations.
+
+2.2 Literacy limitations
+
+Part of the neglect of educational forms of electronic literature is related to the type of literacy
+schools are expected to promote among children. If the notion of “literacy” as a main educational
+objective has remained static over the past decades, there would be no need for educational media
+other than print-based works that precede electronic literature. From a new literacies and multi-
+literacies perspective, this basic literacy idea, understood as simply as reading and writing, was
+“appropriate for a society that expected its workers to be passively disciplined” in the context of past
+industrial economies (Cope & Kalantzis, 2009, p. 169). The activity of “reading”, however, is subject
+to change within contemporary media environments. Young people are “content with being no less
+than actors rather than audiences, players rather than spectators, agents rather than voyeurs and
+users rather than readers of narrative” (Cope & Kalantzis, 2009, p. 173). Instead of reading, it is
+possible to refer to activities such as to “interact” with or to “play” through a digital literary artifact.
+Nevertheless, those terms may be used in a ways that overlook the literacy portion needed to en-
+gage in those kinds of meaning making, implying an inherent ability of the “digital native” to interact
+and play naturally with any kind of media. Educational forms of electronic literature may thus be
+recognized as valuable resources for the promotion of a broadened notion of literacy. In this case,
+literacy teaching, rather than focusing on skills and competence, would aim “at creating a kind of
+person, an active designer of meaning, with a sensibility open to differences, change and innova-
+tion” (Cope & Kalantzis, 2009).
+In speciﬁc, Burnett and Merchant (2015) propose to restate the
+principles of literacy education as a consequence of these contemporary educational challenges.
+Accompanied by future electronic literary forms, literacy education should, for example, promote
+collaboration around and through texts and artifacts, acknowledge the role of multimodality, the af-
+fective embodied and material dimensions of meaning-making as well as the changing nature of
+meaning making (Burnett & Merchant, 2015, pp. 272-273). There is a tendency for processes
+of platformization to prescribe speciﬁc version of literacy as universal. Therefore, it is crucial to
+seek ways for platform cultures to evolve from collective practices of meaning making, rather than
+predetermining them.
+
+2.3 Neglecting teaching
+
+Biesta (2012) admonishes that there is a ﬂattening of educational discourse which neglects “crucial
+educational questions about content, purpose and relationships”. He refers to this trend as “learni-
+ﬁcation”.
+In other words, teaching is often reduced to matters of control, which substantiates a
+simplistic opposition between teacher-centered and student-centered pedagogy. As critics note, old
+and new edtech promises are often accompanied by the portrayal of personalized (individualized)
+learning solutions as student-centric and transformative (Facer & Selwyn, 2021). Yet, issues of data
+collection, control and surveillance are often the other side of the medal (Jarke & Breiter, 2019).
+Even before the entrance of computers in schools, there has already been an extensive debate
+on educational media such as standardized textbooks and their potential role in deskilling teachers
+while also imposing cultural imaginaries (Apple, 1992). A similar tendency can be found by exam-
+
+4
+
+ining original technology conceptions. For example, the “teaching” in teaching machines, as they
+have been conceived by Skinner (1968, p. 79), consisted in “the arrangement of contingencies of
+reinforcement under which students learn”. According to Watters (2021) similar assumptions about
+teaching have persisted throughout the history of educational technology. From this perspective,
+learniﬁcation signiﬁes the mechanization of teaching through technological means, without neces-
+sarily augmenting the agency of students and learners. A departure from learniﬁcation, on the other
+side, would aim at conferring new agency to students and teachers. With regard to electronic liter-
+ature, there are different ways in which teaching can be ampliﬁed, rather than limiting or deskilling
+teachers. While in the past good teachers have been described as storytellers that are competent in
+conﬁguring ﬂexible assemblages of learning, the ﬁeld of electronic literature may support teachers
+with notions such as “procedural authority” (Murray, 2016, p. 346) that transcend the binarism be-
+tween learner-centric freedom and teacher-centric control. As a result, platforms in conjunction with
+efforts in teacher education should support teachers in partially becoming “cyberbards” themselves
+(Murray, 2016, ch. 7).
+
+3 Conclusions
+
+While it is impractical to predict forms of electronic literature that may thrive within contexts of formal
+education at this point, this contribution outlines some issues that are relevant when assessing cur-
+rent platform cultures. Thinking of educational platforms as connected socio-technical assemblages
+helps clarify some of the obstacles to the entrance of electronic literature in K12 education. Those
+obstacles concern the unreﬂected recourse to disruptive ﬁxations, limiting literacy conceptions and
+teachers and students whose agency is undermined in processes of learniﬁcation. Platforms can
+emerge from, but also contribute in stabilizing these circumstances. While current educational
+platforms are intertwined with data-based commercial interests, it is however possible to conceive
+future educational assemblages as platforms that provide spaces for electronic literature depending
+on different sets of assumptions that are to be made.
+
+Works cited
+
+Ames, M. G. (2018). Hackers, computers, and cooperation: A critical history of logo and construc-
+tionist learning. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW), 1–
+19.
+
+Apple, M. W. (1992). The text and cultural politics. Educational Researcher, 21(7), 4–19. https :
+
+//doi.org/10.3102/0013189x021007004
+
+Biesta, G. J. (2012). Giving teaching back to education: Responding to the disappearance of the
+
+teacher. Phenomenology & Practice, 6(2), 35–49. https://doi.org/10.29173/pandpr19860
+
+Bogost, I., & Montfort, N. (2009). Platform studies: Frequently questioned answers. UC Irvine: Digital
+
+Arts; Culture 2009. https://escholarship.org/uc/item/01r0k9br
+
+Borsuk, A. (2018). The book. MIT Press.
+Burnett, C., & Merchant, G. (2015). The challenge of 21st-century literacies. Journal of Adolescent
+
+& Adult Literacy, 59(3), 271–274. https://doi.org/10.1002/jaal.482
+
+Cope, B., & Kalantzis, M. (2009).
+
+multiliteracies”: New literacies, new learning. Pedagogies: An International Journal, 4(3),
+164–195. https://doi.org/10.1080/15544800903076044
+
+Decuypere, M., Grimaldi, E., & Landri, P. (2021). Introduction: Critical studies of digital education
+platforms. Critical Studies in Education, 62(1), 1–16. https://doi.org/10.1080/17508487.
+2020.1866050
+
+Facer, K., & Selwyn, N. (2021). Digital technology and the futures of education – towards ‘non-stupid’
+optimism. Paper commissioned for the UNESCO Futures of Education report (forthcoming).
+
+5
+
+Flores, L. (2019). Third generation electronic literature. Electronic book review, 7.
+Hayles, N. K. (2008). Electronic literature: New horizons for the literary. University of Notre Dame
+
+Press.
+
+Jarke, J., & Breiter, A. (2019). Editorial: The dataﬁcation of education. Learning, Media and Tech-
+
+nology, 44(1), 1–6. https://doi.org/10.1080/17439884.2019.1573833
+
+Landow, G. P. (2006). Hypertext 3.0: Critical theory and new media in an era of globalization. JHU
+
+Press.
+
+Mahatma Gandhi Institute of Education for Peace and Sustainable Development. (2019). Rethinking
+pedagogy: Exploring the potential of digital technology in achieving quality education (tech.
+rep.). Mahatma Gandhi Institute of Education for Peace and Sustainable Development.
+
+Mangen, A., & van der Weel, A. (2017). Why don’t we read hypertext novels? Convergence: The
+International Journal of Research into New Media Technologies, 23(2), 166–181. https :
+//doi.org/10.1177/1354856515586042
+
+Murray, J. H. (2016). Hamlet on the holodeck: The future of narrative in cyberspace (2nd ed.). New
+
+York, The Free Press.
+
+Nelson, T. H. (1970). No more teachers’ dirty looks. Computer decisions, 9(8), 16–23.
+Nelson, T. H. (2003). From computer lib/dream machines, 1974. In N. Montfort & N. Wardrip-Fruin
+
+(Eds.), The new media reader. MIT press.
+
+Papert, S. (1993). The children’s machine: Rethinking school in the age of the computer. New York,
+
+Basic Books.
+
+Perrotta, C., Gulson, K. N., Williamson, B., & Witzenberger, K. (2020). Automation, APIs and the
+distributed labour of platform pedagogies in google classroom. Critical Studies in Education,
+1–17. https://doi.org/10.1080/17508487.2020.1855597
+
+Rettberg, S. (2018). Electronic literature. John Wiley & Sons.
+Sims, C. (2017). Disruptive ﬁxation: School reform and the pitfalls of techno-idealism. Princeton
+
+University Press.
+
+Skinner, B. (1968). The technology of teaching. New York, Appleton.
+Srnicek, N. (2017). Platform capitalism. John Wiley & Sons.
+Teräs, M., Suoranta, J., Teräs, H., & Curcher, M. (2020). Post-covid-19 education and education
+technology ‘solutionism’: A seller’s market. Postdigital Science and Education. https://doi.
+org/10.1007/s42438-020-00164-x
+
+van Dijck, J., Poell, T., & de Waal, M. (2018). The platform society. Oxford University Press. https:
+
+//doi.org/10.1093/oso/9780190889760.001.0001
+
+Watters, A. (2021). Teaching machines. MIT Press.
+
+6
+
+

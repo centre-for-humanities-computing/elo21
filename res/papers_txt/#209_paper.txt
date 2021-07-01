@@ -1,0 +1,521 @@
+Graduate Student, Comparative Studies in Literature and Culture 
+
+Lyr Colin 
+
+University of Southern California 
+
+ 
+
+Hugging Pixels 
+
+How Gaming Rethinks Physical Interactions  
+
+With a year of COVID-19-induced confinement, everyone’s lives have drastically changed. 
+
+They were obviously marked by loss, mourning, and pain, carried by the spread of the infectious 
+
+disease. Beyond that, they were heavily affected in their most basic organization and articulation, 
+
+in  an  unprecedented  way.  Pre-COVID,  activities  could  easily  be  divided  between  “inside”  and 
+
+“outside”: while that distinction could take different forms depending on each person’s situation, 
+
+it seems nonetheless important to see that both work and leisure organized themselves around this 
+
+understanding of space as a binary. The space in which we have been confining ourselves could 
+
+also be understood in terms of a different binary. Instead of an inside/outside dichotomy, it is now 
+
+defined as online/offline. That is to say, activities are determined by the capacity that we have to 
+
+complete them over the Internet or not (e.g., remote work, classes, thanksgiving dinners, ordering 
+
+groceries, dates, etc.). This new binary thus forces us to consider our environment in terms of the 
+
+“real” confined space we live in, with the sense of isolation attached to it, as opposed to the “virtual” 
+
+of a new form of social life during a pandemic. In enacting this spatial shift, many have thus needed 
+
+to adapt to a new life online, one that is more deeply anchored in the virtual than it used to be. In 
+
+that sense, I observed with some amusement my Facebook friends complaining about a life where 
+
+all leisure and social interaction had to be done online. Amusement because, as a gamer, that is 
+
+my life, and it has been for a long time before COVID.  
+
+In this paper, I want to look more closely at the ways in which social interactions occur 
+
+online,  specifically  in  a  gaming  space.  I  am  more  precisely  interested  in  the  ways  in  which 
+
+physicality is enacted in a virtual gaming space. In order to examine those issues, I choose to start 
+
+with a general discussion on physicality in itself and how it can be discussed in relation to media 
+
+which are not meant to convey it (i.e., audiovisual). I will complete my argument with two different 
+
+cases:  one  is  a  discussion  of  Massively  Multiplayer  Online  Role-Playing  Games  (MMORPGs) 
+
+interactions, more specifically Final Fantasy XIV, which I approach both through the lens of my 
+
+own personal experience playing it, and through a discussion of the show Dad of Light, as it makes 
+
+use of the game itself in both its narrative and in its cinematography. This part of my paper will 
+
+center  around  the  possible  embodiment  of  an  avatar,  and  the  ways  in  which  said  avatar 
+
+communicates  “physicality”  back  and  forth  with  the  player  of  an  MMORPG.  My  second  case 
+
+revolves around Virtual Reality (VR) and how physicality in that scenario compares my discussion 
+
+around MMORPGs. 
+
+Sensorial Oxymorons 
+
+In titling my paper, I chose to go with a seemingly impossible action: hugging pixels. Pixels, 
+
+after all, are merely constitutive elements of a digital image, they are intangible: how could they 
+
+possibly be touched, or hugged? In order to understand the oxymoron here, I want to first define 
+
+the “virtual,” borrowing the definition from William R. Sherman and Allan Craig: 
+
+“A virtual world is the content of a given medium. It may solely exist in the mind 
+of its originator or be broadcast in such a way that it can be shared with others. A 
+virtual world can exist without being displayed in a virtual reality system (i.e., an 
+integrated collection of hardware, software, and content assembled for producing 
+virtual reality experiences) – much like play or film scripts exist independently of 
+specific  instances  of  their  performance.  Such  scripts  do  in  fact  describe  virtual 
+worlds.” (Sherman & Craig, 6) 
+
+ 
+
+We can thus argue that a virtual world, or a virtual object, is an idea which is conveyed to 
+
+us through mediation. As we cannot experience it in the raw of its originator’s mind, we have to 
+
+rely on other elements (such as scripts) in order to approach them. Starting from this concept of 
+
+the virtual as a mediated idea, our mind is easily drawn to the most current forms of mediation: 
+
+writings, drawings, movies, music, etc. In other words, media that rely heavily, if not exclusively, 
+
+on two of our senses: sight and hearing. From that understanding, it becomes clearer that touch is 
+
+often left aside when it comes to conveying the virtual. 
+
+We, as consumers of narrative media, typically have to engage with the diegesis through 
+
+our sight and hearing. Yet our experience of audiovisual media is never exclusively tied to those 
+
+two senses, as is argued by Laura Marks in The Skin of the Film: 
+
+“Especially at a public movie theater, sensory information of all sorts abounds. We 
+are aware of the movement and warmth of the other people in the theater, as well 
+as  their  whispered  or  shouted  comments  on  the  activity  on  screen  or  elsewhere. 
+Smells of popcorn and all sorts of other food, perfume, cigarette smoke (in the old 
+days), body odor, cleaning products, or mildew from musty theater seats: any of 
+these may address the sense of smell so insistently that it is hard to pay attention to 
+the  audiovisual  image  on  screen.  […]  In  short,  the  cinema  viewing  experience, 
+taken as a whole, is already multisensory.” (Marks, 211-2) 
+
+As Marks argues, the experience of going  to the  movie theater (typically  considered an 
+
+audiovisual experience) is never only about sight and hearing, and it includes other senses, such 
+
+as the smells described here, but also the tactile feeling of the theater’s seat, or even the taste of 
+
+popcorn could be argued to be a part of the audiovisual experience itself. All of these perceptions, 
+
+however  non-diegetic,  participate  in  the  movie-viewing  experience  and  create  an  appropriate 
+
+sensorial atmosphere. Marks’s consideration of media thus goes beyond the object we typically 
+
+consider (the movie itself) and englobes the environment and rituals of media consumption as part 
+
+of the experience.  Taking from  Marks,  we  can thus argue that  even in  a massively audiovisual 
+
+mediatic  environment,  there  can  never  be  an  experience  that  is  deprived  of  other  sensorial 
+
+experiences. In that sense, “touching” the virtual becomes less about a sense of touch that has to 
+
+do with a diegetic element, but rather one that is tied to the experience of spectatorship as a whole.  
+
+In this perception of the act of the viewing, the spectator is completely passive: they are a 
+
+sponge  that  soaks  up  their  sensorial  environment,  without  necessarily  engaging  back  with  the 
+
+media (here, film) in front of them. In that regard, Linda Williams offers a different point of view 
+
+in her essay “Film Bodies: Gender, Genre, and Excess,” in which the viewer is not just acted upon, 
+
+but also reacts to the movie they are watching: 
+
+“In the body genres I am isolating here, however, it seems to be the case that the 
+success  of  these  genres  is  often  measured  by  the  degree  to  which  the  audience 
+sensation mimics what is seen on the screen. Whether this mimicry is exact, e.g., 
+whether the spectator at the porn film actually orgasms, whether the spectator at the 
+horror  film  actually  shudders  in  fear,  whether  the  spectator  of  the  melodrama 
+actually dissolves in tears, the success of these genres seems a self-evident matter 
+of measuring bodily response.” (Williams, 4-5) 
+
+Here we see that the viewer takes a more active role, as they do not simply perceive their 
+
+environment, but act back at the medium in terms of a mimicry of what they perceive on screen. 
+
+Their own bodies are thus influenced by the medium, and the success of said mediatic object is 
+
+even determined by the strength of the bodily reaction it provokes. While my reading of Marks 
+
+proposed a distinction between senses interacting with the diegesis and senses interacting with the 
+
+environment  of  the  mediatic  experience  (and  therefore  independent  of  the  mediatic  object), 
+
+Williams  lets  us  think  of  an  experience  that  is  mimetic,  almost  synesthetic:  even  when  simply 
+
+watching  and/or  listening,  other  senses  can  be  actively  solicited  by  the  mediatic  object.  It  thus 
+
+becomes more possible to consider an interaction with the virtual object, even if only conveyed 
+
+through audiovisual forms, that also engages with the sense of touch.  
+
+Hugging Pixels 
+
+The specific, typically audiovisual medium that interests me in this paper is that of (online) 
+
+video games. A number of games do offer elements beyond the audiovisual: the simple vibration 
+
+of a controller upon a hit or in a tense cutscene is, in fact, a solicitation of the sense of touch. Yet, 
+
+the medium itself is broadly perceived as audiovisual, and as offering little haptic (i.e., tied to the 
+
+sense  of  touch)  interaction.  What  interests  me  here  is  less  the  examples  in  which  there  is  a 
+
+conscious attempt at a haptic gaming experience, and more the ways in which given games already 
+
+achieve a sense of bodily presence, despite it not being their main design. 
+
+From  my  personal  experience,  online  gaming  has  always  offered  a  richness  of  social 
+
+interactions which I did not have in my immediate, physical surrounding. This manifested in the 
+
+way  of  making  friends  from  Denmark,  Portugal,  Mexico,  or  the  United  States  all  the  way  to 
+
+Singapore, while remaining in my Parisian apartment. Those interactions themselves are assuredly 
+
+the reason why I can speak English to such an extent today, and why I was able to transition to a 
+
+life in the United States without feeling too violently uprooted. My online friendships nonetheless 
+
+puzzled  people  around  me,  who  wondered  how  friendship  without  any  physical  interaction  (or 
+
+perspective thereof) could possibly work. If anything, my friends were perceived as pen pals, even 
+
+though to me it felt like there was a physical component to hanging out with them on a near-daily 
+
+basis. Part of the reason why is because, in a sense, we were physically together: not with our own 
+
+bodies of flesh and blood, but rather, embodied by our game avatars. 
+
+In the specific context of MMORPGs, game avatars are usually personalized and made the 
+
+player’s own. By this process, the player can create their own character, as opposed to embodying 
+
+a pre-made protagonist (e.g., Geralt of Rivia in the Witcher series). I would argue that customizing 
+
+an avatar carries importance in the perception and articulation of the self, as it allows to deconstruct 
+
+an idea of a singular “ego” centered around our physical body and to replace it with a society of 
+
+the self, as articulated by Sherry Turkle in her article “Cyberspace and Identity”: 
+
+"To  use  analyst  Philip  Bromberg's  language  (1994),  online  life  has  helped  Case 
+learn  how  to  "stand  in  the  spaces  between  selves  and  still  feel  one,  to  see  the 
+multiplicity  and  still  feel  a  unity."  To  use  computer  scientist  Marvin  Minsky's 
+(1987) phrase, Case feels at ease cycling through his "society of mind," a notion of 
+identity as distributed and heterogeneous. Identity, from the Latin idem, has been 
+used  habitually  to  refer  to  the  sameness  between  two  qualities.  On  the  Internet, 
+however, one can be many, and one usually is." (Turkle, 645) 
+
+The avatar as a fragment of the self, then, is not simply a handy device, but becomes an 
+
+interface, a medium, in the same way that our own physical body acts as a medium between “us” 
+
+and the real world. The avatar is effectively our body inside a given virtual environment. Thus, the 
+
+process of character creation (and naming) can sometimes be confusing to someone who is not 
+
+used to the idea of creating such an interface.  
+
+The show Dad of Light  on Netflix  is  based on a real  story, detailed in  a  Japanese blog, 
+
+about  the  “Dad  of  Light  Project”  in  which  a  gamer  introduced  his  60-year-old  father  to  the 
+
+MMORPG  Final  Fantasy  XIV  while  concealing  his  identity  online.  It  highlights  important 
+
+moments  of  the  discovery  of  online  gaming  spaces,  starting  with  that  of  character  creation,  in 
+
+which the son helps his father to build a character. The choice of an online name, highlighted as 
+
+comedic in the show, is also an element of the real story, recounted as follows: 
+
+「名前はどうする？実際の名前はあかんで？」  しばらく考える父・・・。 
+
+しばらくのち・・ぼそりと・・・  「じゃあ・・・・いのうえ。」  え？
+
+誰？？ 
+
+いやいや・・・世界を救う光の戦士の名前よ！？そんな近所にいそうな名
+
+前でいいの？？  井上さん？ (Blog: “光のお父さん。”) 
+
+“What about your name? You can’t really use your real name.” Dad thinks for a 
+second… and another… and whispers… “Hm, then… Inoue.” Huh? Who is that? 
+
+No no no… is that the name of a Warrior of Light who saves the world?! Is it really 
+okay to have such a pedestrian name?? Mr. Inoue? (Translation mine) 
+
+ 
+
+The avatar, from its very creation, is problematized in terms of its need to be differentiated 
+
+from reality. It cannot be “likely to be found in the neighborhood” (the literal translation of 近所
+
+にいそう) and needs to be demarcated from any sense of reality. The need for a special name also 
+
+highlights the fact that the father, by attempting to name himself “Inoue” (a rather common name 
+
+in  Japan), had failed to  embrace his  entrance into a fantasy.  The definition  of fantasy  given by 
+
+Laplanche and Pontalis is helpful in understanding the issue in his choice of name: 
+
+“Imaginary scene in which the subject is a protagonist, representing the fulfilment 
+of a wish (in the last analysis, an unconscious wish) in a manner that is distorted to 
+a greater or lesser extent by defensive processes.” (Laplanche & Pontalis, 314) 
+
+By adopting a pedestrian name, the father had utterly failed in embodying a protagonist. In 
+
+the words of his son, “is that the name of a Warrior of Light who saves the world?!” Here it seems 
+
+thus essential to the integrity of the Dad of Light Project that the father truly engages in the fantasy 
+
+of the game, as it will become the only way for a relationship to develop in the virtual space.  If 
+
+the father fails to pour himself into his avatar and to achieve a sense of identification to the body 
+
+on screen, it then jeopardizes the project through which his son will be able to reach out through 
+
+the use of this virtual space. In that sense, the in-game avatars become vessels through which a 
+
+relationship can express itself in ways that seem impossible to achieve in reality. That is not to say, 
+
+of course, that father and son (in the case of the real story) had a bad relationship to begin with. 
+
+Rather, the online interaction is envisioned as a way to develop something more, something that 
+
+is not only inexistent but seemingly unachievable in the real world. 
+
+As we see a scene of the father confronting a Treant Sapling (a high-level monster in the 
+
+starting  zone,  programmed  to  stay  passive  unless  provoked),  the  son  immediately  fears  for  his 
+
+father’s  “death”  and  comes  to  his  rescue.  As  a  response,  and  not  knowing  how  to  use  the  chat 
+
+function of the game, the father instinctively does something that many players recognize: he runs 
+
+around the other player, before leaving. In a later scene, which is a repeat of the same encounter, 
+
+the  father  will  instead  use  the  emote  function,  and  have  his  character  kneel,  thus  prompting 
+
+nostalgic memories of the real-life father kneeling in front of his son when he was a child. These 
+
+elements show what I want to call a “disembodied physicality.” That is to say, a physicality that is 
+
+enacted without a tangible body, but through the means of a virtual avatar. Although there is no 
+
+direct physical interaction (touching) between the father and son’s avatars, there is nonetheless a 
+
+physical element to their communication, as the father uses his avatar’s body to communicate his 
+
+gratitude and emotions in a form of limited sign language. 
+
+This sense of disembodied physicality is precisely the feeling I described in the context of 
+
+my  own  online  gaming  experience:  there  is  a  specific  quality  to  avatar  interaction  that  simply 
+
+cannot be found in text or vocal chat. It is quite frequent when talking in-game to end up meeting 
+
+“physically” (i.e., with each player’s avatar) with an interlocutor, only to have one’s avatar run 
+
+around aimlessly while having a discussion. There is no purpose to those actions in terms of the 
+
+game itself. However, they serve a stronger sense of physical presence, beyond that of a bodily 
+
+sensation, for the people involved. 
+
+Hugging the Air 
+
+I have so far mentioned games that have, if any, a very limited sense of haptic interaction: 
+
+MMORPGs,  with  the  prevailing  example  of  Final  Fantasy  XIV,  are  games  that  are  mostly 
+
+audiovisual, and not meant to stimulate any haptic sense in the player. They were thus useful in 
+
+exploring  Linda  Williams’s  idea  of  a  media  that elicits,  in  an  almost  synesthetic  way,  physical 
+
+sensations without them being actually enacted upon the body. In this part of my paper, I want to 
+
+turn to Virtual Reality (VR) games as a different system, specifically in how they are designed to 
+
+engage more senses (and specifically touch) than regular games. 
+
+In  their  discussion  of  VR,  Sherman  &  Craig  highlight  different  ways  in  which  one  can 
+
+attempt to motivate the sense of touch through a gaming device. Such devices can make use of a 
+
+player’s  joints  (i.e.,  making  them  move  their  arms,  legs,  fingers,  head,  etc.);  apply  a  specific 
+
+temperature, texture, or even electrical current at given moments; limit movement in relation to 
+
+either the body or to an object; provide the player with an object of a specific shape that matches 
+
+the diegetic item being held (e.g. the guitar-shaped controller to play Guitar Hero), etc. (Sherman 
+
+& Craig, 181-184) In other words, VR has many tools at its disposal to engage our haptic sense in 
+
+more than a mimetic or synesthetic way: an electrical current or a given texture or temperature will 
+
+provoke  a  physical  discomfort,  where  Linda  Williams’s  examples  resulted  from  a  process  of 
+
+identification or mimesis to the situation witnessed on screen. In Virtual Reality, embodiment is 
+
+therefore fairly different from that observed in an MMORPG: where a game like Final Fantasy 
+
+XIV requires the player to disregard their physical body and project themselves onto an avatar as 
+
+their vessel, the VR system allows the player to directly use their own body and to transfer it to 
+
+some capacity into the diegesis of the game itself. It is therefore not a disembodied physicality, as 
+
+the body of flesh and blood is at the center of the gaming experience.  
+
+I want to bring up my own experience on a popular VR application, VR Chat. In that game, 
+
+I have mostly interacted with a friend whom, although I have yet to meet physically, I am very 
+
+close to. We have interacted through instant text message, voice-only chat, video chat, MMORPGs, 
+
+and VR. As I mentioned earlier, there was already a qualitative difference between our interaction 
+
+with and without avatars, in terms of a feeling of closeness and “disembodied physicality” that we 
+
+could share within the context of an MMORPG (or other cooperative games with avatars). This 
+
+came to such an extent that, upon first using video chat, I already felt familiar with my friend’s 
+
+body language and facial expressions, despite having only seen them in very few pictures before. 
+
+When using VR, the way in which we interacted was further changed: in MMORPGs there was a 
+
+sense of wanting our avatars to be close to one another even though there was no such need to be 
+
+able to communicate. We simply wanted to “see ourselves,” in our avatar embodiment, replicate a 
+
+natural  situation  of  discussion  while  standing  next  to  one  another,  or  at  least  being  in  relative 
+
+physical proximity. This was often accompanied by the use of emotes or other game elements to 
+
+express ourselves (for instance, using a “hug” emote). VR, and specifically VR Chat, introduced a 
+
+different perspective on those interactions. In VR Chat, the proximity of avatars is a requirement 
+
+for communication, to the point that two players standing at opposite sides of a huge virtual room 
+
+would not hear themselves well. The game thus forces a sense of physical closeness and inertia 
+
+that is close to what we experience in a real-life conversation. Furthermore, the use of emotes had 
+
+to be supplanted by our actual gestures. At times, this means reaching out to one another, or even 
+
+awkwardly hugging the air, glitching through each other’s avatar. The reason why I mention this 
+
+experience is to bring up the fact that despite the apparent awkwardness of “pretending” to hug, to 
+
+high-five, or to poke one another, we nonetheless did it, and it brought a physical element to our 
+
+interactions, regardless of any actual haptic stimulus. 
+
+I want to think of this experience as one close to synesthesia: the visual impression that we 
+
+are hugging provoked a feeling satisfying enough that we were willing to engage in miming an 
+
+actual  act  of  physical  interaction.  Yet,  it  seems  quite  different  from  more  typically  synesthetic 
+
+experiences, such as associating a musical note with a color, despite not actually “seeing” anything. 
+
+Here, there is an actual physical engagement, in the form of two halves of one hug, each enacted 
+
+physically by each player. The association of senses is thus not purely mental but rooted in the 
+
+willingness  of  the  player  to  engage  in  a  one-sided  act  of  physical  interaction,  which  is  only 
+
+reciprocated in terms of a visual stimulus.  
+
+For this sentiment, I would propose a neologism, “phantesthesia.” That is to say, a ghost 
+
+(phantasma)  sensation  (aisthesis)  of  physical  interaction,  despite  the  fact  that  the  subject  is 
+
+engaging into a physical act on their own. Hugging the air, or reaching out towards something that 
+
+one can see but not feel, becomes akin to attempting to embrace an illusion or a specter: it is there 
+
+for one sense, yet not for the other, but we choose to engage with it with all our senses nonetheless. 
+
+Using the concepts of disembodied physicality and phantesthesia side-by-side, I hope to 
+
+obtain a better understanding of how physicality can be articulated in virtual spaces, depending on 
+
+the means at hand. This consideration would lead me to consider the extent to which as players, 
+
+we engage ourselves with the game’s diegesis, and end up becoming a part of the virtual world 
+
+itself.   
+
+ 
+
+ 
+
+Works Cited 
+
+❖  Gaylor, Graham, and Jesse Joudrey. VR Chat. Video Game, Massively multiplayer online 
+
+VR game. VRChat Inc., 2014. 
+
+❖  Laplanche, Jean, and J.-B. Pontalis. The Language of Psycho-Analysis. New York: 
+
+Norton, 1974. 
+
+❖  Marks, Laura U. The Skin of the Film: Intercultural Cinema, Embodiment, and the 
+
+Senses. Durham: Duke University Press, 2000. 
+
+❖  Sherman, William R., and Alan B. Craig. Understanding Virtual Reality: Interface, 
+
+Application, and Design. Morgan Kaufmann Series in Computer Graphics and Geometric 
+Modeling. Amsterdam ; Boston: Morgan Kaufmann Publishers, 2003. 
+
+❖  Turkle, Sherry. “Cyberspace and Identity.” Contemporary Sociology 28, no. 6 
+
+(November 1999): 643–48. 
+
+❖  Williams, Linda. “Film Bodies: Gender, Genre, and Excess.” Film Quarterly 44, no. 4 
+
+(Summer 1991): 2–13. 
+
+❖  Yamamoto, Kiyofumi. “Dad of Light.” Netflix, 2017. 
+❖  Yoshida, Naoki. Final Fantasy XIV. Video Game, MMORPG. Square Enix, 2013. 
+❖  マイディー. “光のお父さん。.” 一撃碓殺SS 日記 (blog), August 6, 2014. 
+
+http://sumimarudan.blog7.fc2.com/blog-entry-1950.html. 
+
+

@@ -1,0 +1,767 @@
+Shepherd 1
+
+Art of the Pan-Opt-in-a-Con: FarmVille and the Gamification of the Digital Landscape
+
+On September 28, 2020, social game company Zynga announced that it would be
+
+shutting down its most iconic product: the original, Facebook-and-Flash-based version of the
+
+game FarmVille (“Important Announcement”). While the ceasing of support for Flash games on
+
+Facebook is what ultimately led to Zynga “sunsetting” FarmVille, this explanation belies the
+
+deeper resonances of a game that, at its peak, had 32 million daily active users (Victor). I argue
+
+not only that FarmVille reset expectations for what digital experiences could be, but also that it
+
+inaugurated a new status quo for digital products that was enabled by a kairotic coalescence of
+
+beliefs and technological change. Understanding these preconditions, how FarmVille accessed
+
+them, and to what degree FarmVille affected them may be helpful for imagining a
+
+post-pandemic, post-FarmVille, and potentially even post-platform world.
+
+[All roads lead to FarmVille]
+
+Let’s begin with a brief history of FarmVille. Launched in 2009, FarmVille became the
+
+first application to capitalize on Facebook’s news feed feature. At the same time, FarmVille
+
+pioneered the use of big data, facilitating gameplay optimization and monetization in turn
+
+(@markpinc et al.; Victor). FarmVille was also able to grow very rapidly in terms of capacity by
+
+taking advantage of cloud services (Murphy), which have only become more accessible and
+
+ubiquitous since then. Boosted by its freemium business model and bucolic setting, FarmVille
+
+not only grew its user base astonishingly fast, it also did so by attracting an audience that had
+
+previously not been interested in online games. Ludic luddites were drawn to the game’s simple
+
+graphics and casual point-and-click game environment, which was advertised to them on a
+
+platform where they were increasingly connecting with people they knew in real life. Most often,
+
+Shepherd 2
+
+it was through those very people that they were exposed to the game. This merger of the video
+
+game world with the real world at this scale was unprecedented.
+
+In addition to extending what a video game audience could look like, FarmVille
+
+expanded the very concept of what a video game could be. Not only did FarmVille simulate in a
+
+very basic way the labor of farming, it also relied on players for their actual labor vis a vis their
+
+repeated engagement and attention. The reward system of the game required users to return daily
+
+to tend to depictions of crops and livestock while encouraging them to complete branded offers,
+
+pay for in-game benefits, and, of course, invite their friends to play the game, too. This
+
+combination of embedded affiliate advertising, microtransactions, and referral marketing,
+
+magnified by the ballooning scale of Facebook, made FarmVille a household name. And
+
+although its success was short-lived, FarmVille’s model worked very well for long enough to
+
+prompt Zynga’s public offering in 2011, and just this year Zynga’s CEO was among the top 20
+
+highest paid (Gelles). FarmVille’s rise was also intimately tied to Facebook’s: In fact, when
+
+Facebook filed its own IPO in 2012, it was revealed that 12% of the social network’s 2011
+
+earnings—$445 million—came from Zynga’s products (Kain). The dominant social platform of
+
+today was launched in part with the help of a game that was effectively its parasite.
+
+[The Double-Edged Sword of FarmVillification; or, the Hotel Cowifornia]
+
+The way FarmVille enticed users to sign away their privacy rights in order to play this
+
+free-at-point-of-service game also made it a popular target of criticism. A 2015 paper on the
+
+ethics of FarmVille’s use of big data describes a bait-and-switch dilemma: “When faced with
+
+whether to acquiesce to Zynga’s Terms of Service including its privacy policy, users are given a
+
+stark choice—either they acquiesce in total and give away access to the requested information
+
+and any further information as to their in-game and across-platform activities or they don’t play
+
+Shepherd 3
+
+the game; the game many of their friends may be playing” (Willson and Leaver 151). FarmVille,
+
+in other words, implemented and enforced a new set of normative behaviors that were lubricated
+
+by low-stakes but nonetheless exploitative socialization.
+
+Still others criticised FarmVille on aesthetic grounds. FarmVille seemed to imagine a
+
+future for internet culture that was palatable only to the lowest common denominator, the
+
+villeins, if you will. Complicating this critique, however, is the problem of defining what
+
+FarmVille is. FarmVille epitomized the social game genre, despite the fact that it comprised very
+
+few elements that could be considered social or gamelike in any traditional sense. Paying for
+
+upgrades in FarmVille actually reduced the number of chore-like tasks a player needed to
+
+accomplish on a daily basis. The implicit goal of paying into the game was seemingly to play the
+
+game less, not more. Scholar and game designer Ian Bogost puts this contradiction succinctly:
+
+“Social games are games you don’t have to play” (“Cow Clicker: The Making of Obsession”).
+
+Bogost changed the conversation around FarmVille when he created his own satirical
+
+version of the game called Cow Clicker, which he referred to as a “theory-cum-parody game.”
+
+Cow Clicker reduced the already limited visuals of FarmVille to pictures of cows that a player
+
+could click every six hours. This parody game also included simulacra of the marketing
+
+components that defined FarmVille (ibid.). The purpose of Bogost’s game was to highlight the
+
+nearly naked pecuniary function of FarmVille by creating a completely stark version. Both
+
+games coerced players to pay money in order to temporarily relieve the low-level anxiety
+
+perpetuated by the sisyphean task of needing to click things at regular intervals. And, perhaps
+
+unsurprisingly, Cow Clicker developed a following to the tune of tens of thousands of users a
+
+short time after being released, prompting Bogost to continue to develop the game far beyond
+
+Shepherd 4
+
+what he expected and leading him to eventually opine that: “Just like playing one, running a
+
+game as a service is a prison one may never escape” (ibid.).
+
+Games as services were not yet the norm in 2010 when Bogost wrote about his
+
+then-ongoing experiences with Cow Clicker, but today it seems quaint to consider a time when a
+
+developer could expect to ship a completed game, no matter how insignificant, and never have to
+
+update it again. To put this another way, services offer ongoing, never entirely completed means
+
+of extracting time, attention, and money from both customers and creators. Beyond games,
+
+“everything-as-a-service” has been a common buzz word in enterprise technology circles for
+
+years. “Platformization” explains this phenomenon, of companies creating their own
+
+marketplaces that also serve as walled gardens for their products. This essentially describes the
+
+motive behind anything that becomes a service, which is, increasingly, everything. In an article
+
+describing digital platforms as means of expanding rentier capitalism, scholar Jathan Sadowski
+
+describes platform capitalism in terms of data extraction, capital convergence, and digital
+
+enclosure. Using the example of farming equipment, Sadowski points out that “after spending
+
+$100,000 to buy a tractor, what you own is a big hunk of metal and rubber; you are only renting
+
+the software needed to actually operate the vehicle” (Sadowski 573). It turns out, farming is an
+
+ample metaphor for games as well as the broader contemporary economy of platformization.
+
+As platforms have expanded, the term “social game” has moved even closer to
+
+meaninglessness. Games resembling FarmVille and Cow Clicker have largely moved off of
+
+social media platforms and onto mobile devices. Social media platforms and mobile game
+
+developers do retain a symbiotic relationship through the social platforms’ APIs, which provide
+
+authentication for user accounts and allow platforms to gather user data even when users are not
+
+directly “on” the platforms themselves. However, the main difference today compared to 2009 is
+
+Shepherd 5
+
+that social platforms and physical media have simply receded from view. Today, all games are
+
+social games just as all games are services. Of course, that doesn’t mean the prison Bogost
+
+describes went away, it just got bigger, less visible, and less optional. In a platformed world,
+
+everything is a service, and that means today’s games play you.
+
+New technologies have arrived, disrupted (as Silicon Valley folks love to say), and
+
+displaced old technologies—and ways of life—since long before the internet age. A newspaper
+
+article from 1905 titled “Telephone Tyranny” weighing the “advantages and disadvantages of a
+
+much-used instrument” feels eerily familiar. “A man’s house is no longer his castle if he has a
+
+telephone—it disturbs one’s meals and demands an immediate answer” it reads (Sangster). And
+
+with technological destabilization comes artist’s attempts to aestheticize it. In fact, the telephone
+
+received this treatment by the likes of László Moholy-Nagy and others, prefiguring
+
+contemporary new media art. Telephones, like games, required interaction. Bogost said himself
+
+that games are art: “If literature is the aesthetic form of language, then games are the aesthetic
+
+form of material constraints, of limitation” (“Play Anything”). Limits are indeed seductive. But
+
+today, as Bogost’s own creation proved, games and their parodies are virtually indistinguishable.
+
+A game’s constraints are themselves limited, reduced to the market logic of whichever platform
+
+it is beholden to. Parody games are easily played with a straight face.
+
+As digital experiences in general become homogenized by platform-as-a-service logic,
+
+imagining other possibilities becomes challenging. As sociologist César Rendueles noted in his
+
+2013 book Sociophobia, the traditional publishing industry’s consolidation and integration with
+
+the “casino economy” provides an interesting case study. The effect of bowing to marketing
+
+concerns limits not only what is published, but also how long it remains on store shelves (or in
+
+virtual terms, in the gamified search results), and therefore what people consider to be literature
+
+Shepherd 6
+
+is altered (Rendueles 47). This is what happens to all digital products in a platformed context. In
+
+this regard, Cow Clicker and FarmVille are indistinguishable because they conform to the
+
+now-socially accepted logic of Facebook as a marketplace of attention.
+
+[The Pan-Opt-in-a-Con: Variability is a Trap]
+
+Bogost wasn’t the first to create a satirical point-and-click game in order to call attention
+
+to the ways games are designed to inspire and profit from compulsive behavior. And examples of
+
+the pre-platform era show that the road to our platformed world was laid far in advance of its
+
+conquest. In the months before FarmVille launched and Facebook’s dominance was not assured,
+
+game designer Edmund McMillen created a “joke” game-jam game called AVGM, which stands
+
+for “abusive video game manipulation,” where a player would click a 2D image and new 2D
+
+images would appear subsequently, even after hundreds of clicks. McMillen—who was featured
+
+in the documentary Indie Game: The Film—made AVGM in response to what he saw at the time
+
+as “a tactic that’s used in all MMORPGS [massively multiplayer online role playing games] . . .
+
+to get people hooked on your game and pay for it” (McMillen). In simple terms, the tactic was to
+
+trade digital goods for player’s time and money, resulting in digital commodity fetishism.
+
+In the 2014 how-to book Hooked: How to Build Habit-Forming Products, author Nir
+
+Eyal describes the tactic McMillen and Bogost are lampooning in terms of variable rewards. In
+
+Eyal’s The Hook Model, “variable reward” is the third step in a four-step loop that consists of
+
+“trigger,” “action,” “variable reward,” and “investment.” In a chapter focused on how to
+
+implement variable rewards, Eyal puts video games in a category termed “rewards of the self,”
+
+defined by the feeling of self-gratification they bestow. Curiously, this is also the category in
+
+which he places email (Eyal 112-13). FarmVille is specifically cited later on in the same chapter,
+
+in a section ominously titled “Beware of Finite Variability.” By 2014, FarmVille’s central conceit
+
+Shepherd 7
+
+was already played out, spread thin across numerous clone versions that Zynga had created in a
+
+mad dash to further cash in on a cash cow that people paid to not play. And then even when they
+
+did play FarmVille, as Eyal notes, it was “played mostly in solitude” (129). Echoing McMillen’s
+
+2009-era concerns, Eyal contrasts the finite variability of FarmVille with the example of
+
+MMORPG games like World of Warcraft, saying that they have “higher degrees of infinite
+
+variability” due to the fact that “players themselves alter the gameplay” (129). Putting aside the
+
+problem of explaining how there can be degrees of infinity, what Eyal is advocating is a world in
+
+which experiences are bottomless and rely on user creativity as a key ingredient of a service’s
+
+success.
+
+Eyal concludes his cautionary tale of FarmVille’s finitude by reminding his acolytes that
+
+“an element of mystery is an important component of continued user interest” (127). This
+
+passing remark is reminiscent of Walter Benjamin’s more profound discussion of the ritually
+
+derived aura of pre-industrial-era artwork in his 1935 essay “The Work of Art in the Age of
+
+Mechanical Reproduction.” Specifically, Benjamin expected that the conditions of art’s
+
+mechanical reproducibility would “neutralize a number of traditional concepts—such as
+
+creativity and genius, eternal value and mystery.” Benjamin continues this thought by saying that
+
+these properties, including mystery, are often “used in an uncontrolled way” and that, not only is
+
+controlling them difficult, these properties “allow factual material to be manipulated in the
+
+interests of fascism” (2). Of course, the auratic, mysterious nature of art has persisted through to
+
+today, as has their weaponization. As Eyal’s advice demonstrates, control over mystery in the
+
+form of variable rewards remains a goal of those who would seek personal gain by designing—
+
+euphemistically speaking—habit-forming products.
+
+Shepherd 8
+
+Theodor Adorno’s concept of the culture industry picks up where Benjamin left off,
+
+anticipating the phenomenons of FarmVille and Silicon Valley with uncanny accuracy. In the
+
+1975 essay “Culture Industry Reconsidered,” Adorno describes the products of the culture
+
+industry as top-down, mass-produced amalgamations of high and low art that result in the worst
+
+qualities of both and uncritically pander to the status quo (12). Adorno chastens not only those
+
+who would see the culture industry in terms of an “ordering factor...[i]n a supposedly chaotic
+
+world,” but he also calls out “[t]he two-faced irony in the relationship of servile intellectuals to
+
+the culture industry” as well as the complicity of consumers in their own self-deception (16). As
+
+far as the diminution of the aura, Adorno posits that the culture industry “preserves the decaying
+
+aura as a foggy mist” (15).
+
+More recently, philosopher Bernard Stiegler echoed Benjamin in describing what he sees
+
+as as the result of a “second machinic turn of sensibility” that is “made possible by digital
+
+technologies”:
+
+A work only works to the extent that one believes in it. More precisely, a work
+
+only works to the extent that it affects us, in the sense that, suddenly, it jumps out
+
+at us (elle fait saillance). Such a jumping out only affects us, and gets us hooked,
+
+to the extent that it directs us toward a mystery: it reveals next to existence—next
+
+to its own existence first and foremost, but also next to that of its author and of its
+
+spectator—something other than the plane of existence—if one believes in it. The
+
+experience of art is the experience of a work that opens up onto such a plane, and
+
+that appears in this way to reveal this other plane. Every work of art has the
+
+structure of a revelation. (“The Proletarianization of Sensibility” 9)
+
+Shepherd 9
+
+What is important to note here is that a pre-existing belief system is requisite for a work to have
+
+a hooking effect. At least in this respect, Adorno’s prognosis of the culture industry’s products
+
+agrees with Stiegler’s view of artworks in the digital age: as reflecting whilst manufacturing a
+
+debased mentality en masse. Digital services increase the efficiency of manufacturing cultural
+
+beliefs by making it possible for individuals to participate in their systematic reproduction. The
+
+phenomenon of QAnon is one recent example of gamified belief, but Eyal ends his book with a
+
+more traditional example: an extremely popular Bible app. Not only does Eyal hold this up as an
+
+indication that his Hook Model is efficacious at reproducing a culturally accepted set of beliefs
+
+underpinned by mystery, it also represents the extent to which digital services need not reinvent
+
+but rather reproduce what we already buy into. Likewise, FarmVille was itself a clone of
+
+moderately successful farming-themed predecessors that failed to as efficiently commoditize a
+
+replaceable aesthetic (@markpinc et al.).
+
+[The Tyranny of Completion: Games are Designed to Complete You.]
+
+The amount of belief we have in the proprietary mysteries of black-box platforms is not
+
+universally faith-inducing, but it is enough to sustain them. At some point, all games managed to
+
+tap into undercurrents of platform culture, to the extent that games are functionally synonymous
+
+with the experience of everyday life. Media scholar McKenzie Wark described in her 2007 book
+
+Gamer Theory that: “Games are no longer a pastime, outside or alongside of life. They are now
+
+the very form of life, and death, and time itself.” And in a 2012 article, cultural critic Jonathan
+
+Beller builds on Wark’s conception of the digitized world, saying that “we are forced to wager
+
+being itself in order to subsist amidst the practical-material deconstruction of life” (21). It
+
+follows that the predominant metagame of the digital era is perpetual kairotic appeals to a
+
+pre-existing sociopolitical worldview, undergirded by platforms, and in fact this is a key
+
+Shepherd 10
+
+component of what makes FarmVille a palatable, even tranquil, experience for some, while
+
+arousing suspicion and even ire in others.
+
+Not only are we all implicated in a gamified existence, Wark argues that “[t]he game has
+
+colonized its rivals within the cultural realm, from the spectacle of cinema to the simulations of
+
+television” (7). In his recent book Experimental Games: Critique, Play, and Design in the Age of
+
+Gamification, media scholar Patrick Jagoda argues in more concrete historical terms that
+
+“[n]eoliberalism borrows its key animating metaphors from games” (52) while explaining that
+
+gamification is a cultural development that “operates as a formal and cultural counterpart to
+
+neoliberalism” (9). Beyond the fact that games and neoliberal policies rose to significance
+
+concurrently in the 1970s, Jagoda says that video games inculcate the subjectivity necessary for
+
+neoliberalism to saturate everyday life (53). This of course echoes Benjamin’s observation that
+
+the control of creativity, genius, eternal value, and mystery enables the distortion or
+
+subjectivization of reality, as well as Adorno’s assessment of cultural industry products as “a
+
+means of fettering consciousness” (18-19).
+
+Jagoda describes how this plays out across different types of contemporary games,
+
+including the genres of simulation games and the successors to social games, mobile games.
+
+Mobile games, also often referred to as casual games, are for Jagoda a reflection of the
+
+precariousness of widespread casual labor: they provide “a resting spot, an outlet, a habit, a
+
+closed habitat, a temporary home for the energies of unemployment and underemployment”
+
+(247). In describing a parody of a casual mobile game called Little Inferno, Jagoda also
+
+illustrates that the spirit of FarmVille is alive and well in the mobile game era; like the earlier
+
+described parodies, the game “converts the pleasures [of gameplay] into anxiety or, more
+
+profoundly, in its parody reveals the anxiety that is always already inherent in the pleasures of
+
+Shepherd 11
+
+gamification” (ibid.). The tension between habit and habitat describes how games like FarmVille
+
+insidiously blur work, play, and inveigles players of a specific sense of existence.
+
+In addition to being a casual game, FarmVille is also a simulation game. Simulation
+
+games often make no attempt to hide their conformity with neoliberal values. However, Jagoda
+
+chooses the independently developed farming game Stardew Valley to illustrate how even subtle,
+
+aesthetically rich, and explicitly non-social simulations imply a specific set of ideological,
+
+societal assumptions. Even though Stardew Valley begins with the player character escaping an
+
+office full of cubicles for the countryside, “everything in the [game] world promotes instrumental
+
+actions and tight self-management” (70). As evidenced by the mechanics of Stardew Valley, the
+
+neoliberal solution to the anxiety of spare time that is featured in casual mobile games is sold in
+
+terms of entrepreneurial self-management in simulation games. FarmVille, combining both of
+
+these genres, not to mention sharing a theme with Stardew Valley, figures as a faux pharmakon, a
+
+pastoral placebo mediated by a screen, that to see through is to see a reflection of yourself in the
+
+real and digital worlds simultaneously. And yet the result is neither here nor there; something is
+
+lost in this additive process that distorts rather than reifies lived experience.
+
+References to metaphors of surveillance, simulation, and self-regulation abound in
+
+today’s art and literature. But prior models only go so far in anticipating our current moment. As
+
+media and material culture theorist Petra Löffler observed in an interview with media theorist
+
+Geert Lovink in 2013, “Today, it is no more that the few see the many (panopticon) or the many
+
+see the few (popular stars)—today, because of the multiplication and connectivity of screens in
+
+public and private spaces, the many see the many.” The global pandemic has only served to
+
+further decrease the difference between our personal and work lives. At the same time, it also
+
+revealed the costs of our obsessions with work and the precarity of our essential
+
+Shepherd 12
+
+interdependence. Platforms have become our life rafts; their owners seek to enclose and fulfill
+
+every niche of our existence, resulting in a distillation of the psyche to data points in a vast sea of
+
+networked server farms.
+
+[Digital Platforms: Pharmakon or Farm-a-Con?]
+
+Not only was 2009 the year FarmVille launched, it was also the year GeoCities bought
+
+the farm in the U.S. In ushering in the platform era, FarmVille suburbanized—homogenized and
+
+commodified—digital space. As artist and theorist Olia Lialina recently recounted in an essay
+
+titled “From My to Me”: “Webmasters of the 1990s built homes, worlds and universes. But also,
+
+outside of intergalactic ambitions, they strongly pushed the concept of something being mine.”
+
+Oliana argues for the universal need for our own space. To quote a pre-internet architectural
+
+hypertext work on this very issue, “People cannot be genuinely comfortable and healthy in a
+
+house which is not theirs” (Christopher, Ishikawa, and Silverstein 393). This is the fundamental
+
+problem of FarmVille and all platformed services: We are all tenant data farmers.
+
+And herein lies the rub: The tessellation of platforms reduces us to pawns in their
+
+owners’ gamesmanship. When a platform is put out to pasture, so are the users (a.k.a people)
+
+who invested not only money but valuable time building them up. Flash is a case in point: while
+
+it used to be simple enough to pirate Adobe products, user’s software skills have always been
+
+held captive by Adobe’s and other tech giants’ support for Flash and its products—even before
+
+the advent of Creative Cloud. Outside of profitability, Flash had no future. While Stiegler
+
+expressed hopefulness circa 2010 that the digital, like writing, had the potential to be a
+
+pharmakon, by way of deprofessionalizing powerful tools and putting them in the hands of the
+
+many (“The Age of De-proletarianisation”), Oliana identifies a bleaker state of affairs today,
+
+seeing a need for quitting walled-garden platforms cold turkey. Boycotts of digital tools are
+
+Shepherd 13
+
+complicated by the network effect. At least for writers, the tools and skills are separable. But as
+
+long as the very digital homes and the tools we use to build them are rented, so are our digital
+
+lives. The dichotomy between Oliana and Stiegler represents a conflict over what it means to
+
+seek liberation in the digital age, presenting a choice between attempting to create our own
+
+fiefdoms within platforms—the way streamers, digital artists, content creators, and so-called
+
+indie game developers do—or abstaining from the platforms altogether.
+
+Between these two extremes, though, there are countless other options that have been
+
+imagined. Stacktivism for the more technically minded is one route that has been recently
+
+advanced by Lovink (“Principles of Stacktivism”). The blockchain and non-fungible tokens
+
+comprise another recent hot topic promising digital artists redemption but which has so far only
+
+delivered more of the same in terms of environmental and economic problems. From another
+
+more FarmVille-adjacent, economic perspective, a kind of digital Georgism, i.e. creating a digital
+
+land use tax, has been imagined as a way to rein in monopolists (Smith). Along the same lines, a
+
+non-intrusive, decommodified, non-platformed version of FarmVille is a natural place to begin to
+
+think about a more equitable digital world. FarmVille ultimately did coax a broad swath of
+
+people into online gaming despite its other more deleterious impacts. Would a FarmVille similar
+
+to the GeoCities dream be possible now that the original FarmVille has ploughed ahead and gone
+
+to seed? Augmented reality technology has already been used to create at least one functional
+
+garden simulator (Okayama), so I would like to think so. Finding a way to extend education and
+
+care, including and perhaps especially by digital means, has been underscored as an urgent need
+
+in the Covid-19 era, and the global scale of this realization provides a glimmer of hope that we
+
+not only have the imaginations but also the mandate and the wherewithal to cultivate a more
+
+open digital landscape.
+
+Shepherd 14
+
+Works Cited
+
+Adorno, Theodor W., and Anson G. Rabinbach. “Culture Industry Reconsidered.” New German
+
+Critique, no. 6, 1975, pp. 12–19. JSTOR, www.jstor.org/stable/487650.
+
+Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. A Pattern Language: Towns,
+
+Buildings, Construction. New York: Oxford University Press, 1977. Print.
+
+Beller, Jonathan. “Wagers Within the Image: Rise of Visuality, Transformation of Labour,
+
+Aesthetic Regimes.” Culture Machine, vol. 13, 2012.
+
+Benjamin, Walter, and Hannah Arendt. “The Work of Art in the Age of Mechanical
+
+Reproduction.” Illuminations / Walter Benjamin ; Edited and with an Introduction by
+
+Hannah Arendt ; Preface by Leon Wieseltier ; Translated by Harry Zohn. Schocken
+
+Books, 2007.
+
+Bogost, Ian. “Cow Clicker: The Making of Obsession.” 21 July 2010,
+
+http://bogost.com/writing/blog/cow_clicker_1/.
+
+Bogost, Ian and Max Temkin. “Play Anything.” Chicago Humanities Festival, Chicago, IL,
+
+December 5, 2016, https://www.youtube.com/watch?v=DRx8X8nMlo0.
+
+Eyal, Nir. Hooked: How to Build Habit-Forming Products. United States, Penguin Publishing
+
+Group, 2014.
+
+Gelles, David. “C.E.O. Pay Remains Stratospheric, Even at Companies Battered by Pandemic.”
+
+The New York Times, April 24, 2021,
+
+https://www.nytimes.com/2021/04/24/business/ceos-pandemic-compensation.html.
+
+“Important Announcement.” Zynga Support, 28 Sept. 2020. 25 Jan. 2021
+
+[https://zyngasupport.helpshift.com/a/farmville/?s=announcements&f=important-announ
+
+cement&l=en]. Internet Archive.
+
+Shepherd 15
+
+[https://web.archive.org/web/20210101012858if_/https://zyngasupport.helpshift.com/a/fa
+
+rmville/?s=announcements&f=important-announcement&l=en].
+
+Jagoda, Patrick. Experimental Games: Critique, Play, and Design in the Age of Gamification.
+
+United States, University of Chicago Press, 2020.
+
+Kain, Erik. “Betting on FarmVille - Facebook IPO Reveals How the Social Media Giant Makes
+
+Money.” Forbes, 1 Feb. 2012,
+
+http://www.forbes.com/sites/erikkain/2012/02/01/betting-on-farmville-facebook-ipo-reve
+
+als-how-the-social-media-giant-makes-money/.
+
+Lialina, Oliana. “From My to Me.” Interface Critique, 2021.
+
+https://interfacecritique.net/book/olia-lialina-from-my-to-me.
+
+Löffler, Petra and Geert Lovink. “The aesthetics of dispersed attention: An interview with
+
+German media theorist Petra Löffler.” NECSUS. European Journal of Media Studies, vol.
+
+2, no. 2, 2013, pp. 545–555.
+
+https://necsus-ejms.org/the-aesthetics-of-dispersed-attention-an-interview-with-german-m
+
+edia-theorist-petra-loffler/.
+
+Lovink, Geert. “Principles of Stacktivism.” tripleC: Communication, Capitalism & Critique, vol
+
+18, no. 2, 2020.
+
+@markpinc (Mark Pincus) et al. “Tomorrow, Zynga shuts down FarmVille on Facebook after 11
+
+years. . . .” Twitter, 31 Dec. 2020,
+
+https://twitter.com/markpinc/status/1344742333443493889.
+
+McMillen, Edmund. “AVGM (retrospective).” 20 Feb. 2009,
+
+http://edmundmcmillen.blogspot.com/2009/02/avgm-retrospective.html.
+
+Shepherd 16
+
+Murphy, David. “There and Back Again: Zynga’s Tale With Amazon's Cloud.” PCMag, 10 May
+
+2015,
+
+https://www.pcmag.com/news/there-and-back-again-zyngas-tale-with-amazons-cloud.
+
+Okayama, Tsuyoshi. “Future Gardening System: Smart Garden.” Journal of Developments in
+
+Sustainable Agriculture, vol. 9, no. 1, 2014, pp. 47-50.
+
+Rendueles, César. Sociophobia: Political Change in the Digital Utopia. Translated by Heather
+
+Cleary, Columbia University Press, 2013.
+
+Sadowski, Jathan. “The Internet of Landlords: Digital Platforms and New Mechanisms of
+
+Rentier Capitalism.” Antipode: A Radical Journal of Geography, vol. 52, no. 2, 2020, pp.
+
+562-580, https://onlinelibrary.wiley.com/doi/epdf/10.1111/anti.12595.
+
+Sangster, Margaret E. “Telephone Tyranny: Advantages and Disadvantages of a Much-Used
+
+Instrument.” The Progressive Age [Scottsboro, Alabama], 24 August 1905,
+
+https://www.newspapers.com/clip/43406580/the-progressive-age/.
+
+Smith, Noah. “How to Tax Tech Monopolies.” Bloomberg, 21 October, 2019,
+
+https://www.bloomberg.com/opinion/articles/2019-10-21/how-to-tax-facebook-google-an
+
+d-other-tech-monopolies.
+
+Stiegler, Bernard. “The Age of De-proletarianisation: Art and Teaching in Post-Consumerist
+
+Culture.” ArtFutures: Current Issues in Higher Arts Education, ELIA, 2010, pp. 10–19.
+
+Stiegler, Bernard. “The Proletarianization of Sensibility.” boundary 2, vol. 44, no. 1, 2017, pp.
+
+5-18.
+
+Victor, Daniel. “FarmVille Once Took Over Facebook. Now Everything Is FarmVille.” The New
+
+York Times, 31 Dec. 2020,
+
+https://www.nytimes.com/2020/12/31/technology/farmville-zynga-facebook.html.
+
+Wark, McKenzie. Gamer Theory. Harvard University Press, 2007.
+
+Willson, Michele A. and Tama Leaver. “Zynga’s FarmVille, social games, and the ethics of big
+
+data mining.” Communication Research and Practice, vol. 1, 2015, pp. 147 - 158.
+
+Shepherd 17
+
+

@@ -1,0 +1,784 @@
+I
+
+Iqra Khurshid
+
+&
+
+Sarwet Rasul
+
+7 May 2021
+
+Variations in Literature: A Multimodal Analysis of Dissimilar Versions of the Tale “Red Riding
+
+Hood”
+
+II
+
+Table of Contents
+
+Abstract ……………………………………………………………………………………...…..IV
+
+1 Introduction....................................................................................................................…..........1
+
+1.1 Difference Between Print and Electronic Literature……...…………………………………...1
+
+1.2 About the Story: Red Riding Hood……………………………………………………………2
+
+1.3 Significance of the Study...................…..............................................................................…..2
+
+1.4 Research Focus........……………..............................................................................................2
+
+1.5 Research Questions……............................................................................................................3
+
+2 Literature Review................................................…......................................................................4
+
+3 Introduction to Methodology and Analytical Framework………………………………………6
+
+3.1 Method and Methodology of the Study…………….…………..............................…..........…6
+
+3.2 The Analytical Model of the Study: A Multimodal Discourse Analysis..…...………..........…7
+
+4 Introduction to Presentation and Analysis of the Textual and Non-Textual Features…...…..….9
+
+4.1 Narrative Style in Red Riding Hood..................................................................................……9
+
+4.2 Written Text in Red Riding Hood ......…………................................................................….10
+
+4.3 Visuals in Red Riding Hood....…………..........................................................................…..11
+
+4.4 Music or sounds in Red Riding Hood Amid Visuals...…………......................................….12
+
+4.5 Users’ interactivity in Red Riding Hood ......…............……………................................…..13
+
+III
+
+4.6 Collective findings of the Textual and Non-Textual features in Red Riding Hood……..…..14
+
+5 Findings and Conclusion of the Study ....................…………………........................…..….…17
+
+6 Directions for Further Studies…....................…..................................................................…...18
+
+References.............................................................................................................................…….19
+
+Figure 3.1 Dimensions of Multimodal Discourse Analysis………………………………………7
+
+Figure 4.2 Selected visuals of red, her mother and the wolf from the story RedRidinghood…...11
+
+Electronic literature collection (Volume 1) ...........................................................................…...20
+
+Electronic Literature collection (Volume 2)..........................................................................…....21
+
+Electronic literature collection (volume 3) ............................................................................…...22
+
+IV
+
+Abstract
+
+Today, Digital technology not only helps it’s users in every walk of life to address human
+
+limitations but also, to control and direct their ideologies. Hence, the novel concept of advanced
+
+Transhumanism is prevalent. This Study sought
+
+to explore the possibilities of conducting
+
+researches in the field of Human Language and Digital Technology amidst related fields. The
+
+article presents theoretical concepts and methodological tools from multimodal analysis that
+
+allow the readers to gain new insights into the study of electronic literature and the difference
+
+between a monomodal and multimodal children literature. The data for this article comes from
+
+Grimm brothers’ transcribed tale named Little Red Riding Hood directly from fairy tale narrated
+
+by their villagers and the digital novel RedRidinghood from the 1st Collection of Electronic
+
+Literature. The discussion and analysis part of the project explains that how various modes can
+
+be used to convey the underlying meanings clearly and create a single masterpiece which is
+
+suggested as a new form of literature.
+
+Since the definition of literature does not match with this innovative form, the article
+
+suggests that it should be revised and look over again, which says that literature is anything
+
+written, in an artistic form of human expressions in an organized manner. But, as for as a
+
+multimodal piece of work is concerned, it is a combination of distinct (mono)modal structures as
+
+sounds, visual
+
+images, spatial and textual evidences. These all modes are shown in
+
+RedRidinghood specifically and the other literary works in the 1st Collection of Electronic
+
+Literature in general.
+
+Since, in Pakistan, the investigations in this field are rare so, it provides the basis for
+
+future studies in the field of human language and digital technology and other above mentioned
+
+V
+
+related areas. Also, this research can opens up the new ways for the immersive literacy and for
+
+the researchers to focus on the innovative immersive literacy,
+
+its need,
+
+impacts, social
+
+consequences, and other possible transformations it requires for the born-digital generation.
+
+Keywords: multimodal analysis, monomodal text, electronic literature, modes
+
+Khurshid, Sarwet 1
+
+1 Introduction
+
+Digital technology proffers innovative activities that lead its users to the new-man
+movement. It helps them to find new ways of getting knowledge. Digital literature comes up
+after the remarkable changes in digital technology. The students of language and literature must
+be intelligent enough to adopt new approaches in literature not because new genres are
+comprehending the complexity of the real world, but because of their power to look at the world
+with more assertiveness and to present its readers as they are not outdated creatures.
+
+Electronic Literature Organization (ELO) (2007) published a definition of E-Literature as
+it refers to as a kind of literature that is made digitally and is intended to be observed digitally.
+Katherine Hayles (2008) pointed out that Electronic Literature is generally appeared to exclude
+the digitalized form of print literature. Thus, a literary piece of work that is originally in print
+form, but is changed into an e-book can’t be called a work of E-literature.
+
+1.1 Difference Between Print and Electronic Literature
+
+A piece of E-Literature is completely different from the print-based text because it joins a
+number of digital elements (such as portable icons and digital sounds etc) together with the
+written text, where portability is more likely to generate an interactive involvement of the viewer
+or the reader. This novel form of literature is referred to as more flexible, non-linear, and more
+intricate, which presents the viewers’ choices of being interactive. The environment of reading
+has become slightly different after the remarkable alterations in digital technology. Now a
+moveable screen within a screen is going to articulate a story in such a manner that the viewers
+can hear an untold depiction via visual expressions. This notion is breaking the traditional cycle
+to consider a written piece of work by using your imagination powers and then comprehend it in
+your own level of understanding. So, the notions that the transformation in literature from print
+to electronic raised various doubts which are obvious to rational minds. These questions also
+endorse many areas for further study; what is the need and purpose of literature? Why does
+literature always enjoy the status of being transformed into various modifications? Are these
+modifications really advantageous for the readers? What sort of alterations a fresh reader will
+
+Khurshid, Sarwet 2
+
+notice when he moves from print to the electronic library? What are the advantages and
+disadvantages of e-literature? Does pleasure reading still exist? Can this innovative kind of
+literature be termed as a form where the death of the author is definite?
+
+1.2 About the Story: Red Riding Hood
+
+The data for the present study comes from Leishman’s digital story “RedRidinghood”,
+first published in 2001. In 2007 (Electronic Literature Organization) ELO included this flash
+piece in its first publication of Electronic Literature Collection (1st volume out of three ELO
+volumes), which according to them, is an edited anthology of Electronic literature and to support
+the notion of RedRidinghood, Grimm brothers’ transcribed tale named Little Red Riding Hood
+directly from fairy tale narrated by their villagers has also been selected. The visionary landscape
+RedRidinghood is actually a playful retelling of a famous piece of children literature, which
+suggests the possibility for the multifarious form of collaborative storytelling beyond written text.
+
+1.3 Significance of the Study
+
+The findings and results of the present study will be beneficial to society as electronic
+literature is a novel and widely growing genre of literature. So, it is crucial for the born-digital
+generation to comprehend the benefits of multimodal texts and how new modes are applied in
+the construction of electronic literature (multimodality).
+
+1.4 Research focus
+
+This research will be focusing on the problem of multimodality in visual landscapes
+which contains semiotic triggers and explore the ways through which a multimodal analysis of
+the digital images, is possible. The varying notions of literature will be explored after the
+semiotic analysis of two contrary versions of a similar story. This research will elaborate on the
+symbolic meanings of symbols presented by distinctive modes that are used in the creation of
+RedRidinghood.
+
+Khurshid, Sarwet 3
+
+1.5 Research questions
+
+Following are the research questions:
+
+1.
+
+Is there a possibility to understand the story RedRidinghood (e-literature) as the readers
+
+understand the written version of Little Red Riding Hood in the past?
+
+2. Which of the semiotic (multimodal) elements/triggers involved in the construction of both
+
+versions of RedRidinghood?
+
+3. What are the possible interpretations of the story RedRidinghood after analyzing it through
+
+the concept of multimodality?
+
+4. Are the different modes that are presented in the story RedRidinghood (e-literature)
+
+conveying the meaning clearly?
+
+Khurshid, Sarwet 4
+
+2 Literature Review
+
+The review of the related literature endeavors to explore and discuss the past literature in
+the field of Human Language and Digital Technology along with the well-known theories of
+discourse as Multimodal Analysis (1996, 2006) applied on the contemporaneous interactive
+multimodal fictional pieces.
+
+The term Transhumanism was first used in Huxley’s (1957) work “New Bottles for New
+Wine” where Transhumanism had been termed as an evolutionary humanism, in which, the
+digital natives transcended themselves to an extent that now they are addressing their problems
+by gaining knowledge through new ways as technology has transformed human life these days.
+In the present study, a similar notion is tried to be presented where, the literature is becoming
+more entertaining when non-linearity, multimodality, and users’ interactivity are added up into a
+monomodal and linear piece of literature.
+
+Alyousef (2016) sheds light on the fact that no published study has analyzed and explored
+the composition and thematic progression which is equally contributing to the development of a
+well-formed meaningful digital text. Therefore, he worked mainly on the logico-semantic and
+multimodal textual features in his multimodal discourse analysis (Alyousef, 2016). Similarly, in
+the present study, the textual and the non-textual have been discussed and given importance for
+the construction of the better electronic literature piece and the users’ understandability.
+Humanity Plus (1998) is an international organization that promotes a positive image and the use
+of digital technology to augment human abilities. Again, the term transhumanist is preferred by
+the respondents in a research conducted by Hughes (2008),
+the secretary of the World
+Transhumaninst Association. The confidence level of the organization remained high which
+makes the notion clear about Transhumanism because advanced technology is there to raise
+human conditions and is appreciated greatly by the techno-optimists (Hughes, 2008).
+
+The notion of multimodality came from Halliday’s conception of metafunctions (1994;
+2004; Matthiessen & Halliday 2004), in which it is claimed that language focus on three main
+metafunctions, called ideational, written/ textual and interpersonal functions. Kress and Leeuwen
+(1996;2006) have observed the similar metafunctions and term them as
+interactive,
+compositional, and representational. To them, “the visual, like all semiotic modes, has to serve
+
+Khurshid, Sarwet 5
+
+several communicational (and representational) requirements” to fulfill the communicational
+requirements (2006: 41). In his work, Forceville (2011) extends multimodality studies by Kress
+and Van Leeuwen (1996, 2005) and how they focused on alteration from monomodal to the
+multimodal texts. Cyber text actually makes the readers the viewers. In cybernetics (1948),
+Wiener has coined the term cybertext where a text is shown as a machine and a screen within a
+screen is seen. In another work, Walsh (2006) draws our attention towards how other literary
+theories respond to the shift in literature from print to electronic to interactivity, also, learning
+methods are getting changed in digital natives from those of digital immigrants (Prensky, 1998).
+
+In her work, Alexandra Milyaina (2016) expounds on the variations in literature and
+shifts our attention towards the struggles the modern schools are making to achieve the status of
+applicable deterioration in reading inspiration. Here, the “promptness”, the term suggested in
+Multimodality is describing the quest for a considerable shift in consideration for the print
+material to read as Little Red Riding Hood to endure the novel variations like interactive
+multimodal fiction or an electronic piece of literature such as Leishman’s RedRidinghood.
+
+Khurshid, Sarwet 6
+
+3 Introduction to Research Methodology and Analytical Framework
+
+Since, the present study deals with the presentation and examination of different versions
+of Red Riding Hood, the proposed method along with the analytical framework applied on the
+study are discussed in this section.
+
+3.1 Method and Methodology of the study
+
+The research methodology comprises some of the important aspects such as the objective
+
+of the study, data analysis technique, and method of research.
+
+a. Objective of the Study:
+
+The objective of the study is to understand the new genre of literature, to comprehend it
+
+according to its (electronic literature) requirements, and to accept and recognize the variations in
+
+the literature by analyzing the piece of work RedRidinghood from the 1st collection of electronic
+
+literature through using a multimodal analysis.
+
+b. Method of Research:
+
+The method that is used is the qualitative method. The research describes and analyzes
+
+RedRidinghood by Leishman based on the relationship between various modes that have been
+
+used in the literary work and assumes the representations subjectively as the writer’s
+
+interpretations through the modes. Also, the print version named Little Red Riding Hood by
+
+Grimm Brothers has also been examined to support the main argument.
+
+c. Data analysis Technique:
+
+In this research, the descriptive analysis technique is used. First of all, the researcher
+
+classified and carefully sorted the data out. After the close classification of the collected data, the
+
+researcher compiled data into distinct modes. The various modes in which the data is compiled
+
+Khurshid, Sarwet 7
+
+has many forms such as sounds, visual images, spatial, gestural elements (aids) and textual
+
+evidence, etc. after the compilation of data into these modes, the researcher then relates these
+
+modes to each other to find out the appropriate meaning or message by using the multimodal
+
+theory.
+
+d.
+
+Instrument of the research:
+
+The instruments of the research are the researchers themselves by using content
+
+investigation and close observation to realize the variations in literature from print literature to
+
+the online screen version.
+
+3.2 The Analytical Model of the Study: A Multimodal Discourse Analysis
+
+Gunther Kress and Theo Van Leeuwen, the prominent figures of the theory, referred as
+Multimodal Discourse Analysis (Van Leeuwen & Kress 2001, 2006). A collection of two or
+more multimodal or semiotic systems which are approximately five in number helps in the
+creation of a multimodal script. In this story, visual and audio such as portable and still images
+and music or sounds, gestural, and spatial aids are dominating over the textual elements (aids)
+such as written ad spoken text. Here, the given below model is employed as a theoretical
+framework for data presentation and analysis of the present study.
+
+Figure 3.1 Dimensions of Multimodal Discourse Analysis
+
+Khurshid, Sarwet 8
+
+The structure for the presentation and analysis of the selected data is clearly demarcated in the
+adapted model given above in the figure 3.1, where, two categories named textual features as
+narrative style and written text and non-textual features as users’ interactivity, visuals (still and
+portable visuals), and music or the sounds are given separately. In the next level, the findings of
+textual and non-textual modes and discussed collectively under the heading of the collective
+findings section to generalize the results on digital readers as a whole.
+
+Khurshid, Sarwet 9
+
+4 Introduction to Presentation and Data Analysis of the Textual and Non-
+Textual Features Used in Red Riding Hood
+
+RedRidinghood by Leishman is a tale from the first collection of electronic literature
+which aims to define what electronic literature is and how we labeled this collection as an
+emergent genre of literature. This research tries to find its position in the already existing
+literature such as the selected fairy tale Little Red Riding Hood and will suggest new ways to
+analyze a literary piece of work through using the same methods and theories which will
+delineate the essentiality of multi-modes in the preexisting literature. The data presented here is
+going through various stages of analysis going from general, intermediate to the micro-level of
+analysis. In the story, first, the linguistic or the textual features (modes) are examined carefully.
+The non-textual modes have been investigated thenceforth. There are several modes/ elements
+are contributing to creating a single artifact.
+
+4.1 Narrative Style in Red Riding Hood
+
+Both the story types fall in the category of fictional literature if the narrative style to be
+observed carefully. However, the piece of e-literature bears a more realistic approach and
+presents some of the real-life settings, behaviors, and events that are set as jumping-off points for
+the narration of the story than those presented in the print version of Red Riding Hood. The
+exposition of Little Red Riding Hood presents the depiction of a little girl with a red cap named
+Red is living with her mother and is meeting with a wolf in the jungle, there, the conflict begins.
+After that, the falling action comes when the wolf is chased off. Then comes the resolution part
+where, the downfall of the antagonist (wolf) has been presented. On the other hand, in the
+electronic literature version RedRidinghood, the story has been narrated more into a new adult
+fiction genre where the protagonist seems in the first visual presentation as one who struggles for
+her personal choices, after that, she possesses to be sexually attracted by the wolf like human etc.
+The story has been narrated without using any textual or spoken features but the non-linguistic
+features such as moveable images, interactivity, and sounds, etc. Also, the instructions for using
+the electronic literature are mentioned in the beginning that there is no text in the entire story,
+there is a soundtrack played in the background and visual images in the form of animatronics are
+the main sources to build an understanding of the tale. The term coined for this comprehension is
+
+Khurshid, Sarwet 10
+
+multiliteracy (the comprehension via distinct modes of communication which bears the inclusion
+of images, sounds, and colors rather than a written text only). The use of multiple modes to
+impart a complex understanding of the primary themes of the story best characterizes this
+multimodal digital fiction as the master narrative or the realist image (Gustafsson & Hagström,
+2019). Thus, the main dissimilarity can be noticed or estimated intelligibly by the user that all
+applied l modes are active side by side aim to disclose the predominant storyline that constructs
+and permeates the creators’ and developers’ intended meaning including the low altitude
+narratives like Red’s physical appearance, her mother, home description and the color selection
+to make the viewers more imaginative yet precise about the master narrative.
+
+4.2 The Written Text in Red Riding Hood
+
+the selected electronic piece, RedRidinghood is delineated to be based on non-textual
+modes yet better comprehending the master narrative and the underlying notion behind the
+construction. Whereas, Grimm Brothers’ print version of Little Red Riding Hood is entirely
+revolving around a single feature that is written text. The rectilinear linearity makes it possible in
+the mono-modal version of literature to lead towards the ambiguities and can be considered
+differently than the authors’ intended message. Moving the readers towards the modern
+anthologies, it is crucial to accept the modern ways to convey the literature either in the form of
+playing and viewing or reading it. However, this seems absent in the print version of Red Riding
+Hood where, Red, the protagonist is described only by calling her “dear little girl” and the
+description is given why is she called Little Red Riding Hood, comparing to the written tale,
+RedRidinghood never uses the written chunks but the choice of red color (everywhere) brings
+the users’ to the point that they collectively agree to call the little girl as little Red riding hood.
+
+Again the European fairy tale tells the readers as having zero control over changing the
+written and then printed form of the story but, in the electronic literature version tries to follow
+the rule of reader as author by asking the users to select the story and the only written extracts
+are used in the story are the options such as “shall red dream?” and “wake her up”. This
+diversity of options broadens the users’ perceptions and builds the complex ideologies by non-
+linear artistic perspectives.
+It is also said that playing and viewing art and literature avoid
+confusions for the students more than the mere written piece of work. The reader-response
+
+Khurshid, Sarwet 11
+
+theory is standing on the same point that, it is not known that how the text is going to impact you,
+and how the author wants to conceive it between how is it dissimilar to your world of reality.
+
+4.3 Visuals in the Story Red Riding Hood
+
+“A picture is worth a thousand words”
+
+A visual portable or a still image is able to deliver very profoundly the intended meaning
+of any conceptualization more than a plain written or verbal description. The current inquiry has
+given the selected still and portable visuals including photographs and drawings from the
+electronic piece of literature RedRidinghood, as the print version is based only on the static
+written text. This visual presentation and its investigation intelligibly define the importance and
+advantage of the shift in literature, particularly the portability of visuals.
+
+The first selected visual for multimodal analysis is displayed at the top of the screen and
+the icon confirms that Red is the combination of both east and west because she resembles as a
+colored girl with yellow hair, but surprisingly, her hazel eyes with rebellious black eyebrows are
+grabbing the ample consideration of viewers. Because the color of one’s eyes, in this case, is
+green (curious about nature, passionate, and also refers to a jealous person) might reveal much
+more about the soul and personality and narrates a vivid depiction of ambiguous realities of the
+contemporary world. Without any typographic text, this first image actually conveys a clear
+narration of red’s life and choices. How is she living and what her mother is asking for? These
+all are told in the first representation.
+
+Khurshid, Sarwet 12
+
+Figure 4.2 Selected visuals of red, her mother and the wolf from the story
+
+RedRidinghood
+
+4.4 Music or sounds in Red Riding Hood Amid Visuals
+
+Music or the sound play is the only mode that has been working throughout the series
+amidst other non-textual and textual modes such as written images and the written text in the
+electronic version of Red Riding Hood. The particular mode can be observed where the ordinary
+still images shift to the movable animation corpora, where the viewer is required to move and
+without his effort to be active, the story has no supremacy enough to express the next happening.
+The next
+the
+melody/sounds emanate with distinctive shades of red color in the new icon. After that, the
+screen breaks the silence and a jazzy soundtrack expedites the story and assists in the progress of
+narratives. Because, the emergence of new modes, digital literature is having an insightful
+consequence on how we create, construct and even reconstruct the meaning and faded away from
+the centuries-long ascendency of writing via words. It gives way to an innovative dominance,
+
+is about permission to enable Adobe Flash Player,
+
+level
+
+then at once,
+
+Khurshid, Sarwet 13
+
+hence is mentioned as visual images and narration is possible and the level is achieved through
+trial and errors. In current times, the supremacy of artworks (images) led to an increased
+awareness in exploring the visual fabrication, literacy and erudition through visual aids, and
+essentially the sounds and the music.
+
+The new medium is not restricted only to visual modes to communicate and interact, but,
+the interdisciplinary nature of work allows the reader/ the viewer to experience electronic
+literature to get more understandability about e-literature learning, let’s say, with oral modes
+(virtual reality narratives) such as spoken words (e.g. in video games) and soundtracks (e.g. in
+Red ridinghood), according to Kress and Van Leeuwen, 2006. Almost at the end of every scene,
+it comes to exultant yet meaningful closures where, both the relaxing and activating music can be
+heard in the background.
+
+In the visual experience, each individual has a chance to turn the sounds off (e. g. in the
+beginning, Red’s ear produces a sound like an image with a mark of a tick and cross) but by
+attempting to do so one must find the images as dull and dreary portable graphic animations.
+Kress and Leeuwen’s method of multimodal analysis reveals and supports this notion that sounds
+in the particular work escalates the desire to transport towards the intricate interplay, so it is not
+an incorrect conception that every single mode is playing an equal amount in the construction.
+The use of narrative media sounds guides the audiences’ prophecy, in this case, viewers’ as well,
+both literally as well as figuratively. Although in this story, the sounds are played in a completely
+linear pattern which is not always supposed to provide aid to the audiences’ (addressees’)
+recognition and the realization of different sequential happenings in the story. But,
+the
+contribution of appropriate music for the narrative structure in silent animation is not dubious
+and players occasionally ensure their actions fit with the musical-dramatic context.
+
+4.5 Users’ Interactivity in the Red Riding Hood
+
+The users’ interactivity can be described as one of the most significant strategies to
+characterize the overlap and divergence of electronic literature from that of print versions of
+storytelling. The audience’s valuation and understandability come via constant decision-making
+as being interactive while experiencing this novel kind of literature. The only mode that departs
+
+Khurshid, Sarwet 14
+
+its fiction from that of digitized or print version Little Red Riding Hood,
+is the digital
+interactivity. The work RedRidinghood is termed interactive multimodal fiction, where, the
+experiencer performs certain actions to proceed the story further.
+
+This distinctive attribute of digital literature is best described by Confucius: “I hear and I
+forget. I see and I remember. I do and I understand” (Cashman et al 390). This shows a willing
+attitude towards performativity and by this, he also delineates the limitations of literature in print
+and the verbal activities used to tell a story in ancient times. When there is an involvement in
+doing an act the chances of comprehension are also increasing. This is the case with electronic
+literature but, Confucius’ quote unveiled the basic characteristics very tactfully and we can
+interpret it by saying that electronic literature RedRidinghood is a kind of literature which
+involves the characteristics of the already accepted form of literature as well as introduces a new
+medium which is interactive narration. It is more an artistic snapshot than a cultural study.
+
+4.6 Collective Findings of Textual and Non-Textual Modes in Red Riding
+Hood
+
+A combination of two or more semiotic (multimodal) systems which are roughly five in
+number, makes a multimodal script. In this story, audio, visual, and gestural elements (aids) are
+dominating over the textual, linguistic, and spatial modes. It is useful to elucidate theoretical
+discussion with the concrete example from the targeted work where, in the second image, the
+book image with three and a half lines are shown as written which is in an imaginative cloud
+comes clearly from red’s mouth and is a vibrant portrayal that the protagonist herself is a narrator
+of the story. Inside the frame, it contains three contradictory shades of“red” color. Red is used
+universally to signify danger (e.g, sounds also signify that something atrocious and horrendous is
+about to happen), adoration, lust, and is linked with sexual desires. Perhaps the entire atmosphere
+is red only because of the protagonist name, “red”. In this image a letter “R” with black dye has
+appeared which holds an emblematic association and also communicates about the character on
+which a viewer must have a curiosity to explore strong elements in her personality (e.g. spiritual
+and psychological). Letters in astrology and numerology draw attention to itself because of the
+multiplicity of important features and themes it treats. In this letter, according to Penny (2018)
+on Whackowitch Astrology, describes the impacts, properties, and possessions related to the
+names that begin with the particular letter. The eighteenth letter of the alphabet which stands for
+
+Khurshid, Sarwet 15
+
+“RESULTS” and the learning from the experience from the result. This accounts back to red’s
+experience of being rebellious and recalcitrant endeavors which lead her end route for a
+throbbing culmination.
+
+The paramount protagonist of any fictitious work is the foremost foundation for the
+narrative construction and thus, is more reminiscent than any other persona. How to encounter
+with discombobulated designs and without lexia there must be a strong narrative enigma. Still, in
+some icons, there is an awareness because of multimodal methods to find a treasured individual
+as well as the evilest character, the antagonist. A man’s looks, gestures, and attire defines his
+personality, no, an individual’s characterization is imaginable merely through his recital
+performance, but it is the talent of reader or viewer to poise themselves in the construction of a
+character as the protagonist or an antagonist, whether not being prosperous enough to find the
+overt portrayal, they strangely able to uncover the character according to their personal and
+private insight which is customarily factual and veracious. This is obvious when, in the fourth
+frame, because in digital literature operations are measured as more vital than literary narrative
+so, the audience have to label on their own to discern the visuals judiciously that the wolf’s
+character is a garbed, upright, and virtuous or deceptive, evil, and most erroneous creature on the
+face of earth. Yes, there are few clues attached to his character since the very beginning (e.g. a
+green animal like creature traces the girl) but, are not clear enough for such audience who have
+not experienced yet from hundreds of “Little Red Riding Hood” tale collections. The printed text
+version entertains the bibliophiles by announcing the optimistic or undesirable personality via
+textual evidence in an initial stage except for those mysterious and cagy ones who are mostly less
+in number but still exist. But here, interaction is at its peak and somewhat miscalculated because
+the character like the bad boy (wolf) can be interpreted as an appealing and happy-go-lucky one
+in an initial stage with his yellow pants and wheeling. In the above explanation, background
+effective composition is traced as an endowment of aid to achieve a convinced accomplishment
+which is connected to the authors’ ache for a specific supposition.
+
+The real problem starts, when the stimulus (e.g. connotation) is confused with the
+response (e.g. association) but the chosen method is bias in favor of possible interpretations of
+viewers because the connotation is the aspect of the product created by authors and an
+association is the property of experiencer. Electronic literature seems to maintain this distinction
+
+Khurshid, Sarwet 16
+
+but, it does not move beyond this preservation that without implementing of personal suggestions
+or associations gathered from beliefs, norms, ethnicity, and cultural experiences the connotations
+from authors cannot be understood accurately. The addendum should not be disregarded and
+overlooked in this respect. So, a third lens is important to make the experiencers certain about the
+author’s connotation so, the task is accomplished through having close analytical observation as
+this study did and replayed again and again to reach at the final conclusion.
+
+Every interactive fiction depends upon a fiction of interaction. --Stuart Moulthrop
+
+interactive narrative actually is? In RedRidinghood,
+
+This can be easily interpreted via hyperfictional narratives as present in the case of
+RedRidinghood, yet a complex domain is attached along with it. “Interactivity” here, should not
+be taken as a confusing phenomenon where the phrase, “reader as a writer” is predominantly
+occurs which should be swapped with “reader as the costoryteller”. The question then arises that
+what
+the storyline, setting (e.g. red’s
+apartment and grandmother’s house, etc.), characters (e.g. red, her mother, her grandmother, and
+monster-like man presumably a wolf, etc.), and plot (e.g. the context of the story and red’s
+emotional experiences with dissimilar circumstances, etc.) is created entirely through the authors
+but the user experiences an exceptional way of exploration because he can add his own
+intentionality to the original product that is the interaction in the fantasy or imaginative world.
+Here, To witness her daydream is certainly an optimal decision among both options as “shall red
+dream?” and “wake her up” to take the decision that the ball is on audience’s court by asking a
+rhetorical question and request afterward for creating a new connotation that you,
+the
+experiencers, are the only source to construe the story in accordance with your own tenacity for
+the character. In the dream section, red, with a modern look (adolescence) but also senses her
+future menace by looking at the revolving baby same as the evil character. Her way is again
+filled with crosses which recommend her not to enter in a far away empty cage-like house. This
+symbolic portion is going to be the turning point of red’s life and her painful journey towards a
+terrible end where she awakens but not being able to change the bitter reality. There are certain
+symbolic elements offered to the experiencers for their complete understandability, for instance,
+the initial letter of girl’s name with the lowercase letter which can not be an omission rather the
+intentional use describes red’s subordinate or subservient position in the story and can be
+considered it a foreshadowing that she will lose her innocence further.
+
+Khurshid, Sarwet 17
+
+5 Findings and Conclusion of the Study
+
+This part covers all the major findings the study contains and the focal point of the
+investigation. It carefully presents the entire conception of the work offered in the initial stage
+for the electronic literature developers, digital learners, and in general the digital natives. It also
+presents how successfully the proposed aims are achieved that are discussed hypothetically in the
+beginning.
+
+With regard to practice,
+
+literature is anything written,
+
+the analysis of the study underscores the importance of
+Electronic Literature in this digital age, which clearly establishes its place in the Literature of its
+own. Thus, there is no ambivalence to introduce e-lit as an emerging genre of literature. Since
+the definition of literature does not match with this innovative form it should be revised and look
+over again, which says that
+in an artistic form of human
+expressions in an organized manner. Yet, this traditional definition is missing something. As for
+as a multimodal piece of work is concerned, it is a combination of distinct monomodal structures
+as sounds, visual images, spatial and textual pieces of evidence. These all are present
+in
+RedRidinghood specifically and other literary works in the 1st Collection of Electronic Literature
+in general. Hence, the general definition of literature needs to be modified or refined to include
+the multimodal works as a novel version of literature. This study provides the contemporary
+genre of literature that suits the needs of digital natives as interactivity and experiencers’ choices
+are considered reverential thus, they owe to practice it according to their own selections expertise.
+
+Khurshid, Sarwet 18
+
+6 Directions for Further Studies
+
+The current study has been completed by Pakistani researchers, where past researches in
+the specific field are not available commonly. It opens up the new paths for the immersive
+literacy since, it is not common in remote areas of Pakistan, and for the investigators to observe
+the innovative immersive literacy, its impacts, need, and the social consequences along with
+other manageable transformations that are required for the digital natives or the born-digital
+generation.
+
+For future studies on the present research work, it is recommended that various other
+models can be applied to the electronic literature to view other aspects which are not discussed in
+the present study. Moreover, a larger sample can be taken comprising more than one piece of
+electronic literature RedRidinghood to prove the current hypothesis. The theories previously
+used to analyze the traditional way of writing a piece of literature can be applied to the emerging
+genre of literature which is termed as electronic literature. The narrative of the electronic
+literature can be enhanced by the addition of language forms, making it far more under
+narratology rather than ludology.
+
+Khurshid, Sarwet 19
+
+7 References
+
+Kress, Gunther R., and Theo Van Leeuwen. (2001). Multimodal discourse: The modes
+
+and media of contemporary communication. Vol. 312. London: Arnold.
+
+Electronic Literature Organization. (2007). The Definition Of Electronic Literature.
+
+Retrieved from https://en.wikipedia.org/wiki/Electronic_literature
+
+Stoian, C. (2015). Analyzing images: A Social Semiotics Perspective. Vol. 14. Timisoara:
+
+Politehnic University.
+
+Halliday, M.A.K. (1984, 1994). An Introduction to Functional Grammar. London:
+
+Hodder Arnold.
+
+Pawlica, U. (2014). Towards a History of Electronic Literature. Vol. 16. USA: Purdue
+
+University Press. Retrieved from http://docs.lib.purdue.edu/clcweb/vol16/iss5/
+
+Kim, Y. D. (n.d.). A Study Of The Photographic Storytelling Based On Visual Semiotics.
+
+Korea: Kookmin University.
+
+O'Halloran, K. L. (n.d.). Multimodal Analysis and Digital Technology. In A. Baldry and
+
+E. Montagna (Eds.), Interdisciplinary Perspectives on Multimodality: Theory and Practice.
+Campobasso: Palladino
+
+Wiener, N. (1948). Cybernetics. Scientific American, 179(5), 14-19.
+Kress, Gunther R. (2010). Multimodality: A Social Semiotic Approach to Contemporary
+
+Communication. London: Routledge.
+
+Anstey, M., & Bull, G. (2010). Helping teachers to explore multimodal
+
+texts. Curriculum Leadership Journal.
+
+Walsh, M. (2006). Reading visual and multimodal texts: how is
+
+‘reading’different?. Australian Journal of Language and Literacy, 29(1), 24-37.
+Forceville, C. (2011). Pictorial runes in Tintin and the Picaros. Journal of
+
+Pragmatics, 43(3), 875-890.
+
+Van Leeuwen, T. (2005). Introducing social semiotics. Psychology Press.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+Khurshid, Sarwet 20
+
+ANNEXURE 1
+
+Electronic literature collection (Volume 1)
+
+Khurshid, Sarwet 21
+
+ANNEXURE 2
+
+Electronic Literature collection (Volume 2)
+
+Khurshid, Sarwet 22
+
+ANNEXURE 3
+
+Electronic literature collection (volume 3)
+
+

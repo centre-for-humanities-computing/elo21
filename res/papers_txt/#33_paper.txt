@@ -1,0 +1,950 @@
+Digital Narrative and Temporality 
+
+ 
+
+Serge Bouchardon and Erika Fülöp 
+
+ 
+
+Introduction 
+
+We sometimes hear it said that our relationship with time has been altered. In companies and 
+administrations,  the  adoption  of  New  Management  strategies  means  that  employees  feel 
+themselves subjected to ever increasing urgency and stress. The “FOMO Syndrome,” the anxiety 
+generated  by  our  fear  of  missing  out  on  something  in  a  world  in  which  we  are  exposed  to  a 
+constant flow of information and access to other people’s narratives (or at least to their stories), 
+is a phenomenon inherently linked to the digital environment. The Covid-19 crisis has no doubt 
+accentuated this tendency, with its injunction to stay increasingly connected (particularly to social 
+media and video conferencing platforms), and to immediately respond to digital notifications and 
+sollicitations on a 24/7 basis. 
+
+According  to  Paul  Ricoeur,  “narrative  attains  its  full  meaning  when  it  becomes  a  condition  of 
+temporal  existence”1  (Ricoeur,  1984).  From  this  perspective,  narrative  is  our  principal  tool  for 
+situating ourselves in time  ― and for experiencing time within ourselves. Moreover, the Digital 
+may be characterized as “a tool for the phenomenal deconstruction of temporality” (Bachimont 
+2010). This  is reflected  in  its  two  main  tendencies:  that  of  real time calculation,  conveying  the 
+impression  of  immediacy,  and  that  of  universality  of  access,  conveying  the  impression  of 
+availability. The digital, thanks to its availability and its immediacy, thus leads to a constant state 
+of presence, without any trace of the passage of time (Bachimont, 2014). 
+
+What happens then when the digital and narrative come together, when digital technology and 
+narrative discourse, between which obvious tension exists, are combined? What happens when 
+we exploit the particularities of “programmable media,” to use the term coined by John Cayley 
+(2018),  which  for  Bruno  Bachimont  are  essentially  detemporalizing,  to  tell  a  story,  which  we 
+traditionally  consider  as  being  structured  by  an  internal  temporality  and  linked  to  an  external 
+temporality? From such a perspective, the term digital narrative would appear almost oxymoronic.  
+
+Digital narratives do nevertheless exist and are proliferating in multiple forms and thanks to varied 
+approaches. What kind of temporal  experiences  are  constructed  by  these  new forms  of  digital 
+narrative, and how are they constructed? Reciprocally, what new narrative forms, or even new 
+concepts of narrative do these new temporal experiences provided by digital technology offer to 
+
+                                                
+1  “Time  becomes  human  to  the  extent  that  it  is  articulated  through  a  narrative  mode,  and  narrative  attains  its  full 
+meaning when it becomes a condition of temporal existence.” (Ricoeur, 1985). 
+«  Le  temps  devient  temps  humain  dans  la  mesure  où  il  est  articulé  de  manière  narrative  ;  en  retour  le  récit  est 
+significatif dans la mesure où il dessine les traits de l’expérience temporelle. »  
+ 
+
+ 
+
+1 
+
+us? The challenges lie in the manner in which narratives, revisited for and by digital tools and the 
+digital environment can on one hand stand up to the deconstruction of time provoked by the said 
+tools and environment, and on the other hand make us reflect on our relationship with time, and 
+on  the  place  of  narrative  as  a  discursive  mode  in  our  culture  and  our  ways  of  interpreting  the 
+world. 
+
+In this article we will focus on three very different types of digital stories, in order to analyse the 
+diverging potentialities of the relationship between the digital, temporality, and narrative. We will 
+study two artistic creations on the one hand, and the widely used social media feature of stories 
+on the other.  
+
+We  will  first  examine  a  fictional  work  written  for  the  smartphone2  (downloadable  from  an  app 
+store),  which  is  based  on  notifications,  i.e.  in  which  a  fictional  character  regularly  sends 
+notifications to the user. This type of narrative plays on notions of temporality, with the intrusion 
+of the reader’s real time.  
+
+We will also study a narrative based on a real time data flow3. The constraints imposed on the 
+narrative  by  this  type  of  apparatus  imply  that  the  causality  of  events  is  replaced  by  the 
+sequentiality of real events. Yet this technical specificity, the linking of the narrative to a real time 
+data flow, can mean that life’s contingencies enter into the narrative and result in a  “pure time 
+experience” (Chambefort, 2020).  
+
+Finally, with a change of field and direction, we will examine the phenomenon of the stories made 
+possible notably by platforms such as Instagram and Facebook, which allow users to display a 
+short video clip, an animated or static picture, a text or even a mini-survey for a default duration 
+of  twenty-four  hours,  which  in  turn  is  temporalized  and  presented  to  users  with  an  associated 
+duration of fifteen seconds, after which the feature automatically displays the next story available 
+in the user’s newsfeed.  
+
+These three examples each explore the notion of temporality and the use of time in the digital 
+“narrative” from  a  different  angle: first, the  interaction  between  the  real time  of  the reader  and 
+his/her reading with narrative time, and so with the fictional work, then that of the diegetic time 
+determined by the data flow, which thus becomes the temporal axis of the work in question, and 
+finally  the  temporality  imposed  by  the  story  features  on  various  platforms,  presented  as  a 
+constitutive aspect of the story, and which the content provided by the user adopts and integrates. 
+
+The Digital, Time, and Narrative 
+
+If  the  digital  medium  is  principally  a  medium  for  detemporalization,  as  established  by  Bruno 
+Bachimont (Bachimont 2010), it nonetheless makes if possible to perform time. It enables time to 
+be acted out, or to play a role in a fictional work thanks to the interactive dimension it offers to the 
+user. If we are to compare the different ways of staging time depending on the medium, we could 
+claim that the audiovisual media, which are time-based media, are by definition very prescriptive 
+― the length of a film coincides with the viewer’s stream of consciousness (Stiegler, 1998), even 
+
+                                                
+2 Enterre-moi, mon amour (Bury me, my love), The Pixel Hunt and ARTE France, 2017:   
+https://enterremoimonamour.arte.tv/. 
+3 Lucette, gare de Clichy, Françoise Chambefort, 2017: http://fchambef.fr/lucette/. 
+
+ 
+
+2 
+
+if  media  for  individual  use  allow  for  interruptions,  rewinding,  fast  forwarding  or  acceleration, 
+modifying  the  original  temporality  inscribed  in  a fictional  work.  The  printed text  is  inversely  not 
+very prescriptive (the reader acts out his/her own reading time, between interruptions and cursive 
+reading. The digital, in its capacity as a metamedium (Manovich 2001), is capable of reproducing 
+the characteristics of all previous types of media without their materiality, and can act both ways. 
+It  can  also  offer  other  dimensions  thanks  to  its  inherent  interactivity,  and  the  fact  that  it  is 
+connected  to  a  network  and  external  resources  allows  it  to  draw  on  and  manipulate  their 
+temporality. A digital narrative can also stage the user’s time on a local level, as well as delegating 
+to  them,  or  to  a  third  party  who  is  also  a  member  of  the  network,  the  instigation,  or  even  the 
+execution of temporal actions.  
+
+Roberto  Simanowski (2011)  considers  that from the  temporal  point  of  view,  the  relationship  of 
+digital  literature  to  digitized  literature  is  analogous  to  that  of  the  film  to  photography.  This 
+comparison would seem to hold only partially, in that digital narratives play on the whole range of 
+possibilities, from the initiation of the process (as when viewing a film) to control by the reader 
+(when reading a book) of the temporality of reading or viewing. 
+
+An important notion should be emphasized here, that of performance. Jerome Fletcher proposes 
+that performance, considered in its relation to performativity, should be taken in its broadest sense 
+in  the field  of  digital  literature. Thus  performance  could  articulate  various  dimensions  of  digital 
+texts: 
+
+While continuing the investigation of live performance, we will be seeking to broaden the 
+scope  to  include:  interactivity;  the  performative  gesture  of  the  hand  and  fingers  (digital 
+text)  on  the  interface;  the  performativity  of  language  itself  on  the  screen;  social 
+performance, or how digital texts “perform” us; the performance of codes and scripting; 
+and the performance of the machine itself, i.e., what does an engineer mean when s/he 
+talks about performance?4. 
+
+What  is  particularly  interesting  here  in  the  notion  of  performance  is  the  idea  that  a  process  is 
+underway, that is to say we are dealing with an event rather than with an object. This is what Ian 
+Bogost refers to as “procedural representation”.  
+
+[procedural  representation]  explains  processes  with  other  processes.  Procedural 
+representation is a form of symbolic expression that uses process rather than language. 
+[…] Procedural representation itself requires inscription in a medium that actually enacts 
+processes rather than merely describe them. […] 
+Procedural  representation  is  significantly  different  from  textual,  visual,  and  plastic 
+representation. Even though other inscription techniques may be partly or wholly driven 
+by  a  desire  to  represent  human  or  material  processes,  only  procedural  systems  like 
+computer software actually represent process with process. This is where the particular 
+power of procedural authorship lies, in its native ability to depict processes. (Bogost 2007, 
+9, 14) 
+
+                                                
+4 Fletcher, J., in his introductory paper for the seminar, “Digital Textuality with/in Performance,” May 2012 at the 
+University of Falmouth (GB). 
+ 
+
+ 
+
+3 
+
+ 
+The digital narrative, insofar as it constitutes an event and process performed by the machine and 
+by  the  reader,  may  (re-)introduce  temporality,  a  temporality  that  intertwines  the  activity  of  the 
+computer  with  that  of  the  reader-player-user.  This  (inter)active  manner  of  living  a  temporal 
+experience must be distinguished here from the experience of time constructed by all narratives, 
+according to Ricoeur. We have on one hand the temporal experience brought into existence and 
+formulated  through  narrative  by  its  very  essence,  according  to  its  traditional  classification  as 
+discourse establishing a chronology and causality, and on the other hand the temporal experience 
+performed  by  the  reader-user,  based  on  a  process  taking  place  on  a  timescale  with  a  varying 
+degree of mani(pul)ability, within the frame and the limits imposed by the software. 
+
+Although in digital narratives the writing/ reading medium has a tendency towards spatialization, 
+the way in which the medium not only performs time, but also transforms its manifestations on 
+the screen and the reading process into a performance, also tends towards temporalization, and 
+offers  a  temporal  experience.  As  such,  this  type  of  production  can  also  be  interpreted  as  a 
+questioning of temporality. To what extent do the most recent forms of digital narrative introduce 
+and/or incarnate a new relationship with time?  
+
+1. Narrative games for the smartphone: 
+smartfictions built around notifications 
+
+According to Bruno Bachimont, a narrative may be seen as a causal articulation of agents, within 
+a  flow  of  events  conceived  as  what  happens,  what  happens  to  me,  what  happens  to  us 
+(Bachimont,  2021).  The  incoherence  of  the  flow  is  reconstructed  in  a  coherent  manner  by  the 
+narrative,  which  lends  causal  intelligibility  to  events.  Yet  the  digital  represents  an  increasingly 
+overflowing stream, manifesting itself particularly in the form of notifications and injunctions. How 
+do certain digital narratives stage this flow of what happens to us in order to render it coherent?   
+
+On mobile application distribution platforms (Google Play and App Store) one can find more and 
+more interactive narratives for smartphones, or smartfictions (Picard, 2021). These fictions rely 
+on ordinary daily practices on a smartphone, realtime chats, for instance, but also notifications. 
+What are the principles underlying these smartfictions built around notifications?  
+
+Let’s  take  the  example  of  Bury  me,  my  Love  (Enterre-moi,  mon  amour)5.  This  narrative  game 
+released in 2017 is the fruit of a collaboration between The Pixel Hunt studio (and particularly the 
+game designer Florent Maurin) and the  Arte France  television channel. The inspiration for this 
+creation was a witness account published by Le Monde in 2016, The Diary of a Migrant6. This 
+
+                                                
+5 http://enterremoimonamour.arte.tv/. 
+In Arabic, “Bury me, my Love” means “Take good care of yourself,” “Whatever you do, don’t die before I do”.  
+6 Le Journal d’une migrante (The Diary of a Migrant): 
+https://www.lemonde.fr/international/visuel/2015/12/18/dans-le-telephone-d-une-migrante-
+syrienne_4834834_3210.html 
+
+  
+
+ 
+
+4 
+
+journal  of  a  young  Syrian  woman  migrating  to  Gemany  is  constituted  thanks  to  a  WhatsApp 
+thread, and then transformed into the interactive fiction, Bury me, my Love7.  
+
+Figure 1. The title screen for « Enterre-moi , mon amour » (in French). 
+
+ 
+
+ 
+
+In this interactive fiction, the reader incarnates the character of Majd, husband of Nour, the young 
+Syrian woman who is attempting to reach Europe. The reader exchanges messages with Nour 
+via an instant messaging platform. The duration of the journey between Syria and Europe is not 
+pre-determined. It can take anything between a few days and a few months.  
+
+The interaction between the chronology and the temporality of events becomes entwined with the 
+play  between  cartography  and  spatiality.  The  reader  can  follow  Nour’s  progression  via  a  GPS 
+tracker in the top right corner of the instant messaging screen, and so can visualize the character’s 
+progression in real time on a map. This temporality is also an indication of the reader’s progression 
+through the narrative. The closer Nour gets to a European country, the closer the reader is to the 
+end of his/her reading experience. The tracker is therefore  a spatial and temporal indication of 
+both the character’s progression and that of the reader in his/her reading process. 
+
+ 
+ 
+
+                                                
+7 The interactive prologue may be acted out here in French: http://enterremoimonamour.arte.tv/prologue. 
+
+ 
+
+5 
+
+Figure 2. Map illustrating the character’s route. 
+
+ 
+
+ 
+
+As  the  reader  travels  along  the  various  pathways  (there  are  19  different  possible  endings),  a 
+digital counter indicates the number of days that have passed. The border may be temporarily 
+closed, or Nour might have scheduled a meeting with someone who doesn’t turn up on time. In 
+such cases, is it better to wait, or to reconsider your plans? 
+
+Your communications will take place in pseudo real time  ―if Nour must accomplish an 
+action which is supposed  to take her several hours, you will not be able to contact her 
+during this time lapse. When she returns, a notification will inform you that she is again 
+available ―and that she might need you 8. 
+
+ 
+
+                                                
+8 http://enterremoimonamour.arte.tv/. 
+
+ 
+
+6 
+
+Figure 3. Nour’s character is no longer available.  
+
+The reader must wait until she sends him/her a notification. 
+
+ 
+
+ 
+
+ 
+
+7 
+
+It is the “real time” mode which is of interest to us here (see the screenshot below). It should be 
+noted that the reader has the possibility to disable the mode of “real time” notifications, which is 
+the default mode. 
+
+Figure 4. Settings for the “real time” mode.  
+
+ 
+
+ 
+
+The piece plays with temporality through the intrusion of the reader’s real time (which is then also 
+that  of  the  fictional  character).  The  relationship  to  the  reading  time  is  thus  altered,  due  to  the 
+intrusion  of  notifications:  when  the  user  receives  a  notification  from  Nour,  amongst  other 
+
+ 
+
+8 
+
+notifications, they are incited to dive back into the fictional work to dialogue with the character. 
+From a phenomenological perspective, we can consider that there is an interruption caused by 
+the  injunction  behind  the  notification.  Fictional  works  built  around  notifications9  can  disturb  the 
+user’s time management considerably, but, at the same time, reintroduce their “real time” into the 
+fictional framework. In the same way as locative narratives10 play on the frontier between fictional 
+space and the reader’s real space, inciting him/her to physically move to a specified place to make 
+the narrative progress, narratives built around notifications play on the frontier between fictonal 
+time and the reader’s real time. 
+
+What  is  the  added  value  brought  to  us  by  smartfictions  which  use  notifications  as  part  of  the 
+narrative  process? They  create the  impression  of  a  co-presence.  As readers  of,  or  actors  in  a 
+smartfiction, when we make a choice, our actions in a way render a fictional character present in 
+our  own  reality.  Moreover,  this  notion  of  presence  is  further  reinforced  when  we  respond  to  a 
+character’s sollicitation via a notification. In this way we invite the other’s temporality (as well as 
+that of the fiction) to interact with our own. The temporality of the fictional character (and of events) 
+coincides with the reader’s temporality via the notifications, so that they interiorize the duration of 
+the story. It should be noted that for some readers, the fact that they must put aside the narrative 
+to wait for a notification may be a factor contributing to disengagement from the narrative (in this 
+case it is always possible to disable the notifications). 
+
+Such interplay relies prominently on the fact that the smartphone is the device which we use daily 
+for  our  communication  and  writing  purposes.  The  blurring  of  reality  and  fiction  is  particularly 
+effective as the same device is used for daily communications and for reading / playing a fiction11. 
+If this characteristic lends a reality effect to a fictional narrative, we also realize, due to the fiction’s 
+notifications that have a blurring effect on our own reality, that the smartphone is itself in some 
+ways a derealization medium: it builds a fictional layer which is external to the real world. Thanks 
+to  such  fictional  works,  we  come  to  understand  that  the  smartphone  has  already  become  a 
+medium for fiction (and for narration), bringing a new relationship with temporality – and no doubt 
+also reminding us that the fiction vs. reality distinction is no longer quite so relevant here.    
+
+2. Narratives built around real time data flows 
+
+If the digital, as we have already pointed out, manifests itself through an increasing overflow of 
+data, it nonetheless produces this data flow in accordance with a calculatory logic, whereby time 
+is precisely no longer present as such (absence of horizons of expectation and anticipation), as 
+we are dealing with results, and not occurrences (Bachimont, 2021). In the domain of the digital, 
+calculation does away with notions of expectation and what is to come, replacing these by the 
+calculatory consequences of the world understood as input data. Is it possible to re-establish a 
+temporal experience, notably the power of expectation, based on these calculated results? 
+
+                                                
+9 Here we could quote Lifeline (2015) or Somewhere (2017). 
+10 For example The Cartographer’s Confession (2017), by James Attlee, which is set in London. 
+11 This blurring effect can be found in all the  Lost Phone  type smartfictions, (A Normal Lost Phone, Another Lost 
+Phone, Ana the Game...), in which the user is supposed to have found a phone, the content of which (messages, photos, 
+agenda…) he / she is able to flick through in order to understand the protagonist’s story. 
+
+ 
+
+9 
+
+In The Language of New Media (2001), Lev Manovich coins the term of  “database narratives”. 
+Since  then,  we  have  been  able  to  measure  “the  growing  impact  of  databases  on  narrative 
+strategies” (Baroni and Gunti, 2020, p. 42). With a whole range of narratives based on data now 
+available, we have chosen to focus particularly on narratives based on real time data flows. 
+
+To what extent can a fictional narrative be built around a real time data flow? The strongest limit 
+imposed on a narrative by this type of medium is that the causality of events is replaced by the 
+sequentiality  of  real  events  (Chambefort,  2020),  as  illustrated  in  our  example  below,  without 
+narrative mediation. Yet according to certain definitions (Schmid, 2005, Revaz, 2009), the causal 
+link between events is a sine qua non condition for narrativity, and may even be considered as its 
+key constitutive feature. A simple sequence of events or data cannot therefore become a narrative 
+without the intervention of a consciousness and ensuing representation creating a link between 
+them. At the same time, the technical specificity embodied by reliance on a real time data flow 
+injects life’s contingencies into the narrative (Chambefort, 2020). 
+
+Let us consider one particular example,  Lucette, gare de Clichy, a web narrative by Françoise 
+Chambefort built around a real time data base (2017, http://fchambef.fr/lucette/). 
+
+Lucette  lives  just  opposite  the  Clichy-Levallois  station.  From  her  window,  she  can  see 
+travellers passing by,  and coming to visit her, or not. The trains, with their strange and 
+familiar  bynames,  are  like  characters  who  pay  visits  to  Lucette.  There  are  very  lively 
+moments, and moments of great solitude. (Françoise Chambefort, the work’s paratext).   
+
+ 
+
+Figure 5. Lucette, gare de Clichy, by Françoise Chambefort. 
+
+ 
+ 
+
+ 
+
+ 
+
+10 
+
+This creation is connected to real time through data from the Paris region rail network (the “L” line 
+of the Transilien network). The interface is like a triptych. On the left, train times are displayed 
+(trains may be late, or cancelled), in the middle is  a succession of photographs of Lucette, the 
+fictional character, and on the right, we can access her stream of thoughts (which are more or 
+less positive depending on how long she must wait for the next train.) 
+
+The web reader’s attention oscillates between the real and fictional poles of the digital creation. If 
+they feel empathy for the character, they will live an exceptional temporal experience. They will 
+feel the vulnerability of an old person who has little control over her life (Chambefort, 2020). The 
+calculated time dimension of the train timetables becomes existential time, a waiting period that 
+becomes full of meaning. 
+
+ 
+
+ 
+
+Figure 6. The interface in triptych form. 
+
+ 
+
+The  fact  that  this  creation  is  not  interactive  reinforces  the  temporal  experience.  The  author 
+emphasizes the non-interactivity of her creation, as if to offer greater incitation to the user to pay 
+more  attention  to  old  people  suffering  from  loneliness  in  the  physical  world.  Although  Lucette, 
+gare de Clichy is of course built around the calculated timescale of a real time data flow, it is at 
+the  same  time  a  “pure  experience  of  time,”  based  on  the  temporal  experience  of  the  fictional 
+character (Chambefort, 2020).  
+
+ 
+
+11 
+
+ 
+
+Figure 7. Transforming a data flow into a temporal experience. 
+
+ 
+
+Françoise  Chambefort refers  to  her  creation  as a  “narrative”.  If  we  can evoke  a  narrative,  it  is 
+mainly  thanks  to  the  words  spoken  by  Lucette,  her  thoughts,  and  the  unifying  force  of  her 
+perspective (and of her life, which she tells us about within this framework). Yet this creation is no 
+doubt situated at the frontier of what constitutes a narrative, as in the previous case. Indeed, Bury 
+me, my Love, can be categorized as a “narrative game”. The present work raises the question as 
+to how far we can stretch digital narratives before they cease to be narratives. 
+
+Might the digital narratives based on real time data flows and adding signification to them be able 
+to help us to more readily accept the flows of digital data to which we are subjected in our daily 
+lives,  or  even  to  foster  a  different  relationship  with  these  flows  and  the  temporality  which 
+accompanies them? 
+
+ 
+
+ 
+
+ 
+
+12 
+
+3. From storytelling to storyshowing: the stories 
+on social networks 
+
+Our  third  case  study  concerns  the  “story”  feature  available  on  Instagram  and  Facebook.  This 
+feature  allows  users  to  display  content  for  a  limited,  twenty-four-hour  period,  after  which  it 
+disappears12.  The  content  of  a  story13  can  take  on  all  the  forms  possible  for  other  types  of 
+publication ― videos or photos, principally, with or without textual commentaries, or even just a 
+text.  Additional  functions  are  proposed  to  enhance  these  media  with  static  or  animated  filters, 
+layout options, or even interactive options such as surveys. Irrespective of whether the chosen 
+medium is temporal / animated (video, gif) or static (photo, text), the length of the story remains 
+limited  to  15  seconds,  and  photos  or  other  static  media  are  also  presented  for  viewing  for  a 
+duration of 15 seconds, after which the algorithm automatically passes on to the following story 
+in what we could refer to as the viewer’s “storyline” (they can also move on to the following story 
+without  waiting  for  the  end  of  the  one  being  displayed).  It  is  possible  to  create  sequences  of 
+photos, videos, texts, etc., but they will always be displayed as a collection of fragments rather 
+than a unique continuous video sequence (click here to see a recording of a viewing screen).  
+
+ 
+
+ 
+
+Figure 8. “Storyline” on a Facebook computer interface. 
+
+ 
+
+                                                
+12  The  programmed  disappearance  can  be  avoided  on 
+story,(cf. 
+https://help.instagram.com/1660923094227526/?helpref=hc_fnav&bc[0]=Instagram%20Help&bc[1]=Instagram%20
+Features). Facebook conserves archives which are accessible only to the author of a publication. 
+13 We will be using the italics here to distinguish the social media feature from the traditional meaning of 
+“story”. 
+
+Instagram  by  highlighting  a 
+
+ 
+
+13 
+
+The  interface  in  which  the  stories  are  inscribed  creates  a  sort  of  continuous  succession  of 
+fragmented sequences, which, once activated, displays a non-stop chain of stories until the user 
+interrupts it – unlike the newsfeed, which requires the user to repeat an interactive swiping gesture 
+to make publications appear on the screen. Thus each story must not only be adapted to strong 
+temporal  (and  therefore  formal)  constraints,  but  also  conform  to  inclusion  in  a  chain  of  stories 
+created  by  algorithms,  with  the  inevitable  advertisements,  which  are  even  more  ineluctably 
+imposed on users when viewing stories than on the newsfeed, even if one can swipe the screen 
+to pass on to the following story, as well as to a condemnation to disappearance after a twenty-
+four hour period14. 
+
+In short, then, the characteristics of the story which are of interest to us are the following: 
+
+1)  it bears the name of a discursive mode traditionally reserved for the representation of 
+
+causally linked events and actions set in time; 
+
+2)  yet it does not impose any criteria for narrativity in the traditional sense;  
+3)  it  relies  indifferently  on  temporal  or  atemporal,  animated  or  static,  visual  or  textual 
+
+media, with nevertheless a strong preference for the visual and the dynamic; 
+
+4)  it is characterized by a double temporal constraint: a maximum length of a few seconds 
+(internal temporality) and a default lifespan of twenty-four hours (external temporality); 
+5)  it is accessed (viewing, reception) within a temporal framework defined by the platform, 
+
+even when non-temporal media are concerned;  
+
+6)  it is integrated on viewing in a rapid chain of stories emanating from the viewer’s entire 
+
+network15. 
+
+ 
+
+We shall confront the above points with the traditional acceptation and use of the term story (ie. 
+narrative) in a discussion in two parts, taking the points in reverse order. 
+
+6, 5 and 4: The story is separate from its author’s other publications, from what could constitute 
+the context associated with that particular moment, fragment, or piece of information belonging to 
+their  life.  Friends  who  are  sufficently  assiduous  in  following  the  author’s  publications  may  be 
+capable of reconstructing a narrative, but such reconstruction is not aimed at, or facilitated by, the 
+platforms  (Facebook  presents  stories  as  “a  visual  medium  which  is  ideal  for  sharing  authentic 
+moments”16), and this can only be done by going agains the grain of the tool. If a user’s profile 
+shows a collection of his or her publications in reversed chronological order making it possible, to 
+some  extent,  and  with  great  difficulty,  as  such  is  not  the  aim,  to  go  back  in  time  and  perhaps 
+reconstitute a narrative in the true sense of the term, even if it is a fragmented and incomplete 
+one, and it does not follow the pattern of a narrative as we generally conceive one, stories are 
+explicitly and deliberately destined to remain fragments which only the memory of their viewers 
+
+                                                
+14 On Facebook in particular, it is possible to override some of these limits, and to propose a slightly longer video, or 
+to make a story visible for a bit longer, but these practices remain marginal. Here we will focus on the basic parameters 
+and practices. 
+15 N.B. This is also true for the newsfeed, but other types of publications remain on the author’s profile, this becoming 
+part of a sort of journal. 
+16 See the guidelines for companies:   
+https://www.facebook.com/business/help/304846896685564?id=2331035843782460 (these are the points which we 
+emphasize here). 
+
+ 
+
+14 
+
+can piece together.17 At the same time, the integration of these fragments in the chain of stories 
+of a network of friends contributes to building a form of artificial continuity between the stories of 
+various people (and with pages devoted to news or advertising). No causal link is established, but 
+a more or less simultaneous panorama of moments in peoples’ lives with no connection between 
+them (other than the “friendship” with the user in question) – “your friends (and the ads) right now” 
+(today).18 The “narrative identity”19 of each person is of little real interest here. Not (primarily) that 
+the “friends” don’t care, but because the platform only needs  to extract the data from publications 
+that  allows  it  to  establish  a  consumer  profile  for  a  given  user,  a  profile  which  has  commercial 
+value. The narrative identity – as yet not constru(ct)ed as such – of the individual thus gets lost in 
+the  digital  identity  of  a  network,  which  is  both  a  continuous  flow  of  visual  information  and  a 
+pixelated  image  constructed  through  a  simple  algorithmic  juxtaposition,  always  in  and  for  the 
+present moment20.   
+ 
+Paradoxically, then, given their name, stories separate themselves from the thread of a person’s 
+life experience to become part of a snapshot of a social panorama which has no temporal axis 
+and is destined to disappear. The individualism behind the self-representation and self-promotion 
+which seem to motivate users to exploit the story function to share moments of their lives actually 
+contributes in this way to a form of deindividuation which is realised through detemporalization – 
+which  itself  passes  through  the  detour  of  a  minimal  temporalization  of  non-temporal  media  –  
+whereby each person’s role is limited to enriching the network, in all senses of the term. Each 
+individual and each story, to quote Pink Floyd, is “just another brick in the (others’ digital) wall.”  
+ 
+
+                                                
+17 We have already mentioned the option which consists in proposing a sequence of moments, however, as we have 
+also seen, this does not prevent a fragmentation logic from prevailing. Facebook also proposes an archive for your 
+own stories, but this is only available for the author’s own use. 
+18 Examples of this can be found in literature. Thierry Crouzet’s novel, One Minute, initially published on Wattpad in 
+2015, notably presents a sort of narrative panorama which recounts the same minute in time in 366 different places in 
+the world. “The 366 episodes of this series, each designed to be read in little more than a minute, recount in turn the 
+same minute from the point of view of new characters. The story does not advance in time, but in space. The intrigue 
+develops little by little, from one place to the next, and from one time zone to another, and heroes emerge as they 
+exchange  with  their  friends  or  enemies.”  This  literary  experience  which  reminds  us  of  postmodern  narrative 
+deconstructions  nonetheless  proposes  a  coherence  between  all  the  minutes  of  the  different  characters.  (The  whole 
+tradition of microfictions, as well as that of ‘mini-biographies,’ could of course be used as a basis for comparative 
+analysis).  
+19  Mayer  and  Bouchardon  (2020)  put  forward  the  hypothesis  of  a  “poetic  identity”  built  around  a  collection  of 
+snapshots, moments and fugacious impressions which, reinforced by social media, would coexist alongside Ricoeur’s 
+“narrative identity”  
+20It is interesting to observe that the platforms and their users present this as an approach aimed at the pureness of the   
+narrative, identitarian or visual construction of profiles (and/or commercial pages): “Instagram’s Story is a great way 
+to share events as they happen without clogging up your carefully curated feed with dozens of throwaway images. 
+Your friends and followers might be interested to see what’s going on in your life or get a behind-the-scenes view of 
+what you’re working on, but they probably want to be able to opt-in rather than have it just appear in their feed. It’s 
+part  of  Instagram’s  move  to  be  a  more  complete  social  network,  rather  than  just  a  place  for  pretty  pictures.” 
+https://www.howtogeek.com/722354/what-are-stories-and-why-does-every-social-network-have-them/ 
+
+ 
+
+15 
+
+3, 2 and 1: According to statistics (without any indication of the source) given by a “community 
+manager,” a practician and blogger who is a specialist on networks, and passionate about the 
+subject, “51% of people want stories which are short and easy to understand.” 21 
+This would explain the emphasis on the visual aspect and on the simplicity of the message, in 
+both structure and content, thus banning any causal or argumentative construction which would 
+require reflection taking longer than the 15 seconds dedicated to each story. Facebook’s official 
+recommendations indeed insist on the importance of combining visual aspects with speed to best 
+capture the viewer’s attention:  
+
+ 
+Accelerate your rhythm to maintain the attention of your audience; the content of stories is 
+viewed  much  more  rapidly  than  that  of  other  media.  We  suggest  you  create 
+advertisements which capture the audience’s attention right from the first image, and 
+that  you  conserve  their  attention  by  playing  on  the  speed  of  publication  and 
+transmission.” 22 
+
+ 
+The platforms offer a multitude of models and filters which allow these aims to be materialized, 
+facilitating the task of the creators of stories, with the above recommendations in mind (cf. figure  
+ 
+
+Figure 9. Instagram story templates.  
+
+ 
+
+ 
+
+                                                
+21https://www.mycmmag.com/storie-contenu-impactant-sur-les-reseaux-
+sociaux/?fbclid=IwAR1ijwPw0Y5wJp9Ic765u2h1xayQOtnmcqsrPHalWqLOFOARWrve8YOWNpU#:~:text=7.  
+We  could  also  emphasize  the  fact  that  according  to  these  statistics,  almost  half  of  users  do  not  indicate  any  such 
+preference, from which we may deduce that they are open to the idea of longer, more complex  stories which would 
+make users think. The trend towards the short and simple is a priori not necessarily a fatality, but is alimented by a 
+circuit  of  supply  and  demand  that  encourages  this  preference  through  a  race  for  efficiency  in  (advertising) 
+communication. A study commissioned by Snapchat also reveals the greater efficiency of advertisements of 6 seconds 
+over those which last 15 seconds, thus confirming the preference among users for extreme brevity, even for temporal 
+media. 
+(https://forbusiness.snapchat.com/blog/does-every-second-really-count-a-closer-look-at-video-ad-insights). 
+22 https://www.facebook.com/business/help/304846896685564?id=2331035843782460.  The emphasis is ours. 
+
+  
+
+ 
+
+16 
+
+Micro-temporality, a preference for the “show, don’t tell” approach, and the accelerated rhythm 
+inherent  to  stories  are  thus  greatly  motivated  by  their  communicational  goal  ―  promotion,  the 
+famous  “15  minutes  seconds  of  fame,”  to  be  hammered  into  people’s  consciousness  by 
+multiplying  the  stories,  as  the  experts  in  digital  marketing  suggest,  whether  for  personal  or 
+commercial communication. Inciting engagement and active participation is said to have been the 
+main goal when stories were first introduced on Snapchat in 2013.  
+ 
+Whereas in the context of Instagram and Facebook, stories represent an acceleration in relation 
+to  other  publications  which  remain  available  there  without  any  time  limit,  on  Snapchat  they 
+introduced  a  deceleration  (!)  compared  to  the  immediate  disappearance  of  “standard”  snaps. 
+Contrary  to  the  stories  prevalent  on  Instagram  and  Facebook,  those  on  Snapchat  consist  in 
+piecing together a user’s “snaps” (a snap, according to Snapchat’s definition, is “a moment sent 
+to a friend”), created in a 24-hour period by assembling them in a chain in which the oldest element 
+disappears as soon as it has reached the end of its 24-hour lifespan, and to which new snaps can 
+be added. In this manner a sort of fragmented narrative is constructed which resembles what is 
+proposed by the newsfeeds on the other two networks without any time limits. The formula was 
+thus substantially transformed on Instagram and Facebook, in spite of their – hardly unmeditated 
+– adoption of the term story, even if it still remains possible to line up successive moments on 
+these  networks.  This  adoption  precisely  marks  a  convergence  between  the  two  temporal  and 
+memorial  approaches  of  the  three  networks,  initially  very  divergent,  with  the  shared  goal  of 
+inducing addiction:    
+
+Before  Stories,  Snapchat  was  a  task-based  social  network.  That  means  that  people 
+would only open the app to take a specific action, like checking a notification or sending a 
+message. Stories transformed it into an app that people wanted to passively check 
+throughout the day.  
+
+People post things all the time, so you feel compelled to open the apps and check for content 
+multiple times a day. You don’t want to miss anything. Stories take that to another level. 
+The temporary aspect of Stories drives people to use social networks even more.  the 
+best engagement tools social media has ever seen. […] Stories are just the latest tool 
+to build engagement and keep you in the app23. 
+
+The narrative, taken in its traditional sense and according to classical and cognitive narratological 
+theories24,  provokes  reactions  in  the  receiver  by  appealing  to  emotions  and  other  cognitive 
+functions  by  presenting  human  experiences  and  making  it  possible  for  them  to  interpret  and 
+integrate these in their life experience. This capacity of the narrative is directly linked to the fact 
+that  it  establishes  temporal  and  causal  links.  However  here  we  witness  a  completely  different 
+
+                                                
+23  https://www.howtogeek.com/722354/what-are-stories-and-why-does-every-social-network-have-them/.  Another 
+study also emphasizes the feature’s commercial aim, “It manages to build a more lasting narrative, which provides 
+much better opportunities for brand use in terms of doing things like advertisements, offers and marketing campaigns, 
+too.” (https://techcrunch.com/2013/10/03/snapchat-gets-its-own-timeline-with-snapchat-stories-24-hour-photo-video-tales/) 
+24 See Ricoeur’s theory, already quoted here, as well as the works of Monika Fludernik (2009), David Herman (2013), 
+Nancy Easterlin (2012) and Lisa Zunshine (2006), among others. 
+
+ 
+
+17 
+
+logic, aiming at a simple and immediate emotional response, and appealing to our senses (vision, 
+hearing) and to our desire for entertainment and intense immediate pleasure.25 
+ 
+Not only does the story thus fail to impose any criteria for narrativity, but narrativity also seems to 
+be an obstacle to its immediate efficacy. According to the classical definition by Gérard Genette, 
+a narrative is an “oral or written discourse which aims to relate an event or a series of events.”26 
+Today this definition, limited to verbal communication, must of course be widened to include other 
+means of communication, as the representation mode can also be purely visual or audiovisual. It 
+can also be extended by eliminating the reference to events, in the manner of Richard Walsh, for 
+whom a narrative is “the semiotic articulation of a temporal sequence.” 27  
+This  is  about  as  far  as  minimalism  can  be  pushed  without  losing  the  specificity  of  narrative 
+discourse. In order to construct a “temporal sequence”, a minimum of two moments are obviously 
+necessary. Yet everything in the logic behind stories tends towards the equation “one story = one 
+moment”  (one  product  /  one  message  /  one  joke  /  one  simple,  i.e.  non-composite  idea28)  and 
+stories are independent from one another. 
+ 
+Thus  the  story,  in  the  way  it  is  conceived  and  practised  on  social  networks,  does  not  rely  on 
+narrative in its traditional sense,  while at the same time exploiting the  historical success of the 
+concept and the associated practices (a success which must have inspired the choice of the term 
+story). In English, the new, additional meaning of the word has found its place in the dictionary in 
+competition  with  the  traditional  significations,  and  to  some  extent,  it  is  only  the  context  which 
+allows us to distinguish between them. In French, and no doubt in other languages too, “story” 
+remains  a  word  which  has  been  quite  recently  imported  or  borrowed,  and  which  has  been 
+popularized  by  this  novel  phenomenon.  The  meanings  of  the  French  terms,  “histoire,”  (story) 
+“récit” (narrative / tale), and “narration” could theoretically remain unaffected when we are dealing 
+with  the  “story”.  However,  some  French  users  also  refer  to  stories  as  “histoires”29,  and  the 
+meaning of the English term is indeed well known enough to allow the link to be established, and 
+to  permit  retroaction  on  the  traditional  meaning  of  the  term  “histoire,”  which  may  thus  also  be 
+
+                                                
+25 See Tik Tok’s creed: “inspire creativity and bring joy”.As the latest network to date, and the most popular one with 
+young people, Tik Tok merely accentuates a potentiality and aspect present in the other networks, at the expense of 
+and/or without the ‘burden’of deeper communication and sociability, in the same way as advertisements, generally 
+speaking  simply increase the  exploitation of  the  features offered due to their  ferocious competition to be the  most 
+captivating, successful or profitable. Nevertheless, constructing a successful profile or campaign on Tik-Tok requires 
+serious reflection as to the best possible use of the few seconds available to capture the attention of those surfing the 
+data flow. However videos can also sometimes go viral without their having been elaborately prepared or promoted, 
+if they capure a unique, original, entertaining moment, for example. 
+26 Figures III, p. 71. 
+27    Richard  Walsh  and  Susan  Stepney,  ‘Introduction  and  overview:  who,  what,  why’‘,  Narrating  Complexity, 
+(Springer, 2016). 
+ 
+28 We are of course referring to a global tendency, which does not excude the existence of stories which do not follow 
+it. Facebook allows users to present a short series of photos presented one after the other, for example, which may 
+constitute a mini-narrative composed of several different moments, or on Instagram the inclusion of several photos in 
+one frame is possible, which is similar to presenting a temporal sequence, a bit like a page in a cartoon book.  
+29 See for example https://www.a7la-home.com/fr/instagram-reels-vs-story-difference/.  
+
+ 
+
+18 
+
+colonized, at least partially,  by the spirit of stories30. Insurmountable barriers are unlikely to be 
+erected  in  other  languages  to  block  the  extension  of  the  meaning  of  “story”.  The  only 
+interrogations concern the extent to which the associated practices will become generalized, and 
+to what extent users, particularly the new generations, will prefer these and allow them to take 
+the place of what will still consider today to be real narratives. 
+ 
+There is of course nothing new about this tendency towards greater brevity, simplicity, and visual 
+representation, stories merely carry this trend to the extreme. The story feature, in its conception 
+as  in  its  construction  and  the  uses  it  offers,  is  inseperable  from  its  digital  environment,  not  so 
+much  because  this  environment  is  by  definiton  and  by  its  very  nature  detemporalizing,  but 
+because the underlying calculations, in both the mathematical and economic-strategic senses of 
+the  word,  are  driven  by  commercial  logic  rather  than  by  social  or  cultural  aims.  From  this 
+perspective, the story simply intensifies the logic behind storytelling by taking advantage of the 
+potential for emotional impact inherent in stories, but here completely deprived of its (hi)story – in 
+both  senses:  the  past  of  narratives  and  the  narrative  content  –  as  well  as  of  its  spirit,  since 
+temporality is only useful in this context insofar as it helps to observe changes in behavior – and 
+even  then,  only  the  result  is  of  importance.  The  problem  is  therefore  not  so  much  that  an 
+atemporal  calculation  is  the  basis  for  the  functioning  of  the  digital,  but  rather  that  its  uses  are 
+dominated by economic powers which alone have the capacity – both the necessary resources 
+and the accumulated know-how – to invent and implement features to be proposed to users, or 
+even to impose these, by exploiting very human desires and impulses. This does not however 
+impede the emergence of creative practices – we have already witnessed some examples such 
+as the micro-booktrailers proposed by the New York Public Library on Instagram31.  
+
+Futher Questions 
+
+In our current digital environment, constructing and transmitting a narrative in the classical sense 
+of the term,  a  practice  which  requires  time,  or  creating  experimental forms  which question  the 
+limits  of  the  narrative  form  without  immediately  providing  a  satisfactory  answer,  both  imply 
+swimming against the tide, rendered stronger by the features made available by the owners of 
+the social networks which dominate our communications. We have presented two fictional works 
+which raise these questions in their own ways, built around two current phenomena in our digital 
+lives, and which do not yet hold an established place in narrative disourse: notifications and data 
+flows. The former allows creators to introduce and integrate fictional time into the reader’s real 
+time,  whilst  the  latter  uses  the  real time  of  events  taking  place  in  the real  world  to  structure  a 
+fictional  work,  lending  meaning  to  a  flow  of  information  and  transforming  it  into  a  human 
+experience.  These  two  examples  also  show  that  interactivity  and  dataflows  raise  questions 
+around  temporality,  as  this  inevitably  becomes  entwined  with  that  of  fictionality  and  its  limits, 
+
+                                                
+30  The  Robert  French  dictionary  has  already  integrated  the  term,  qualifying  it  as  an  anglicism,  with  the  following 
+definition: “Image ou brève vidéo publiée par un internaute sur un réseau social et visible pendant une courte durée” 
+(“Image  or 
+time.”) 
+(https://dictionnaire.lerobert.com/definition/story). 
+ 
+31 https://www.instagram.com/stories/highlights/17852114806307682/. 
+
+short  video  published  by  a  web-user  and  visible 
+
+for  a 
+
+short 
+
+length  of 
+
+ 
+
+19 
+
+inviting creators and users to rethink these borders and the traditional binary distinction between 
+fiction  and  reality32.  If  the  classical  narrative  aims  for  and  encourages  the  immersion  of  the 
+reader/viewer  through  movement  from  real  space-time  towards  fictional  space-time,  the  new 
+narrative forms allow the emergence of fictional space-time in (and thanks to) real space-time, via 
+a movement that not only crosses, but also deconstructs frontiers. 
+ 
+While  these  two  works  question  the  relations  between  narrative,  temporality  and  digital 
+environment, our third example invites us to rethink our conception of narrative as it is defined by 
+classical  and  post-classical  narratology,  adopting  the  term  and  using  it  to  designate  entirely 
+different phenomena and practices. This radical otherness expresses itself through the relation to 
+time  –  the  temporality  imposed  by  the  feature,  that  of  the  content  it  proposes,  and  that  of  the 
+users. We have seen how the temporality of stories is doubly limited by the networks to an internal 
+duration  of  a  few  seconds  and  to  a  lifespan  of  one  day.  We  are  in  the  sphere  of  the 
+moment(aneous) and the ephemeral, neither of which are designed to foster lasting memories, 
+or at least not to take their place in the archives, but which are nonetheless there to be seen, to 
+have  a  double (and  slightly  prolonged)  existence,  thanks to these forms  of representation,  but 
+always as moments. The function of these  stories is no longer to establish temporal or causal 
+links between events, but simply to include them in what could be referred to as “the life of the 
+network(s)”, that  enormous,  constantly  changing pixelated  showcase,  the  cohesion  of  which  is 
+only  guaranteed  by  links  of  “friendship”  –  another  term  which  has  undergone  an  evolutionary 
+process since its adoption by the networks to refer to the links between their members.   
+ 
+We should  probably  avoid  trying  to  essentialize  time  and  think  rather  in  terms of  digital  space 
+(Vitali-Rosati, 2020). Marcello Vitali-Rosati invites us to consider narratives in relation to spatiality 
+rather then temporality. Temporality is linear (before and after), whereas on the Internet we are 
+especially  confronted  with  “relations  of  distance  and  proximity,  of  visibility  and  invisibility,  of 
+accessibility  and  inaccessibility,  of  the  central  position  and  the  peripheral”,  that  is  to  say  with 
+creating  a  space.  On  the  Internet,  we  notably  create  our  collective  identity  through  spatial 
+interactions,  and  even  the  notion  of  “editorialization”  is  defined  by  Vitali-Rosati  as  “the  set  of 
+dynamics which produce our digital space”. It is precisely in this digital space that  stories also 
+take form; the succession of moments, with no other link between them than their juxtaposition 
+by an algorithm and (judging by what we can see) without any consideration for the content, is 
+presented in the digital space, with the frames of each of the stories lined up, available for the 
+user to consult, and then launch the viewing process, following their temporal sucession. Rather 
+than a narrative sequence constructed by a person, the user receives a sequence compiled by 
+an algorithm. The moment or the content editorialized by the person who has lived or created this 
+moment  integrates  a  second  process,  algorithmic  and  opaque  this  time,  which  operates  its 
+inclusion  in  a  sequence  of  other  moments  and  contents  created  by  other  people.  It  is  more  a 
+question  of  procedure  and  performance  than  narrative  as  construed  by  Ricoeur,  a  temporal 
+construction which does not create or modify meaning but nevertheless fills a / the / our digital 
+space.  
+
+                                                
+32 On this subject see Fülöp (2021). 
+
+ 
+
+20 
+
+In 1985, Paul Ricoeur observed that “new narrative forms, which we do not yet know how to name, 
+are already being born, which will bear witness to the fact that the narrative function can still be 
+metamorphosed, but not so as to die” (Ricoeur, 1999). The question we may ask ourselves today 
+is how extensive this metamorphosis might be, and how far can we push the limits of the “narrative 
+function”  without  it  losing  its  meaning,  the  meaning  attributed  to  it  by  Ricoeur.  Are  we  today 
+witnessing a fundamental transformation of what we call narrative? Are our desire and need for 
+“oldstyle” narrative strong enough to resist the planetary tide of  stories, and the networks’ and 
+algorithmic processes’ powers of redefinition? Should we be afraid of such an evolution? Could 
+not such a change be inscribed in the long history of human civilisations, which have already seen 
+so many transformations, including the birth of the narrative as we still know it today?  
+
+The above questions suggest that the stake here is not simply what might happen to narrative 
+forms,  but  what  might  happen  to  us,  deprived  of  narrative  in  the  classical  sense,  and  how  we 
+might function without it. In other words, to what extent are our consciousness and our powers of 
+reflection truly dependent on narratives, and how prepared are we to consider alternative modes 
+of  functioning?33 For  instance,  would  thinking  by  and  through  network  as  primary  structure  be 
+possible, with the cohesion of moments and fragments  would be created by connections other 
+than the temporal and/or causal ones? We may not be facing a total and definitive disappearance 
+of  narratives,  but  rather  a  relativisation  of  their  place  in  our  culture,  history  and  theoretical 
+constructions, and a multiplication of modes of representing and performing time.  
+
+We must however recognize that for now, we are still inside the system of thought where narrative 
+seems not only indispensable, but also very dominant, and are incapable of thinking beyond. The 
+narrative  as  a  framework  for  intelligibility  can  thus  be  seen  as  one  of  those  “great  narratives” 
+whose demise was announced by Lyotard, but which continue to stucture our perception of the 
+world  –  the  past,  the  present,  and  the  future.  When  we  tell  the  story  of  narrative,  and  of  the 
+evolution of  stories on the network, with the challenge they present to  traditional narrative, the 
+latter stands firm, supported by the weight of its history, and we too easily confer the role of the 
+“bad guy” to the newcomer, as we in turn enter into the polarizing logic of storytelling. It is only 
+when we open our minds to the idea that other paths are possible that we can engage in serious 
+and  nuanced  reflection  about  the  evoluton  of  our  relationship  to  narrative,  to  time,  and  to 
+technology.    
+
+References 
+
+- Bachimont, B. (2010). Le sens de la technique : le numérique et le calcul. Paris: Editions Les 
+Belles Lettres, collection « encre marine ». 
+ -  Bachimont,  B.  (2014).  "Availability  and  the  transformation  of  objects  into  heritage:  digital 
+technology and the passing of time". In B. Dufrêne (Ed.), Heritage and Digital Humanities: how 
+should training practices evolve ? Berlin: LIT, 49-70. 
+
+                                                
+33 Galen Strawson, in a well-known article, (2008) already suggests that "There are deeply non-Narrative people and 
+there are good ways to live that are deeply non-Narrative". 
+ 
+
+ 
+
+21 
+
+-  Bachimont, B. (2021). "Écriture et code, motivation du sens et arbitraire du calcul", seminar "Le 
+champ du signe", 20th April 2021, ESAD Amiens. 
+- Baroni et Gunti (2020). Introduction à l'étude des cultures numériques - La transition numérique 
+des médias. Paris: Armand Colin. 
+- Bogost, I. (2007). Persuasive Games: The Expressive Power of Videogames. Cambridge, MA: 
+MIT Press. 
+- Bouchardon, S. (2019). “Mind the gap! 10 gaps for digital literature?”, Electronic Book Review. 
+URL: http://electronicbookreview.com/essay/mind-the-gap-10-gaps-for-digital-literature/ 
+-  Cayley,  J.  (2018).  Grammalepsy.  Essay  on  Digital  Language  Art.  New  York  and  London: 
+Bloomsbury Academic. 
+- Chambefort, F. (2020). "Sortir de l’écran : Lucette, Gare de Clichy". In Gervais, B. and Marcotte, 
+S. (eds.), Attention à la marche ! Penser la littérature électronique en culture numérique. Montréal: 
+Les Presses de l’Écureuil - ALN/NT2. pp. 327-338. ISBN 979-10-384-0004-7. 
+- Easterlin, Nancy (2012). A Biocultural Approach to Literary Theory and Interpretation. Baltimore: 
+Johns Hopkins UP. 
+- Fludernik, M. (2009).  An Introduction to Narratology, Londres: Routledge. 
+- Fülöp, E. (2021). “Virtual mirrors: reflexivity in digital literature”. In Fülöp, E. (dir.), in collaboration 
+with Priest, G. and Saint-Gelais, R., Fictionality, Factuality, and Reflexivity across Discourses and 
+Media. Berlin : De Gruyter. pp. 229-254. 
+- Genette, G. (1972). "Discours du récit", dans Figures III. Paris: Seuil. 
+- Herman, D. (2013). Storytelling and the Sciences of Mind. Cambridge: MIT. 
+- Manovich, L. (2001). The language of New Media. Cambridge: MIT Press. 
+-  Mayer,  A.,  Bouchardon,  S.  (2020).  "The  Digital  Subject:  From  Narrative  Identity  to  Poetic 
+Identity? ", Electronic Book Review, mai 2020. 
+URL: https://electronicbookreview.com/essay/the-digital-subject-from-narrative-identity-to-poetic-identity/ 
+-  Picard  ,  M.  (2021).  "La  smartfiction,  quand  l'environnement  numérique  fictionnel  s'hybride  à 
+l'environnement numérique personnel", XXIIème congrès de la SFSIC. 
+-  Revaz,  F.  (2009).  Introduction  à  la  narratologie.  Action  et  narration.  Brussels:  De  Boeck. 
+- Ricoeur, P. (1985). Temps et récit, 3 vol. Paris: Seuil. 
+- Ricœur, P., McLaughlin, K, & Pellauer, D. (1984). Time and narrative, vol 1. Chicago: University 
+of Chicago Press. 
+- Schmid, W. (2005). Elemente der Narratologie. Berlin: de Gruyter. 
+- Stiegler, B. (1998). "Les enjeux de la numérisation des objets temporels", in Cinéma et dernières 
+technologies, Beau F., Dubois Ph. and Leblanc G (eds.). Paris : INA editions and Brussels:  De 
+Boeck & Larcier. 
+-  Strawson,  G.  (2008).  “Against  Narrativity”,  in  Real  Materialism  and  Other  Essays,  Oxford  : 
+Clarendon Press. 
+- Vitali-Rosati, M. (2020). « Qu’est-ce que l’écriture numérique ? », Corela [Online], HS-33.  
+URL: http://journals.openedition.org/corela/11759 
+- Walsh, R., Stepney, S. (2018). Narrating Complexity. London: Springer. 
+- Zunshine, L. (2006). Why We Read Fiction? Columbus, OH: Ohio UP. 
+
+ 
+
+ 
+
+22 
+
+

@@ -1,0 +1,520 @@
+An Analysis of Tinder’s Swipe Night, an Interactive Foray in Online Dating 
+
+“Swipe Night is Fun, but Useless” 
+
+ 
+
+Lauren C. Rouse† 
+University of Central Florida, lauren.rouse@ucf.edu 
+ 
+Rachel N. Winter 
+University of Central Florida, rachel.winter@ucf.edu 
+ 
+Abstract 
+While the Tinder application has, since its inception, facilitated the gamification of dating 
+through its fast-paced, turn-based interactions, the debut of the hypertextual fiction Swipe 
+Night further underscored the game-like interactions of the platform. As the formation of 
+both communities and romantic relationships increasingly occurs via digitally mediated 
+communication, a study of Tinder’s Swipe Night event provides essential insight into 
+both the gamification of human interaction and audience reception of these developing 
+technologies. 
+ 
+Keywords 
+dating, interactive fiction, gamification, social platforms 
+
+ 
+
+Introduction 
+
+While interactive fiction had a long history prior to the development of digital 
+communication technologies, widespread social media use has facilitated the 
+development of new forms of interactive narrative (Piredda et al.). For instance, the 
+dating platform, Tinder, released the interactive Swipe Night game in October 2019, 
+which allowed users to play through a narrative, making choices that impacted the 
+resulting storyline. Swipe Night was intended to connect users to new matches via their 
+choices from playing, a deviation from Tinder’s usual matching via geographic proximity 
+alone. The story played out over four weeks, with each week continuing the story from 
+the week before. The in-app interactive narrative was largely successful, with over a 
+million people tuning in each week (Tinder has 5.7 million subscribers) (Perez). 
+ 
+The Swipe Night trailer began making its rounds on Tinder and other social media apps 
+(like Instagram and YouTube) in late September 2019. In the 45 second trailer, users 
+were introduced to the concept of the narrative: “Every Sunday, experience an interactive 
+adventure where your choices can lead to matches. But you only have till midnight until 
+the adventure is over” (tinder, Official :45 Trailer). The interactive narrative was written 
+and released in four parts, and each subsequent part premiered on the next Sunday from 6 
+PM to midnight.  
+ 
+This paper explores user reactions to Swipe Night using a cross-platform approach, 
+specifically looking at the r/Tinder subreddit on the social networking site reddit. Swipe 
+Night connected users with the familiar genre of interactive fiction and Choose-Your-
+Own-Adventure, and provided opportunities for further connection with other users; yet, 
+user responses to the fiction indicated that users had negative reactions to some of 
+
+ 
+
+1 
+
+narrative choices. Swipe Night therefore simultaneously highlighted the app’s ability to 
+promote offline connections and indicated the impact of platform context on users’ 
+experience of interactive fictions.  
+
+ 
+
+Methodology 
+
+Tinder’s affordances enable only private, one-to-one communication, making the tinder 
+community difficult to study from the platform itself. In order to gauge user reactions to 
+Swipe Night, we therefore needed to develop a cross-platform methodology. Cross-
+platform research can “enhance the understanding of how users navigate the information 
+space, process information, and make use of platforms” (Hall et al. 896). The reddit 
+platform, with its topic-based discussions (termed subreddits) provides a space for Tinder 
+users to discuss their experiences in an interest-based community. Furthermore, reddit’s 
+primarily anonymous method of communication may encourage users to communicate 
+more openly than identity-based platforms like Facebook, which attach profiles to users’ 
+real names and photos. 
+ 
+This paper therefore examines social media reactions to Swipe Night through a small 
+case study of the subreddit, r/Tinder. r/Tinder has 3.3 million members that coalesce on 
+the site to discuss everything about tinder. Most of the time, users post screenshots of 
+their first messages to matches, or bios that they come across while using the app. 
+r/Tinder has various community features like a once-a-week profile review that allows for 
+users of the subreddit to review and post their own profiles and get feedback from other 
+users. Further, the subreddit has a chat where users can meet one another and discuss 
+dating. When Swipe Night was live, users turned to the subreddit to discuss their endings, 
+how to use the interactive narrative, and their own matches following the event.  
+ 
+In order to assess users’ reception of the Swipe Night event, we searched for the term 
+“Swipe Night” on the r/Tinder thread and scraped the text data from the top 50 most 
+relevant threads using the free web scraper Parsehub. Once the data was collected, we 
+manually removed content from threads not specifically related to Swipe Night. Data 
+from the remaining 25 threads were then entered into Orange, a data visualization tool. 
+On Orange, we ran the data through sentiment analysis. 
+ 
+Sentiment analysis refers to the use of natural language processing (NLP). When applied, 
+it looks at the specific phrasing of text, as well as the context for the word to determine if 
+the user had a positive, neutral, or negative reaction when writing the comment. When 
+completing sentiment analysis on Orange, the data was placed into a heat map, which 
+orders the data in positive, negative, or neutral categories, and colors them based on their 
+affective ranking. Data that correspond with a blue color are negative responses; while 
+the data that responds with a yellow color are positive responses. However, a data tool 
+may have trouble reading negations, jokes, sarcasm, or exaggeration. As Pang et al. note 
+in regard to sentiment analysis, “it seems that some form of discourse analysis is 
+necessary [...] so that one can decide when the author is talking about the [thing] itself” 
+(7).While this is a limitation of sentiment analysis, including the neutral response for the 
+data, as (Koppel and Schler) argue, can “improve the overall accuracy [of the data]”. 
+Neutral responses are important, as not all statements have a sentiment. “The sun is hot,” 
+
+ 
+
+2 
+
+or “the dog is big,” are both neutral statements as they have no sentiment, instead of 
+being positive or negative.  
+
+ 
+
+Literature Review 
+
+Interactive narratives and digital games share many commonalities; Ryan argues “narrative 
+games” and “playable stories” are differentiated primarily through their subordination of 
+story  to  gameplay  or  vice  versa  (45).  Thus,  the  Swipe  Night  fiction  can  be  usefully 
+conceptualized as gameplay, building on existing dating-based gamification. For instance, 
+even before digitally mediated dating platforms, the “pickup” model of dating considered 
+interactions between potential sexual partners to be governed by rules that participants can 
+learn in order to “win” (Almog and Kaplan 28). Sites like Tinder extend the gamification 
+of  dating;  for  example,  users  on  Tinder  can  “win”  matches  by  adhering  to  a  set  of 
+expectations regarding profile content and turn-based interactions.  
+ 
+Tinder was developed by Hatch Labs in 2012, and by 2013 users were swiping 350 
+millions times a day (Iqbal). Unlike other dating services, Tinder does not attempt to 
+match users based on “personality, interests and preferences,” and instead emphasizes 
+physical appearance and proximity (Timmermans and De Caluwé 342). Due to the 
+reduced nature of Tinder profiles, users make decisions based primarily on physical 
+appearance (Tyson et al. 2). Likewise, location plays a major role in the potential matches 
+with which users are presented; users can adjust their range to a minimum of 2 kilometers 
+or a maximum of 160, and the application will show only those individuals reported to be 
+within the specified distance (Newett et al. 349).  
+ 
+The swipe logic of the Tinder application encourages a game-like approach to matching 
+with other users. David and Cambre (2016) define this swipe logic as “the pace, or the 
+increased viewing speed encouraged by the UI” of the tinder application. Swipe Night 
+plays into the gamification of the platform, enabling further interactivity through short 
+fictional scenarios. Each choice a player makes moves the narrative forward, impacting 
+potential future choices and ending scenarios. The rhizomatic structure of the Swipe 
+Night narrative recalls earlier hyperfictions like Afternoon, A Story and Patchwork Girl, 
+allowing players the agency to choose how the main character moves through the 
+fictional world. Swipe Night provides the potential for users to discover commonalities, 
+as players know that potential matches have made similar decisions as they work through 
+the fiction. 
+ 
+These interactions, coupled with the new interactive narrative, highlight the gamification 
+of social interactions that are common in dating apps and social media platforms. 
+Deterding et al. highlight five game design levels that are commonly found in games. 
+These levels are evident in normal Tinder swiping, but are further accentuated in the 
+Swipe Night narrative. Game interface design patterns are “common, successful 
+interaction design components and design solutions for a known problem in a context” 
+(Deterding et al.), such as the awarding of badges, places on the leaderboard, and level 
+advancement. On Tinder, users can earn badges by providing further data to the app—for 
+example, if a user is currently attending a university, they can register their school email, 
+
+ 
+
+3 
+
+which in turn will provide them a badge on their profile with their school’s name and pull 
+users with the same school to the top of their “swipe stack.” Users can also pay for Tinder 
+plus, a service which allows them to opportunity to swipe as much as they want (without 
+limits), swipe from different locations, and much more—all of which fall under 
+Deterding’s explanation of game design and patterns, which are, “commonly reoccurring 
+parts of the design of a game that concerns gameplay”(3). 
+ 
+Swipe Night fits into Deterding’s explanation of game design’s principles and heuristics, 
+as it offers the user a variety of ways to interact with the narrative through the format of 
+interactive fiction. Users pick choices that could lead them to untold endings, and focus 
+on the actions of playing in order to get there (3–4). Using the framework from Deterding 
+et al., Swipe Night emerges as a further gamified experience for users, one that uses 
+hypertextual fiction to facilitate connections between users. 
+
+ 
+
+Case Study 
+
+ 
+Swipe Night asked users, “What would you do if you suddenly had three hours until the 
+end of the world?” In order to make decisions, users utilize the “swipe logic” of the app, 
+where they swipe left or right to make choices (like they would on the profile of a 
+potential match). Each week, users reached a specific “ending,” but would be allowed to 
+continue playing the next week, where their previous week’s choices did not matter. Each 
+user would start at a common place the following week, allowing for users to skip weeks 
+without any consequence to them.  
+
+[Image 1: near here] 
+
+When users finished the episode for the night, they were given the option to share their 
+results on their profile. If they did share their results on their profile, all of their answers 
+would be visible to potential matches when the profile was fully opened (Figure 1). If the 
+profile was not fully opened, other users would still be able to see what kind of ending 
+someone played to through a “badge” on the profile’s pictures (Figure 2). Finally, if users 
+chose to not share their Swipe Night results, they could still be recommended top 
+matches based on the results through tinder’s algorithm.  
+ 
+[Image 2: near here] 
+ 
+In the narrative, the user begins at a party; partygoers are then alerted that an impending 
+asteroid strike, which will decimate the Earth in just over three hours. Some of the 
+choices offered to users in the first episode had them thinking of the ethics of the 
+situation. One choice asked them to make fun of Molly’s (another character) outfit, and 
+another asked them to respect a friend’s secret and not get in the middle of a couple’s 
+fight. One cast member’s choice to tell would show that she is truthful and faithful to her 
+friends, which could be a positive in a dating profile, as this is a positive value in a 
+potential match (Perez; tinder, Rico Nasty And The Cast). The ethical dilemmas in Swipe 
+Night echo the often-moral complicity that occurs in interactive fiction, as Rettberg 
+writes (102): “IF also demonstrates how digital literary genres are shaped both by the 
+technological platforms and the social contexts in which they are produced” (103).  
+
+ 
+
+4 
+
+ 
+Likewise, the second episode of Swipe Night likewise presents users with a variety of 
+both practical, ethical, and what we are calling “meme” choices. “Meme” choices are 
+often based off of common cultural capital and are designed to make the player laugh at 
+their choice. For instance, the user is first asked to choose between grabbing a first aid 
+kid or a bag of Cheetos (a popular snack among Gen Z). Upon exiting the convenience 
+store, the user encounters two people, one of which calls out to the user to help, 
+explaining, “Hey! He’s really hurt!”. The user must then decide whether to try to help or 
+to ignore the injured man - although the user’s ability to help is ultimately determined by 
+whether or not they chose to take the first aid kit. Further, Swipe Night complicates 
+seemingly straightforward issues of morality by tempering these decisions with the user’s 
+prior experiences and desire for self-preservation. For instance, although all three cast 
+members interviewed indicated that they would help the injured man, they differed in 
+their responses to a second, similar choice. When a young woman asks for help rescuing 
+her sister from a ditch, two said they would but another said because of her cultural 
+experience as a “New York asshole” she couldn’t trust the woman. (tinder, The Cast Of 
+Swipe Night). Each of these personality choices can help determine their pathways 
+through the story and, consequently, their potential matches. 
+ 
+Episode 4 differs from the previous three, as the user is no longer asked to make 
+decisions around survival, but rather to decide how to spend their remaining time alive. 
+The “ultimate endings” of the interactive fiction differ according to the priorities of the 
+user; for instance, users who choose to wait for the asteroid strike with their friends are 
+given the “Love for the homies” ending, which includes the text, “Watched the comet 
+together with Graham, Lucy, and Molly. Friendship is all that matters in the end.” In 
+contrast, users that choose to watch the asteroid strike alone are offered the opportunity to 
+call their family. The call is instead answered by a stranger who claims to have found the 
+phone. “I wonder what my family would say to me,” he muses, and the user is presented 
+with the choice to say either “I love you,” or “I love you 3000” (a reference to Tony 
+Stark’s words to his daughter in Avengers: Endgame). Shortly after, the call disconnects 
+and the user is presented with their ultimate ending, “Tried to call family and instead 
+connected with a stranger. Told the man that his family loves him in a final act of 
+kindness”. Matches on Tinder are impacted by a user’s priorities; for instance, those users 
+who are particularly family-oriented would end up matching with others for whom family 
+is similarly important.  
+ 
+Swipe Night’s purpose was to get users to interact more with one another through this 
+shared narrative. However, interaction is the sole purpose of Tinder, and begins with the 
+sharing of data on a profile, and continues on to the ways that the algorithm tracks which 
+profiles that a user is more likely to swipe right or left on. Albury et al. write that: 
+ 
+
+[…] all the interactions each user has with other users, every time they swipe right 
+or left, the length of time between viewing a profile and initiating contact, and so 
+on. These data are used by the app developers or publishers to optimize the user 
+experience and enhance the opportunity to monetize that experience, and to learn 
+how to improve the app (Albury et al. 3). 
+
+ 
+
+5 
+
+ 
+
+In theory, Swipe Night was supposed to help users find better matches by optimizing 
+their experience through another category of data; yet, many users on the r/Tinder 
+subreddit found the narrative to be “annoying,” “dumb,” and many reported not having 
+better matches out of the experience. One user posted a screenshot, where their new 
+match from Swipe Night echoed similar CYOA interactions in their message, saying that 
+Swipe Night was a “win.” However, in the same thread, another user responded with 
+their own screenshot message where another user was rude and crass with them, with the 
+accompanying thread, “I guess my Swipe Night isn’t going that well…”(“R/Tinder - 
+Swipe Night!”). 
+
+ 
+
+Results and Discussion 
+
+The sentiment analysis performed on the data is grouped into the ten top posts from the 
+subreddit. We used the Valence Aware Dictionary and sEntiment Reasoner (VADER) 
+tool for our sentiment analysis. VADER is a lexicon and rule-based tool that is 
+“specifically attuned to sentiments expressed in social media.” VADER uses a 
+combination of lexical features (like words, emojis, capitalization, and punctuation), 
+which are then labeled as either positive, negative, or neutral. VADER also lists a score 
+called “compound,” which, “is a metric that calculates the sum of all the lexicon ratings 
+which have been normalized between -1(most extreme negative) and +1 (most extreme 
+positive)” (Pandey). 
+ 
+[Image 3 near here] 
+ 
+Firstly, these results show that there are an overwhelming amount of neutral statements, 
+or statements that seem to contain no obvious positive or negative sentiment. Much of the 
+conversation on the reddit was about if the app was working correctly or not, and if it was 
+working, how one would launch the interactive narrative. Some users had to uninstall the 
+app and reinstall before getting it to work, and the subreddit showed instances of trouble 
+shooting. These threads and comments within conveyed a high correlation of neutral 
+sentiment, as well as negative sentiment.  
+ 
+Cross-platform troubleshooting of technical issues is a prevalent phenomenon, as users 
+turn to platforms that better facilitate the type of communication suited to collaborative 
+problem solving. The Tinder platform itself only enables private exchanges of 
+communication, preventing users from engaging in the crowdsourcing of technical issues. 
+Moreover, the reddit platform, with its subreddits dedicated to specific topics, is 
+particularly conducive to cross-platform troubleshooting, as evident by the existence of 
+subreddits like r/deepfakestechtalk, where users discuss technical issues associated with 
+DeepFakes, a face-swapping software hosted on GitHub (Winter and Salter). Although 
+the r/Tinder subreddit is not dedicated specifically to problem solving technical issues, 
+the prevalence of users turning to the subreddit for technical support indicates that users 
+find both the reddit affordances and community particularly conducive to crowdsourcing 
+issues with other platforms.  
+ 
+
+ 
+
+6 
+
+Secondly, the compound score has an overall negative sentiment. When looking at the 
+compound column, there are four rows with deep/dark blue coloring and two other rows 
+in blue, which signifies a strong negative response. These threads argued that Swipe 
+Night was “fun, but useless,” or “annoying,” and that it often did not lead users to 
+matches with persons who had answered similarly to their questions. Other users in the 
+thread found that the swipe logic on the interactive narrative was different than their 
+normal swiping tendencies and were frustrated because they felt that some of the choices 
+did not represent their moral or ethical standards. Furthermore, some users found that the 
+narrative choices, especially the covering for Graham’s cheating choice, went along with 
+scenarios in which they could not imagine themselves being physically or emotionally 
+involved. One user commented that “the girls will hate my choice because I covered for 
+Graham, but in all reality, I would have never even gotten involved in the first place.” 
+ 
+While interactivity has commonly been associated with an increase in identification with 
+characters (Lin), reactions to Swipe Night suggest that situations and choices to which 
+players cannot relate can result in an opposite reaction, resulting in a lack of 
+identification with characters and events, as well as potential disengagement from the 
+story. Tinder users may be especially sensitive to choices in the Swipe Night fiction 
+given its role in establishing potential matches, and thus its potential for impact offline, in 
+their “real” lives. Issues related to ethics and morality (such as covering for a cheating 
+friend) involve additional consideration, as users think about how these choices influence 
+the type of people with whom they may match. Posts on r/Tinder that argued the narrative 
+needed additional work and that the outcomes of possible matches needed to be changed 
+suggest that users consciously considered the choices in Swipe Night in terms of their 
+impact on future interactions with other users on the Tinder platform. Thus, user 
+engagement with interactive fictions in a dating context differs from those without the 
+potential for real world consequences. 
+
+ 
+
+Conclusions 
+
+Tinder’s Swipe Night narrative not only highlights the gamification and hypertextual 
+methods at play in modern-day dating, but brings to the forefront issues of morality and 
+ethics in finding a potential partner. The context of the Swipe Night fiction on a platform 
+ostensibly used for dating impacts audience reception of, and engagement with, the 
+fiction, as it is perceived as having an impact on user matches; thus, questions of morality 
+are more impactful than in a story disengaged from users’ online identities. As indicated 
+by user reactions on r/Tinder, interactive fictions with potential for real-world 
+consequences prompt different responses and decision-making, therefore calling into 
+question previous conceptions of readers of interactive fictions and highlighting the role 
+of platform communities and affordances in user experience of these fictions. 
+ 
+ 
+
+ 
+
+ 
+
+7 
+
+Bibliography 
+
+ 
+
+Albury, Kath, et al. “Data Cultures of Mobile Dating and Hook-up Apps: Emerging 
+
+Issues for Critical Social Science Research.” Big Data & Society, vol. 4, no. 2, 
+
+Dec. 2017, p. 205395171772095. DOI.org (Crossref), 
+
+doi:10.1177/2053951717720950. 
+
+Almog, Ran, and Danny Kaplan. “The Nerd and His Discontent: The Seduction 
+
+Community and the Logic of the Game as a Geeky Solution to the Challenges of 
+
+Young Masculinity.” Men and Masculinities, vol. 20, no. 1, Apr. 2017, pp. 27–48. 
+
+SAGE Journals, doi:10.1177/1097184X15613831. 
+
+Deterding, Sebastian, et al. “From Game Design Elements to Gamefulness: Defining 
+
+‘Gamification.’” Proceedings of the 15th International Academic MindTrek 
+
+Conference: Envisioning Future Media Environments, Association for Computing 
+
+Machinery, 2011, pp. 9–15. ACM Digital Library, doi:10.1145/2181037.2181040. 
+
+Hall, Margeret, et al. “Editorial of the Special Issue on Following User Pathways: Key 
+
+Contributions and Future Directions in Cross-Platform Social Media Research.” 
+
+International Journal of Human–Computer Interaction, vol. 34, no. 10, Oct. 
+
+2018, pp. 895–912. Taylor and Francis+NEJM, 
+
+doi:10.1080/10447318.2018.1471575. 
+
+Iqbal, Mansoor. “Tinder Revenue and Usage Statistics (2018).” Business of Apps, 2019, 
+
+https://www.businessofapps.com/data/tinder-statistics/. 
+
+Koppel, Moshe, and Jonathan Schler. “THE IMPORTANCE OF NEUTRAL 
+
+EXAMPLES FOR LEARNING SENTIMENT.” Computational Intelligence, vol. 
+
+ 
+
+8 
+
+22, no. 2, May 2006, pp. 100–09. DOI.org (Crossref), doi:10.1111/j.1467-
+
+8640.2006.00276.x. 
+
+Newett, Lyndsay, et al. “Forming Connections in the Digital Era: Tinder, a New Tool in 
+
+Young Australian Intimate Life.” Journal of Sociology, vol. 54, no. 3, Sept. 2018, 
+
+pp. 346–61. SAGE Journals, doi:10.1177/1440783317728584. 
+
+Pandey, Paul. “Simplifying Sentiment Analysis Using VADER in Python (on Social 
+
+Media Text).” Medium, Sept. 2018, https://medium.com/analytics-
+
+vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-
+
+f9e6ec6fc52f. 
+
+Pang, Bo, et al. “Thumbs up?: Sentiment Classification Using Machine Learning 
+
+Techniques.” Proceedings of the ACL-02 Conference on Empirical Methods in 
+
+Natural Language Processing  - EMNLP ’02, vol. 10, Association for 
+
+Computational Linguistics, 2002, pp. 79–86. DOI.org (Crossref), 
+
+doi:10.3115/1118693.1118704. 
+
+Perez, Sarah. “Tinder’s Interactive Video Series ‘Swipe Night’ Is Going International 
+
+next Year.” TechCrunch, 2019, http://social.techcrunch.com/2019/11/06/tinders-
+
+interactive-video-series-swipe-night-is-going-international-next-year/. 
+
+Piredda, Francesca, et al. “Social Media Fiction.” Interactive Storytelling, edited by 
+
+Henrik Schoenau-Fog et al., vol. 9445, Springer, 2015, pp. 309–20, 
+
+doi:https://doi.org/10.1007/978-3-319-27036-4_29. 
+
+Rettberg, Scott. Electronic Literature. Polity Press, 2019. 
+
+ 
+
+9 
+
+“R/Tinder - Swipe Night!” Reddit, 
+
+https://www.reddit.com/r/Tinder/comments/do1g6o/swipe_night/. Accessed 17 
+
+Feb. 2020. 
+
+Ryan, Marie-Laure. “From Narrative Games to Playable Stories: Toward a Poetics of 
+
+Interactive Narrative.” Storyworld: A Journey of Narrative Studies, vol. Vol. 1, 
+
+2009, pp. 43–59. 
+
+Timmermans, Elisabeth, and Elien De Caluwé. “Development and Validation of the 
+
+Tinder Motives Scale (TMS).” Computers in Human Behavior, vol. 70, May 
+
+2017, pp. 341–50. DOI.org (Crossref), doi:10.1016/j.chb.2017.01.028. 
+
+tinder. Official :45 Trailer | Swipe Night. 2019, 
+
+https://www.youtube.com/watch?v=BkZkHyt6TZA. 
+
+---. Rico Nasty And The Cast Of Swipe Night Reveal Their Choices | Episode 1. 
+
+https://www.youtube.com/watch?v=afdQdwdyAyA. Accessed 27 Jan. 2020. 
+
+---. The Cast Of Swipe Night Reveal Their Choices | Episode 2. 
+
+https://www.youtube.com/watch?v=M-SeNwaNVlo. Accessed 27 Jan. 2020. 
+
+Tyson, Gareth, et al. “A First Look at User Activity on Tinder.” ArXiv:1607.01952 [Cs], 
+
+July 2016. arXiv.org, http://arxiv.org/abs/1607.01952. 
+
+Winter, Rachel, and Anastasia Salter. “DeepFakes: Uncovering Hardcore Open Source 
+
+on GitHub.” Porn Studies, vol. 7, no. 4, 2019, pp. 382–97, 
+
+doi:10.1080/23268743.2019.1642794. 
+
+ 
+ 
+
+ 
+
+10 
+
+
