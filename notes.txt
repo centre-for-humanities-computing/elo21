@@ -1,6 +1,7 @@
+# preprocessing # 
+
 1. There are more abstracts than papers.
 2. Some papers lack an ID.
-
 
 There are two full papers that do not have ID & are not in abstracts: 
 "Augustin Berti_Nanofundia ELO" & "Final (500 word) Proposal_Ocean as Media Platform for Electronic Literature". 
@@ -11,4 +12,6 @@ Many more abstracts than full papers (103 vs. 61/60).
 
 All of the papers with IDs can be matched. 
 
-paper 192 (Claus...) is weird.  
+paper 192 (Claus...) is weird.
+
+at least one paper (not the abstract) which is not text but image (has been filtered out). 

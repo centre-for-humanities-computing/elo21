@@ -9,6 +9,10 @@ pip --version
 pip install --upgrade pip
 pip --version
 
+sudo apt-get update
+sudo apt-get -y install graphviz graphviz-dev
+sudo apt-get -y install zip unzip
+
 # problems when installing from requirements.txt
 pip install ipython
 pip install jupyter

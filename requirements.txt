@@ -9,3 +9,12 @@ pdfminer
 nltk
 spacy
 spacytextblob
+networkx
+setuptools
+wheel
+python-Levenshtein
+python_louvain
+networkx
+matplotlib
+community
+pygraphviz
