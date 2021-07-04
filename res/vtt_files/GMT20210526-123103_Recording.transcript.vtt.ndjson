@@ -1,0 +1,382 @@
+{"start": "00:00:15.540", "end": "00:00:16.440", "speaker": "Curt Cloninger", "utterance": " visual jangle."}
+{"start": "00:00:29.040", "end": "00:00:31.890", "speaker": "Curt Cloninger", "utterance": " I think the Conference, I think the panel just started."}
+{"start": "00:00:35.760", "end": "00:00:37.380", "speaker": "annie", "utterance": " hi everyone."}
+{"start": "00:00:37.680", "end": "00:00:38.490", "speaker": "None", "utterance": "Hello."}
+{"start": "00:00:42.120", "end": "00:00:43.920", "speaker": "annie", "utterance": " We are atomics."}
+{"start": "00:00:45.690", "end": "00:00:58.680", "speaker": "annie", "utterance": " We will discuss the performance, we did yesterday and our whole research and performance project that started in I think November 2019 or something like that."}
+{"start": "00:01:01.950", "end": "00:01:04.830", "speaker": "annie", "utterance": " We have prepared a little bit and to be."}
+{"start": "00:01:05.880", "end": "00:01:12.000", "speaker": "annie", "utterance": " You can find some notes some provocations some ideas on."}
+{"start": "00:01:13.680", "end": "00:01:16.410", "speaker": "annie", "utterance": " Friday format, but what is in France."}
+{"start": "00:01:17.640", "end": "00:01:20.490", "speaker": "annie", "utterance": " I will put the link in the chat."}
+{"start": "00:01:21.750", "end": "00:01:32.340", "speaker": "annie", "utterance": " So you can find it there, and you can go there for you can watch and listen to us and, at the same time, you can read and write."}
+{"start": "00:01:33.690", "end": "00:01:34.980", "speaker": "annie", "utterance": " Put your thoughts."}
+{"start": "00:01:35.850", "end": "00:01:41.040", "speaker": "annie", "utterance": " Put your reactions somewhere in an on this bad bad."}
+{"start": "00:01:42.660", "end": "00:01:56.310", "speaker": "annie", "utterance": " And the last 20 minutes, maybe even longer, we will come to this back to we won't be in zoom anymore, and we will go right and go with you and try to answer questions."}
+{"start": "00:01:58.440", "end": "00:01:58.680", "speaker": "Curt Cloninger", "utterance": " and"}
+{"start": "00:01:59.100", "end": "00:02:00.510", "speaker": "annie", "utterance": " comfort in that way."}
+{"start": "00:02:04.050", "end": "00:02:05.970", "speaker": "Daniel Pinheiro", "utterance": " Maybe I will just add a."}
+{"start": "00:02:07.020", "end": "00:02:09.180", "speaker": "None", "utterance": "link to the Sam Apache the speakers to."}
+{"start": "00:02:10.380", "end": "00:02:15.510", "speaker": "Daniel Pinheiro", "utterance": " Whatever it's been live stream, so that people are watching online, you can also join."}
+{"start": "00:02:17.760", "end": "00:02:25.620", "speaker": "Curt Cloninger", "utterance": " Any when you share your screen, you could put it in a text document that will get archived in the video."}
+{"start": "00:02:27.720", "end": "00:02:33.330", "speaker": "Curt Cloninger", "utterance": " So that even later if there's no chat yeah but then we won't be talking on the from appeared later."}
+{"start": "00:02:34.350", "end": "00:02:40.440", "speaker": "annie", "utterance": " yeah that's nope I can share it now for five seconds, just to sell people can find it okay."}
+{"start": "00:02:42.420", "end": "00:02:43.530", "speaker": "annie", "utterance": " That might be a good time."}
+{"start": "00:02:44.970", "end": "00:02:47.340", "speaker": "None", "utterance": "I hope it works see."}
+{"start": "00:02:48.660", "end": "00:02:51.480", "speaker": "None", "utterance": "there's no audio So do you see it."}
+{"start": "00:02:53.010", "end": "00:02:54.120", "speaker": "annie", "utterance": " Can you see the link."}
+{"start": "00:02:54.750", "end": "00:02:54.990", "speaker": "None", "utterance": "Via."}
+{"start": "00:02:56.850", "end": "00:02:57.720", "speaker": "Curt Cloninger", "utterance": " zoom yeah."}
+{"start": "00:02:58.800", "end": "00:02:59.430", "speaker": "annie", "utterance": " Can I zoo."}
+{"start": "00:03:01.140", "end": "00:03:01.650", "speaker": "None", "utterance": "Very good."}
+{"start": "00:03:03.930", "end": "00:03:05.340", "speaker": "annie", "utterance": " yeah I can zoom but not."}
+{"start": "00:03:05.700", "end": "00:03:06.870", "speaker": "Curt Cloninger", "utterance": " Not awake okay."}
+{"start": "00:03:07.230", "end": "00:03:09.180", "speaker": "annie", "utterance": " Well, but I don't put the link on top."}
+{"start": "00:03:10.530", "end": "00:03:10.740", "speaker": "Curt Cloninger", "utterance": " yeah."}
+{"start": "00:03:13.440", "end": "00:03:14.430", "speaker": "annie", "utterance": " So devotees."}
+{"start": "00:03:16.440", "end": "00:03:17.730", "speaker": "annie", "utterance": " stays there for some time."}
+{"start": "00:03:20.730", "end": "00:03:22.350", "speaker": "annie", "utterance": " We plan to show you."}
+{"start": "00:03:23.460", "end": "00:03:28.590", "speaker": "annie", "utterance": " Two or three minutes of yesterday's performance, that is for people who are not."}
+{"start": "00:03:29.640", "end": "00:03:32.250", "speaker": "annie", "utterance": " allowed or not capable of coming."}
+{"start": "00:03:33.870", "end": "00:03:35.040", "speaker": "annie", "utterance": " I think I do that now."}
+{"start": "00:03:36.810", "end": "00:03:38.700", "speaker": "annie", "utterance": " And I will share again."}
+{"start": "00:03:40.110", "end": "00:03:43.500", "speaker": "annie", "utterance": " My screen, but now I will do it with the audio."}
+{"start": "00:04:00.660", "end": "00:04:01.320", "speaker": "None", "utterance": "See."}
+{"start": "00:04:02.400", "end": "00:04:08.640", "speaker": "None", "utterance": "King King King King King King King King King King the."}
+{"start": "00:04:10.380", "end": "00:04:10.590", "speaker": "None", "utterance": "King."}
+{"start": "00:04:21.960", "end": "00:04:22.560", "speaker": "None", "utterance": "King king."}
+{"start": "00:04:25.290", "end": "00:04:28.080", "speaker": "None", "utterance": "King King King a king."}
+{"start": "00:04:34.920", "end": "00:04:36.780", "speaker": "None", "utterance": "Cut cut cut cut."}
+{"start": "00:05:24.060", "end": "00:05:25.740", "speaker": "Curt Cloninger", "utterance": " it's difficult for me to rewatch."}
+{"start": "00:05:28.050", "end": "00:05:30.120", "speaker": "Curt Cloninger", "utterance": " It must be done um."}
+{"start": "00:05:31.440", "end": "00:05:47.190", "speaker": "Curt Cloninger", "utterance": " So i'll start talking and then it will just be us talking as it proceeds the promise of this panel was toward a supra semiotic telepresence communication and in the description, it was promised some."}
+{"start": "00:05:49.200", "end": "00:05:53.730", "speaker": "Curt Cloninger", "utterance": " reference to the theorists the literary theorists Mikhail buxton."}
+{"start": "00:05:55.050", "end": "00:05:58.470", "speaker": "Curt Cloninger", "utterance": " And he has the theory of the utterance that's."}
+{"start": "00:06:00.180", "end": "00:06:02.970", "speaker": "Curt Cloninger", "utterance": " I would say, central to his his."}
+{"start": "00:06:03.990", "end": "00:06:04.410", "speaker": "Curt Cloninger", "utterance": " Whole."}
+{"start": "00:06:06.060", "end": "00:06:06.900", "speaker": "Curt Cloninger", "utterance": " All of his writing."}
+{"start": "00:06:08.250", "end": "00:06:15.630", "speaker": "Curt Cloninger", "utterance": " And briefly it's there and the from a pad the the button quotes that I find most relevant."}
+{"start": "00:06:16.740", "end": "00:06:18.390", "speaker": "Curt Cloninger", "utterance": " That briefly, he says."}
+{"start": "00:06:19.830", "end": "00:06:23.370", "speaker": "Curt Cloninger", "utterance": " That the live utterance of that is this."}
+{"start": "00:06:24.630", "end": "00:06:27.810", "speaker": "Curt Cloninger", "utterance": " Crucial node in the evolution of language."}
+{"start": "00:06:29.310", "end": "00:06:30.720", "speaker": "Curt Cloninger", "utterance": " brockton doesn't believe."}
+{"start": "00:06:33.210", "end": "00:06:48.300", "speaker": "Curt Cloninger", "utterance": " Like a semi out petition like Noam Chomsky buxton doesn't believe that language is a series of systems and grammars and words on a page he's saying languages."}
+{"start": "00:06:50.250", "end": "00:06:53.100", "speaker": "Curt Cloninger", "utterance": " At least two parts one is that."}
+{"start": "00:06:54.180", "end": "00:06:58.860", "speaker": "Curt Cloninger", "utterance": " Those words on the page and all the grammar rules, but the other is."}
+{"start": "00:07:00.180", "end": "00:07:10.680", "speaker": "Curt Cloninger", "utterance": " lived contextual utterances, so people ordering coffee people talking to each other at the grocery store husbands and wives arguing even people reading."}
+{"start": "00:07:11.700", "end": "00:07:19.530", "speaker": "Curt Cloninger", "utterance": " When I read a book that is an utterance when the book sits on the shelf, it is not altering and what happens according to brockton is."}
+{"start": "00:07:21.780", "end": "00:07:23.910", "speaker": "Curt Cloninger", "utterance": " As the utterance event occurs."}
+{"start": "00:07:25.020", "end": "00:07:28.260", "speaker": "Curt Cloninger", "utterance": " You would understand that language enters into."}
+{"start": "00:07:29.430", "end": "00:07:41.550", "speaker": "Curt Cloninger", "utterance": " lived human space time, but what he says also happens is the language that's on the page all the grammar rules, all the syntax it gets changed itself during the utterance event."}
+{"start": "00:07:42.300", "end": "00:07:53.190", "speaker": "Curt Cloninger", "utterance": " because every time I use the word love I think differently about the word love and as this word is used all over the world every day that word changes in meaning every day."}
+{"start": "00:07:54.030", "end": "00:08:10.530", "speaker": "Curt Cloninger", "utterance": " And so, in a sense, everyone in every language is evolving the language, based on lyft contextual utterances that without this utterance event language doesn't change and so."}
+{"start": "00:08:14.940", "end": "00:08:16.890", "speaker": "Curt Cloninger", "utterance": " He also says that there are certain."}
+{"start": "00:08:18.180", "end": "00:08:33.960", "speaker": "Curt Cloninger", "utterance": " He calls these technical accidents almost that get folded into language in the utterance if i'm reading a book at a coffee house and the coffee tastes particularly hot, then the words i'm reading them."}
+{"start": "00:08:35.130", "end": "00:08:52.680", "speaker": "Curt Cloninger", "utterance": " change a little bit in meaning due to that if the typography is in Helvetica rather than times new Roman if as i'm talking i'm waving my arms a lot all of these live defective non semiotic things."}
+{"start": "00:08:54.540", "end": "00:08:57.840", "speaker": "Curt Cloninger", "utterance": " Through the utterance event cover language and change it."}
+{"start": "00:08:58.920", "end": "00:09:03.300", "speaker": "Curt Cloninger", "utterance": " And he says the utterances, a very important note in."}
+{"start": "00:09:04.500", "end": "00:09:10.320", "speaker": "Curt Cloninger", "utterance": " Communication and language and so with this project we get together online."}
+{"start": "00:09:11.490", "end": "00:09:22.140", "speaker": "Curt Cloninger", "utterance": " Where we're not smelling each other we're in different time zones at different levels of tired we're in different air conditioned or non air conditioned environment."}
+{"start": "00:09:23.520", "end": "00:09:32.760", "speaker": "Curt Cloninger", "utterance": " And then zoom is glitches and dropping and stuttering and breaking up and all these things are part of the lived utterance event."}
+{"start": "00:09:33.810", "end": "00:09:38.040", "speaker": "Curt Cloninger", "utterance": " Yesterday the context of the way in which our performance started was part of the."}
+{"start": "00:09:39.240", "end": "00:09:56.250", "speaker": "Curt Cloninger", "utterance": " We were part of the introduction of the conference and then Ian said something, and there we were at other performances it doesn't start That way we just dropped straight into I saw being on the frame and then we try to listen to each other."}
+{"start": "00:09:57.780", "end": "00:10:02.220", "speaker": "Curt Cloninger", "utterance": " Whether in real time or a call and response."}
+{"start": "00:10:03.480", "end": "00:10:10.620", "speaker": "Curt Cloninger", "utterance": " And sometimes we speak words French words and Portuguese words in English words and."}
+{"start": "00:10:12.090", "end": "00:10:14.880", "speaker": "Curt Cloninger", "utterance": " It sounds like sometimes they're speaking Japanese words."}
+{"start": "00:10:16.830", "end": "00:10:22.230", "speaker": "Curt Cloninger", "utterance": " Sometimes, so it sounds like someone they speak German words but who knows, but the idea is."}
+{"start": "00:10:23.580", "end": "00:10:35.010", "speaker": "Curt Cloninger", "utterance": " What would happen if we got together in a tuned ourselves to each other and to the moment and began a series of other things that were not."}
+{"start": "00:10:36.600", "end": "00:10:43.410", "speaker": "Curt Cloninger", "utterance": " solely drawing on the history of our human spoken languages, but we're responding."}
+{"start": "00:10:45.330", "end": "00:10:51.630", "speaker": "Curt Cloninger", "utterance": " bodily and someone else could perhaps could talk about the the triggers and the attainments."}
+{"start": "00:10:53.040", "end": "00:11:08.400", "speaker": "Curt Cloninger", "utterance": " So these are just tricks that we use to get ourselves prepared for this event but it's always improvisational this is maybe the eighth one we've done, I believe we've done some conferences, where other people have have participated."}
+{"start": "00:11:09.420", "end": "00:11:19.590", "speaker": "Curt Cloninger", "utterance": " And it's a research project so yesterday felt like a performance, I think, because of the context of the conference or something, but sometimes it just feels like a private conversation."}
+{"start": "00:11:20.070", "end": "00:11:30.330", "speaker": "Curt Cloninger", "utterance": " Sometimes it's very calm sometimes it's very musical sometimes it's more it sounds more like speaking, sometimes it sounds like a."}
+{"start": "00:11:31.560", "end": "00:11:32.730", "speaker": "None", "utterance": "room noises."}
+{"start": "00:11:34.260", "end": "00:11:38.970", "speaker": "Curt Cloninger", "utterance": " But rather than sort of coming with a predetermined idea of what it's going to be."}
+{"start": "00:11:40.110", "end": "00:11:46.320", "speaker": "Curt Cloninger", "utterance": " We come with a kind of readiness to see what what will happen and and so for."}
+{"start": "00:11:47.550", "end": "00:11:54.990", "speaker": "Curt Cloninger", "utterance": " Each one is more or less different, but there are similarities so that's my introduction, and I will stop talking now."}
+{"start": "00:12:01.440", "end": "00:12:03.270", "speaker": "Curt Cloninger", "utterance": " That may be able would make sense to talk about."}
+{"start": "00:12:04.860", "end": "00:12:05.700", "speaker": "Curt Cloninger", "utterance": " The triggers."}
+{"start": "00:12:09.240", "end": "00:12:11.610", "speaker": "Curt Cloninger", "utterance": " or anyone can talk about what they want."}
+{"start": "00:12:19.980", "end": "00:12:20.670", "speaker": "Nerina Cocchi", "utterance": " Go Danny."}
+{"start": "00:12:22.860", "end": "00:12:29.370", "speaker": "Daniel Pinheiro", "utterance": " yeah I was, I was gonna add to cart sad about I think."}
+{"start": "00:12:31.680", "end": "00:12:38.760", "speaker": "Daniel Pinheiro", "utterance": " I think it's better if we like start engaging some sort of conversation I think that's how we know how to do it."}
+{"start": "00:12:40.170", "end": "00:12:42.960", "speaker": "Daniel Pinheiro", "utterance": " But I was going to speak about the tournament."}
+{"start": "00:12:45.270", "end": "00:12:53.220", "speaker": "Daniel Pinheiro", "utterance": " Like the preparation that we make, I think, I think that that puts us all, even though we're all like card said."}
+{"start": "00:12:54.090", "end": "00:13:05.400", "speaker": "Daniel Pinheiro", "utterance": " Natural living in different places and we're all connecting here and are already doing with all the transformation that that the digital space is doing to our own sounds."}
+{"start": "00:13:05.820", "end": "00:13:16.740", "speaker": "Daniel Pinheiro", "utterance": " But we all come into it with with with the same frame of mind, because we all listen to a piece or to work before each."}
+{"start": "00:13:18.450", "end": "00:13:40.770", "speaker": "Daniel Pinheiro", "utterance": " Each encounter I rather call them encounter is very experienced this this this way of communicating between between us all and and and, yes, the context changes, but I think that that that plays a very important role beauty meant what we choose to be the."}
+{"start": "00:13:41.970", "end": "00:13:45.570", "speaker": "Daniel Pinheiro", "utterance": " Maybe it is the first trigger if we want to talk about triggers."}
+{"start": "00:13:46.830", "end": "00:13:50.220", "speaker": "Daniel Pinheiro", "utterance": " It is the first trigger that we put ourselves into."}
+{"start": "00:13:52.110", "end": "00:13:54.510", "speaker": "Daniel Pinheiro", "utterance": " into sharing some sort of."}
+{"start": "00:13:56.070", "end": "00:13:58.020", "speaker": "Daniel Pinheiro", "utterance": " Saying predisposition."}
+{"start": "00:13:59.220", "end": "00:14:00.660", "speaker": "Daniel Pinheiro", "utterance": " To to."}
+{"start": "00:14:02.190", "end": "00:14:06.270", "speaker": "Daniel Pinheiro", "utterance": " To the utterance or to the drink that we we engage in."}
+{"start": "00:14:09.120", "end": "00:14:10.350", "speaker": "None", "utterance": "want to add more into that."}
+{"start": "00:14:12.510", "end": "00:14:16.950", "speaker": "Nerina Cocchi", "utterance": " I can, I mean the idea is that so when we get together."}
+{"start": "00:14:18.450", "end": "00:14:20.970", "speaker": "Nerina Cocchi", "utterance": " We are four to six people."}
+{"start": "00:14:22.050", "end": "00:14:30.210", "speaker": "Nerina Cocchi", "utterance": " There is Derek their chapter who's not here today, but so this is what we call the band and."}
+{"start": "00:14:31.800", "end": "00:14:34.830", "speaker": "Nerina Cocchi", "utterance": " We have had themes we've had."}
+{"start": "00:14:35.910", "end": "00:14:52.710", "speaker": "Nerina Cocchi", "utterance": " we've had there's always something that that leads the improvisation, in a way it can be a female can be the attunement but then, once we get into the apartment we blindfold ourselves, and so we, we only here we don't have the visual stimulus anymore."}
+{"start": "00:14:53.820", "end": "00:14:56.280", "speaker": "Nerina Cocchi", "utterance": " And pretty early on, we."}
+{"start": "00:14:58.470", "end": "00:15:02.040", "speaker": "Nerina Cocchi", "utterance": " We decided to introduce the idea of triggers so if."}
+{"start": "00:15:03.060", "end": "00:15:17.580", "speaker": "Nerina Cocchi", "utterance": " We each for ourselves, we decide if this happens, then I do this so an example, it could be, if I hear a high pitch sound I will lift my arms."}
+{"start": "00:15:18.990", "end": "00:15:43.560", "speaker": "Nerina Cocchi", "utterance": " Or if I hear something that to me sounds like a word I will produce a growl i'm just giving examples Just to give you ideas and we've created this with the idea that to have these will always bring us back into a place where we can't just do what we want, but we will."}
+{"start": "00:15:45.150", "end": "00:15:50.850", "speaker": "Nerina Cocchi", "utterance": " It will give us material to improvise be in relation with the others, and also."}
+{"start": "00:15:51.750", "end": "00:16:02.010", "speaker": "Nerina Cocchi", "utterance": " go into places that are uncomfortable to us, so the idea of trying to push ourselves a little beyond what feels comfortable or what fields within our chords."}
+{"start": "00:16:02.550", "end": "00:16:13.110", "speaker": "Nerina Cocchi", "utterance": " And one important discovery that we made with the triggers was the aid of introducing also bodily triggers so not just local ones, but also physical one, so how."}
+{"start": "00:16:13.560", "end": "00:16:22.680", "speaker": "Nerina Cocchi", "utterance": " What is the relationship between listening and the body, and how does moving, so it could be that you get up at a certain point or."}
+{"start": "00:16:23.400", "end": "00:16:38.820", "speaker": "Nerina Cocchi", "utterance": " That you turn around that you do something with your hand or to cover your face whatever it is what that physical movement also brings you to do in relation with the others, and how it leaves you with the others, but also in connection with your body."}
+{"start": "00:16:39.870", "end": "00:16:45.720", "speaker": "Nerina Cocchi", "utterance": " Because listening is a physical action, and so the importance of staying connected connected to the body."}
+{"start": "00:16:45.840", "end": "00:16:47.520", "speaker": "Nerina Cocchi", "utterance": " is rather important."}
+{"start": "00:16:49.800", "end": "00:16:58.680", "speaker": "Nerina Cocchi", "utterance": " So that's for triggers I don't know if anybody wants to add a little bit about that or what triggers hadn't brought."}
+{"start": "00:17:00.420", "end": "00:17:15.180", "speaker": "annie", "utterance": " Maybe maybe I was thinking that triggers for me and the movements or the actions that go with it, for me, they are functioning as kind of whoo rules."}
+{"start": "00:17:16.080", "end": "00:17:36.510", "speaker": "annie", "utterance": " And those rules they helped me to liberate things because I am convinced that, having a few minor rules makes open opening up for all kinds of other things that are outside of those rules so that's one thing, but aside."}
+{"start": "00:17:38.190", "end": "00:17:42.300", "speaker": "annie", "utterance": " I don't like so rules also makes me."}
+{"start": "00:17:44.520", "end": "00:17:52.890", "speaker": "annie", "utterance": " And so, these triggers these rules that we have inside utterance makes for a situation."}
+{"start": "00:17:53.940", "end": "00:17:55.380", "speaker": "annie", "utterance": " That, for me, is."}
+{"start": "00:17:56.580", "end": "00:17:59.160", "speaker": "annie", "utterance": " Really, creative and makes me."}
+{"start": "00:18:01.260", "end": "00:18:07.950", "speaker": "annie", "utterance": " Every time we do this very happy because I can go somewhere in my life or in my body or in."}
+{"start": "00:18:09.060", "end": "00:18:14.580", "speaker": "annie", "utterance": " Where I never go on normal days and in normal relationships with people."}
+{"start": "00:18:17.220", "end": "00:18:24.780", "speaker": "annie", "utterance": " So that's that's for me how they why I liked him so much and why they are important and and the blindfold."}
+{"start": "00:18:26.370", "end": "00:18:31.470", "speaker": "annie", "utterance": " is important also because, if I look at you now."}
+{"start": "00:18:33.870", "end": "00:18:43.770", "speaker": "annie", "utterance": " i'm aware of something that I, and it brings me in a social situation, and so that social situation really triggers."}
+{"start": "00:18:44.580", "end": "00:19:00.870", "speaker": "annie", "utterance": " habits of being polite or doing certain things and not other things by blindfolding I take it all away and i'm just there with the sound they give me and my own environment and my own body and the machines in between."}
+{"start": "00:19:04.050", "end": "00:19:05.700", "speaker": "None", "utterance": "that's yeah."}
+{"start": "00:19:09.990", "end": "00:19:19.050", "speaker": "constan?a", "utterance": " I guess I can just add something, because we seem to be establishing the paradoxes of mutterings so it's like we have."}
+{"start": "00:19:22.170", "end": "00:19:41.730", "speaker": "constan?a", "utterance": " me navigate everywhere between you know freedom and chaos or freedom and constraints let's say freedom and constraints and we also navigate everywhere in between courtesy and chaos and and and both are necessary."}
+{"start": "00:19:42.810", "end": "00:19:43.200", "speaker": "constan?a", "utterance": " and"}
+{"start": "00:19:45.150", "end": "00:19:47.850", "speaker": "constan?a", "utterance": " The balances between them are very."}
+{"start": "00:19:48.870", "end": "00:20:03.870", "speaker": "constan?a", "utterance": " I think are constantly ethne each iteration and sometimes Indeed, we are very courteous and we open up spaces and we really it's like we're we're eager to."}
+{"start": "00:20:05.490", "end": "00:20:14.220", "speaker": "constan?a", "utterance": " to welcome something more than to put forth something and yesterday for, for instance, I think we were all very."}
+{"start": "00:20:19.350", "end": "00:20:35.820", "speaker": "constan?a", "utterance": " All of us were proposing we're at some points even too many propositions and we I think what we never really know what's going to be what's going to sound best or what's going to satisfy us more um."}
+{"start": "00:20:39.780", "end": "00:20:44.730", "speaker": "constan?a", "utterance": " So I think there's there's this this paradoxical nature to it."}
+{"start": "00:20:47.730", "end": "00:21:09.420", "speaker": "constan?a", "utterance": " which also involves the fact that, yes, we are aware that we're performing but we don't want to be obliged to deliver a proper performance or a satisfying performance, even so, again, yet another level of paradox we're doing this publicly."}
+{"start": "00:21:10.650", "end": "00:21:14.400", "speaker": "constan?a", "utterance": " And we're not abstaining from."}
+{"start": "00:21:15.630", "end": "00:21:16.650", "speaker": "constan?a", "utterance": " from being a flop."}
+{"start": "00:21:17.820", "end": "00:21:28.920", "speaker": "constan?a", "utterance": " it's it's a possibility, it needs to be a possibility and and so yeah I think the three levels of paradox are are sufficient for now."}
+{"start": "00:21:30.630", "end": "00:21:33.660", "speaker": "Curt Cloninger", "utterance": " I think that a paradoxically."}
+{"start": "00:21:35.550", "end": "00:21:47.460", "speaker": "Curt Cloninger", "utterance": " In in the beginning, before we knew each other as well in this context and trusted each other as well in this context, I think we generally were more courteous."}
+{"start": "00:21:48.630", "end": "00:21:49.530", "speaker": "Curt Cloninger", "utterance": " And I think."}
+{"start": "00:21:51.300", "end": "00:21:58.020", "speaker": "Curt Cloninger", "utterance": " The more we trust each other, the more we really are able to risk discourtesy."}
+{"start": "00:21:59.190", "end": "00:22:01.440", "speaker": "Curt Cloninger", "utterance": " which, paradoxically, may be."}
+{"start": "00:22:02.940", "end": "00:22:12.090", "speaker": "Curt Cloninger", "utterance": " Because the point is not to be courteous or discourteous or pretty or ugly but to see where it leads, so I think we're all stewarding where this thing leads."}
+{"start": "00:22:12.870", "end": "00:22:22.320", "speaker": "Curt Cloninger", "utterance": " Beyond where each of us any individual one of us wants it to go so to me that's why it keeps working just because we keep caring about."}
+{"start": "00:22:22.980", "end": "00:22:43.560", "speaker": "Curt Cloninger", "utterance": " What is going to emerge I think we're we're all curious to see what the what the how the sun becomes more than the parts because individually, I would not be doing this, if if I had this this my art practice I wouldn't be on performance number eight."}
+{"start": "00:22:45.120", "end": "00:23:00.300", "speaker": "Curt Cloninger", "utterance": " I mean, I have to blindfold myself and repeat the same phrase for hours on end to get anywhere new as a single performer, but when you have a group of people there's so much variability in that."}
+{"start": "00:23:01.530", "end": "00:23:07.050", "speaker": "Curt Cloninger", "utterance": " And maybe that's because language is not a monologue."}
+{"start": "00:23:08.250", "end": "00:23:14.310", "speaker": "Curt Cloninger", "utterance": " So to to learn something new about language you need a Community or you're talking to yourself."}
+{"start": "00:23:16.740", "end": "00:23:18.750", "speaker": "Daniel Pinheiro", "utterance": " yeah, I think, adding."}
+{"start": "00:23:21.600", "end": "00:23:23.850", "speaker": "Daniel Pinheiro", "utterance": " I always feel that."}
+{"start": "00:23:24.960", "end": "00:23:27.300", "speaker": "Daniel Pinheiro", "utterance": " And I think it's important to mention that."}
+{"start": "00:23:28.320", "end": "00:23:31.980", "speaker": "Daniel Pinheiro", "utterance": " That it is happening in a very specific context with."}
+{"start": "00:23:32.610", "end": "00:23:33.210", "speaker": "Daniel Pinheiro", "utterance": " Through."}
+{"start": "00:23:33.420", "end": "00:23:37.320", "speaker": "Daniel Pinheiro", "utterance": " A video conferencing platform and and God."}
+{"start": "00:23:39.030", "end": "00:23:55.110", "speaker": "Daniel Pinheiro", "utterance": " And how do you negotiate the things that you would negotiate normally on a conversation or on or some sort of verbal communication and and this Secondly, when it started when we started doing this."}
+{"start": "00:23:56.160", "end": "00:24:12.990", "speaker": "Daniel Pinheiro", "utterance": " Because coming from different backgrounds and different experiences I think it's also a way of exploring what this space allows us to do, and that articulation between humans, and I mean within the group that we are."}
+{"start": "00:24:14.970", "end": "00:24:21.810", "speaker": "Daniel Pinheiro", "utterance": " How like how, how do we deal with the constraints that are already imposed by the medium itself."}
+{"start": "00:24:22.860", "end": "00:24:34.620", "speaker": "Daniel Pinheiro", "utterance": " And and or not doing them but integrate to integrate that there were moments, where we were we we we spoke about."}
+{"start": "00:24:35.070", "end": "00:24:48.000", "speaker": "Daniel Pinheiro", "utterance": " What if we try to end this is mine putting putting it up for discussion and there were moments, where we thought, maybe we should get better microphones better maybe we should have like a reliable."}
+{"start": "00:24:49.200", "end": "00:24:55.440", "speaker": "Daniel Pinheiro", "utterance": " sound system where we can hear properly each other and."}
+{"start": "00:24:57.000", "end": "00:25:01.110", "speaker": "Daniel Pinheiro", "utterance": " Somehow better to do the communication better."}
+{"start": "00:25:03.330", "end": "00:25:14.370", "speaker": "Daniel Pinheiro", "utterance": " But so far we haven't done that, and and so far that the fragility of the environment and all the glitches and the transformations it makes."}
+{"start": "00:25:15.990", "end": "00:25:21.270", "speaker": "Daniel Pinheiro", "utterance": " like the ones it's happening that are happening now in the closed caption thing."}
+{"start": "00:25:23.340", "end": "00:25:38.520", "speaker": "Daniel Pinheiro", "utterance": " How do you do with that how to how do we do it remains the question for me, and I think each each experience i'm i'm aware of it, because it's also part of my artistic practice and and try to understand what does it mean."}
+{"start": "00:25:39.780", "end": "00:25:52.110", "speaker": "Daniel Pinheiro", "utterance": " Also i'm bringing it up for the context of this conference that we're in, and I was reading like the post pandemic and discharges before and like, how do we continue."}
+{"start": "00:25:54.720", "end": "00:26:01.830", "speaker": "Daniel Pinheiro", "utterance": " didn't start it, because this was the only way to die before that I guess that's also important to say."}
+{"start": "00:26:05.730", "end": "00:26:13.110", "speaker": "Nerina Cocchi", "utterance": " it's fine man, because since we've been speaking i've been thinking about the question of why I do this."}
+{"start": "00:26:15.660", "end": "00:26:28.110", "speaker": "Nerina Cocchi", "utterance": " And I work with words like that's my medium I write and I work with words and why go in a space where there are no words anymore, and were."}
+{"start": "00:26:28.440", "end": "00:26:39.450", "speaker": "Nerina Cocchi", "utterance": " In theory, words are not allowed in theory, because, in practice, sometimes there and sometimes also you make out words in something that isn't words by."}
+{"start": "00:26:40.800", "end": "00:26:43.470", "speaker": "Nerina Cocchi", "utterance": " Our brain does put together things that."}
+{"start": "00:26:45.420", "end": "00:26:50.910", "speaker": "Nerina Cocchi", "utterance": " Are or aren't there our brains new things for us and our bodies do too, so how."}
+{"start": "00:26:53.880", "end": "00:26:57.240", "speaker": "Nerina Cocchi", "utterance": " How, how do you play with that and I don't really have."}
+{"start": "00:26:58.890", "end": "00:27:01.800", "speaker": "Nerina Cocchi", "utterance": " A definite answer if not that I would like to add."}
+{"start": "00:27:03.300", "end": "00:27:19.170", "speaker": "Nerina Cocchi", "utterance": " A paradox to what consensus said so consensus spoke about freedom and constraint and courtesy and chaos and for me it's maybe we can put it diagonally but it's a idea of the individual and the self."}
+{"start": "00:27:20.310", "end": "00:27:21.360", "speaker": "Nerina Cocchi", "utterance": " In other words."}
+{"start": "00:27:23.580", "end": "00:27:23.970", "speaker": "Nerina Cocchi", "utterance": " To."}
+{"start": "00:27:25.470", "end": "00:27:29.520", "speaker": "Nerina Cocchi", "utterance": " How, how do we use language to communicate and be with others."}
+{"start": "00:27:32.490", "end": "00:27:44.370", "speaker": "Nerina Cocchi", "utterance": " Even in a place of not understanding, so what how we were is the importance not understanding being with one another and."}
+{"start": "00:27:46.230", "end": "00:27:49.980", "speaker": "Nerina Cocchi", "utterance": " Being like not talking to one another but being."}
+{"start": "00:27:51.420", "end": "00:28:00.240", "speaker": "Nerina Cocchi", "utterance": " And I think that's what we've been feeling our way through, and the tools that we have, so the achievements that triggers."}
+{"start": "00:28:01.170", "end": "00:28:14.040", "speaker": "Nerina Cocchi", "utterance": " The blindfold I really tools to try to to hone a sensitivity and to hone a presence somehow So how do we use the tools that are at our disposal."}
+{"start": "00:28:14.460", "end": "00:28:24.870", "speaker": "Nerina Cocchi", "utterance": " To go towards something that makes sense to us, and I think this is even more important in the context in which we find ourselves because we have."}
+{"start": "00:28:25.710", "end": "00:28:34.530", "speaker": "Nerina Cocchi", "utterance": " it's not that we have new tools, as the world is different, the question for me remains, why do I want to work long work on and what tools do that do I have."}
+{"start": "00:28:35.010", "end": "00:28:50.010", "speaker": "Nerina Cocchi", "utterance": " Or can I use to go deeper into the direction, and I think this is an example of something where by defining certain rules, you can go deeper into things and stretch and see and."}
+{"start": "00:28:51.420", "end": "00:29:09.720", "speaker": "Nerina Cocchi", "utterance": " and see what what comes of it, and he building that material, and I know that in one of our early offerings I spoke about building and I use the word building, how do we build the the offerings and I know that and he looked at me like What do you mean by building."}
+{"start": "00:29:10.800", "end": "00:29:12.360", "speaker": "Nerina Cocchi", "utterance": " i'm not building anything."}
+{"start": "00:29:15.240", "end": "00:29:26.370", "speaker": "Nerina Cocchi", "utterance": " And so that opens up the conversation how each of us actually imagines the space in which we work, and it is quite different, we all have very different."}
+{"start": "00:29:30.780", "end": "00:29:43.320", "speaker": "Nerina Cocchi", "utterance": " triggers we all have different basis will have different things that push us and through which we articulate ourselves and yet we're all in a common space, and I think that's very important."}
+{"start": "00:29:44.460", "end": "00:29:48.450", "speaker": "Nerina Cocchi", "utterance": " that's a very important thing to bring up and actually to recognize that even."}
+{"start": "00:29:50.190", "end": "00:29:54.000", "speaker": "Nerina Cocchi", "utterance": " The fact that we're here is more important than our differences, you know, in a way."}
+{"start": "00:29:55.020", "end": "00:29:55.350", "speaker": "None", "utterance": "So."}
+{"start": "00:29:59.280", "end": "00:30:10.530", "speaker": "Curt Cloninger", "utterance": " It makes me think about I hate to bring up Claude Shannon i'm not a fan of Claude Shannon but, but just the idea of overcoming the myth of a pure signal."}
+{"start": "00:30:11.550", "end": "00:30:28.320", "speaker": "Curt Cloninger", "utterance": " You know that some information theory idea that there's not a pure signal and the signal to noise ratio is what gives the signal it's signal nervous and I think that you know, to get into the ethics of it, perhaps you know it's it's."}
+{"start": "00:30:29.640", "end": "00:30:39.330", "speaker": "Curt Cloninger", "utterance": " To to imagine that there is a way people could communicate without an effective glitches and interruptions even in a coffee house across the table from a person."}
+{"start": "00:30:39.990", "end": "00:30:52.770", "speaker": "Curt Cloninger", "utterance": " that never happens there's some song playing that reminds you of the 80s and then you're not you stop paying attention and then or you're wearing a mask and you can't see what the person saying or so that's all part of."}
+{"start": "00:30:54.390", "end": "00:31:04.710", "speaker": "Curt Cloninger", "utterance": " You know there's the most pure communication anyone could have be still full of all these effective eruptions is rather than trying to bracket that."}
+{"start": "00:31:05.190", "end": "00:31:16.170", "speaker": "Curt Cloninger", "utterance": " or even sort of quarterly sort of cheesy the foreground that and say oh look at all these glitches look at the glitches we made but to say there are going to be enough glitches."}
+{"start": "00:31:17.610", "end": "00:31:30.750", "speaker": "Curt Cloninger", "utterance": " Even if you try to keep it pure the glitches will come and and to say you know, this is, this is not an abnormal thing, this is the world even yes so digital so what."}
+{"start": "00:31:31.500", "end": "00:31:52.710", "speaker": "Curt Cloninger", "utterance": " This is the way human communication Oh, is this it's just that the the texture of the bodily effect is different, but not impure or on human it's it's in the real world it's all part of real."}
+{"start": "00:31:53.790", "end": "00:31:54.960", "speaker": "Curt Cloninger", "utterance": " it's not virtual."}
+{"start": "00:31:56.220", "end": "00:31:59.250", "speaker": "Curt Cloninger", "utterance": " So it's a real communication that we're doing but in."}
+{"start": "00:32:00.330", "end": "00:32:01.770", "speaker": "Curt Cloninger", "utterance": " In this particular context."}
+{"start": "00:32:04.020", "end": "00:32:08.640", "speaker": "annie", "utterance": " Something that you'll be not touched and you touch again on it somehow is."}
+{"start": "00:32:10.110", "end": "00:32:14.610", "speaker": "annie", "utterance": " I think I know where my motivation comes from my motivation comes from."}
+{"start": "00:32:16.080", "end": "00:32:34.500", "speaker": "annie", "utterance": " not speaking the language of the most people around me it comes of being in strange environments where people don't understand me or somehow we act as if i'm a bit stupid because I don't pronounce the word try rightly."}
+{"start": "00:32:35.970", "end": "00:32:47.160", "speaker": "annie", "utterance": " that's all very frustrating and it's makes things very unequal if you are in a group of people, the one who speaks the best gets the most attention."}
+{"start": "00:32:47.820", "end": "00:32:56.100", "speaker": "annie", "utterance": " So people who come from another country and don't speak as well, their place is already from the start somewhere."}
+{"start": "00:32:57.060", "end": "00:33:18.450", "speaker": "annie", "utterance": " On the bottom of the ladder, if you have to talk like that, and that that makes my relation to language somehow difficult and make me very happy to go to an environment where we work with all kinds of other things and not with meaning of with the meaning of the words."}
+{"start": "00:33:21.000", "end": "00:33:25.800", "speaker": "annie", "utterance": " So somehow for me this is political it's a political project also."}
+{"start": "00:33:26.850", "end": "00:33:36.450", "speaker": "annie", "utterance": " To be doing and it's called two words a supra semiotic telepresence communication so mark, I thought, what is."}
+{"start": "00:33:40.080", "end": "00:33:40.350", "speaker": "Daniel Pinheiro", "utterance": " Not."}
+{"start": "00:33:40.410", "end": "00:33:43.320", "speaker": "annie", "utterance": " possible, but at the same time and that's."}
+{"start": "00:33:43.380", "end": "00:33:50.220", "speaker": "annie", "utterance": " Also paradox, I want to believe in it so and we are doing it in a certain way."}
+{"start": "00:33:52.740", "end": "00:33:54.150", "speaker": "None", "utterance": "So yeah."}
+{"start": "00:33:55.590", "end": "00:33:58.740", "speaker": "constan?a", "utterance": " yeah I think i'd like to add something sorry."}
+{"start": "00:33:59.910", "end": "00:34:00.780", "speaker": "None", "utterance": "No go ahead, good."}
+{"start": "00:34:02.100", "end": "00:34:03.030", "speaker": "constan?a", "utterance": " um."}
+{"start": "00:34:05.220", "end": "00:34:14.520", "speaker": "constan?a", "utterance": " I don't think we've ever really discussed, you know the the like the effects on each of us, and I would have to say that."}
+{"start": "00:34:15.960", "end": "00:34:20.340", "speaker": "constan?a", "utterance": " No matter how distinct our meetings have been."}
+{"start": "00:34:24.300", "end": "00:34:28.170", "speaker": "constan?a", "utterance": " I end up more energized and calmer than I was before."}
+{"start": "00:34:29.850", "end": "00:34:30.660", "speaker": "constan?a", "utterance": " And this is."}
+{"start": "00:34:32.400", "end": "00:34:33.210", "speaker": "constan?a", "utterance": " There is no."}
+{"start": "00:34:34.290", "end": "00:34:39.090", "speaker": "constan?a", "utterance": " Objective I mean quantifiable reason for this."}
+{"start": "00:34:41.220", "end": "00:34:43.140", "speaker": "constan?a", "utterance": " For me, at least, because."}
+{"start": "00:34:43.230", "end": "00:35:01.170", "speaker": "constan?a", "utterance": " I mean, these are public instances of meeting so there's a stressful ness of kindle being seen, but at the same time, and this is again personal there's the there's the release from language in what it means."}
+{"start": "00:35:02.520", "end": "00:35:07.230", "speaker": "constan?a", "utterance": " In its burden of correction and surveillance."}
+{"start": "00:35:08.850", "end": "00:35:19.260", "speaker": "constan?a", "utterance": " I, I can see how, for me, this would be political, in a sense, and for me it would be political in another sense, which is that I."}
+{"start": "00:35:20.790", "end": "00:35:22.980", "speaker": "constan?a", "utterance": " I want for language to remain."}
+{"start": "00:35:24.240", "end": "00:35:29.010", "speaker": "constan?a", "utterance": " With no taboos or maintaining its taboos and for sound to do as well."}
+{"start": "00:35:30.450", "end": "00:35:39.630", "speaker": "constan?a", "utterance": " And so it's you know I find myself as someone who also works with words and text and who."}
+{"start": "00:35:41.760", "end": "00:35:44.370", "speaker": "constan?a", "utterance": " deals with people who are very."}
+{"start": "00:35:46.170", "end": "00:35:50.160", "speaker": "constan?a", "utterance": " skilled speakers very learned speakers."}
+{"start": "00:35:51.390", "end": "00:35:55.080", "speaker": "constan?a", "utterance": " My daily activities are filled with this sort of."}
+{"start": "00:35:56.250", "end": "00:36:01.260", "speaker": "constan?a", "utterance": " Underlying surveillance and need to not be you know."}
+{"start": "00:36:03.240", "end": "00:36:04.110", "speaker": "constan?a", "utterance": " incorrect."}
+{"start": "00:36:05.310", "end": "00:36:08.280", "speaker": "constan?a", "utterance": " And it's it's an unlivable situation, I have to say."}
+{"start": "00:36:09.600", "end": "00:36:11.280", "speaker": "constan?a", "utterance": " So i'm."}
+{"start": "00:36:13.110", "end": "00:36:27.030", "speaker": "constan?a", "utterance": " On rings is somehow free and also somehow ascetic like in it nears if it comes near some sort of meditative practice where I."}
+{"start": "00:36:31.140", "end": "00:36:32.820", "speaker": "constan?a", "utterance": " Where I purge maybe."}
+{"start": "00:36:33.990", "end": "00:36:36.330", "speaker": "constan?a", "utterance": " something's and let go of."}
+{"start": "00:36:38.730", "end": "00:36:39.690", "speaker": "constan?a", "utterance": " A level of."}
+{"start": "00:36:41.730", "end": "00:36:43.530", "speaker": "constan?a", "utterance": " Awareness of myself as."}
+{"start": "00:36:43.620", "end": "00:36:55.770", "speaker": "constan?a", "utterance": " Another, which is always there and so that's very that's very the ends up being very calming and very energizing so you know all of the richness of."}
+{"start": "00:36:57.150", "end": "00:37:22.920", "speaker": "constan?a", "utterance": " The constraints and the even the morals of language, I feel I am free from, and in that sense, I am very happy and other things, and things are easier and and, if indeed someone shreds on my toe or steps over my sound there are free to do so, and I can strike back, and we can you know."}
+{"start": "00:37:23.940", "end": "00:37:25.530", "speaker": "constan?a", "utterance": " This can be the star wars of."}
+{"start": "00:37:27.150", "end": "00:37:42.960", "speaker": "constan?a", "utterance": " ugly sounds and that's why it's so different from every you know from most of my living experience and so it's it's yeah I don't know how how best to explain this but uh."}
+{"start": "00:37:44.070", "end": "00:37:45.840", "speaker": "constan?a", "utterance": " But really the release of."}
+{"start": "00:37:48.270", "end": "00:37:51.390", "speaker": "constan?a", "utterance": " The Panopticon that I have in my head as a speaker."}
+{"start": "00:37:53.610", "end": "00:37:54.690", "speaker": "constan?a", "utterance": " is very important."}
+{"start": "00:37:58.980", "end": "00:38:00.090", "speaker": "None", "utterance": "Can you."}
+{"start": "00:38:02.730", "end": "00:38:09.210", "speaker": "Daniel Pinheiro", "utterance": " Please, I was, I was just going to add when it comes in, like continuation of what you were saying, because yesterday."}
+{"start": "00:38:10.500", "end": "00:38:12.270", "speaker": "Daniel Pinheiro", "utterance": " We created a monster."}
+{"start": "00:38:13.410", "end": "00:38:14.940", "speaker": "Curt Cloninger", "utterance": " A bad set of baby dinosaur."}
+{"start": "00:38:15.360", "end": "00:38:15.690", "speaker": "None", "utterance": "baby."}
+{"start": "00:38:17.040", "end": "00:38:17.790", "speaker": "annie", "utterance": " No baby."}
+{"start": "00:38:18.780", "end": "00:38:20.610", "speaker": "Curt Cloninger", "utterance": " Oh baby monster okay baby monster."}
+{"start": "00:38:21.060", "end": "00:38:22.020", "speaker": "Curt Cloninger", "utterance": " But it was a baby monster."}
+{"start": "00:38:24.030", "end": "00:38:37.230", "speaker": "Daniel Pinheiro", "utterance": " And, yesterday we didn't do it, but there were moments, where we tried other visual configurations for for a drink one of them was using like the overlay of all of our video feed and indeed look like a weird."}
+{"start": "00:38:38.040", "end": "00:38:38.700", "speaker": "None", "utterance": "monster."}
+{"start": "00:38:39.960", "end": "00:38:43.380", "speaker": "Daniel Pinheiro", "utterance": " Trying to communicate something."}
+{"start": "00:38:44.730", "end": "00:38:55.170", "speaker": "Daniel Pinheiro", "utterance": " And I think it's interesting with constraints that brings this this experience which can free us from from any any."}
+{"start": "00:38:56.850", "end": "00:39:05.670", "speaker": "Daniel Pinheiro", "utterance": " Any say any in positions that you put yourself in in perhaps other other conditions and sometimes when i'm doing."}
+{"start": "00:39:06.690", "end": "00:39:16.080", "speaker": "Daniel Pinheiro", "utterance": " An encounter of entering they always have this weird image of how does it work from the outside, here in my room that when i'm doing it."}
+{"start": "00:39:16.680", "end": "00:39:26.400", "speaker": "Daniel Pinheiro", "utterance": " And what I and then I picture, all of us alone in different places with our eyes, we blindfolded and we're just like this."}
+{"start": "00:39:26.970", "end": "00:39:38.760", "speaker": "Daniel Pinheiro", "utterance": " individually we're all I picture as as as incomplete parts of this monster that it's happening, which is an energetic which I can call her feel like an energetic monster."}
+{"start": "00:39:39.450", "end": "00:39:51.780", "speaker": "Daniel Pinheiro", "utterance": " and keep using the word master because that's also how I feel about it, sometimes, and I think it comes tied with the ugliness that we allow ourselves."}
+{"start": "00:39:52.680", "end": "00:40:06.990", "speaker": "Daniel Pinheiro", "utterance": " Here so there's something interesting to be said in this this this incomplete version of ourselves in our physical instances of each one when we come together here to do this."}
+{"start": "00:40:09.360", "end": "00:40:10.230", "speaker": "None", "utterance": "and"}
+{"start": "00:40:11.310", "end": "00:40:29.850", "speaker": "Daniel Pinheiro", "utterance": " I think, in this sense of what what is communication, I think I feel it's precisely that it's it's like a sum of all these incomplete bits and parts that we're all trying to make sense of as as as human being."}
+{"start": "00:40:31.680", "end": "00:40:31.890", "speaker": "Daniel Pinheiro", "utterance": " yeah."}
+{"start": "00:40:33.210", "end": "00:40:33.780", "speaker": "Daniel Pinheiro", "utterance": " I would say."}
+{"start": "00:40:44.100", "end": "00:40:45.600", "speaker": "Daniel Pinheiro", "utterance": " Like the."}
+{"start": "00:40:47.370", "end": "00:40:49.350", "speaker": "None", "utterance": "Few I want to say something."}
+{"start": "00:40:52.320", "end": "00:40:52.770", "speaker": "None", "utterance": "for that."}
+{"start": "00:40:54.060", "end": "00:40:58.380", "speaker": "annie", "utterance": " yeah it's open for if you if you have you, you can put it."}
+{"start": "00:41:01.170", "end": "00:41:06.540", "speaker": "annie", "utterance": " out, but you can also just unmute yourself and ask questions No problem."}
+{"start": "00:41:08.250", "end": "00:41:11.280", "speaker": "Nerina Cocchi", "utterance": " Sharing easier now when us together."}
+{"start": "00:41:11.730", "end": "00:41:19.530", "speaker": "annie", "utterance": " I think we touched on the most and most points we wanted to touch on is something we forgot to talk about."}
+{"start": "00:41:22.620", "end": "00:41:23.610", "speaker": "None", "utterance": "let's think of it."}
+{"start": "00:41:25.980", "end": "00:41:30.300", "speaker": "Nerina Cocchi", "utterance": " For me, the thing that, from what concerns has said about."}
+{"start": "00:41:31.740", "end": "00:41:35.820", "speaker": "Nerina Cocchi", "utterance": " Language I mean, I also have the same experiences me of being."}
+{"start": "00:41:36.990", "end": "00:41:45.180", "speaker": "Nerina Cocchi", "utterance": " A feeling inadequate in all languages in the sense that I always feel i'm not pull that i'm always missing words that i'm."}
+{"start": "00:41:50.220", "end": "00:41:55.350", "speaker": "Nerina Cocchi", "utterance": " That I don't have a good grasp of language, whatever language that is."}
+{"start": "00:41:57.450", "end": "00:41:59.490", "speaker": "Nerina Cocchi", "utterance": " And what."}
+{"start": "00:42:00.630", "end": "00:42:03.510", "speaker": "Nerina Cocchi", "utterance": " I know that what uttering has contributed me."}
+{"start": "00:42:04.560", "end": "00:42:06.090", "speaker": "Nerina Cocchi", "utterance": " With is the idea of."}
+{"start": "00:42:07.470", "end": "00:42:23.490", "speaker": "Nerina Cocchi", "utterance": " How, how do you stay in that sense sensitive spot where you can just be here and listen and speak at the same time, and whether it is right doesn't really matter as long as it's."}
+{"start": "00:42:24.030", "end": "00:42:42.360", "speaker": "Nerina Cocchi", "utterance": " Just as you say, in French like it's it feels it feels right, and so I think that's part of what is so touching and also for me it's not only about the offerings per se it's also about the relationship that leaves us together like."}
+{"start": "00:42:44.550", "end": "00:42:57.690", "speaker": "Nerina Cocchi", "utterance": " The fact that I, like all of the five of you, makes me want to come back if I didn't like you, as people I wouldn't want to come back and so I think that's."}
+{"start": "00:42:59.880", "end": "00:43:11.280", "speaker": "Nerina Cocchi", "utterance": " Language as a way to leave people together and to have conversations and I really think this is what's important and what sometimes we forget is that language is a tool."}
+{"start": "00:43:12.120", "end": "00:43:19.590", "speaker": "Nerina Cocchi", "utterance": " To talk and yes it's messy yes we don't understand each other, of course, because each of us has their own language, in a way, but."}
+{"start": "00:43:22.170", "end": "00:43:31.800", "speaker": "Nerina Cocchi", "utterance": " How do we, how do we get to that sensitive right spot in a way that's and this experience has been helping me that I don't know."}
+{"start": "00:43:35.370", "end": "00:43:43.320", "speaker": "Curt Cloninger", "utterance": " I like what you're saying that language is just a tool to to connect I mean this is related to my."}
+{"start": "00:43:44.520", "end": "00:43:48.390", "speaker": "Curt Cloninger", "utterance": " Personal explorations theologically."}
+{"start": "00:43:49.830", "end": "00:43:54.060", "speaker": "Curt Cloninger", "utterance": " The goal of having a relationship with God is not to come to some sort of."}
+{"start": "00:43:55.350", "end": "00:44:00.060", "speaker": "Curt Cloninger", "utterance": " Knowledge of facts it's, not even to come to a."}
+{"start": "00:44:01.680", "end": "00:44:03.090", "speaker": "Curt Cloninger", "utterance": " Communication where."}
+{"start": "00:44:04.410", "end": "00:44:05.700", "speaker": "Curt Cloninger", "utterance": " meaning is conveyed."}
+{"start": "00:44:06.870", "end": "00:44:07.560", "speaker": "Curt Cloninger", "utterance": " it's to."}
+{"start": "00:44:08.610", "end": "00:44:10.020", "speaker": "Curt Cloninger", "utterance": " be known and to know."}
+{"start": "00:44:11.280", "end": "00:44:13.320", "speaker": "Curt Cloninger", "utterance": " Beyond language."}
+{"start": "00:44:14.550", "end": "00:44:24.720", "speaker": "Curt Cloninger", "utterance": " And maybe that's true with every human and every human other human with my wife I don't want to know facts about her or even you know I mean I need if she wants me to."}
+{"start": "00:44:25.500", "end": "00:44:32.550", "speaker": "Curt Cloninger", "utterance": " take out the garbage I need to know literally that's what she's conveying to me, but that the goal of humans."}
+{"start": "00:44:33.240", "end": "00:44:44.580", "speaker": "Curt Cloninger", "utterance": " Being intimate with each other is it's not that you understand or know something there's there's a there's a game there's an end game beyond that this is just some means."}
+{"start": "00:44:45.300", "end": "00:44:54.360", "speaker": "Curt Cloninger", "utterance": " So I think, and it is, it is a you know, a spiritual practice to speak in tongues where you don't understand what you're saying, and you know."}
+{"start": "00:44:54.600", "end": "00:44:56.580", "speaker": "Curt Cloninger", "utterance": " there's the practice of APA faces where."}
+{"start": "00:44:59.130", "end": "00:45:13.200", "speaker": "Curt Cloninger", "utterance": " You use words to undo words so that you don't over determine God or rely so much on words any God worth worshiping is is gonna have to be beyond words or you got the wrong person."}
+{"start": "00:45:17.850", "end": "00:45:23.340", "speaker": "annie", "utterance": " If you want to i'm very happy with that, but I was thinking of someone else something else."}
+{"start": "00:45:24.630", "end": "00:45:37.650", "speaker": "annie", "utterance": " We didn't touch on that yet is is, why is it a performance that we are doing, why do we need the ID of an audience and because somehow that's important."}
+{"start": "00:45:38.250", "end": "00:45:55.410", "speaker": "annie", "utterance": " In what we do and I think, for me, that is, because if there is an audience for what you do you have a shared collaboration towards something else and it's something that unites us and."}
+{"start": "00:45:57.900", "end": "00:46:00.390", "speaker": "None", "utterance": "He said understandable what I say or not."}
+{"start": "00:46:01.920", "end": "00:46:03.360", "speaker": "None", "utterance": "yeah I think."}
+{"start": "00:46:04.620", "end": "00:46:09.720", "speaker": "Daniel Pinheiro", "utterance": " At least from yesterday from the few reactions that I could see Brittany."}
+{"start": "00:46:11.910", "end": "00:46:18.780", "speaker": "Daniel Pinheiro", "utterance": " It made me think about that from from the performance, we did yesterday, there were a few reactions and they all mentioned, or they kind of mentioned."}
+{"start": "00:46:20.970", "end": "00:46:24.810", "speaker": "Daniel Pinheiro", "utterance": " The power of presence that we were able to deliver."}
+{"start": "00:46:26.550", "end": "00:46:42.210", "speaker": "Daniel Pinheiro", "utterance": " With the performance I don't know like i'm not backwards, but it had something to do with this and and I guess that's when when you say and it gives it opens up about for a shared."}
+{"start": "00:46:43.500", "end": "00:46:43.710", "speaker": "Nerina Cocchi", "utterance": " it's."}
+{"start": "00:46:44.730", "end": "00:46:49.530", "speaker": "Daniel Pinheiro", "utterance": " Not just between us towards something else, which is also being communicated to someone else."}
+{"start": "00:46:50.700", "end": "00:46:56.970", "speaker": "Daniel Pinheiro", "utterance": " And what what, meaning that the audience makes it that I think it's another layer that."}
+{"start": "00:46:56.970", "end": "00:46:57.390", "speaker": "Nerina Cocchi", "utterance": " process."}
+{"start": "00:46:58.080", "end": "00:47:02.910", "speaker": "Daniel Pinheiro", "utterance": " we're trying to go beyond this idea of an understandable."}
+{"start": "00:47:04.290", "end": "00:47:14.640", "speaker": "Daniel Pinheiro", "utterance": " Language order or like we say like going above rationality, but leaving the door open for interpretation that might come through from the other end."}
+{"start": "00:47:15.870", "end": "00:47:17.100", "speaker": "None", "utterance": "of whoever is watching."}
+{"start": "00:47:18.210", "end": "00:47:20.460", "speaker": "Daniel Pinheiro", "utterance": " or doing it with us because we've had."}
+{"start": "00:47:20.520", "end": "00:47:21.150", "speaker": "annie", "utterance": " Governments when."}
+{"start": "00:47:21.870", "end": "00:47:24.150", "speaker": "Daniel Pinheiro", "utterance": " you're done performance workshops."}
+{"start": "00:47:25.260", "end": "00:47:27.690", "speaker": "None", "utterance": "With people that join from one or two times."}
+{"start": "00:47:28.800", "end": "00:47:35.760", "speaker": "Daniel Pinheiro", "utterance": " And I see that also is not a performance per se but we're opening up to other people and there's this exchange of."}
+{"start": "00:47:37.050", "end": "00:47:39.360", "speaker": "Daniel Pinheiro", "utterance": " Beyond this group of people that."}
+{"start": "00:47:40.470", "end": "00:47:42.120", "speaker": "Daniel Pinheiro", "utterance": " We keep on practicing this."}
+{"start": "00:47:46.530", "end": "00:47:49.140", "speaker": "constan?a", "utterance": " We add something we're going to say something."}
+{"start": "00:47:50.190", "end": "00:47:51.270", "speaker": "Nerina Cocchi", "utterance": " Nice okay go for it."}
+{"start": "00:47:52.470", "end": "00:47:53.190", "speaker": "Nerina Cocchi", "utterance": " keep it short."}
+{"start": "00:47:55.020", "end": "00:47:57.450", "speaker": "constan?a", "utterance": " I think this is yet another paradox."}
+{"start": "00:47:58.920", "end": "00:47:59.970", "speaker": "constan?a", "utterance": " Is that we."}
+{"start": "00:48:02.040", "end": "00:48:05.070", "speaker": "constan?a", "utterance": " intimate without having been friends."}
+{"start": "00:48:06.870", "end": "00:48:07.710", "speaker": "Curt Cloninger", "utterance": " you're not my friend."}
+{"start": "00:48:08.820", "end": "00:48:09.300", "speaker": "constan?a", "utterance": " I mean."}
+{"start": "00:48:11.700", "end": "00:48:20.490", "speaker": "constan?a", "utterance": " i've not been with you i've never even touched you we don't smell each other, I am you know i'm a touchy feely 3D person."}
+{"start": "00:48:21.990", "end": "00:48:26.310", "speaker": "constan?a", "utterance": " i'm demanding of that of my friends, then he knows."}
+{"start": "00:48:30.570", "end": "00:48:41.160", "speaker": "constan?a", "utterance": " And he I think the having an audience in this moment of in history when having a conversation is almost impossible."}
+{"start": "00:48:42.420", "end": "00:49:01.620", "speaker": "constan?a", "utterance": " You know, because everything is so polarized or trial terrorized or just ossified in you know I I know this, I think this, and this is what I stand for and who you're doing something outside of that and."}
+{"start": "00:49:02.880", "end": "00:49:03.780", "speaker": "constan?a", "utterance": " I think."}
+{"start": "00:49:06.210", "end": "00:49:16.530", "speaker": "constan?a", "utterance": " I think we've reasons to be hopeful, you know I didn't I didn't expect to be saying this about other things, but what happens to us is evidence of that."}
+{"start": "00:49:17.820", "end": "00:49:21.480", "speaker": "constan?a", "utterance": " What happened in the workshops as evidence of that."}
+{"start": "00:49:22.920", "end": "00:49:23.580", "speaker": "constan?a", "utterance": " and"}
+{"start": "00:49:25.050", "end": "00:49:28.770", "speaker": "constan?a", "utterance": " yeah i'm going to quit because i'm going to start crying so."}
+{"start": "00:49:30.420", "end": "00:49:33.240", "speaker": "constan?a", "utterance": " you've never seen this is you're not my friend now."}
+{"start": "00:49:38.610", "end": "00:49:40.740", "speaker": "Nerina Cocchi", "utterance": " The thing I wanted to say is that."}
+{"start": "00:49:43.590", "end": "00:49:51.180", "speaker": "Nerina Cocchi", "utterance": " i'm always wondering why anybody would want to see a mattress like i'm i'm i'm puzzled by it."}
+{"start": "00:49:53.160", "end": "00:49:57.000", "speaker": "Nerina Cocchi", "utterance": " But people come and watch this and people want to be part of it and."}
+{"start": "00:49:58.050", "end": "00:50:13.710", "speaker": "Nerina Cocchi", "utterance": " Then i'm like Okay, I cannot decide whether this works or not like intimately with my partner we call attorneys Hollings because, like he he walks into the apartment and i'm they're making the weirdest sounds with the cats looking at me like I mean saying."}
+{"start": "00:50:14.520", "end": "00:50:19.050", "speaker": "Nerina Cocchi", "utterance": " And this is to answer part of danny's question or what happens like."}
+{"start": "00:50:20.340", "end": "00:50:30.540", "speaker": "Nerina Cocchi", "utterance": " But you know were there, and we are handling all together to the moon somehow in our own digital way I don't know no but it's it's it's."}
+{"start": "00:50:31.740", "end": "00:50:41.430", "speaker": "Nerina Cocchi", "utterance": " I like the yet another paradox that adds that gets added to this sorry that we sort of have so yeah."}
+{"start": "00:50:45.180", "end": "00:50:47.280", "speaker": "Daniel Pinheiro", "utterance": " yeah literally yesterday howling into."}
+{"start": "00:50:47.550", "end": "00:50:48.900", "speaker": "None", "utterance": "This full moon it's happening."}
+{"start": "00:50:54.420", "end": "00:50:54.690", "speaker": "Nerina Cocchi", "utterance": " yeah."}
+{"start": "00:50:58.560", "end": "00:50:59.880", "speaker": "annie", "utterance": " Now we come to the farmer."}
+{"start": "00:51:01.980", "end": "00:51:03.090", "speaker": "Nerina Cocchi", "utterance": " Just something more to."}
+{"start": "00:51:04.710", "end": "00:51:07.590", "speaker": "annie", "utterance": " Thank you for having been with us."}
+{"start": "00:51:07.680", "end": "00:51:07.890", "speaker": "None", "utterance": "All."}
+{"start": "00:51:15.840", "end": "00:51:17.880", "speaker": "annie", "utterance": " So see you all on the front of that."}
+{"start": "00:51:19.740", "end": "00:51:20.280", "speaker": "None", "utterance": "Yes."}

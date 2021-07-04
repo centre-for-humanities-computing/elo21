@@ -1,0 +1,415 @@
+{"start": "00:00:02.790", "end": "00:00:11.730", "speaker": "Mariusz Pisarski", "utterance": " user friendly framework, this is a presentation and workshop, my name is manish pisarski and we've missed me how for now."}
+{"start": "00:00:12.269", "end": "00:00:18.900", "speaker": "Mariusz Pisarski", "utterance": " We both affiliated in university of information technology in the management in the international but also."}
+{"start": "00:00:19.320", "end": "00:00:36.690", "speaker": "Mariusz Pisarski", "utterance": " When i'm a research affiliate and we, how is our it assistant in electronic literature lap at Washington state State University Vancouver where we are working for some time now on this on this framework."}
+{"start": "00:00:37.740", "end": "00:00:40.410", "speaker": "Mariusz Pisarski", "utterance": " which has three."}
+{"start": "00:00:41.460", "end": "00:00:45.600", "speaker": "Mariusz Pisarski", "utterance": " Free names of free tags i'm giving to it, firstly."}
+{"start": "00:00:47.040", "end": "00:00:58.080", "speaker": "Mariusz Pisarski", "utterance": " i'm calling it an automated DIY storage space exporter a hypertext archaeology toolkit and then it translators toolkit."}
+{"start": "00:00:59.100", "end": "00:01:10.020", "speaker": "Mariusz Pisarski", "utterance": " And, as such, the pool we are developing is targeted towards translators of electronic literature for authors, who have written their works in."}
+{"start": "00:01:10.890", "end": "00:01:23.910", "speaker": "Mariusz Pisarski", "utterance": " In on old systems in storage space and other early web platforms for researchers and for publishers who would want to take."}
+{"start": "00:01:24.750", "end": "00:01:45.150", "speaker": "Mariusz Pisarski", "utterance": " The old that files from out platforms and presented within modern, open web languages, what is important to say at the beginning, is that this is not a tool for readers as such, this is a tool for those who will then present a reading experience for for the audience."}
+{"start": "00:01:47.370", "end": "00:01:59.550", "speaker": "Mariusz Pisarski", "utterance": " The result of our work on on this particular project will be a Michael Josias twilight a safe on a an online version that is planned to be premiered in July 2021."}
+{"start": "00:02:01.050", "end": "00:02:06.030", "speaker": "Mariusz Pisarski", "utterance": " And let me guys show you just some screenshots of."}
+{"start": "00:02:07.320", "end": "00:02:12.030", "speaker": "Mariusz Pisarski", "utterance": " How it looks like and where we are at the moment."}
+{"start": "00:02:21.930", "end": "00:02:23.880", "speaker": "Mariusz Pisarski", "utterance": " Is the screenshot of twilight visible."}
+{"start": "00:02:25.530", "end": "00:02:27.150", "speaker": "Deena Larsen", "utterance": " Yes, but."}
+{"start": "00:02:27.240", "end": "00:02:27.510", "speaker": "Mariusz Pisarski", "utterance": " Thank you."}
+{"start": "00:02:29.070", "end": "00:02:37.020", "speaker": "Mariusz Pisarski", "utterance": " And this is a one of the one of the possible screens for michaels."}
+{"start": "00:02:38.220", "end": "00:02:40.950", "speaker": "Mariusz Pisarski", "utterance": " Over 320 legs yes."}
+{"start": "00:02:42.900", "end": "00:03:00.840", "speaker": "Mariusz Pisarski", "utterance": " What we present or what what functionalities are being ported from storage space is a bit changed from whatever we have done previously with storage space classics translating the words from storage space we wanted to have."}
+{"start": "00:03:02.070", "end": "00:03:14.700", "speaker": "Mariusz Pisarski", "utterance": " Apart from a link menu or roadmap, we want to help for the first time storage space maps port it to the online platform a relational map or logical."}
+{"start": "00:03:15.270", "end": "00:03:27.360", "speaker": "Mariusz Pisarski", "utterance": " connection smile or something that I call the network neighbor who map also implemented, apart from conditional linking and random linking present in twilight."}
+{"start": "00:03:28.740", "end": "00:03:36.150", "speaker": "Mariusz Pisarski", "utterance": " We want these functionalities to work completely on on full throttle without any compromises."}
+{"start": "00:03:38.130", "end": "00:03:50.340", "speaker": "Mariusz Pisarski", "utterance": " And the the idea of the tool we want to present to you guys, is that all these functionalities will not be bound to try, like a cell phone."}
+{"start": "00:03:50.790", "end": "00:04:16.710", "speaker": "Mariusz Pisarski", "utterance": " But will be given to the translators to altars and to anyone who has written the work effective 2020 years ago on these platforms and who is interested in presenting it today to their audience which which, of course, have grown exponentially from from that time so."}
+{"start": "00:04:18.090", "end": "00:04:27.450", "speaker": "Mariusz Pisarski", "utterance": " The point of this workshop is first to just give a quick background, but with with this audience that we have here I don't think much of the background is needed."}
+{"start": "00:04:30.150", "end": "00:04:45.390", "speaker": "Mariusz Pisarski", "utterance": " Some technical introduction a short short workflow of something that I call the platform bridge workflow and then demonstrate to the framework in action and give some time for questions."}
+{"start": "00:04:47.730", "end": "00:04:51.240", "speaker": "Mariusz Pisarski", "utterance": " At the end of the workshop hopefully we will have some."}
+{"start": "00:04:52.260", "end": "00:05:01.980", "speaker": "Mariusz Pisarski", "utterance": " More or less vague idea on how to extract out storage space file to a new software and hardware environment, how to prepare."}
+{"start": "00:05:03.120", "end": "00:05:24.450", "speaker": "Mariusz Pisarski", "utterance": " Such file for an automated reporting and how to upload the input zip to the word or Java APP and how to get the output zip from the exporter or from that Java APP in order to feather modify it and publish it yourself."}
+{"start": "00:05:26.610", "end": "00:05:27.030", "speaker": "Mariusz Pisarski", "utterance": " A."}
+{"start": "00:05:28.260", "end": "00:05:39.420", "speaker": "Mariusz Pisarski", "utterance": " Since the since by like will be debuting in in July, we still not there yet there is some CSS styling needed some more work on storage space map."}
+{"start": "00:05:40.770", "end": "00:05:53.520", "speaker": "Mariusz Pisarski", "utterance": " They will also be some procedures for manual of the writing of the ultimate output and also will be will be presenting the the finished the toolkit with a conditional link forms."}
+{"start": "00:05:54.180", "end": "00:06:03.030", "speaker": "Mariusz Pisarski", "utterance": " For anyone of the altos especially who used conditional linking and storage space to be able to fine tune it."}
+{"start": "00:06:04.110", "end": "00:06:11.400", "speaker": "Mariusz Pisarski", "utterance": " Is hypertext an ED conditional links to the places where it is, it has been implemented."}
+{"start": "00:06:14.160", "end": "00:06:23.250", "speaker": "Mariusz Pisarski", "utterance": " Our platform or our our place so window for the world will be on the storage space export their online website."}
+{"start": "00:06:26.010", "end": "00:06:30.540", "speaker": "Mariusz Pisarski", "utterance": " And today we'll be working on the two examples of."}
+{"start": "00:06:31.680", "end": "00:06:44.250", "speaker": "Mariusz Pisarski", "utterance": " Of on season pass by Colin grey matter patreon Michael Joyce the published in 1991 in writing on the edge and then republished on CD Rom in the new media reader."}
+{"start": "00:06:44.820", "end": "00:06:58.440", "speaker": "Mariusz Pisarski", "utterance": " And also, as an example as a secondary example on whoo by Michael Joyce published in the same issue of new river in the same CD Rom that a combine it new media reader."}
+{"start": "00:07:01.710", "end": "00:07:21.300", "speaker": "Mariusz Pisarski", "utterance": " And this is the set the background, I just want to tell for those who don't know but I guess, everyone knows that we are not inventing anything anything from scratch, we are not opening the doors that has been already open some porting examples have appeared earlier."}
+{"start": "00:07:22.530", "end": "00:07:29.430", "speaker": "Mariusz Pisarski", "utterance": " Specifically, one on not an anthology of postmodern fiction, the which published and afternoon, a story."}
+{"start": "00:07:30.510", "end": "00:07:45.030", "speaker": "Mariusz Pisarski", "utterance": " Online except that that was advertised and combining the print the printed anthology then there was Robert candles word connection news a very nice."}
+{"start": "00:07:45.570", "end": "00:07:57.960", "speaker": "Mariusz Pisarski", "utterance": " javascript framework for a parting the basic concept of storage space to a the online environment and, of course, they were they were versions of."}
+{"start": "00:07:58.800", "end": "00:08:06.990", "speaker": "Mariusz Pisarski", "utterance": " of storage space works such as victory garden and marvelous things on these gates website."}
+{"start": "00:08:07.590", "end": "00:08:24.600", "speaker": "Mariusz Pisarski", "utterance": " And another prominent and very important example of the Web version is dina larson's wiki version of marble springs in terms of these gates demos, these were of course the abridged additions in terms of readiness."}
+{"start": "00:08:25.980", "end": "00:08:29.790", "speaker": "Mariusz Pisarski", "utterance": " version of marble springs, this is a full encyclopedic."}
+{"start": "00:08:31.350", "end": "00:08:45.210", "speaker": "Mariusz Pisarski", "utterance": " Project and basically we can say that, but many, many functionalities and and basically all of the free versions of marble springs are present online within this project."}
+{"start": "00:08:47.670", "end": "00:08:50.610", "speaker": "Mariusz Pisarski", "utterance": " We got also building on our own shoulders."}
+{"start": "00:08:52.110", "end": "00:09:11.010", "speaker": "Mariusz Pisarski", "utterance": " In in 2012 we have published in Poland to Polish version of afternoon the story, this was made in the xml and access it transformer for the browser experience not online yet."}
+{"start": "00:09:11.730", "end": "00:09:28.650", "speaker": "Mariusz Pisarski", "utterance": " Because of dates limitations or licensing connected to to do after me story then we've got a full green lights to publish online twilight the symphony in Polish in 2015."}
+{"start": "00:09:29.760", "end": "00:09:34.680", "speaker": "Mariusz Pisarski", "utterance": " This was the first fully functioning is great is that work."}
+{"start": "00:09:36.420", "end": "00:09:49.890", "speaker": "Mariusz Pisarski", "utterance": " out that online and for many, many readers even American audience, it was the first time they could actually access twilight and symphony because by that time it was it was already."}
+{"start": "00:09:51.840", "end": "00:10:02.520", "speaker": "Mariusz Pisarski", "utterance": " Something of a band on where, because it really was not demetrius we're not really able to open it on any modern platform for for many years."}
+{"start": "00:10:03.930", "end": "00:10:15.120", "speaker": "Mariusz Pisarski", "utterance": " And then the latest, the latest project in this line of porting migrating and translating of these great classics is figures get in for an acid."}
+{"start": "00:10:17.010", "end": "00:10:21.870", "speaker": "Mariusz Pisarski", "utterance": " which has been just published in the by the team on."}
+{"start": "00:10:22.950", "end": "00:10:37.230", "speaker": "Mariusz Pisarski", "utterance": " Electronic which, to which our lab and it's a it's a fantastic publishing project with contemporary edition and classic edition and lots of functionalities mapping."}
+{"start": "00:10:38.490", "end": "00:10:40.020", "speaker": "Mariusz Pisarski", "utterance": " Also present."}
+{"start": "00:10:44.580", "end": "00:10:46.020", "speaker": "Mariusz Pisarski", "utterance": " On all of these."}
+{"start": "00:10:47.940", "end": "00:11:11.970", "speaker": "Mariusz Pisarski", "utterance": " In all of these publications that we had for supervised in Poland, the the main premise was to preserve the basic story space concepts of conditional links basic links mortal beings random links and and link paths which was not always not always easy."}
+{"start": "00:11:13.320", "end": "00:11:18.090", "speaker": "Mariusz Pisarski", "utterance": " And many of these were preserved, but we have never made a storage space not."}
+{"start": "00:11:19.470", "end": "00:11:22.710", "speaker": "Mariusz Pisarski", "utterance": " Possible in online versions."}
+{"start": "00:11:24.390", "end": "00:11:28.710", "speaker": "Mariusz Pisarski", "utterance": " Just to make you aware how these previous projects."}
+{"start": "00:11:30.720", "end": "00:11:37.530", "speaker": "Mariusz Pisarski", "utterance": " were made, there was a lot of manual work on translating."}
+{"start": "00:11:39.120", "end": "00:11:47.730", "speaker": "Mariusz Pisarski", "utterance": " Translating conditioner links into the online versions as simple javascript part of my basic condition."}
+{"start": "00:11:49.440", "end": "00:11:55.110", "speaker": "Mariusz Pisarski", "utterance": " On the link a basic Godfrey which which which."}
+{"start": "00:11:57.210", "end": "00:12:03.150", "speaker": "Mariusz Pisarski", "utterance": " which was telling the reader to go to a certain place only under a condition."}
+{"start": "00:12:04.830", "end": "00:12:16.590", "speaker": "Mariusz Pisarski", "utterance": " A form of simple equation few equals V and then we stood for visitors and then it was the garfield have a place that."}
+{"start": "00:12:17.790", "end": "00:12:26.040", "speaker": "Mariusz Pisarski", "utterance": " They read there must have must have not visited before activating the link and then it's simple simple logical."}
+{"start": "00:12:28.260", "end": "00:12:34.170", "speaker": "Mariusz Pisarski", "utterance": " Yes or no if visit the if the reader visited a place called weather report."}
+{"start": "00:12:35.700", "end": "00:12:51.000", "speaker": "Mariusz Pisarski", "utterance": " Is David went to place number one, if not the reader went to place number number zero and a single link in this online version."}
+{"start": "00:12:52.620", "end": "00:13:08.580", "speaker": "Mariusz Pisarski", "utterance": " A single link a single a tack of html used to have from one to 12 sometimes to 25 different tracks and they were numbered Jeff one was number zero to one for the free to."}
+{"start": "00:13:10.200", "end": "00:13:12.540", "speaker": "Mariusz Pisarski", "utterance": " free to etc."}
+{"start": "00:13:14.820", "end": "00:13:17.880", "speaker": "Mariusz Pisarski", "utterance": " Sometimes, in order to to do a."}
+{"start": "00:13:20.400", "end": "00:13:26.070", "speaker": "Mariusz Pisarski", "utterance": " God fields for a complicated link I had to manually right that."}
+{"start": "00:13:27.300", "end": "00:13:40.590", "speaker": "Mariusz Pisarski", "utterance": " Long equation in order for javascript to correctly interpret what what Michael Joyce plan for a given link and it will this was very tedious."}
+{"start": "00:13:41.820", "end": "00:13:46.560", "speaker": "Mariusz Pisarski", "utterance": " The work on these conditions and testing of this conditions lasted for months."}
+{"start": "00:13:53.610", "end": "00:14:11.550", "speaker": "Mariusz Pisarski", "utterance": " These other those other concepts of storage space that we're only on the harmfully have automated in the previous previous online ports and that's that new one, the map of connections that we want to implement in the twilight is funny in English online."}
+{"start": "00:14:14.100", "end": "00:14:32.730", "speaker": "Mariusz Pisarski", "utterance": " We also want to implement the breadcrumbs, this is just a simple navigational tool, but quite important for users for readers who might feel lost within the network, but the basic navigation or two would be map and that roadmap."}
+{"start": "00:14:34.050", "end": "00:14:34.890", "speaker": "Mariusz Pisarski", "utterance": " Link manga."}
+{"start": "00:14:36.900", "end": "00:14:42.450", "speaker": "Mariusz Pisarski", "utterance": " So I would go in this in this project was to optimize the manual Labor and to."}
+{"start": "00:14:43.830", "end": "00:14:44.280", "speaker": "Mariusz Pisarski", "utterance": " into."}
+{"start": "00:14:46.380", "end": "00:15:06.600", "speaker": "Mariusz Pisarski", "utterance": " Two key objectives to manipulate those basic objects of storage space on temporal and spatial axis the temporal is a work on the history of reading and the spatial is is a work on the logic of of connections of conditional linking."}
+{"start": "00:15:08.070", "end": "00:15:29.040", "speaker": "Mariusz Pisarski", "utterance": " And I think this would be a good time for me to introduce you to meet how and perhaps show how some of these basic concepts of storage space, such as link menu or roadmap and the map of the network neighborhood have been implemented in a Java."}
+{"start": "00:15:30.630", "end": "00:15:33.660", "speaker": "Mariusz Pisarski", "utterance": " exporter that we are developing."}
+{"start": "00:15:35.400", "end": "00:15:38.220", "speaker": "Mariusz Pisarski", "utterance": " So me how, if you could take."}
+{"start": "00:15:42.870", "end": "00:15:43.770", "speaker": "Micha? Furga?", "utterance": " source codes."}
+{"start": "00:15:54.180", "end": "00:15:55.230", "speaker": "Micha? Furga?", "utterance": " Is my screen visible."}
+{"start": "00:15:56.010", "end": "00:16:08.700", "speaker": "Micha? Furga?", "utterance": " Yes, alright So here we are the data part of the whole exporter and that's I think the most important untreatable part from all call big argerich misty."}
+{"start": "00:16:09.180", "end": "00:16:21.240", "speaker": "Micha? Furga?", "utterance": " This html or presentation of input file, which just has many, many fields, which represents the related of the reference to file the contents."}
+{"start": "00:16:22.380", "end": "00:16:23.130", "speaker": "Micha? Furga?", "utterance": " dyslexia."}
+{"start": "00:16:24.390", "end": "00:16:30.300", "speaker": "Micha? Furga?", "utterance": " which was, which is read by their ongoing from the input files."}
+{"start": "00:16:32.250", "end": "00:16:32.730", "speaker": "Micha? Furga?", "utterance": " Just."}
+{"start": "00:16:34.410", "end": "00:16:51.360", "speaker": "Micha? Furga?", "utterance": " iterate through every file inside the input folder and looks for certain look and looks for html files and the roots roots from this html under is raining inbound and outbound things and alexa from this input files."}
+{"start": "00:16:52.380", "end": "00:17:03.240", "speaker": "Micha? Furga?", "utterance": " And then it transforms the but input html input into I object oriented class which is visible here under the name of it and i'll file."}
+{"start": "00:17:03.960", "end": "00:17:21.960", "speaker": "Micha? Furga?", "utterance": " And so what is really good about this representation is that we can convert it into any other visual form if we have the we can get the data from the hypertext, then we can convert it into other html files or even."}
+{"start": "00:17:23.940", "end": "00:17:27.660", "speaker": "Micha? Furga?", "utterance": " into android windows or MAC applications."}
+{"start": "00:17:28.950", "end": "00:17:33.600", "speaker": "Micha? Furga?", "utterance": " All kinds of ebooks which can be used by."}
+{"start": "00:17:34.980", "end": "00:17:38.190", "speaker": "Micha? Furga?", "utterance": " readers are creators of hypertext."}
+{"start": "00:17:40.140", "end": "00:17:53.070", "speaker": "Mariusz Pisarski", "utterance": " If I may need help, just to remind our participants those basic concepts of inbound inbound connection and outbound connection or the segments."}
+{"start": "00:17:53.520", "end": "00:18:02.760", "speaker": "Mariusz Pisarski", "utterance": " Of the work that are that are leading to the place, we are currently reading and those segments of work that that will lead to where we currently are."}
+{"start": "00:18:03.390", "end": "00:18:16.230", "speaker": "Mariusz Pisarski", "utterance": " is actually enough, the information about these two two types of objects, is the Navajo creates to generate a tree structure of the whole work and what we have."}
+{"start": "00:18:17.280", "end": "00:18:25.710", "speaker": "Mariusz Pisarski", "utterance": " is saying now that having the tree structure but basic variety of files within folders and have connections."}
+{"start": "00:18:26.160", "end": "00:18:48.210", "speaker": "Mariusz Pisarski", "utterance": " incoming and outgoing is enough to give us link menu, to give us maps to give us any other imaginable structure that you want to visualize for the reader and one of those examples is that the hypertext a neighborhood map that we will be shipping a twilight."}
+{"start": "00:18:50.340", "end": "00:19:10.890", "speaker": "Micha? Furga?", "utterance": " Yes, one one important thing is what we are not just getting the text parts from the html file by using the so called or regular regular expressions, but we are actually realizing that the structure of html file and looking for interesting elements, so the."}
+{"start": "00:19:12.810", "end": "00:19:18.510", "speaker": "Micha? Furga?", "utterance": " Very good, think about this way of solving this problem by traumas in the html notes is that."}
+{"start": "00:19:19.800", "end": "00:19:20.160", "speaker": "None", "utterance": "The."}
+{"start": "00:19:21.360", "end": "00:19:31.140", "speaker": "Micha? Furga?", "utterance": " The input files can can be can have different infrastructures and i'll go ahead and look only for things, but we are interested in and."}
+{"start": "00:19:31.800", "end": "00:19:43.680", "speaker": "Micha? Furga?", "utterance": " Like like the inbound and outbound links so minor differences between the input files will not break the brilliant Calgary so it's I think it's interesting and maybe we'll go to the next."}
+{"start": "00:19:45.240", "end": "00:19:48.360", "speaker": "Micha? Furga?", "utterance": " interesting and think that we can show."}
+{"start": "00:19:50.040", "end": "00:19:51.780", "speaker": "Micha? Furga?", "utterance": " It wouldn't be the javascript."}
+{"start": "00:19:53.010", "end": "00:20:01.950", "speaker": "Micha? Furga?", "utterance": " files for the creation of math and my wish or so the javascript files from and links now or later."}
+{"start": "00:20:03.300", "end": "00:20:03.870", "speaker": "None", "utterance": "Experts."}
+{"start": "00:20:05.250", "end": "00:20:08.100", "speaker": "Mariusz Pisarski", "utterance": " We can we can show the javascript that."}
+{"start": "00:20:09.150", "end": "00:20:12.300", "speaker": "Mariusz Pisarski", "utterance": " that are responsible for display on the map as well."}
+{"start": "00:20:14.940", "end": "00:20:16.770", "speaker": "Micha? Furga?", "utterance": " I would have to export now."}
+{"start": "00:20:18.090", "end": "00:20:21.180", "speaker": "Micha? Furga?", "utterance": " The other have to use the portrait to."}
+{"start": "00:20:22.200", "end": "00:20:23.100", "speaker": "Mariusz Pisarski", "utterance": " Okay, all right."}
+{"start": "00:20:24.570", "end": "00:20:27.360", "speaker": "Micha? Furga?", "utterance": " So I think, maybe like maybe we'll do it."}
+{"start": "00:20:27.750", "end": "00:20:34.890", "speaker": "Mariusz Pisarski", "utterance": " In the later part of the model sure sure all right, and thank you very much, thank you very much me how and."}
+{"start": "00:20:35.880", "end": "00:20:36.750", "speaker": "Mariusz Pisarski", "utterance": " Let me."}
+{"start": "00:20:38.340", "end": "00:20:41.700", "speaker": "Mariusz Pisarski", "utterance": " continue with the next part of the."}
+{"start": "00:20:44.370", "end": "00:20:45.810", "speaker": "Mariusz Pisarski", "utterance": " of our presentation."}
+{"start": "00:20:47.130", "end": "00:20:49.590", "speaker": "Mariusz Pisarski", "utterance": " This is once again a."}
+{"start": "00:20:50.790", "end": "00:20:52.740", "speaker": "Mariusz Pisarski", "utterance": " turning back for some history."}
+{"start": "00:20:53.760", "end": "00:20:55.980", "speaker": "Mariusz Pisarski", "utterance": " just wanted to tell you."}
+{"start": "00:20:57.030", "end": "00:21:03.660", "speaker": "Mariusz Pisarski", "utterance": " That the origin of this particular project that we are doing now, it took place during the Michael joyce's."}
+{"start": "00:21:05.340", "end": "00:21:14.580", "speaker": "Mariusz Pisarski", "utterance": " Reading a last year that happened to celebrate the 20 years of afternoon, a story and sweat was dropped for."}
+{"start": "00:21:15.960", "end": "00:21:24.540", "speaker": "Mariusz Pisarski", "utterance": " Maybe this suggestion, why we don't use the already existing tools that we use in Polish translations to help."}
+{"start": "00:21:26.190", "end": "00:21:38.670", "speaker": "Mariusz Pisarski", "utterance": " authors who work with status mystery space to help them with their own works to be presented online and, and this is something that I truly believe will will serve."}
+{"start": "00:21:39.360", "end": "00:21:54.540", "speaker": "Mariusz Pisarski", "utterance": " We serve the stakeholders community and everyone would be able to to actually get the old files from our computers upload to our web application."}
+{"start": "00:21:55.230", "end": "00:22:08.280", "speaker": "Mariusz Pisarski", "utterance": " And then Kevin Kevin output, that is already fully functional and the only thing left for for an outdoor would be to just style it according to his own needs."}
+{"start": "00:22:10.230", "end": "00:22:10.980", "speaker": "Mariusz Pisarski", "utterance": " and"}
+{"start": "00:22:13.020", "end": "00:22:29.850", "speaker": "Mariusz Pisarski", "utterance": " It also informative for for our goals, was the experience of hypertext trouble cells for for auto such as you john for dina for Katrina cram for Richard colleton."}
+{"start": "00:22:30.480", "end": "00:22:43.440", "speaker": "Mariusz Pisarski", "utterance": " When we when we see the traverse all of the work that has been it has been record that to us after the original publication, we can see that that the voters are still."}
+{"start": "00:22:43.830", "end": "00:22:53.550", "speaker": "Mariusz Pisarski", "utterance": " fascinated that by the storytelling possibilities of that classical platform or storage space, this is something that this is still."}
+{"start": "00:22:54.840", "end": "00:23:06.180", "speaker": "Mariusz Pisarski", "utterance": " Meaningful in terms of the history of storytelling of narrative devices and hopefully tools as, as this will will carry the torch and."}
+{"start": "00:23:07.380", "end": "00:23:08.340", "speaker": "Mariusz Pisarski", "utterance": " Will will."}
+{"start": "00:23:12.180", "end": "00:23:17.460", "speaker": "Mariusz Pisarski", "utterance": " will present these works to new audiences because we've also seen."}
+{"start": "00:23:18.480", "end": "00:23:24.570", "speaker": "Mariusz Pisarski", "utterance": " During the trouble cells that that young young audiences are attracted to these forms of."}
+{"start": "00:23:27.690", "end": "00:23:44.070", "speaker": "Mariusz Pisarski", "utterance": " narrative structures, especially now perhaps when we see the emergence of the new software for filmmaking or personal writing management, such as obsidian who who promote."}
+{"start": "00:23:45.210", "end": "00:23:47.550", "speaker": "Mariusz Pisarski", "utterance": " Heavy linking and relational."}
+{"start": "00:23:48.870", "end": "00:24:03.570", "speaker": "Mariusz Pisarski", "utterance": " Structures So hopefully hopefully this this tool is also on a wave of written management interest in the network writing in the in the mainstream."}
+{"start": "00:24:06.600", "end": "00:24:07.920", "speaker": "Mariusz Pisarski", "utterance": " looks nice to."}
+{"start": "00:24:17.430", "end": "00:24:18.450", "speaker": "Mariusz Pisarski", "utterance": " See, we have a bit of."}
+{"start": "00:24:19.590", "end": "00:24:25.890", "speaker": "Mariusz Pisarski", "utterance": " The diagram adapt to me how is presenting in his poster for the conference."}
+{"start": "00:24:27.270", "end": "00:24:28.170", "speaker": "Mariusz Pisarski", "utterance": " Where we."}
+{"start": "00:24:30.720", "end": "00:24:37.320", "speaker": "Mariusz Pisarski", "utterance": " Where we have visually presents what is happening on a more abstract level with our power."}
+{"start": "00:24:39.150", "end": "00:24:43.620", "speaker": "Mariusz Pisarski", "utterance": " there's an input processor written in Java that takes."}
+{"start": "00:24:45.120", "end": "00:24:48.720", "speaker": "Mariusz Pisarski", "utterance": " It takes information from html."}
+{"start": "00:24:50.070", "end": "00:24:53.430", "speaker": "Mariusz Pisarski", "utterance": " source and that html source."}
+{"start": "00:24:55.110", "end": "00:25:11.460", "speaker": "Mariusz Pisarski", "utterance": " Initially, has been for us Polish version of play the symphony but then for January reading of Michael Joyce twilight to for the E electronically to chill out reversal NICO has obstructed."}
+{"start": "00:25:13.080", "end": "00:25:24.060", "speaker": "Mariusz Pisarski", "utterance": " All those functionalities present in the Polish twilight in order for it to be something completely autonomous and connect to the processor written in Java."}
+{"start": "00:25:24.690", "end": "00:25:39.090", "speaker": "Mariusz Pisarski", "utterance": " which then processes, the inbound and outbound links, along with the text content and outputs it in in a completely fresh but functional html html file."}
+{"start": "00:25:43.860", "end": "00:25:54.060", "speaker": "Mariusz Pisarski", "utterance": " The next section I would like to discuss is is also something probably very basic and quite well known to those of you present."}
+{"start": "00:25:56.190", "end": "00:26:03.960", "speaker": "Mariusz Pisarski", "utterance": " Both dina and john a half old Max probably of the homes and."}
+{"start": "00:26:06.180", "end": "00:26:16.890", "speaker": "Mariusz Pisarski", "utterance": " Try to sometimes connect but, as this old maps to a to a new software I don't know if you Rebecca have some old MACs at home."}
+{"start": "00:26:18.600", "end": "00:26:19.500", "speaker": "Mariusz Pisarski", "utterance": " You don't okay."}
+{"start": "00:26:20.670", "end": "00:26:34.530", "speaker": "Mariusz Pisarski", "utterance": " So basically the idea of of anyone to get out of this old file enclosed in this old exotic software like MacIntosh classic."}
+{"start": "00:26:35.670", "end": "00:26:55.260", "speaker": "Mariusz Pisarski", "utterance": " 7.5 or eight or nine is to in this case, to find a platform in bridge and the closest the closest the software or hardware bridge that can connect our new machine with that old machine."}
+{"start": "00:26:58.050", "end": "00:27:16.680", "speaker": "Mariusz Pisarski", "utterance": " And we are quite lucky us as readers and altos who worked with storage space, because this is a software that is being developed since 1987 published in 1989 and then."}
+{"start": "00:27:19.980", "end": "00:27:42.360", "speaker": "Mariusz Pisarski", "utterance": " Then at around 2001 2002 when storage space was in its version two and President on both MACs and windows it's the Center and software called tinderbox appeal tend to be state started shipping and developing heavily that tinderbox platform."}
+{"start": "00:27:43.380", "end": "00:27:57.210", "speaker": "Mariusz Pisarski", "utterance": " Who which borrows quite a bit of functionalities from storage space, such as maps and outline view and inbound outbound export."}
+{"start": "00:27:58.200", "end": "00:28:19.110", "speaker": "Mariusz Pisarski", "utterance": " macros for exporting the html and because what what followed was a was a decade of developing tinderbox to be a modern tool for not making an improved for managing your own writing a sort of a person or."}
+{"start": "00:28:21.450", "end": "00:28:23.430", "speaker": "Mariusz Pisarski", "utterance": " Writing assistant."}
+{"start": "00:28:25.140", "end": "00:28:37.290", "speaker": "Mariusz Pisarski", "utterance": " A these concepts out concepts of storage space preserved and were and are actually still developed and present a modern platforms."}
+{"start": "00:28:38.940", "end": "00:28:41.940", "speaker": "Mariusz Pisarski", "utterance": " And, in the end in around 2016."}
+{"start": "00:28:42.960", "end": "00:28:54.810", "speaker": "Mariusz Pisarski", "utterance": " started it started it started space free a came out and was being shipped by the East gate, but what is very interesting story space free is this."}
+{"start": "00:28:55.440", "end": "00:29:08.550", "speaker": "Mariusz Pisarski", "utterance": " A descendant of tinder box so circle sort of closed tinderbox came from storage space, but then the new storage space came out of a tinderbox."}
+{"start": "00:29:09.180", "end": "00:29:29.850", "speaker": "Mariusz Pisarski", "utterance": " Which which makes a very interesting and complex ecosystem of other the same or similar family of platforms and this gives an outdoor a translator and researcher a good opportunity to."}
+{"start": "00:29:31.920", "end": "00:29:32.490", "speaker": "Mariusz Pisarski", "utterance": " To."}
+{"start": "00:29:33.930", "end": "00:29:49.200", "speaker": "Mariusz Pisarski", "utterance": " to transfer those old functionalities of conditional linking of storage space maps from the from the platforms that are 30 to 25 or 30 years old, to modern platforms."}
+{"start": "00:29:49.650", "end": "00:30:05.010", "speaker": "Mariusz Pisarski", "utterance": " This is something that mark bearish trend is proud of and and I have to give it to him that, because of because of his tending of tinder box, which was a descendant of storage space, we have now."}
+{"start": "00:30:06.360", "end": "00:30:11.340", "speaker": "Mariusz Pisarski", "utterance": " We have now a platform, time is that it is able to accommodate."}
+{"start": "00:30:12.390", "end": "00:30:17.700", "speaker": "Mariusz Pisarski", "utterance": " Those old classical hypertext and to format which."}
+{"start": "00:30:18.720", "end": "00:30:20.430", "speaker": "Mariusz Pisarski", "utterance": " is coming out and the new."}
+{"start": "00:30:25.080", "end": "00:30:39.120", "speaker": "Mariusz Pisarski", "utterance": " But sadly in storage space free stopped supporting html export and this was probably a very commercially oriented decision on on the part of these gates."}
+{"start": "00:30:39.780", "end": "00:30:51.630", "speaker": "Mariusz Pisarski", "utterance": " So if we if we manage to open an altar space file in storage space free, we want to be even able to make a simple html part of that old file."}
+{"start": "00:30:53.340", "end": "00:30:59.070", "speaker": "Mariusz Pisarski", "utterance": " that's why, in order for us to to have a more fully functional."}
+{"start": "00:31:00.330", "end": "00:31:09.480", "speaker": "Mariusz Pisarski", "utterance": " hypertext classic in the online version, for example, we need to use software bridge which, in my case."}
+{"start": "00:31:10.770", "end": "00:31:16.320", "speaker": "Mariusz Pisarski", "utterance": " is solid place to start space to was probably the most."}
+{"start": "00:31:17.400", "end": "00:31:21.510", "speaker": "Mariusz Pisarski", "utterance": " developed and and web ready application."}
+{"start": "00:31:23.130", "end": "00:31:30.330", "speaker": "Mariusz Pisarski", "utterance": " By easy games and, unfortunately, a this is, it is now not supported by modern MAC."}
+{"start": "00:31:36.330", "end": "00:31:43.020", "speaker": "Mariusz Pisarski", "utterance": " So the workflow I recommend for any of us who who used to work in."}
+{"start": "00:31:44.700", "end": "00:32:03.420", "speaker": "Mariusz Pisarski", "utterance": " storage space windows or in storage space to or storage space, one is to is to have the old files open in storage space to and then export the storage space to file to a modern machine via USB ethernet cable or."}
+{"start": "00:32:05.520", "end": "00:32:15.990", "speaker": "Mariusz Pisarski", "utterance": " or a CD Rom and then open, it is in tinderbox and something that works, we are ready to go and we are ready to present our file."}
+{"start": "00:32:17.430", "end": "00:32:21.540", "speaker": "Mariusz Pisarski", "utterance": " In to it to our Java export."}
+{"start": "00:32:23.940", "end": "00:32:41.250", "speaker": "Mariusz Pisarski", "utterance": " i'm sure that it is it's sort of the king, it can seem a bit complicated, but in fact it is, it is really not in terms of easily pass and whoo which are freely available."}
+{"start": "00:32:42.270", "end": "00:32:46.770", "speaker": "Mariusz Pisarski", "utterance": " For anyone who buys the new media reader handbook."}
+{"start": "00:32:47.910", "end": "00:32:53.130", "speaker": "Mariusz Pisarski", "utterance": " We can just insert the CD into a into a."}
+{"start": "00:32:54.450", "end": "00:32:58.440", "speaker": "Mariusz Pisarski", "utterance": " Old Man that runs let's say."}
+{"start": "00:33:00.990", "end": "00:33:06.240", "speaker": "Mariusz Pisarski", "utterance": " let's say motto is tiger or motto is snow last part."}
+{"start": "00:33:07.740", "end": "00:33:10.950", "speaker": "Mariusz Pisarski", "utterance": " Which is able to run storage space to."}
+{"start": "00:33:12.150", "end": "00:33:15.090", "speaker": "Mariusz Pisarski", "utterance": " Then we open the file here."}
+{"start": "00:33:16.260", "end": "00:33:18.810", "speaker": "Mariusz Pisarski", "utterance": " isn't the past and the blue icons."}
+{"start": "00:33:19.980", "end": "00:33:27.690", "speaker": "Mariusz Pisarski", "utterance": " We open it in storage space to, and as soon as we open in disperse no space to We just need to save it."}
+{"start": "00:33:29.670", "end": "00:33:55.980", "speaker": "Mariusz Pisarski", "utterance": " And that saved file needs to be transported to a modern machine and then open in storage space once it's done, we are, we are good to go, we are good, to give a creator an export folder the zip that folder and and then our server application or Java."}
+{"start": "00:33:57.600", "end": "00:34:09.510", "speaker": "Mariusz Pisarski", "utterance": " transformer Java export them can put it can can input, you can pull it this the zipper into it and export the desired html."}
+{"start": "00:34:12.660", "end": "00:34:29.010", "speaker": "Mariusz Pisarski", "utterance": " In tinderbox this procedure is is quite quite simple, we just make sure that we have a preview of html export on each of the files that are open from the old hypertext then we."}
+{"start": "00:34:30.570", "end": "00:34:57.300", "speaker": "Mariusz Pisarski", "utterance": " Then we generate an html template within tinderbox by file html template in this html template we enter the export macro inbound links, and this is again for us to to get this basic storage space objects of inbound links and outbound links to give us the nodes that receipt our current."}
+{"start": "00:34:58.980", "end": "00:35:23.880", "speaker": "Mariusz Pisarski", "utterance": " Alexia and to those that the unbound and will follow up for our current meeting space, then our preview in tinderbox works Okay, and we, we have a list of inbound and outbound connections, we export that hypertext for that work into html and then we zip the folder."}
+{"start": "00:35:27.630", "end": "00:35:33.600", "speaker": "Mariusz Pisarski", "utterance": " And our age, a thunderbolt thunderbolt in their books export file can look."}
+{"start": "00:35:35.610", "end": "00:35:36.600", "speaker": "Mariusz Pisarski", "utterance": " us on this."}
+{"start": "00:35:38.040", "end": "00:35:46.950", "speaker": "Mariusz Pisarski", "utterance": " radio station, these are just the basic html markings of the headings and, within that."}
+{"start": "00:35:48.720", "end": "00:35:50.940", "speaker": "Mariusz Pisarski", "utterance": " Under the heading text links we have."}
+{"start": "00:35:52.320", "end": "00:36:14.010", "speaker": "Mariusz Pisarski", "utterance": " outbound basically outbound text links and then inbound basic things anything about Texas, this is this is enough for a single segment of the storage space classic hypertext to be ready to be processed for the modern web languages."}
+{"start": "00:36:20.430", "end": "00:36:37.260", "speaker": "Mariusz Pisarski", "utterance": " Do we have any questions at the moment because now is the time when when we will just presumed that that zip is already export that the folder is exported the zip is created, and now this is being passed through to me how cool work."}
+{"start": "00:36:39.690", "end": "00:36:42.060", "speaker": "Mariusz Pisarski", "utterance": " On the on the Java application."}
+{"start": "00:36:48.390", "end": "00:36:48.990", "speaker": "Deena Larsen", "utterance": " I was wondering."}
+{"start": "00:36:50.160", "end": "00:36:58.830", "speaker": "Deena Larsen", "utterance": " You talked about having to do these by hand, do you have to reprogram every single Alexia and every single link into this."}
+{"start": "00:37:00.150", "end": "00:37:02.130", "speaker": "Deena Larsen", "utterance": " html by hand or."}
+{"start": "00:37:03.420", "end": "00:37:07.470", "speaker": "Deena Larsen", "utterance": " Is this done in some automatic sense and then you have to check everything."}
+{"start": "00:37:10.470", "end": "00:37:11.340", "speaker": "Mariusz Pisarski", "utterance": " Thank you, thank you."}
+{"start": "00:37:11.430", "end": "00:37:13.950", "speaker": "Mariusz Pisarski", "utterance": " dina this is this is."}
+{"start": "00:37:14.400", "end": "00:37:30.990", "speaker": "Mariusz Pisarski", "utterance": " All automated so after after you, you are able away when we're able to import that original story space file like easy path and move in our example into a storage space to."}
+{"start": "00:37:32.370", "end": "00:37:39.840", "speaker": "Mariusz Pisarski", "utterance": " And then, after you are able to open that story space to save file in tinderbox."}
+{"start": "00:37:40.920", "end": "00:37:44.250", "speaker": "Mariusz Pisarski", "utterance": " Then it is just a question of following these."}
+{"start": "00:37:45.450", "end": "00:37:48.360", "speaker": "Mariusz Pisarski", "utterance": " few steps presented on this slide."}
+{"start": "00:37:50.250", "end": "00:37:52.800", "speaker": "Mariusz Pisarski", "utterance": " To make an html export."}
+{"start": "00:37:53.850", "end": "00:38:12.090", "speaker": "Mariusz Pisarski", "utterance": " Of of your hyper text that will already each single segment will already have a list of inbound links and outbound links that that are related to it, so this, this is already automated on the level of that tinderbox export and then."}
+{"start": "00:38:13.050", "end": "00:38:15.180", "speaker": "Mariusz Pisarski", "utterance": " On the Java application."}
+{"start": "00:38:15.210", "end": "00:38:23.190", "speaker": "Mariusz Pisarski", "utterance": " This will be feather automated and what you will receive in the end will be a an updated."}
+{"start": "00:38:24.630", "end": "00:38:32.790", "speaker": "Mariusz Pisarski", "utterance": " html structure extra folder that will have these functionalities such as link menu."}
+{"start": "00:38:33.870", "end": "00:38:38.100", "speaker": "Mariusz Pisarski", "utterance": " Reading history and the hypertext neighborhood map."}
+{"start": "00:38:39.750", "end": "00:38:47.490", "speaker": "Deena Larsen", "utterance": " When you say hypertext neighborhood map is that the actual map of the lexi aware they're placed within the screen and then you have."}
+{"start": "00:38:48.510", "end": "00:39:03.960", "speaker": "Deena Larsen", "utterance": " In storage space, you could click on Alexia in the map and then go down to the next level and see the lexi of that were there, so you had subspecies you had a horizontal as well as vertical map of three dimensions, if you know."}
+{"start": "00:39:06.000", "end": "00:39:08.400", "speaker": "Mariusz Pisarski", "utterance": " Our idea is to have."}
+{"start": "00:39:09.540", "end": "00:39:11.850", "speaker": "Mariusz Pisarski", "utterance": " If you're able to see this map."}
+{"start": "00:39:12.600", "end": "00:39:26.730", "speaker": "Mariusz Pisarski", "utterance": " That that comes straight from a D3 js framework this map is just showing an alexa called memory and it's a outbound connections."}
+{"start": "00:39:28.050", "end": "00:39:35.880", "speaker": "Mariusz Pisarski", "utterance": " On the export of these may pass, we will be able to see the same sort of structure, but also with inbound connections."}
+{"start": "00:39:38.730", "end": "00:40:03.000", "speaker": "Mariusz Pisarski", "utterance": " So this is a logical overlaid of that network neighborhood but our intention is to actually give you or reader an option of showing it either as a logical relation inbound outbound or within the old story space variety of folders within folders so they will be to have this now."}
+{"start": "00:40:03.210", "end": "00:40:09.060", "speaker": "Deena Larsen", "utterance": " Okay, so there will be the hierarchy of folders within folders Thank you that's so important."}
+{"start": "00:40:09.480", "end": "00:40:09.900", "speaker": "Mariusz Pisarski", "utterance": " Thank you."}
+{"start": "00:40:09.990", "end": "00:40:11.340", "speaker": "Mariusz Pisarski", "utterance": " I really wanted to."}
+{"start": "00:40:11.340", "end": "00:40:14.730", "speaker": "Mariusz Pisarski", "utterance": " implement this and, and this will be."}
+{"start": "00:40:15.060", "end": "00:40:15.930", "speaker": "Deena Larsen", "utterance": " This is crucial."}
+{"start": "00:40:16.170", "end": "00:40:27.300", "speaker": "Mariusz Pisarski", "utterance": " difficult because once once we have that three of the hypertext three mapped within the Java button, how is developing."}
+{"start": "00:40:27.720", "end": "00:40:45.030", "speaker": "Mariusz Pisarski", "utterance": " Then the karate karate is already there, the structure folders is already done is just a question of of presenting it as such, and here we start with that relational map, because this is the default default map of the day."}
+{"start": "00:40:45.150", "end": "00:40:46.860", "speaker": "Mariusz Pisarski", "utterance": " D3 js."}
+{"start": "00:40:47.070", "end": "00:40:48.900", "speaker": "Mariusz Pisarski", "utterance": " framework that we use."}
+{"start": "00:40:50.880", "end": "00:40:51.300", "speaker": "Mariusz Pisarski", "utterance": " Okay."}
+{"start": "00:40:51.840", "end": "00:40:54.780", "speaker": "Mariusz Pisarski", "utterance": " So Hello up there."}
+{"start": "00:40:55.110", "end": "00:40:56.400", "speaker": "Micha? Furga?", "utterance": " One addition to that."}
+{"start": "00:40:57.540", "end": "00:41:07.170", "speaker": "Micha? Furga?", "utterance": " tree structure we do we do actually have an algorithm which is creating that structure and converting it into abstract later structure is our job."}
+{"start": "00:41:08.340", "end": "00:41:09.120", "speaker": "Micha? Furga?", "utterance": " However."}
+{"start": "00:41:12.810", "end": "00:41:19.800", "speaker": "Micha? Furga?", "utterance": " But yes, we do have that algorithm this moment we will plan to use it in the future."}
+{"start": "00:41:21.750", "end": "00:41:34.860", "speaker": "Micha? Furga?", "utterance": " too, because for this moment we are visualizing visualizing a map with inbound and outbound links, but what with the data we currently have we could make a lot more advanced visualization of."}
+{"start": "00:41:37.980", "end": "00:41:54.030", "speaker": "Mariusz Pisarski", "utterance": " That that's why that's why dina is is really spot on of of that alters point of view, because both john and dina and anyone who wanted to start a space, I used to those hierarchical maps."}
+{"start": "00:41:56.400", "end": "00:41:56.550", "speaker": "None", "utterance": "Is."}
+{"start": "00:41:57.750", "end": "00:42:00.540", "speaker": "Micha? Furga?", "utterance": " This hi hi and I."}
+{"start": "00:42:01.020", "end": "00:42:02.370", "speaker": "Micha? Furga?", "utterance": " called my example."}
+{"start": "00:42:04.380", "end": "00:42:08.010", "speaker": "Micha? Furga?", "utterance": " My English very good, especially on this first."}
+{"start": "00:42:09.450", "end": "00:42:17.430", "speaker": "Micha? Furga?", "utterance": " We could make this additional types of mathematics, we would just we would we would need additional time to progress is not."}
+{"start": "00:42:17.940", "end": "00:42:30.780", "speaker": "Micha? Furga?", "utterance": " Well it's a trivial task to make a prototype of every of this mapping bus to make a more professional product with three you reusable components it's hard work to do, for one."}
+{"start": "00:42:32.520", "end": "00:42:37.380", "speaker": "Micha? Furga?", "utterance": " From if one for one program so much, I think we can now proceed to."}
+{"start": "00:42:38.160", "end": "00:42:40.140", "speaker": "Micha? Furga?", "utterance": " The DEMO the exporter."}
+{"start": "00:42:41.280", "end": "00:42:43.140", "speaker": "Micha? Furga?", "utterance": " So I will just share my screen."}
+{"start": "00:42:46.560", "end": "00:42:51.450", "speaker": "Micha? Furga?", "utterance": " So actually on this side story space expert online."}
+{"start": "00:42:52.980", "end": "00:43:01.140", "speaker": "Micha? Furga?", "utterance": " I have placed the button which which can redirect you to the directory with zip file containing a."}
+{"start": "00:43:02.310", "end": "00:43:06.600", "speaker": "Micha? Furga?", "utterance": " jar file and to example input files is me and to whoa."}
+{"start": "00:43:07.680", "end": "00:43:14.430", "speaker": "Micha? Furga?", "utterance": " So this jar file would work perfectly fine on windows I don't think it will work on MAC."}
+{"start": "00:43:16.170", "end": "00:43:16.830", "speaker": "None", "utterance": "But so."}
+{"start": "00:43:18.480", "end": "00:43:25.020", "speaker": "Micha? Furga?", "utterance": " So I was presented on my system on windows, I have downloaded already and we'll unzip it."}
+{"start": "00:43:27.270", "end": "00:43:39.330", "speaker": "Micha? Furga?", "utterance": " And what we get is to input files, and this is exported DEMO program after lunch program we get sound simple interface and sweet with one button."}
+{"start": "00:43:40.350", "end": "00:43:42.180", "speaker": "Micha? Furga?", "utterance": " And after pressing this button."}
+{"start": "00:43:43.380", "end": "00:43:50.490", "speaker": "Micha? Furga?", "utterance": " Will label points, the third one folder we can specify art director, which is with html files."}
+{"start": "00:43:51.690", "end": "00:44:02.100", "speaker": "Micha? Furga?", "utterance": " let's say, for example, I will copy this path for this directory places here and select this directory which he with a html files."}
+{"start": "00:44:04.020", "end": "00:44:10.380", "speaker": "Micha? Furga?", "utterance": " And the program will interprets all the inputs and outputs javascript files."}
+{"start": "00:44:11.850", "end": "00:44:23.550", "speaker": "Micha? Furga?", "utterance": " will only the stuff into the output folder the output folder we are will appear directly nearly as expected DEMO that jar file."}
+{"start": "00:44:24.240", "end": "00:44:45.570", "speaker": "Micha? Furga?", "utterance": " and through the, this is the content of the output directory, there are some images from libraries many, many html html files some CSS files files, we can open a new this file and what we can see the visual representation of the data which we gather."}
+{"start": "00:44:47.490", "end": "00:44:53.910", "speaker": "Micha? Furga?", "utterance": " This visual presentation has the math and science window, we can look up."}
+{"start": "00:44:54.990", "end": "00:45:00.780", "speaker": "Micha? Furga?", "utterance": " see where we are with regards to the album and things so."}
+{"start": "00:45:03.060", "end": "00:45:07.920", "speaker": "Micha? Furga?", "utterance": " And also, we what we get is the link money which we can use to."}
+{"start": "00:45:10.410", "end": "00:45:23.970", "speaker": "Micha? Furga?", "utterance": " Well, which I just had hyperlinks to other fragments inside this folder well, the important thing is, but we don't necessarily we don't really need to represent the whole."}
+{"start": "00:45:25.050", "end": "00:45:27.090", "speaker": "None", "utterance": "hypertext in."}
+{"start": "00:45:28.170", "end": "00:45:31.470", "speaker": "Micha? Furga?", "utterance": " This in this bunch of html files."}
+{"start": "00:45:32.580", "end": "00:45:42.720", "speaker": "Micha? Furga?", "utterance": " We can with that data we can represent an immediate, we have just chosen to do it in html5 for."}
+{"start": "00:45:44.280", "end": "00:45:50.070", "speaker": "Micha? Furga?", "utterance": " For the sake of the presentation on the DEMO and show that works and."}
+{"start": "00:45:51.360", "end": "00:46:05.550", "speaker": "Micha? Furga?", "utterance": " All of these fighters could just copy and paste it somewhere on the external server and travels like some other people that are still sometimes some pictures not speakers some links may be missing."}
+{"start": "00:46:07.470", "end": "00:46:10.590", "speaker": "Micha? Furga?", "utterance": " But most of them is present."}
+{"start": "00:46:11.430", "end": "00:46:16.620", "speaker": "Mariusz Pisarski", "utterance": " me how could you could use zoom in on a on a map is a bridge."}
+{"start": "00:46:17.730", "end": "00:46:31.560", "speaker": "Mariusz Pisarski", "utterance": " So for me who he who is not a technical guy really This is all already something very exciting, we have we've been with few minutes, we were able to get that roses."}
+{"start": "00:46:32.490", "end": "00:46:43.740", "speaker": "Mariusz Pisarski", "utterance": " From storage space to that Java program and then Java already exports, something that that is fully functioning, although of course."}
+{"start": "00:46:44.400", "end": "00:46:56.310", "speaker": "Mariusz Pisarski", "utterance": " It does not look as we would want it to look, but, as you can see, we have an inbound and outbound connection to the current fragment we have the link titles, something that dina mentions."}
+{"start": "00:46:56.820", "end": "00:47:05.160", "speaker": "Mariusz Pisarski", "utterance": " Here in the chat that she also wants to see, and we are really going I hope we are really going in the in the right."}
+{"start": "00:47:05.970", "end": "00:47:20.910", "speaker": "Mariusz Pisarski", "utterance": " direction and that twilight would be a demonstration of of what is possible within this framework, and also, we want to make you guys for you guys, to be able to to tweak your own templates."}
+{"start": "00:47:22.590", "end": "00:47:31.230", "speaker": "Mariusz Pisarski", "utterance": " To to implement your own aesthetics in that template that serves the other generation of the html."}
+{"start": "00:47:35.880", "end": "00:47:47.280", "speaker": "Micha? Furga?", "utterance": " So if here's another example we can drag this now is fully animated we are using the previous library to visualize usual allies Nelson connection between them."}
+{"start": "00:47:48.900", "end": "00:47:54.600", "speaker": "Micha? Furga?", "utterance": " What else could I show management, be the javascript file which connects to denounce and creates these notes."}
+{"start": "00:47:56.580", "end": "00:48:04.020", "speaker": "Mariusz Pisarski", "utterance": " Yes, yeah let's see now how the javascript looks this would be that structure."}
+{"start": "00:48:05.760", "end": "00:48:08.490", "speaker": "Mariusz Pisarski", "utterance": " Robin js right."}
+{"start": "00:48:09.420", "end": "00:48:10.530", "speaker": "None", "utterance": "So."}
+{"start": "00:48:13.980", "end": "00:48:18.420", "speaker": "Micha? Furga?", "utterance": " I think the most important part is the part where we create that connection."}
+{"start": "00:48:19.980", "end": "00:48:24.750", "speaker": "Micha? Furga?", "utterance": " Think is something amazing it's just a for loop which."}
+{"start": "00:48:26.310", "end": "00:48:31.560", "speaker": "Micha? Furga?", "utterance": " creates nodes pushes these notes into a graph and then comics is no so."}
+{"start": "00:48:32.640", "end": "00:48:34.740", "speaker": "Micha? Furga?", "utterance": " it's just a plain simple algorithm."}
+{"start": "00:48:36.390", "end": "00:48:46.950", "speaker": "Micha? Furga?", "utterance": " which uses the data and pushes it into the graph which then is used by the different as differentiate as library to visualize the nodes which we can see."}
+{"start": "00:48:48.030", "end": "00:48:55.680", "speaker": "Micha? Furga?", "utterance": " inside this window on the same library could be used for the for other kinds of maps so."}
+{"start": "00:49:00.210", "end": "00:49:02.700", "speaker": "Micha? Furga?", "utterance": " Another good file would be."}
+{"start": "00:49:03.780", "end": "00:49:05.130", "speaker": "Micha? Furga?", "utterance": " The links, that is."}
+{"start": "00:49:10.140", "end": "00:49:11.790", "speaker": "Micha? Furga?", "utterance": " This javascript file."}
+{"start": "00:49:12.870", "end": "00:49:15.060", "speaker": "Micha? Furga?", "utterance": " As one called function."}
+{"start": "00:49:18.150", "end": "00:49:19.320", "speaker": "Micha? Furga?", "utterance": " Well, also."}
+{"start": "00:49:20.490", "end": "00:49:26.160", "speaker": "Micha? Furga?", "utterance": " There is an automated algorithm which procedure, it creates."}
+{"start": "00:49:27.210", "end": "00:49:30.150", "speaker": "Micha? Furga?", "utterance": " The elements and pushes the title the age."}
+{"start": "00:49:31.590", "end": "00:49:33.660", "speaker": "Micha? Furga?", "utterance": " The hyperlinks into the."}
+{"start": "00:49:34.890", "end": "00:49:36.000", "speaker": "Micha? Furga?", "utterance": " window and."}
+{"start": "00:49:38.490", "end": "00:49:44.640", "speaker": "Micha? Furga?", "utterance": " Well it's how it is how it looks like I don't know if any of you is a programmer or even."}
+{"start": "00:49:45.750", "end": "00:49:46.230", "speaker": "Micha? Furga?", "utterance": " ever had."}
+{"start": "00:49:47.370", "end": "00:49:47.670", "speaker": "Micha? Furga?", "utterance": " An."}
+{"start": "00:49:48.840", "end": "00:49:56.970", "speaker": "Micha? Furga?", "utterance": " Experience with programming that's just an idea of how it all looks like on the international side."}
+{"start": "00:49:57.630", "end": "00:50:08.820", "speaker": "Mariusz Pisarski", "utterance": " And once again the concept of just these few basic concepts of inbound and outbound applause, the ref title, which is the title of the incoming."}
+{"start": "00:50:10.290", "end": "00:50:13.380", "speaker": "Mariusz Pisarski", "utterance": " incoming a segment of of hypertext."}
+{"start": "00:50:15.120", "end": "00:50:24.660", "speaker": "Mariusz Pisarski", "utterance": " Could we do the same me how with whoo whoo yes, so how how fast this this is going to go."}
+{"start": "00:50:25.620", "end": "00:50:26.280", "speaker": "Micha? Furga?", "utterance": " On again."}
+{"start": "00:50:27.750", "end": "00:50:49.680", "speaker": "Mariusz Pisarski", "utterance": " Also, an interesting an interesting data here is how many automated automation scripts succeeded, so if if easily fast let's say 300 300 segments, not all of them would be would be perfectly just like a try, but the."}
+{"start": "00:50:51.180", "end": "00:50:52.230", "speaker": "Mariusz Pisarski", "utterance": " migrated."}
+{"start": "00:50:54.090", "end": "00:50:54.600", "speaker": "Mariusz Pisarski", "utterance": " done."}
+{"start": "00:50:55.890", "end": "00:50:58.590", "speaker": "Micha? Furga?", "utterance": " So let's try with the moon and."}
+{"start": "00:50:59.730", "end": "00:51:06.330", "speaker": "Micha? Furga?", "utterance": " return the problem again let's enter the founder of the directory stopping."}
+{"start": "00:51:07.620", "end": "00:51:16.530", "speaker": "Micha? Furga?", "utterance": " points to do it for them by select and it's done already sounds finished is that really fast, less than one second."}
+{"start": "00:51:21.150", "end": "00:51:21.480", "speaker": "None", "utterance": "Can."}
+{"start": "00:51:22.680", "end": "00:51:23.070", "speaker": "None", "utterance": "open."}
+{"start": "00:51:25.350", "end": "00:51:26.280", "speaker": "Mariusz Pisarski", "utterance": " Mandela."}
+{"start": "00:51:32.160", "end": "00:51:33.120", "speaker": "Micha? Furga?", "utterance": " Mandela segment."}
+{"start": "00:51:33.900", "end": "00:51:35.550", "speaker": "Mariusz Pisarski", "utterance": " This is vendor."}
+{"start": "00:51:35.610", "end": "00:51:36.210", "speaker": "None", "utterance": "management."}
+{"start": "00:51:37.980", "end": "00:51:39.600", "speaker": "Mariusz Pisarski", "utterance": " Oh yes."}
+{"start": "00:51:45.000", "end": "00:52:06.930", "speaker": "Mariusz Pisarski", "utterance": " Of course we will we will try to have it as rectangles and at some point also have some control over how many of the connections of a visible, because this This is intended as an iPad and iPhone experience, even so, we don't want our readers to get completely."}
+{"start": "00:52:09.600", "end": "00:52:11.610", "speaker": "Mariusz Pisarski", "utterance": " completely overwhelmed by the."}
+{"start": "00:52:12.630", "end": "00:52:16.530", "speaker": "Mariusz Pisarski", "utterance": " that's interesting that Mandela had so many connections."}
+{"start": "00:52:17.910", "end": "00:52:19.980", "speaker": "Mariusz Pisarski", "utterance": " But yes, this is, this is something."}
+{"start": "00:52:22.890", "end": "00:52:44.640", "speaker": "Mariusz Pisarski", "utterance": " to remember how it looks and of course it's still a work in progress, thank you very much me how the disposable a great presentation of the of this each of the engine that gets pushed the input of the old story space or html file and outputs it in a."}
+{"start": "00:52:45.720", "end": "00:52:50.970", "speaker": "Mariusz Pisarski", "utterance": " In an environment that preserves those old functionalities as."}
+{"start": "00:52:52.470", "end": "00:52:53.100", "speaker": "Micha? Furga?", "utterance": " One of."}
+{"start": "00:52:53.130", "end": "00:53:07.080", "speaker": "Micha? Furga?", "utterance": " The addition manual sure I think it's important it's very important to note that this is just I core framework which allows to do all of these things it's not like one are going to create bunch of html files."}
+{"start": "00:53:07.560", "end": "00:53:22.440", "speaker": "Micha? Furga?", "utterance": " Is the whole complex unbelief which reads the data but puts it into an abstract object structures and then we can do anything that you want to the structures is like an abstract representation of the hypertext."}
+{"start": "00:53:23.370", "end": "00:53:44.610", "speaker": "Micha? Furga?", "utterance": " Which is passed from the tinderbox and in future can be parsed from any other html files or forums or other sources, so you can recognize your hypertext you could, I think I hope in the future when the announcements purely purely finished, you could circulate your."}
+{"start": "00:53:46.290", "end": "00:54:06.660", "speaker": "Micha? Furga?", "utterance": " For work with just one played by copying and pasting some input files and manually feeling clean any any votes spices like you think wings, but at this moment, the unwritten can export most of the fragments like more than 70% of the families are exported properly."}
+{"start": "00:54:07.860", "end": "00:54:08.310", "speaker": "None", "utterance": "So."}
+{"start": "00:54:09.480", "end": "00:54:12.990", "speaker": "Micha? Furga?", "utterance": " that's The one thing I would like, I wanted to add, thank you."}
+{"start": "00:54:13.290", "end": "00:54:17.490", "speaker": "Mariusz Pisarski", "utterance": " So, yes, we will work towards a situation that that."}
+{"start": "00:54:18.930", "end": "00:54:42.090", "speaker": "Mariusz Pisarski", "utterance": " input file that we serve to the to the engine is is not dependent on a tinderbox so this will be in a case for anyone who created to works outside of storage space platform and hopefully this will already be this will already be this will be quite quite soon."}
+{"start": "00:54:43.740", "end": "00:54:54.210", "speaker": "Mariusz Pisarski", "utterance": " I just want to finalize this section just by mentioning a few points about the future future of this of this project."}
+{"start": "00:54:58.980", "end": "00:55:17.790", "speaker": "Mariusz Pisarski", "utterance": " So far, we've been we've been working on it under the umbrella of electronic literature laugh, and that final product of this face would be quite at the symphony but then the next things arrives, and whatever we can build here."}
+{"start": "00:55:18.990", "end": "00:55:36.330", "speaker": "Mariusz Pisarski", "utterance": " will be then further developed under the research grant Danielle for the next two to three years and hopefully this will turn into a tool, a writing tool, a collaborative platform."}
+{"start": "00:55:36.960", "end": "00:55:49.890", "speaker": "Mariusz Pisarski", "utterance": " That will use the the maps and the concept of storage space in this in this new environment and beyond 2003 I think."}
+{"start": "00:55:51.120", "end": "00:55:55.530", "speaker": "Mariusz Pisarski", "utterance": " This project will branch into into some."}
+{"start": "00:55:57.690", "end": "00:55:58.740", "speaker": "Mariusz Pisarski", "utterance": " Some flagship."}
+{"start": "00:55:59.850", "end": "00:56:09.450", "speaker": "Mariusz Pisarski", "utterance": " flagship products of that will be then promoted within that electronic literature Center that is being founded in Poland as we speak."}
+{"start": "00:56:10.320", "end": "00:56:32.340", "speaker": "Mariusz Pisarski", "utterance": " So it all looks that anything we do at the moment anything we do towards publication of twilight and towards building this tool for translators and authors will then live on and and inspire both offers and readers and researchers of electronic literature."}
+{"start": "00:56:34.020", "end": "00:56:37.530", "speaker": "Mariusz Pisarski", "utterance": " Thank you very much and it's time for questions."}
+{"start": "00:56:40.380", "end": "00:56:46.500", "speaker": "Mariusz Pisarski", "utterance": " And thank you very much for the chat because it's yes, thank you for all the suggestions on the chart."}
+{"start": "00:56:48.600", "end": "00:56:51.630", "speaker": "Mariusz Pisarski", "utterance": " From the NIH and john Rebecca."}
+{"start": "00:56:52.650", "end": "00:57:06.090", "speaker": "Track Two", "utterance": " Conference Admin: marsh I came back late, but I was wondering if you could tell you a little bit more about the plans for the electronic literature Center and in Poland is that going to be Cracow based project or about."}
+{"start": "00:57:07.500", "end": "00:57:12.480", "speaker": "Mariusz Pisarski", "utterance": " The base of the moment is, allow me to give each University in paul's nine but."}
+{"start": "00:57:14.070", "end": "00:57:25.740", "speaker": "Mariusz Pisarski", "utterance": " A the plans are for it to be a truly a truly a wider project not bound to any university, we would like the the."}
+{"start": "00:57:27.960", "end": "00:57:43.740", "speaker": "Mariusz Pisarski", "utterance": " The Center to be placed in different universities at different times the Board will stay the same, and the Board will be comprised of people from all over Poland, but we also plan to have some boards from the International."}
+{"start": "00:57:45.930", "end": "00:57:50.190", "speaker": "Mariusz Pisarski", "utterance": " area, so we really will be just starting i'm."}
+{"start": "00:57:51.600", "end": "00:58:04.950", "speaker": "Mariusz Pisarski", "utterance": " At the moment at the position of Secretary of the of the research Center of that Center and as we typing it's come from other mysterious university is leading the the whole."}
+{"start": "00:58:06.150", "end": "00:58:20.250", "speaker": "Mariusz Pisarski", "utterance": " The whole initiating and hopefully by the end of this month, we will be able to announce that the Center has been created and will be inviting people to join in for the for the ball to advise us how we can then."}
+{"start": "00:58:21.390", "end": "00:58:22.080", "speaker": "Mariusz Pisarski", "utterance": " offer right."}
+{"start": "00:58:23.220", "end": "00:58:24.660", "speaker": "Track Two", "utterance": " Conference Admin: You should probably also."}
+{"start": "00:58:25.890", "end": "00:58:31.170", "speaker": "Track Two", "utterance": " Conference Admin: get in touch with Joe tabby about the consortium for electronic literature."}
+{"start": "00:58:32.040", "end": "00:58:35.910", "speaker": "Track Two", "utterance": " Conference Admin: Yes, and we talked a little bit about stuff like this, but."}
+{"start": "00:58:36.930", "end": "00:58:40.560", "speaker": "Track Two", "utterance": " Conference Admin: It would be good for whatever sort of database or."}
+{"start": "00:58:41.580", "end": "00:58:48.030", "speaker": "Track Two", "utterance": " Conference Admin: archive that you end up developing out of it for to go out of the box, be able to work with the soul search engine."}
+{"start": "00:58:48.840", "end": "00:58:54.690", "speaker": "Mariusz Pisarski", "utterance": " Absolutely, the Polish repository of it will be will be one of the first."}
+{"start": "00:58:55.830", "end": "00:59:00.360", "speaker": "Mariusz Pisarski", "utterance": " First, products or results of that data Center will come up."}
+{"start": "00:59:06.570", "end": "00:59:11.730", "speaker": "Deena Larsen", "utterance": " When you have this as a writing tool which will be amazing if it's going to help."}
+{"start": "00:59:13.410", "end": "00:59:24.450", "speaker": "Deena Larsen", "utterance": " story space has really been the only way to visualize the relationships between nodes and Alexia I think for students and that horizontal vertical."}
+{"start": "00:59:24.720", "end": "00:59:39.690", "speaker": "Deena Larsen", "utterance": " As john mcdade was saying, 2.5 reality, you know 2.5 dimension reality is going to be huge when you have that writing space, and thank you for it, how about be distributed, how will people know about it."}
+{"start": "00:59:41.940", "end": "00:59:43.050", "speaker": "None", "utterance": "be able to say."}
+{"start": "00:59:44.100", "end": "00:59:48.900", "speaker": "Mariusz Pisarski", "utterance": " Thank you, thank you very much Dean, and the goals of the during up P l."}
+{"start": "00:59:50.280", "end": "00:59:58.230", "speaker": "Mariusz Pisarski", "utterance": " Research grant is to is to present the tools that are ready to use open source and I used in a classroom."}
+{"start": "00:59:59.580", "end": "01:00:05.100", "speaker": "Mariusz Pisarski", "utterance": " So this will be something that is completely open not not behind a paywall."}
+{"start": "01:00:05.670", "end": "01:00:17.520", "speaker": "Mariusz Pisarski", "utterance": " And the collaborative collaborative potential of the tool will be tested on a group of authors, who created a Polish online collaborative fiction pieces through a."}
+{"start": "01:00:18.270", "end": "01:00:33.810", "speaker": "Mariusz Pisarski", "utterance": " few years ago, published by heart and now the same group of people will be creating a pixels do 2.0 and they will be already working on that on this new platform."}
+{"start": "01:00:34.890", "end": "01:00:43.950", "speaker": "Mariusz Pisarski", "utterance": " So we can we got funding for this, and hopefully this will be, this will be one of the main results of the whole research grant."}
+{"start": "01:00:45.210", "end": "01:00:54.870", "speaker": "Mariusz Pisarski", "utterance": " says, an amazing opportunity to actually carry the idea of that were developed and storage space further into the into the future."}
+{"start": "01:00:56.160", "end": "01:00:59.880", "speaker": "Deena Larsen", "utterance": " it'll be wonderful i'm wondering if there's going to be any connections with twine."}
+{"start": "01:01:03.390", "end": "01:01:06.660", "speaker": "Mariusz Pisarski", "utterance": " or twine at the moment is used as a prototyping."}
+{"start": "01:01:09.690", "end": "01:01:14.820", "speaker": "Mariusz Pisarski", "utterance": " But i'm not sure about the connectivity maybe."}
+{"start": "01:01:16.170", "end": "01:01:20.190", "speaker": "Mariusz Pisarski", "utterance": " Maybe the we might implement some import options."}
+{"start": "01:01:21.270", "end": "01:01:29.640", "speaker": "Deena Larsen", "utterance": " yeah that might be good, and I noticed, and I put this in the chat as well on the way that you have the vision with the circular and."}
+{"start": "01:01:29.970", "end": "01:01:47.100", "speaker": "Deena Larsen", "utterance": " The links in so very similar to what America hand off he did with the dictionary of the revolution it's beautiful and I was in touch with America, and she was like yeah our programmers would be happy to help and provide that type of javascript so."}
+{"start": "01:01:49.290", "end": "01:01:54.450", "speaker": "Deena Larsen", "utterance": " If you need that connection, that would be great That would be a really nice interface."}
+{"start": "01:01:55.290", "end": "01:02:04.560", "speaker": "Mariusz Pisarski", "utterance": " Thank you, thank you, this is, this is a very important work now globally and if we can cooperate with the programmers that would be fantastic."}
+{"start": "01:02:04.980", "end": "01:02:27.570", "speaker": "Mariusz Pisarski", "utterance": " Because actually we have already feels or at times feels the pressure of being the only programmer hundred job and and definitely someone who would through some ideas or a helping hand, give a helping hand, would be very welcome great Thank you very much i'll be i'll be in touch."}
+{"start": "01:02:28.500", "end": "01:02:36.480", "speaker": "Deena Larsen", "utterance": " Also, with this um if you guys ever when you get it, you know, in the next few years, hopefully we'll have the second Tuesday yellow salon going forever."}
+{"start": "01:02:38.040", "end": "01:02:39.420", "speaker": "Deena Larsen", "utterance": " If you want to DEMO it then."}
+{"start": "01:02:41.220", "end": "01:02:43.740", "speaker": "Deena Larsen", "utterance": " feel free to get a spot you know just email me for that."}
+{"start": "01:02:44.610", "end": "01:02:45.360", "speaker": "None", "utterance": "Absolutely."}
+{"start": "01:02:46.950", "end": "01:02:47.430", "speaker": "Mariusz Pisarski", "utterance": " We will."}
+{"start": "01:02:52.980", "end": "01:02:54.660", "speaker": "Deena Larsen", "utterance": " it's amazing work that you're doing."}
+{"start": "01:02:55.470", "end": "01:03:18.120", "speaker": "Mariusz Pisarski", "utterance": " Thank you, I have actually one questions for for you, one question for you about the the path object in storage space, this is something that has been in use in in storage space one and in storage space to there was there wasn't an object called think bath right."}
+{"start": "01:03:19.980", "end": "01:03:32.370", "speaker": "Mariusz Pisarski", "utterance": " Apart from link title, there was a category of links that you could actually subscribe to, or name that link that you are creating or."}
+{"start": "01:03:33.630", "end": "01:03:37.050", "speaker": "Mariusz Pisarski", "utterance": " or put it under the umbrella of a specific path."}
+{"start": "01:03:41.040", "end": "01:03:45.570", "speaker": "Deena Larsen", "utterance": " yeah I actually never used I don't think i've ever used that tool, particularly."}
+{"start": "01:03:47.010", "end": "01:03:47.730", "speaker": "Deena Larsen", "utterance": " And this is something I."}
+{"start": "01:03:49.260", "end": "01:03:50.160", "speaker": "Mariusz Pisarski", "utterance": " gave up on."}
+{"start": "01:03:51.270", "end": "01:03:58.740", "speaker": "Deena Larsen", "utterance": " But you know who did do it bill bly they'll apply use that object, for we decided we got to get in touch with him."}
+{"start": "01:03:59.040", "end": "01:03:59.490", "speaker": "Mariusz Pisarski", "utterance": " mm hmm."}
+{"start": "01:04:00.630", "end": "01:04:02.130", "speaker": "Mariusz Pisarski", "utterance": " Exactly yes."}
+{"start": "01:04:02.190", "end": "01:04:02.910", "speaker": "Deena Larsen", "utterance": " Oh no oh."}
+{"start": "01:04:04.830", "end": "01:04:07.590", "speaker": "Deena Larsen", "utterance": " yeah oh yeah he was talking to me about that one time."}
+{"start": "01:04:08.520", "end": "01:04:11.430", "speaker": "Deena Larsen", "utterance": " So use that object to distinguish between the."}
+{"start": "01:04:11.850", "end": "01:04:21.330", "speaker": "Deena Larsen", "utterance": " characters and if you had read a dangerous path, then he used that objects that you could get on to the ancients."}
+{"start": "01:04:22.680", "end": "01:04:23.190", "speaker": "Mariusz Pisarski", "utterance": " yeah."}
+{"start": "01:04:23.250", "end": "01:04:29.400", "speaker": "Deena Larsen", "utterance": " I am giving you a very small mattered recollection so please get directly with bill he's wonderful."}
+{"start": "01:04:30.240", "end": "01:04:45.480", "speaker": "Mariusz Pisarski", "utterance": " Thank you, thank you that's a very, very good good idea, because we're thinking about recreating the paths, but I still did not have any idea how to start but big wins work would be a great great mentor."}
+{"start": "01:04:46.620", "end": "01:04:51.450", "speaker": "Deena Larsen", "utterance": " yeah you know he's got we descend completely in tinderbox as well as on the web."}
+{"start": "01:04:52.470", "end": "01:04:56.010", "speaker": "Deena Larsen", "utterance": " Man, he is going to kill you guys because he could have saved himself a lot of work."}
+{"start": "01:04:58.860", "end": "01:04:59.280", "speaker": "Mariusz Pisarski", "utterance": " Yes."}
+{"start": "01:05:01.350", "end": "01:05:03.360", "speaker": "Mariusz Pisarski", "utterance": " i'll be in touch with bill, and thank you."}
+{"start": "01:05:03.480", "end": "01:05:03.960", "speaker": "None", "utterance": "Okay."}
+{"start": "01:05:06.780", "end": "01:05:09.450", "speaker": "Deena Larsen", "utterance": " yeah he had to tediously do that all by hand."}
+{"start": "01:05:16.380", "end": "01:05:20.970", "speaker": "Track Two", "utterance": " Conference Admin: I think i'll stop the recording now i'm Irish if that's okay."}

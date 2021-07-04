@@ -17,4 +17,5 @@ python_louvain
 networkx
 matplotlib
 community
+webvtt-py
 pygraphviz

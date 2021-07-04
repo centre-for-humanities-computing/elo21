@@ -1,0 +1,345 @@
+{"start": "00:00:00.000", "end": "00:00:04.000", "speaker": "None", "utterance": "Hello and welcome everyone. Welcome to translating and visualizing storage space classics for the web, and an evolving user friendly"}
+{"start": "00:00:04.000", "end": "00:00:08.000", "speaker": "None", "utterance": "user friendly framework. This is a presentation and workshop."}
+{"start": "00:00:08.000", "end": "00:00:27.000", "speaker": "None", "utterance": "My name is Manish Pisarski, and we've missed me how for ago. We both affiliated in university of information technology in the management and the rational, but also when I'm research."}
+{"start": "00:00:27.000", "end": "00:00:46.000", "speaker": "None", "utterance": "at Washington State State University Vancouver, where we are working for some time now on this on this framework, which has three, three names of free tags I'm getting to it."}
+{"start": "00:00:46.000", "end": "00:00:53.000", "speaker": "None", "utterance": "Firstly, I'm calling it an automated DIY storage space exporter."}
+{"start": "00:00:53.000", "end": "00:01:00.000", "speaker": "None", "utterance": "A hypertext archaeology toolkit. And then it translators toolkit."}
+{"start": "00:01:00.000", "end": "00:01:22.000", "speaker": "None", "utterance": "And as such, the tool, we are developing is targeted towards translators of electronic literature for authors who have written their works and in on old systems in the storage space, and other early web platforms for researchers and for publishers who"}
+{"start": "00:01:22.000", "end": "00:01:38.000", "speaker": "None", "utterance": "would want to take the old files from old platforms and presented within modern open with languages, what is important to say, of the beginning is that this is not a tool for readers."}
+{"start": "00:01:38.000", "end": "00:01:47.000", "speaker": "None", "utterance": "As such, this is a tool for those who will then present a reading experience for for the audience."}
+{"start": "00:01:47.000", "end": "00:02:02.000", "speaker": "None", "utterance": "day result of our work on on this particular project will be Michael Joyce's Twilight Symphony, an online version that is planned to be premiered in July 2021."}
+{"start": "00:02:02.000", "end": "00:02:18.000", "speaker": "None", "utterance": "And let me guys show you just some screenshots of how it looks like and where we are at the moment."}
+{"start": "00:02:18.000", "end": "00:02:23.000", "speaker": "None", "utterance": "Okay."}
+{"start": "00:02:23.000", "end": "00:02:27.000", "speaker": "None", "utterance": "is the screenshot of Twilight visible."}
+{"start": "00:02:27.000", "end": "00:02:31.000", "speaker": "None", "utterance": "Yes."}
+{"start": "00:02:31.000", "end": "00:02:44.000", "speaker": "None", "utterance": "This is a one of the, one of the possible screens for Michaels over 320 likes Yes."}
+{"start": "00:02:44.000", "end": "00:03:01.000", "speaker": "None", "utterance": "What we present or what what functionalities are being ported from storage space is a bit changed from whatever we have done previously with storage space classics was translating the words from storage space."}
+{"start": "00:03:01.000", "end": "00:03:03.000", "speaker": "None", "utterance": "We want to have."}
+{"start": "00:03:03.000", "end": "00:03:23.000", "speaker": "None", "utterance": "Apart from a link menu or roadmap, we want to have for the first time, storage space maps ported to the online platform, a relational map or logical connection smart or something that I call the network neighborhood mob also implemented."}
+{"start": "00:03:23.000", "end": "00:03:30.000", "speaker": "None", "utterance": "Apart from conditional linking and random linking present in Twilight."}
+{"start": "00:03:30.000", "end": "00:03:39.000", "speaker": "None", "utterance": "We want these functionalities to work completely on full throttle without any compromises."}
+{"start": "00:03:39.000", "end": "00:04:04.000", "speaker": "None", "utterance": "And the idea of the tool, we want to present to you guys is that all these functionalities will not be bound to a twilight Symphony, but will be given to translators to altars and to anyone who has written the work, 30 2020 years ago on these platforms"}
+{"start": "00:04:04.000", "end": "00:04:17.000", "speaker": "None", "utterance": "and who is interested in presenting it today to their audience, which, which, of course, have grown exponentially from from that time."}
+{"start": "00:04:17.000", "end": "00:04:31.000", "speaker": "None", "utterance": "So, the point of this workshop is first to just give a quick background but with, with this audience that we have here I don't think much of the background is needed"}
+{"start": "00:04:31.000", "end": "00:04:34.000", "speaker": "None", "utterance": "some technical introduction."}
+{"start": "00:04:34.000", "end": "00:04:48.000", "speaker": "None", "utterance": "A short, short workflow of something that I called the platform bridge workflow, and then demonstrate to the framework in action, and give some time for questions"}
+{"start": "00:04:48.000", "end": "00:05:03.000", "speaker": "None", "utterance": "at the end of the workshop hopefully we will have some more or less vague idea on how to extract out stories by style to where new software and hardware environment, how to prepare."}
+{"start": "00:05:03.000", "end": "00:05:20.000", "speaker": "None", "utterance": "Such file for an automated reporting and how to upload the input zip to their web or Java app, and how to get the output zip from the exporter or from that Java app."}
+{"start": "00:05:20.000", "end": "00:05:28.000", "speaker": "None", "utterance": "In order to further, modify it, and publish it yourself."}
+{"start": "00:05:28.000", "end": "00:05:29.000", "speaker": "None", "utterance": "A."}
+{"start": "00:05:29.000", "end": "00:05:42.000", "speaker": "None", "utterance": "Since the since play like will be debuting in. In July, we still not there yet, there is some CSS styling needed some more work on stories base map."}
+{"start": "00:05:42.000", "end": "00:06:01.000", "speaker": "None", "utterance": "They will also be some procedures for manual overwriting of the automated output, and also will be will be presenting the finished toolkit, with a conditional link forms for anyone of the ultra, especially, who used conditional linking and storage space"}
+{"start": "00:06:01.000", "end": "00:06:15.000", "speaker": "None", "utterance": "to be able to fine tune for his hypertext, an ED conditional links to the places where it is. It has been implemented"}
+{"start": "00:06:15.000", "end": "00:06:27.000", "speaker": "None", "utterance": "our platform, or our, our place so window for the world will be on the storage space export their online website."}
+{"start": "00:06:27.000", "end": "00:06:46.000", "speaker": "None", "utterance": "And today will be working on the two examples of autism pass by Colin grey matter Patreon Michael Joyce the published in 1991 in the writing on the edge and then republished on the CD ROM in the new media reader."}
+{"start": "00:06:46.000", "end": "00:07:02.000", "speaker": "None", "utterance": "And also, as an example, as a secondary example on. Whoo, by Michael Joyce published on the same issue of New River. And in the same CD ROM that combine it, new media."}
+{"start": "00:07:02.000", "end": "00:07:05.000", "speaker": "None", "utterance": "And this is the set background."}
+{"start": "00:07:05.000", "end": "00:07:07.000", "speaker": "None", "utterance": "I just want to tell."}
+{"start": "00:07:07.000", "end": "00:07:18.000", "speaker": "None", "utterance": "For those who don't know, but I guess everyone knows that we are not inventing anything, anything from scratch, we are not opening the doors that has been already open."}
+{"start": "00:07:18.000", "end": "00:07:23.000", "speaker": "None", "utterance": "Some porting examples have appeared earlier."}
+{"start": "00:07:23.000", "end": "00:07:31.000", "speaker": "None", "utterance": "Specifically, one on not an anthology of postmodern fiction, the which published an afternoon a story."}
+{"start": "00:07:31.000", "end": "00:07:55.000", "speaker": "None", "utterance": "Online expert, that, that was advertised and combining the print the printed apology. Then there was the Robert candles word connection news, a very nice JavaScript framework for porting, the basic concept of storage space to the online environment."}
+{"start": "00:07:55.000", "end": "00:08:08.000", "speaker": "None", "utterance": "And of course there were the web versions of of storage space works, such as Victory Garden and marvelous things on his gates website."}
+{"start": "00:08:08.000", "end": "00:08:24.000", "speaker": "None", "utterance": "And another prominent very important example of of a web version is Dina Larson's wiki version of marble springs in terms of these gates demos. These were of course the abridged additions."}
+{"start": "00:08:24.000", "end": "00:08:44.000", "speaker": "None", "utterance": "In terms of the Dina's version of marble springs. This is a full encyclopedic project, and basically we can say that, but many, many functionalities and basically all of the free versions of marble springs are present."}
+{"start": "00:08:44.000", "end": "00:08:49.000", "speaker": "None", "utterance": "online within this project."}
+{"start": "00:08:49.000", "end": "00:08:53.000", "speaker": "None", "utterance": "We are also building on our own shoulders."}
+{"start": "00:08:53.000", "end": "00:09:02.000", "speaker": "None", "utterance": "In, in 2012, we have published in Poland, a Polish version of afternoon the story."}
+{"start": "00:09:02.000", "end": "00:09:20.000", "speaker": "None", "utterance": "This was made in XML and XSLT transformer for the browser experience not online yet because of his dates limitations or licensing connected to two after me."}
+{"start": "00:09:20.000", "end": "00:09:31.000", "speaker": "None", "utterance": "Afternoon story. Then we've got the full green lights to publish online Twilight the symphony in Polish in 2015."}
+{"start": "00:09:31.000", "end": "00:09:38.000", "speaker": "None", "utterance": "This was a first fully functioning gate is the work"}
+{"start": "00:09:38.000", "end": "00:09:39.000", "speaker": "None", "utterance": "on the line."}
+{"start": "00:09:39.000", "end": "00:10:00.000", "speaker": "None", "utterance": "And for many many readers, even American audience. It was the first time they could actually access Twilight, and Symphony, because by that time it was, it was already something of a abandon where because it really was not the readers were not really"}
+{"start": "00:10:00.000", "end": "00:10:05.000", "speaker": "None", "utterance": "able to open it on any modern platform for for many years."}
+{"start": "00:10:05.000", "end": "00:10:07.000", "speaker": "None", "utterance": "And then the latest."}
+{"start": "00:10:07.000", "end": "00:10:29.000", "speaker": "None", "utterance": "The latest project in this line of porting migrating and translating of these great classics, his fingers get fit for an acid, which has been just published in the by the team on electronic digital literature lab, and it's a it's a fantastic publishing"}
+{"start": "00:10:29.000", "end": "00:10:39.000", "speaker": "None", "utterance": "project with contemporary edition and Classic Edition, and lots of functionalities mapping."}
+{"start": "00:10:39.000", "end": "00:10:45.000", "speaker": "None", "utterance": "Also present"}
+{"start": "00:10:45.000", "end": "00:10:48.000", "speaker": "None", "utterance": "on all of these."}
+{"start": "00:10:48.000", "end": "00:11:14.000", "speaker": "None", "utterance": "In all of these publications that we supervise in Poland, the, the main premise was to preserve the basic story space concepts of conditional links, basically motor links random links and link buffs, which was not not always easy."}
+{"start": "00:11:14.000", "end": "00:11:25.000", "speaker": "None", "utterance": "And many of these were preserved, but we have never made a storage space map possible in online versions."}
+{"start": "00:11:25.000", "end": "00:11:33.000", "speaker": "None", "utterance": "Just to make you aware of how these previous projects were made."}
+{"start": "00:11:33.000", "end": "00:11:58.000", "speaker": "None", "utterance": "There was a lot of manual work on translating translating conditional links into the online versions as simple JavaScript. Part of my basic condition on the link a basic God fee which which which,"}
+{"start": "00:11:58.000", "end": "00:12:06.000", "speaker": "None", "utterance": "which was telling the reader to go to a certain place only under a condition."}
+{"start": "00:12:06.000", "end": "00:12:11.000", "speaker": "None", "utterance": "A form of simple equation. few equals v."}
+{"start": "00:12:11.000", "end": "00:12:30.000", "speaker": "None", "utterance": "And then these stood for visitors. And then it was the god feet of a place that a leader must have must have not visited before activating the link and then a simple, simple logical of yes or no."}
+{"start": "00:12:30.000", "end": "00:12:37.000", "speaker": "None", "utterance": "If visitor if reader visited a place called weather report."}
+{"start": "00:12:37.000", "end": "00:12:53.000", "speaker": "None", "utterance": "Visit David went to place number one, if not the reader, went to place. Number, the number zero, and a single link in this online version."}
+{"start": "00:12:53.000", "end": "00:13:16.000", "speaker": "None", "utterance": "a single link, a single a talk of HTML used to have from one to 12, sometimes to 25, different trips, and they were numbered. Jeff one was number 021 for free TF to free to, etc."}
+{"start": "00:13:16.000", "end": "00:13:21.000", "speaker": "None", "utterance": "Sometimes, in order to do a"}
+{"start": "00:13:21.000", "end": "00:13:42.000", "speaker": "None", "utterance": "god fields for a complicated link. I had to manually write that long equation. In order for JavaScript to correctly interpret what what Michael Joy's plan for a given link and it will."}
+{"start": "00:13:42.000", "end": "00:13:54.000", "speaker": "None", "utterance": "The work on these conditions and testing of these conditions lasted for months."}
+{"start": "00:13:54.000", "end": "00:14:14.000", "speaker": "None", "utterance": "These other those other concepts of storage space that we're only on the harmfully have automated in the previous previous online parts, and that's that new on the map of connections that we want to implement in the 28% for the English online."}
+{"start": "00:14:14.000", "end": "00:14:29.000", "speaker": "None", "utterance": "We also want to implement a breath cramp. This is just a simple navigational tool but quite important for users for readers who might feel lost within the network."}
+{"start": "00:14:29.000", "end": "00:14:34.000", "speaker": "None", "utterance": "But the basic navigational tool, would be map, and that roadmap."}
+{"start": "00:14:34.000", "end": "00:14:38.000", "speaker": "None", "utterance": "Link manga."}
+{"start": "00:14:38.000", "end": "00:15:02.000", "speaker": "None", "utterance": "So, I would go in this in this project was to automate the manual labor. into into have two key objectives to manipulate those basic objects of storage space on the temporal and spatial axis, the temporal is a work on the history of reading, and the spatial"}
+{"start": "00:15:02.000", "end": "00:15:09.000", "speaker": "None", "utterance": "is is a work on the logic of connections of conditional linking."}
+{"start": "00:15:09.000", "end": "00:15:32.000", "speaker": "None", "utterance": "And I think this would be a good time for me to introduce you to me how, and perhaps show how some of these basic concepts of storage space, such as link menu or roadmap, and map of the network neighborhood, have been implemented in the Java exporter"}
+{"start": "00:15:32.000", "end": "00:15:36.000", "speaker": "None", "utterance": "that we are developing."}
+{"start": "00:15:36.000", "end": "00:15:40.000", "speaker": "None", "utterance": "So me how if you could take."}
+{"start": "00:15:40.000", "end": "00:15:43.000", "speaker": "None", "utterance": "Now,"}
+{"start": "00:15:43.000", "end": "00:15:48.000", "speaker": "None", "utterance": "I wish I knew the source codes, when the parts of the source codes."}
+{"start": "00:15:48.000", "end": "00:15:55.000", "speaker": "None", "utterance": "Right,"}
+{"start": "00:15:55.000", "end": "00:15:57.000", "speaker": "None", "utterance": "my screen visible."}
+{"start": "00:15:57.000", "end": "00:15:58.000", "speaker": "None", "utterance": "Yes."}
+{"start": "00:15:58.000", "end": "00:16:20.000", "speaker": "None", "utterance": "Alright, so here we are. The other part of the whole exporter. I think the most important unreadable part from all the whole big algorithm is the, this HTML presentation of input file, which just as many many fields which are present the life of the reference"}
+{"start": "00:16:20.000", "end": "00:16:33.000", "speaker": "None", "utterance": "profile the contents dyslexia, which was, which is read by the algorithm from the input files."}
+{"start": "00:16:33.000", "end": "00:16:42.000", "speaker": "None", "utterance": "Just iterate through every file inside the input folder and products for certain."}
+{"start": "00:16:42.000", "end": "00:17:04.000", "speaker": "None", "utterance": "Look, and looks for HTML files and reads reads from the HTML under estimating inbound and outbound links Alexa from this input files."}
+{"start": "00:17:04.000", "end": "00:17:27.000", "speaker": "None", "utterance": "And so, what is really good about this representation is that we kind of convert it into any other visual form if we have the, we can get the data from the hypertext then we can convert it into other HTML files or even into Android, Windows or Mac applications"}
+{"start": "00:17:27.000", "end": "00:17:44.000", "speaker": "None", "utterance": "applications are some kinds of ebooks which can be used by readers, or creators of hypertext, if I may."}
+{"start": "00:17:44.000", "end": "00:18:02.000", "speaker": "None", "utterance": "Just to remind our participants, those basic concepts of inbound inbound connection, and outbound connection of all the segments of the work that are that are leading to the place we are currently reading, and those segments of work that that will lead"}
+{"start": "00:18:02.000", "end": "00:18:08.000", "speaker": "None", "utterance": "to go where we currently are is actually enough, the information about these two."}
+{"start": "00:18:08.000", "end": "00:18:21.000", "speaker": "None", "utterance": "Two types of objects is enough to create, to generate a tree structure of the whole work. And we have a saying now that cutting down a tree structure."}
+{"start": "00:18:21.000", "end": "00:18:40.000", "speaker": "None", "utterance": "But basic variety of files within folders and have connections incoming and upcoming is enough to give us link menu to give us maps to give us any other imaginable structure that we want to visualize for the reader."}
+{"start": "00:18:40.000", "end": "00:18:51.000", "speaker": "None", "utterance": "And one of those examples, is that the hypertext, a neighborhood map that we will be shipping, a twilight with."}
+{"start": "00:18:51.000", "end": "00:18:52.000", "speaker": "None", "utterance": "Yes."}
+{"start": "00:18:52.000", "end": "00:19:10.000", "speaker": "None", "utterance": "One important thing is that we are not just cutting the text parts from the HTML file by using kind of the so called or regular regular expressions and once we are actually traversing the DM structure of HTML file and looking for interesting elements."}
+{"start": "00:19:10.000", "end": "00:19:40.000", "speaker": "None", "utterance": "So, the very, think about this way of solving this problem by traveling to the HTML notes, is that the the input files can can be can have different infrastructures and and look only for things but we are interested in and, like, like the inbound and"}
+{"start": "00:19:46.000", "end": "00:19:47.000", "speaker": "None", "utterance": "Interesting."}
+{"start": "00:19:47.000", "end": "00:19:50.000", "speaker": "None", "utterance": "Think that we can show."}
+{"start": "00:19:50.000", "end": "00:20:05.000", "speaker": "None", "utterance": "It will be the JavaScript files for the creation of math, and women's, so the JavaScript files from up and links now or later, experts."}
+{"start": "00:20:05.000", "end": "00:20:15.000", "speaker": "None", "utterance": "Yes, we can we can show JavaScript that that are responsible for display on the map as well."}
+{"start": "00:20:15.000", "end": "00:20:18.000", "speaker": "None", "utterance": "I will have to export now."}
+{"start": "00:20:18.000", "end": "00:20:20.000", "speaker": "None", "utterance": "The."}
+{"start": "00:20:20.000", "end": "00:20:23.000", "speaker": "None", "utterance": "I will have to use the exported to."}
+{"start": "00:20:23.000", "end": "00:20:25.000", "speaker": "None", "utterance": "Okay. All right."}
+{"start": "00:20:25.000", "end": "00:20:31.000", "speaker": "None", "utterance": "So, I think, maybe like maybe we'll do it in the later part of the world."}
+{"start": "00:20:31.000", "end": "00:20:45.000", "speaker": "None", "utterance": "All right. Thank you very much. Thank you very much me how, and let me continue with the next part of the,"}
+{"start": "00:20:45.000", "end": "00:20:46.000", "speaker": "None", "utterance": "of our presentation."}
+{"start": "00:20:46.000", "end": "00:20:52.000", "speaker": "None", "utterance": "our presentation. This is once again."}
+{"start": "00:20:52.000", "end": "00:21:08.000", "speaker": "None", "utterance": "Turning back for some history, just wanted to tell you that the origin of this particular project that we are doing now, it took place during Michael Joyce's reading."}
+{"start": "00:21:08.000", "end": "00:21:17.000", "speaker": "None", "utterance": "Last year, that happened to celebrate the two years of afternoon a story, and smart move dropped."}
+{"start": "00:21:17.000", "end": "00:21:36.000", "speaker": "None", "utterance": "Maybe this suggestion, why we don't use the already existing tools that were used in Polish translations, to help authors who work with studies with storage space to help them with their own works to be presented online and, and this is something that"}
+{"start": "00:21:36.000", "end": "00:21:40.000", "speaker": "None", "utterance": "I truly believe will will serve."}
+{"start": "00:21:40.000", "end": "00:21:56.000", "speaker": "None", "utterance": "We serve date otters community, and everyone will be able to actually get the old files from our computers, upload to our web application."}
+{"start": "00:21:56.000", "end": "00:22:11.000", "speaker": "None", "utterance": "And then I had to put an output that is already fully functional. And the only thing left for for an outdoor would be to just style it according to his own needs."}
+{"start": "00:22:11.000", "end": "00:22:37.000", "speaker": "None", "utterance": "And it also informative for for our goals, was the experience of hypertext travel sells for for authors such as you john for Dina for Catherine cram for Richard Colleton when we, when we see the traverse all of the work that has been."}
+{"start": "00:22:37.000", "end": "00:22:52.000", "speaker": "None", "utterance": "It has been recorded us after the original publication, we can see that the photos are still fascinated that by the storytelling possibilities of that classical platform or storage space."}
+{"start": "00:22:52.000", "end": "00:23:13.000", "speaker": "None", "utterance": "This is something that this is still meaningful, in terms of the history of storytelling of narrative devices and, hopefully, tools, as, as this will will carry the torch and will will"}
+{"start": "00:23:13.000", "end": "00:23:28.000", "speaker": "None", "utterance": "will present these works to new audiences, because we've also seen during the trap ourselves that that young, young audiences are attracted to these forms of"}
+{"start": "00:23:28.000", "end": "00:23:51.000", "speaker": "None", "utterance": "narrative structures, especially now. The hurts when we see the emergence of the new software from to making or personnel writing management such as obsidian, who, who promotes heavy linking any relation of structures."}
+{"start": "00:23:51.000", "end": "00:24:08.000", "speaker": "None", "utterance": "So hopefully, hopefully, this, this tool is also on the wave of written management interest in the network. Writing in the, in the mainstream"}
+{"start": "00:24:08.000", "end": "00:24:15.000", "speaker": "None", "utterance": "mainstream but still it's still a bit of them"}
+{"start": "00:24:15.000", "end": "00:24:18.000", "speaker": "None", "utterance": "and"}
+{"start": "00:24:18.000", "end": "00:24:32.000", "speaker": "None", "utterance": "see we have a bit of the diagram that Nico is presenting in his poster for the conference where we"}
+{"start": "00:24:32.000", "end": "00:24:40.000", "speaker": "None", "utterance": "where we have visually presents, what is happening on a more abstract level with our part."}
+{"start": "00:24:40.000", "end": "00:24:43.000", "speaker": "None", "utterance": "There's an input processor written in Java."}
+{"start": "00:24:43.000", "end": "00:25:01.000", "speaker": "None", "utterance": "That takes it takes information from HTML source, and that HTML source initiative initially has been for us, Polish version of play the symphony."}
+{"start": "00:25:01.000", "end": "00:25:14.000", "speaker": "None", "utterance": "But then, for January, reading of Michael Joyce Twilight to for the electronic future laptop so Nicole has abstracted."}
+{"start": "00:25:14.000", "end": "00:25:18.000", "speaker": "None", "utterance": "All those functionalities present in the Polish Twilight."}
+{"start": "00:25:18.000", "end": "00:25:39.000", "speaker": "None", "utterance": "In order for it to be something completely autonomous and connect to the processor written in Java, which then processes the inbound links and outbound links, along with the text content and outputs it in, in a completely fresh, but functionality HTML."}
+{"start": "00:25:39.000", "end": "00:25:44.000", "speaker": "None", "utterance": "HTML file."}
+{"start": "00:25:44.000", "end": "00:25:57.000", "speaker": "None", "utterance": "The next section, I would like to discuss is is also something probably very basic and quite well known to those of you present."}
+{"start": "00:25:57.000", "end": "00:26:19.000", "speaker": "None", "utterance": "Both Dina and john AF old max probably of their homes and and try to sometimes collect but these old maps to a to a new software. I don't know if you have some old Macs, at home."}
+{"start": "00:26:19.000", "end": "00:26:21.000", "speaker": "None", "utterance": "You don't. Okay."}
+{"start": "00:26:21.000", "end": "00:26:45.000", "speaker": "None", "utterance": "So basically, the idea of anyone to get out of this old file and closed in this old exotic software like Macintosh classic 7.5 or eight or nine is to, in this case, to find a platform bridge."}
+{"start": "00:26:45.000", "end": "00:26:59.000", "speaker": "None", "utterance": "The closest. The closest the software or hardware bridge that can connect our new machine with that old machine."}
+{"start": "00:26:59.000", "end": "00:27:17.000", "speaker": "None", "utterance": "And we are quite lucky, as, as readers and authors who worked with storage space, because this is a software that is being developed since 1987 published in 1989."}
+{"start": "00:27:17.000", "end": "00:27:21.000", "speaker": "None", "utterance": "And then,"}
+{"start": "00:27:21.000", "end": "00:27:25.000", "speaker": "None", "utterance": "Then around 2001 2002."}
+{"start": "00:27:25.000", "end": "00:27:41.000", "speaker": "None", "utterance": "When storage space was in its version two and President on both Macs and Windows. It's the center and software called tinderbox appear tend to be state started shipping in developing heavily."}
+{"start": "00:27:41.000", "end": "00:28:03.000", "speaker": "None", "utterance": "The tinderbox platform, who, which borrows quite a bit of functionalities from a storage space, such as maps and outline view and inbound outbound export macros, for exporting the HTML."}
+{"start": "00:28:03.000", "end": "00:28:22.000", "speaker": "None", "utterance": "And because what would follow it was a was a decade of developing tinderbox to be a modern tool for not making an improved for managing your own writing, sort of a personal"}
+{"start": "00:28:22.000", "end": "00:28:27.000", "speaker": "None", "utterance": "writing, Assistant."}
+{"start": "00:28:27.000", "end": "00:28:39.000", "speaker": "None", "utterance": "These concepts out concepts of storage space preserved and were and are actually still developed and present on modern platforms."}
+{"start": "00:28:39.000", "end": "00:28:58.000", "speaker": "None", "utterance": "In the end, in around 2016 storage storage storage space free came out and was was being shipped by East Gate but what is very interesting story space free is is a descendant of tinderbox."}
+{"start": "00:28:58.000", "end": "00:29:23.000", "speaker": "None", "utterance": "So as circle, sort of close tinderbox came from storage space, but then the new storage space came out of the Tinder box, which, which makes a very interesting and complex ecosystem of the same or similar family of platforms."}
+{"start": "00:29:23.000", "end": "00:29:32.000", "speaker": "None", "utterance": "and this gives an older a translator and researcher, a good opportunity to,"}
+{"start": "00:29:32.000", "end": "00:29:50.000", "speaker": "None", "utterance": "to, to transfer those old functionalities of conditional linking of storage space maps from from the platforms that are 15 to 25 or 30, years old, to modern path."}
+{"start": "00:29:50.000", "end": "00:29:57.000", "speaker": "None", "utterance": "This is something that mark Bernstein, is proud of. And I have to give it to him that."}
+{"start": "00:29:57.000", "end": "00:30:07.000", "speaker": "None", "utterance": "Because of because of his tending of Tinder box, which was a descendant of storage space. We have now."}
+{"start": "00:30:07.000", "end": "00:30:26.000", "speaker": "None", "utterance": "We have now a platform family that is able to accommodate those old classical hypertext and to form a bridge between old and the new."}
+{"start": "00:30:26.000", "end": "00:30:41.000", "speaker": "None", "utterance": "But sadly, started space free, stop supporting HTML export, and this was probably a very commercially oriented decision on the art of these gates."}
+{"start": "00:30:41.000", "end": "00:30:54.000", "speaker": "None", "utterance": "So, if we, if we manage to open an old story space file in storage space free, we won't be even able to make this simple HTML part of that old file."}
+{"start": "00:30:54.000", "end": "00:31:21.000", "speaker": "None", "utterance": "That's why, in order for us to have a more fully functional hypertext classic in the online version for example, we need to use a software bridge, which in my case is stylish place to start is going to was probably the most developed and, and web ready"}
+{"start": "00:31:21.000", "end": "00:31:37.000", "speaker": "None", "utterance": "application by these games, and unfortunately, this is, it is now not supported by modern mark."}
+{"start": "00:31:37.000", "end": "00:32:00.000", "speaker": "None", "utterance": "So, the workflow, I recommend for any of us who who used to work in an old storage space windows or in storage space two or three space. One is to is to have default files, open in storage space to, and then export the storage space to file to a mother"}
+{"start": "00:32:00.000", "end": "00:32:14.000", "speaker": "None", "utterance": "machine via USB internet cable or, or a CD ROM, and then open it is in tinderbox, and from tinderbox, we are ready to go."}
+{"start": "00:32:14.000", "end": "00:32:24.000", "speaker": "None", "utterance": "And we are ready to present our file in to a two hour Java export."}
+{"start": "00:32:24.000", "end": "00:32:31.000", "speaker": "None", "utterance": "I'm sure that it is, it's sort of in, it can seem a bit complicated."}
+{"start": "00:32:31.000", "end": "00:32:48.000", "speaker": "None", "utterance": "But in fact, it is it is really not in terms of isn't the past and Whoo, which are freely available for anyone who buys the new media either handbook."}
+{"start": "00:32:48.000", "end": "00:32:52.000", "speaker": "None", "utterance": "We can just insert the CD into."}
+{"start": "00:32:52.000", "end": "00:33:02.000", "speaker": "None", "utterance": "into old mark that runs, let's say,"}
+{"start": "00:33:02.000", "end": "00:33:13.000", "speaker": "None", "utterance": "let's say, Mako is Tiger or Mako is snow light bars, which is able to run storage space to."}
+{"start": "00:33:13.000", "end": "00:33:31.000", "speaker": "None", "utterance": "Then we opened the file if you're in the past and iPhones, we open it in storage space to. And as soon as we open in disperse those those two. We just need to save it."}
+{"start": "00:33:31.000", "end": "00:33:48.000", "speaker": "None", "utterance": "And that safe file needs to be transported to modern machine, and then open in a storage space. Once it's done, we are, we are good to go. We are good to give create an export folder."}
+{"start": "00:33:48.000", "end": "00:34:14.000", "speaker": "None", "utterance": "zip folder and. And then our server application of Java transformer Java export them can put can can input can pull this zip into it and export the desired HTML."}
+{"start": "00:34:14.000", "end": "00:34:18.000", "speaker": "None", "utterance": "In tinderbox. This procedure is quite, quite simple."}
+{"start": "00:34:18.000", "end": "00:34:29.000", "speaker": "None", "utterance": "We just make sure that we have a preview of HTML experts on each of the files that are open from the old hypertext."}
+{"start": "00:34:29.000", "end": "00:34:46.000", "speaker": "None", "utterance": "Then we then we generate an HTML template within tinderbox by file HTML template. In this HTML template we enter the export macro inbound links."}
+{"start": "00:34:46.000", "end": "00:35:09.000", "speaker": "None", "utterance": "And this is a game for us to get this basic story space objects of inbound and outbound links to give us the nodes that precede our current legacy up, and to those that are unbound and will follow from our current space, then our preview in Kindle books"}
+{"start": "00:35:09.000", "end": "00:35:16.000", "speaker": "None", "utterance": "works okay and we, we have a list of inbound and outbound connections."}
+{"start": "00:35:16.000", "end": "00:35:23.000", "speaker": "None", "utterance": "We export that hypertext for that work into HTML."}
+{"start": "00:35:23.000", "end": "00:35:28.000", "speaker": "None", "utterance": "And then we exhibit a folder,"}
+{"start": "00:35:28.000", "end": "00:35:46.000", "speaker": "None", "utterance": "our age in the boat Kindle Kindle books, export file can look us on this illustration. These are just the basic HTML, Americans have of cadence."}
+{"start": "00:35:46.000", "end": "00:36:06.000", "speaker": "None", "utterance": "And within that, under the heading text links, we have outbound basically outbound text links, and then inbound basic things about text is, this is, this is enough for a single segment of the storage space."}
+{"start": "00:36:06.000", "end": "00:36:21.000", "speaker": "None", "utterance": "Classic hypertext to be ready to be a further process for the modern web languages."}
+{"start": "00:36:21.000", "end": "00:36:34.000", "speaker": "None", "utterance": "Do we have any questions at the moment, because now is the time when, when we will just presume that that zip was already export that the folder is exported visit is created."}
+{"start": "00:36:34.000", "end": "00:36:49.000", "speaker": "None", "utterance": "And now this zip is being passed food to meet how who will work with the zip on the, on the Java application."}
+{"start": "00:36:49.000", "end": "00:37:11.000", "speaker": "None", "utterance": "I was wondering, you talked about having to do these by hand. Do you have to reprogram every single Alexia and every single link into this HTML by hand or is this done in some automatic sense and then you have to check everything."}
+{"start": "00:37:11.000", "end": "00:37:29.000", "speaker": "None", "utterance": "Thank you. Thank you, Dina, this is, this is all automated. So, after, after you, you are able away when we're able to import that original story space file, like in the past and move."}
+{"start": "00:37:29.000", "end": "00:37:33.000", "speaker": "None", "utterance": "In our example, into a story space to."}
+{"start": "00:37:33.000", "end": "00:38:00.000", "speaker": "None", "utterance": "And then after you are able to open that storage space to save file in tinderbox, then it is just a question of following this few steps presented on this slides to make an HTML export of of your hypertext that will already each single segment will already"}
+{"start": "00:38:00.000", "end": "00:38:12.000", "speaker": "None", "utterance": "have a list of inbound links and outbound links that that are related to it. So this this is already automated on the level of that Tinder box export."}
+{"start": "00:38:12.000", "end": "00:38:25.000", "speaker": "None", "utterance": "And then on the Java application, this will be further automated. And what you will receive. In the end, will be an updated."}
+{"start": "00:38:25.000", "end": "00:38:34.000", "speaker": "None", "utterance": "html structure. html folder that will have these functionalities, such as link menu."}
+{"start": "00:38:34.000", "end": "00:38:40.000", "speaker": "None", "utterance": "Reading history, and the hypertext neighborhood map."}
+{"start": "00:38:40.000", "end": "00:38:56.000", "speaker": "None", "utterance": "When you say hypertext meant neighborhood map is that the actual map of the Alexia where they're placed within the screen and then you have in storage space you could click on Alexia in the map, and then go down and to the next level and see the Lexi"}
+{"start": "00:38:56.000", "end": "00:39:07.000", "speaker": "None", "utterance": "of that were there so you had some spaces you had a horizontal as well as vertical map, almost three dimensions, if you will."}
+{"start": "00:39:07.000", "end": "00:39:11.000", "speaker": "None", "utterance": "Our idea is to have."}
+{"start": "00:39:11.000", "end": "00:39:19.000", "speaker": "None", "utterance": "If you are able to see this map that that comes straight from a d3."}
+{"start": "00:39:19.000", "end": "00:39:21.000", "speaker": "None", "utterance": "js framework."}
+{"start": "00:39:21.000", "end": "00:39:40.000", "speaker": "None", "utterance": "This map is just showing lecture called memory, and it's a outbound connections on the export of these new paths, we will be able to see the same sort of structure but also with inbound connections."}
+{"start": "00:39:40.000", "end": "00:40:02.000", "speaker": "None", "utterance": "So this is an overlay of that network neighborhood, but our intention is to actually give you a reader an option of showing it, either as a logical relation inbound outbound or within the old story space karate of folders within folders, so they will"}
+{"start": "00:40:02.000", "end": "00:40:14.000", "speaker": "None", "utterance": "be two members of this map. Okay, so there will be the hierarchy of folders within folders. Thank you. That's so important. Thank you. I really wanted to implement this and."}
+{"start": "00:40:14.000", "end": "00:40:28.000", "speaker": "None", "utterance": "And this will be. This is crucial difficult, because once, once we have that three of the hypertext three mapped within the Java, that we have is developing."}
+{"start": "00:40:28.000", "end": "00:40:39.000", "speaker": "None", "utterance": "Then, The Karate karate is already there, the structure folders is already done is just a question of, of presenting it as such."}
+{"start": "00:40:39.000", "end": "00:40:51.000", "speaker": "None", "utterance": "And here we start with that relational map, because this is the default default map of the d3. js framework that we use."}
+{"start": "00:40:51.000", "end": "00:41:09.000", "speaker": "None", "utterance": "Okay. So know that Dr. One addition to that tree structure, we do, we do actually have an algorithm, which is creating that structure and converting it into abstract data structure inside of Java."}
+{"start": "00:41:09.000", "end": "00:41:13.000", "speaker": "None", "utterance": "However,"}
+{"start": "00:41:13.000", "end": "00:41:32.000", "speaker": "None", "utterance": "but yes, we do have that progress and we will plan to use it in the future, too, because for this moment, we are visualizing visualizing a map with inbound and outbound links but what with the data we currently have."}
+{"start": "00:41:32.000", "end": "00:41:38.000", "speaker": "None", "utterance": "We could make a lot more advanced visualization of"}
+{"start": "00:41:38.000", "end": "00:41:57.000", "speaker": "None", "utterance": "that that's why that's why Dina is really spot on, off of that alters point of view, because both john and Dina and anyone who work to storage space are used to those karate Karl Marx,"}
+{"start": "00:41:57.000", "end": "00:42:05.000", "speaker": "None", "utterance": "is the this high Korea that example."}
+{"start": "00:42:05.000", "end": "00:42:20.000", "speaker": "None", "utterance": "My English is not very good, especially the best we could make this additional types of mathematics, we would need, we would need additional time to progress and it's not a trivial task."}
+{"start": "00:42:20.000", "end": "00:42:25.000", "speaker": "None", "utterance": "Make a prototype of every of this map, but to make a more professional product with three reusable components."}
+{"start": "00:42:25.000", "end": "00:42:36.000", "speaker": "None", "utterance": "product with three reusable components. It's hard work to do for one for me for for one program."}
+{"start": "00:42:36.000", "end": "00:42:42.000", "speaker": "None", "utterance": "So, manage I think we can proceed to the demo with the exported."}
+{"start": "00:42:42.000", "end": "00:42:48.000", "speaker": "None", "utterance": "So I will just share my screen."}
+{"start": "00:42:48.000", "end": "00:42:54.000", "speaker": "None", "utterance": "So actually, on this side story space I support online."}
+{"start": "00:42:54.000", "end": "00:43:09.000", "speaker": "None", "utterance": "I have placed the button which, which can redirect you to the directory, with zip file containing a jar file and example input files is me as well."}
+{"start": "00:43:09.000", "end": "00:43:19.000", "speaker": "None", "utterance": "So, Mr file would work perfectly fine on Windows, I don't think it will work on Mac."}
+{"start": "00:43:19.000", "end": "00:43:25.000", "speaker": "None", "utterance": "So, I will present it on my system on Windows. I have downloaded already."}
+{"start": "00:43:25.000", "end": "00:43:28.000", "speaker": "None", "utterance": "And we unzip it."}
+{"start": "00:43:28.000", "end": "00:43:36.000", "speaker": "None", "utterance": "And what we get is to input files, and I says, export an email program."}
+{"start": "00:43:36.000", "end": "00:43:41.000", "speaker": "None", "utterance": "After launching the program we get some simple interface and it's within button."}
+{"start": "00:43:41.000", "end": "00:43:52.000", "speaker": "None", "utterance": "And after pressing this button or label points folder, we can specify Kairos directory which we've HTML files."}
+{"start": "00:43:52.000", "end": "00:44:16.000", "speaker": "None", "utterance": "Let's say, for example, I want to copy this directory places here and select this directory which we've paid HTML files, and the program will interprets all the inputs and outputs in JavaScript files will only the stuff to into the output folder, the"}
+{"start": "00:44:16.000", "end": "00:44:33.000", "speaker": "None", "utterance": "output for the we will appear directly near the assist export to demo, the file, and to. This is the content of the directory, there are some images from libraries, many many HTML."}
+{"start": "00:44:33.000", "end": "00:44:41.000", "speaker": "None", "utterance": "HTML files, some CSS files files. We can open any of this file."}
+{"start": "00:44:41.000", "end": "00:44:50.000", "speaker": "None", "utterance": "We can see the visual representation of the data which we gather this visual representation."}
+{"start": "00:44:50.000", "end": "00:45:03.000", "speaker": "None", "utterance": "Has the map in science window, you can look up, see where we are in regards to the inbound and outbound links. So,"}
+{"start": "00:45:03.000", "end": "00:45:11.000", "speaker": "None", "utterance": "and also we, what we get is the link money, which we can use to."}
+{"start": "00:45:11.000", "end": "00:45:17.000", "speaker": "None", "utterance": "Well, which I just had hyperlinks to other fragments inside this folder."}
+{"start": "00:45:17.000", "end": "00:45:34.000", "speaker": "None", "utterance": "Well, the important thing is, but we don't necessarily, we don't really need to represent the whole hypertext in this in this bunch of HTML files."}
+{"start": "00:45:34.000", "end": "00:45:56.000", "speaker": "None", "utterance": "We can we've that we've had data we can represent an immediate media. We have just chosen to do it in HTML away for, for the sake of the presentation on the demo and show that works and all of these fighters could be just copied and paste that somewhere"}
+{"start": "00:45:56.000", "end": "00:46:17.000", "speaker": "None", "utterance": "on the external server and travels, like some other people that are still sometimes some features. Not features some links may be missing, but most of them is present me How could you could use zoom in on the, on the map."}
+{"start": "00:46:17.000", "end": "00:46:19.000", "speaker": "None", "utterance": "Yes."}
+{"start": "00:46:19.000", "end": "00:46:27.000", "speaker": "None", "utterance": "So for me, who, who is not a technical guy really, this is all already something very exciting. We have."}
+{"start": "00:46:27.000", "end": "00:46:48.000", "speaker": "None", "utterance": "We've been we've been few minutes we were able to get that rose zipped from storage space to that Java, the program and then Java already explored something that that is fully functioning, although of course it does not look as we would want it to look."}
+{"start": "00:46:48.000", "end": "00:47:01.000", "speaker": "None", "utterance": "But as you can see we have inbound and outbound connection to the current fragment, we have link titles, something that Dina mentions here in the chat that she also wants to see."}
+{"start": "00:47:01.000", "end": "00:47:13.000", "speaker": "None", "utterance": "And we are really going. I hope we are really going in the in the right direction in the twilight would be a demonstration of what is possible within this framework."}
+{"start": "00:47:13.000", "end": "00:47:36.000", "speaker": "None", "utterance": "And also, we want to make you guys for you guys to be able to to tweak your own templates to to implement your own aesthetics, in that template that serves for the generation of the HTML."}
+{"start": "00:47:36.000", "end": "00:47:49.000", "speaker": "None", "utterance": "So here's another example, we can drag this now, is fully automated we're using decree is my birthday to visualize your allies, all the notes and connection between them."}
+{"start": "00:47:49.000", "end": "00:47:57.000", "speaker": "None", "utterance": "What else could I show manage maybe the JavaScript file which connects the notes and creates these notes."}
+{"start": "00:47:57.000", "end": "00:48:06.000", "speaker": "None", "utterance": "Yes. Yeah, Let's see now how the JavaScript looks, this would be that structure."}
+{"start": "00:48:06.000", "end": "00:48:08.000", "speaker": "None", "utterance": "Grabbing."}
+{"start": "00:48:08.000", "end": "00:48:14.000", "speaker": "None", "utterance": "js right."}
+{"start": "00:48:14.000", "end": "00:48:21.000", "speaker": "None", "utterance": "I think the most important part is the part where we create them committed enough."}
+{"start": "00:48:21.000", "end": "00:48:42.000", "speaker": "None", "utterance": "I don't really think it's something amazing it's just a for loop, which creates nodes pushes these notes into a graph and then comics is no so it's just a plain simple algorithm, which uses the data, because it into the graph, which then is used by the"}
+{"start": "00:48:42.000", "end": "00:48:56.000", "speaker": "None", "utterance": "different as differently as library to visualize the nodes which we can see inside this window. The same library, could be used for the, for other kinds of maps."}
+{"start": "00:48:56.000", "end": "00:49:00.000", "speaker": "None", "utterance": "So,"}
+{"start": "00:49:00.000", "end": "00:49:11.000", "speaker": "None", "utterance": "and other dogs good fire would be the links that they as"}
+{"start": "00:49:11.000", "end": "00:49:14.000", "speaker": "None", "utterance": "this JavaScript spiral."}
+{"start": "00:49:14.000", "end": "00:49:19.000", "speaker": "None", "utterance": "Swan coat function"}
+{"start": "00:49:19.000", "end": "00:49:32.000", "speaker": "None", "utterance": "well. Also, there is an automated algorithm, which procedure, it creates the elements and pushes the title of the bench."}
+{"start": "00:49:32.000", "end": "00:49:39.000", "speaker": "None", "utterance": "The hyperlinks to the window and."}
+{"start": "00:49:39.000", "end": "00:49:42.000", "speaker": "None", "utterance": "Well, it's how it is how it looks like."}
+{"start": "00:49:42.000", "end": "00:49:58.000", "speaker": "None", "utterance": "I don't know if any of you is a programmer or even ever had an experience with programming, that's just a vague idea of how it all looks like on the interesting side."}
+{"start": "00:49:58.000", "end": "00:50:06.000", "speaker": "None", "utterance": "Once again the concept of just these few basic concepts of inbound and outbound applause, the Ref."}
+{"start": "00:50:06.000", "end": "00:50:19.000", "speaker": "None", "utterance": "Title, which is the title of the incoming incoming segment of of hypertext, could we do the same me how we've."}
+{"start": "00:50:19.000", "end": "00:50:20.000", "speaker": "None", "utterance": "Whoo."}
+{"start": "00:50:20.000", "end": "00:50:21.000", "speaker": "None", "utterance": "Yes."}
+{"start": "00:50:21.000", "end": "00:50:28.000", "speaker": "None", "utterance": "So how how fast this, this is going to go listen again."}
+{"start": "00:50:28.000", "end": "00:50:37.000", "speaker": "None", "utterance": "Also an interesting, interesting data here is how many automated operations have succeeded."}
+{"start": "00:50:37.000", "end": "00:50:40.000", "speaker": "None", "utterance": "So if if he's in the past."}
+{"start": "00:50:40.000", "end": "00:50:56.000", "speaker": "None", "utterance": "Let's say 300 300 segments. Look, all of them would be would be perfectly translated right perfectly migrated."}
+{"start": "00:50:56.000", "end": "00:51:02.000", "speaker": "None", "utterance": "So let's try with the world, and the program again."}
+{"start": "00:51:02.000", "end": "00:51:14.000", "speaker": "None", "utterance": "Let's enter the father of the half points to the root for the ice, select and is done already sounds finished."}
+{"start": "00:51:14.000", "end": "00:51:21.000", "speaker": "None", "utterance": "That will be fast, less than one second."}
+{"start": "00:51:21.000", "end": "00:51:26.000", "speaker": "None", "utterance": "You can open the open."}
+{"start": "00:51:26.000", "end": "00:51:28.000", "speaker": "None", "utterance": "Mandela."}
+{"start": "00:51:28.000", "end": "00:51:33.000", "speaker": "None", "utterance": "Nice."}
+{"start": "00:51:33.000", "end": "00:51:39.000", "speaker": "None", "utterance": "Mandela segment. Oh, this is one bad vendor management."}
+{"start": "00:51:39.000", "end": "00:51:46.000", "speaker": "None", "utterance": "Oh, yes."}
+{"start": "00:51:46.000", "end": "00:52:03.000", "speaker": "None", "utterance": "Of course we will we will try to have it as rectangles. And at some point, also have some control over how many of the connections of a visible, because this this is intended as an iPad and iPhone experience even."}
+{"start": "00:52:03.000", "end": "00:52:11.000", "speaker": "None", "utterance": "So, we don't want our readers to get completely,"}
+{"start": "00:52:11.000", "end": "00:52:14.000", "speaker": "None", "utterance": "completely overwhelmed by the."}
+{"start": "00:52:14.000", "end": "00:52:19.000", "speaker": "None", "utterance": "And that's interesting that Mandela had so many connections."}
+{"start": "00:52:19.000", "end": "00:52:24.000", "speaker": "None", "utterance": "But yes, this is, this is something"}
+{"start": "00:52:24.000", "end": "00:52:29.000", "speaker": "None", "utterance": "to remember how it looks. And, of course, it's still a work in progress."}
+{"start": "00:52:29.000", "end": "00:52:51.000", "speaker": "None", "utterance": "Thank you very much, me how the, this was a great presentation of of this EADS of the engine that gets, who's the input of the old story space or old HTML file and outputs it in a, in an environment that preserves those old functionalities."}
+{"start": "00:52:51.000", "end": "00:52:55.000", "speaker": "None", "utterance": "And some"}
+{"start": "00:52:55.000", "end": "00:53:08.000", "speaker": "None", "utterance": "manual so I think it's important that it's really important to note that this is just a core framework which allows you to do all of these things it's not like one are going to create bunch of HTML files."}
+{"start": "00:53:08.000", "end": "00:53:27.000", "speaker": "None", "utterance": "The whole complex ongoing, which is the data, but puts it into an abstract object structures, and then we can do anything that you want with the structures is like an abstract representation of the hypertext, which is Earth from the inner books and computer"}
+{"start": "00:53:27.000", "end": "00:53:39.000", "speaker": "None", "utterance": "in future can be passed from any other HTML files or forums or other sources. So you can recognize your hypertext."}
+{"start": "00:53:39.000", "end": "00:53:59.000", "speaker": "None", "utterance": "You could, I think I hope in the future when the algorithm is fully finished you could integrate your for work with just one fleet by copying and pasting some into files and manually filling in any, any vote spaces like missing links."}
+{"start": "00:53:59.000", "end": "00:54:08.000", "speaker": "None", "utterance": "but at this moment the algorithm can export most of the fragments like more than 70% of the exported properly."}
+{"start": "00:54:08.000", "end": "00:54:14.000", "speaker": "None", "utterance": "So, that's the one thing I would like. I wanted to add."}
+{"start": "00:54:14.000", "end": "00:54:36.000", "speaker": "None", "utterance": "So, yes, we will work towards a situation that that input file that we serve to the, to the engine is is not dependent on Tinder box so this will be in a case for anyone who created works outside of storage space, platform."}
+{"start": "00:54:36.000", "end": "00:54:39.000", "speaker": "None", "utterance": "And hopefully this will already be."}
+{"start": "00:54:39.000", "end": "00:54:42.000", "speaker": "None", "utterance": "This will already be."}
+{"start": "00:54:42.000", "end": "00:54:45.000", "speaker": "None", "utterance": "This will be quite, quite soon."}
+{"start": "00:54:45.000", "end": "00:55:00.000", "speaker": "None", "utterance": "I just want to finalize this section just by mentioning a few points about the future future of this, of this project."}
+{"start": "00:55:00.000", "end": "00:55:14.000", "speaker": "None", "utterance": "So far, we've been working on it under the umbrella of electronically literature lap and that final product of this phase would be Twilight the symphony."}
+{"start": "00:55:14.000", "end": "00:55:26.000", "speaker": "None", "utterance": "But then the next phase arrives, and whatever we can build here will be then further developed under the research ground, Daniel Pl."}
+{"start": "00:55:26.000", "end": "00:55:52.000", "speaker": "None", "utterance": "For the next two, two or three years, and hopefully this will turn into a tool, a writing tool, a collaborative platform that will use the, the maps, and the concept of storage space in this in this new environment, and beyond, 2003, I think."}
+{"start": "00:55:52.000", "end": "00:55:58.000", "speaker": "None", "utterance": "This project will branch into, into some,"}
+{"start": "00:55:58.000", "end": "00:56:11.000", "speaker": "None", "utterance": "some flagship flagship products of that will be then promoted within the electronic literature center that is being founded in Poland, as we speak."}
+{"start": "00:56:11.000", "end": "00:56:35.000", "speaker": "None", "utterance": "So it all loops that anything we do at the moment, anything we do towards publication of Twilight and towards building this tool for translators and outros will then live on, and and inspire both authors and readers and researchers of electronic literature."}
+{"start": "00:56:35.000", "end": "00:56:41.000", "speaker": "None", "utterance": "Thank you very much and it's time for questions."}
+{"start": "00:56:41.000", "end": "00:56:49.000", "speaker": "None", "utterance": "And thank you very much for the chat, because it's, it's the, thank you for all the suggestions on the chart"}
+{"start": "00:56:49.000", "end": "00:57:02.000", "speaker": "None", "utterance": "from Dina and john Roberta Marsh I came back late but I was wondering if you could tell you a little bit more about the plans for the electronic literature center in Poland."}
+{"start": "00:57:02.000", "end": "00:57:16.000", "speaker": "None", "utterance": "Is that going to be Cracow based project or who's involved, the base of the moment is other misgivings University in Paul's nine, but a."}
+{"start": "00:57:16.000", "end": "00:57:29.000", "speaker": "None", "utterance": "The plans are for it to be a truly, truly, a wider project not bound to any university so we would like the"}
+{"start": "00:57:29.000", "end": "00:57:47.000", "speaker": "None", "utterance": "the center to be placed in different universities have different times, the board will stay the same and the board will be comprised of people from all over Poland, but we also plan to have, have some boards, from the International"}
+{"start": "00:57:47.000", "end": "00:58:10.000", "speaker": "None", "utterance": "area so we really we really just starting, I'm at the moment at the position of Secretary of the, of the research center of that center and as retiring it's gone from other mysterious University is leading the, the whole, the whole initiative and hopefully"}
+{"start": "00:58:10.000", "end": "00:58:24.000", "speaker": "None", "utterance": "by the end of this month we will be able to announce that the center has been created and will be inviting people to join in for the, for the bar to advise us how we can then operate."}
+{"start": "00:58:24.000", "end": "00:58:33.000", "speaker": "None", "utterance": "Right, you should probably also get in touch with Joe Tabby about the Consortium for electronic literature."}
+{"start": "00:58:33.000", "end": "00:58:50.000", "speaker": "None", "utterance": "Yes. And we talked a little bit about stuff like this but it would be good for whatever sort of database or archive that you end up developing out of it for to go out of the box, be able to work with the cell search engine."}
+{"start": "00:58:50.000", "end": "00:58:51.000", "speaker": "None", "utterance": "Absolutely."}
+{"start": "00:58:51.000", "end": "00:59:07.000", "speaker": "None", "utterance": "The Polish repository of unit will be one of the first first products that center will come up"}
+{"start": "00:59:07.000", "end": "00:59:11.000", "speaker": "None", "utterance": "when you have this as a writing tool which will be amazing."}
+{"start": "00:59:11.000", "end": "00:59:29.000", "speaker": "None", "utterance": "It's going to help story space has really been the only way to visualize the relationships between notes and Alexia I think for students, and that horizontal vertical as john mccain was saying 2.5 reality."}
+{"start": "00:59:29.000", "end": "00:59:38.000", "speaker": "None", "utterance": "2.5 dimension reality is going to be huge. When you have that writing space and thank you for it, how will that be distributed."}
+{"start": "00:59:38.000", "end": "00:59:42.000", "speaker": "None", "utterance": "How will people know about it,"}
+{"start": "00:59:42.000", "end": "00:59:44.000", "speaker": "None", "utterance": "be able to use."}
+{"start": "00:59:44.000", "end": "01:00:00.000", "speaker": "None", "utterance": "Thank you. Thank you very much, Dean and the goals of the Daria PL research grant is to is to present the tools that are ready to use open source and are used in in a classroom."}
+{"start": "01:00:00.000", "end": "01:00:20.000", "speaker": "None", "utterance": "So this will be something that is completely open not not behind a paywall, and the collaborative, collaborative potential of the tool will be tested on a group of authors who created a Polish online collaborative fiction because really, A few years ago,"}
+{"start": "01:00:20.000", "end": "01:00:36.000", "speaker": "None", "utterance": "published by heart. And now the same group of people will be creating a pixels do 2.0, and they will be already working on that on this new platform."}
+{"start": "01:00:36.000", "end": "01:00:56.000", "speaker": "None", "utterance": "So we can, we have funding for this, and hopefully this will be this will be one of the main results of the whole research grant says an amazing opportunity to actually carry the idea of that we've developed and storage space, further into the, into the"}
+{"start": "01:00:56.000", "end": "01:00:57.000", "speaker": "None", "utterance": "future."}
+{"start": "01:00:57.000", "end": "01:01:04.000", "speaker": "None", "utterance": "That'll be wonderful. I'm wondering if there's going to be any connections with twine"}
+{"start": "01:01:04.000", "end": "01:01:11.000", "speaker": "None", "utterance": "twine at the moment is used as a prototype."}
+{"start": "01:01:11.000", "end": "01:01:15.000", "speaker": "None", "utterance": "but I'm not sure about the connectivity."}
+{"start": "01:01:15.000", "end": "01:01:17.000", "speaker": "None", "utterance": "Maybe."}
+{"start": "01:01:17.000", "end": "01:01:23.000", "speaker": "None", "utterance": "Maybe the, we might implement some input options."}
+{"start": "01:01:23.000", "end": "01:01:37.000", "speaker": "None", "utterance": "That might be good and I noticed, and I put this in the chat as well. The way did you have the vision with the circular and the links is so very similar to what America hand off he did with the dictionary of the revolution."}
+{"start": "01:01:37.000", "end": "01:01:50.000", "speaker": "None", "utterance": "It's beautiful work. And I was in touch with America and she was like yeah I programmers would be happy to help provide that type of JavaScript so"}
+{"start": "01:01:50.000", "end": "01:01:56.000", "speaker": "None", "utterance": "if you that connection, that would be great cool because that would be a really nice interface."}
+{"start": "01:01:56.000", "end": "01:02:14.000", "speaker": "None", "utterance": "Thank you. Thank you. This is a very important work, normal globally and if we can cooperate with the programmers that would be fantastic. Because actually, we have already fields are at times, feels the pressure of being the only programmer on the job,"}
+{"start": "01:02:14.000", "end": "01:02:34.000", "speaker": "None", "utterance": "and definitely someone who would prove some ideas or a helping hand, give a helping hand would be very welcome. Great, thank you very much. I'll be I'll be in touch with this, if you guys ever when you get it, you know, In the next few years, hopefully"}
+{"start": "01:02:34.000", "end": "01:02:39.000", "speaker": "None", "utterance": "we'll have the second Tuesday. Yellow salon going forever."}
+{"start": "01:02:39.000", "end": "01:02:42.000", "speaker": "None", "utterance": "If you want to demo it then."}
+{"start": "01:02:42.000", "end": "01:02:45.000", "speaker": "None", "utterance": "Feel free to get a spot, you know, just email me for that."}
+{"start": "01:02:45.000", "end": "01:02:47.000", "speaker": "None", "utterance": "Absolutely."}
+{"start": "01:02:47.000", "end": "01:02:53.000", "speaker": "None", "utterance": "We."}
+{"start": "01:02:53.000", "end": "01:02:56.000", "speaker": "None", "utterance": "It's amazing work that you're doing."}
+{"start": "01:02:56.000", "end": "01:03:07.000", "speaker": "None", "utterance": "Thank you. I have actually one questions for you. One question for you about the, The path, objects in storage space."}
+{"start": "01:03:07.000", "end": "01:03:17.000", "speaker": "None", "utterance": "This is something that has been used in in storage space one and in storage space to, there was, there wasn't an object."}
+{"start": "01:03:17.000", "end": "01:03:20.000", "speaker": "None", "utterance": "think path right."}
+{"start": "01:03:20.000", "end": "01:03:42.000", "speaker": "None", "utterance": "Apart from link title, there was a category of links that you could actually subscribe to or name that link that you are creating or, or put it under the umbrella of a specific path."}
+{"start": "01:03:42.000", "end": "01:03:48.000", "speaker": "None", "utterance": "Yeah, I actually never used, I don't think I ever used that tool particularly."}
+{"start": "01:03:48.000", "end": "01:03:52.000", "speaker": "None", "utterance": "And this is something I gave up on."}
+{"start": "01:03:52.000", "end": "01:04:02.000", "speaker": "None", "utterance": "But you know who did do it. Bill Bligh build lie use that object for me to send you got to get in touch with him."}
+{"start": "01:04:02.000", "end": "01:04:06.000", "speaker": "None", "utterance": "Exactly, yes"}
+{"start": "01:04:06.000", "end": "01:04:10.000", "speaker": "None", "utterance": "yeah oh yeah he was talking to me about that one time."}
+{"start": "01:04:10.000", "end": "01:04:24.000", "speaker": "None", "utterance": "So use that object to distinguish between the characters, and if you had read a juris path, then use that objects that you could get on to the ancients."}
+{"start": "01:04:24.000", "end": "01:04:31.000", "speaker": "None", "utterance": "Yeah, I'm giving you a very smothered recollections so please get directly with Bill he's wonderful."}
+{"start": "01:04:31.000", "end": "01:04:47.000", "speaker": "None", "utterance": "Thank you. Thank you. That's a very, very good. Good idea, because we are thinking about recreating the box, but I still did not have any idea how to start but be wills work would have been a great, great thing."}
+{"start": "01:04:47.000", "end": "01:05:00.000", "speaker": "None", "utterance": "Yeah, he you know he's got we descend completely in tinderbox, as well as on the web, man he is going to kill you guys because he could have saved himself a lot of work."}
+{"start": "01:05:00.000", "end": "01:05:02.000", "speaker": "None", "utterance": "Yes."}
+{"start": "01:05:02.000", "end": "01:05:08.000", "speaker": "None", "utterance": "I'll be in touch with me then. Thank you, but"}
+{"start": "01:05:08.000", "end": "01:05:24.000", "speaker": "None", "utterance": "he had to tediously do that all by hand."}
