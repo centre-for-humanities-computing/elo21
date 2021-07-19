@@ -4,7 +4,6 @@ tqdm
 ndjson
 gensim
 argparse
-webvtt-py
 pdfminer
 nltk
 spacy
